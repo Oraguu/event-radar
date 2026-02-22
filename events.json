@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-02-22T02:45:58.086252",
-  "event_count": 98,
+  "scraped_at": "2026-02-22T10:18:42.498273",
+  "event_count": 103,
   "events": [
     {
       "date": "2026-02-22",
@@ -484,6 +484,46 @@
     },
     {
       "date": "2026-02-27",
+      "title": " Asia's Green Revolutions: Case Studies from China and India",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Seminar on Environmental and Agricultural History (SEAH) presents Asia's Green Revolutions: Case Studies from China and India. Invited Speakers: Micah Muscolino, Professor and Paul G. Pickowicz Endowed Chair in Modern Chinese History at the University of California at San Diego Sigrid Schmalzer, Pro",
+      "link": "https://calendar.mit.edu/event/asias-green-revolutions-case-studies-from-china-and-india",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Daniil Klyuev (Northwestern University) Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-1169",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Panel Discussion: How AI is Impacting Journalism, Free Speech, and Public Discourse",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join us for a discussion on how AI is impacting the way news is reported and disseminated, the way we learn and communicate, and how this is impacting free speech and democracy. The discussion will feature journalists who are examining more ethical ways to report on and use AI, an MIT Media Lab rese",
+      "link": "https://calendar.mit.edu/event/panel-discussion-how-ai-is-impacting-journalism-free-speech-and-public-discourse",
+      "time": "TBD",
+      "location": "Building E38 (MIT Welcome Center)"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Coded Bias: 5th Anniversary Virtual Finale Event",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "2025 marked the 5-year anniversary of Coded Bias, which premiered at Sundance in January 2020. The documentary sheds light on critical flaws in AI systems that threaten democracy and our basic rights, telling the story of Dr. Joy Buolamwini, who uncovered biases in these systems while at MIT and sub",
+      "link": "https://calendar.mit.edu/event/copy-of-coded-bias-5th-anniversary-virtual-finale-event",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-27",
       "title": "Open Sports Data & Analytics Conference + Hackathon",
       "source": "Northeastern",
       "tag": "talk",
@@ -501,6 +541,16 @@
       "link": "https://events.seas.harvard.edu/event/near-zero-index-optics",
       "time": "TBD",
       "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "MIT Sloan Africa Innovate Conference",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "The Africa Innovate Conference (AIC) is the flagship event of the MIT Sloan Africa Business Club, bringing together over 250 entrepreneurs, innovators, investors, policymakers, and industry leaders from around the world. Hosted by MIT Sloan students, AIC fosters networking, learning, and collaborati",
+      "link": "https://calendar.mit.edu/event/mit-sloan-africa-innovate-conference-140",
+      "time": "TBD",
+      "location": "Building E51"
     },
     {
       "date": "2026-02-28",
