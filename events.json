@@ -1,7 +1,677 @@
 {
-  "scraped_at": "2026-02-21T20:57:57.641106",
-  "event_count": 11,
+  "scraped_at": "2026-02-22T02:45:58.086252",
+  "event_count": 98,
   "events": [
+    {
+      "date": "2026-02-22",
+      "title": "MIT Voxel Lab Presents: Live from the Lab (MITxBerklee Showcase Series)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for Live from the Lab, a new student performance showcase series highlighting student talent at MIT & Berklee College of Music! The Voxel Lab is excited to host Live from the Lab, a performance series featuring studio-style sets by MIT and Berklee student artists. This series brings together",
+      "link": "https://calendar.mit.edu/event/mit-voxel-lab-presents-live-from-the-lab-showcase-series-9933",
+      "time": "TBD",
+      "location": "Building E38"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "CEE Annual Research Day: Risk, Uncertainty, and Resilience | Designing for Low-Regret Futures across CEE",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Civil and Environmental Engineering Department at MIT will be hosting the 14th Annual Research Day event on Monday, February 23. The topic of this year’s event is Risk, Uncertainty, and Resilience: Designing for Low-Regret Futures across CEE, hosted by Associate Professor Otto Cordero and Assist",
+      "link": "https://calendar.mit.edu/event/cee-annual-research-day-2026",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Controlling the direction of light emission in anisotropic perovskite nanoparticles using alignment, fusing, and surface interactions",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "Join MIT.nano for our February seminar! Carissa Eisler Assistant Professor in Chemical Engineering and Bimolecular Engineering University of California Los Angeles Date: February 23, 2026 Time: 3:00 – 4:00 PM ET Location: Grier 34-401A Reception to follow. Register for this talk ABSTRACT Next genera",
+      "link": "https://calendar.mit.edu/event/controlling-the-direction-of-light-emission-in-anisotropic-perovskite-nanoparticles-using-alignment-fusing-and-surface-interactions",
+      "time": "TBD",
+      "location": "Building 34"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "International/Trade Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "\"Tariffs and State Capacity: A Specific Example” | Martin Rotemberg (NYU)",
+      "link": "https://calendar.mit.edu/event/copy-of-internationaltrade-seminar-5187",
+      "time": "TBD",
+      "location": "Harvard Littauer M-16"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "CANCELLED:       Broad-MIT Seminar (Matthew David Disney, Scripps Institute)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "CANCELLED DUE TO THE IMPENDING STORM",
+      "link": "https://calendar.mit.edu/event/broad-mit-seminar-matthew-david-disney-scripps-institute",
+      "time": "TBD",
+      "location": "Broad Institute Auditorium"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Algebraic Topology Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Alexander Petrov (MIT) Title: Galois action on higher etale homotopy groups Abstract: Given a complex algebraic variety, profinite completion of its homotopy type can be recovered in purely algebraic terms as its etale homotopy type. In particular, if the variety was defined over a subfield",
+      "link": "https://calendar.mit.edu/event/algebraic-topology-seminar-9231",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "IO Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "“Missing Markets for Innovation: Evidence from New Uses for Existing Drugs\" (with Maya M. Durvasula, Benjamin N. Roin & Heidi L. Williams) | Eric Budish (Chicago Booth)",
+      "link": "https://calendar.mit.edu/event/io-seminar-8191",
+      "time": "TBD",
+      "location": "Harvard Littauer"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "COE PhD Research Expo",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The College of Engineering is excited to announce the eighth annual COE PhD Research Expo, and we invite all COE students to submit a poster abstract. The expo is a wonderful opportunity […] The post COE PhD Research Expo appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/coe-phd-research-expo-3307",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Fusion Book Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join the Fusion Book Club on Monday, February 23rd at 4:30pm (ET) in Snell Library (SL-215A) or online via Teams. We’ll start with an open discussion about reading recommendations, then discuss […] The post Fusion Book Club appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/fusion-book-club-1085",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "CSAIL Forum with Pulkit Agrawal: Force Intelligence: The Missing Ingredient for Scalable Real-World Autonomy",
+      "source": "MIT",
+      "tag": "robotics",
+      "desc": "Registration required: https://mit.zoom.us/meeting/register/si0wor7ARw-xTSU3tohTsg Abstract: Robots that operate reliably in the real world must reason about forces, not just positions. I will present a robotics architecture designed around force intelligence—the ability to decide when, where, and h",
+      "link": "https://calendar.mit.edu/event/csail-forum-with-pulkit-agrawal-force-intelligence-the-missing-ingredient-for-scalable-real-world-autonomy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Online Seminar On Undergraduate Mathematics Education",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speakers: Anton Lukyanenko (George Mason) Title: From students to researchers and communicators:experimental geometry lab and in-class active learning Abstract: The Mason Experimental Geometry lab is the cornerstone of the mathematics outreach and undergraduate research efforts at George Mason Unive",
+      "link": "https://calendar.mit.edu/event/online-seminar-on-undergraduate-mathematics-education",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Organizational Economics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "\"Gender Differences in the Response to Incentives: Evidence from Adademia\" | Erina Ytsma (CMU)",
+      "link": "https://calendar.mit.edu/event/ytsma_oesem",
+      "time": "TBD",
+      "location": "Building E62"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Physical Mathematics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Irmgard Bischofberger (MIT) Title: Fractured Flows: Suspensions Pushed Too Far Abstract: Particle suspensions can fracture into intricate patterns as they are pushed out of equilibrium. We probe the fracture and relaxation characteristics of dense aqueous cornstarch suspensions that exhibit",
+      "link": "https://calendar.mit.edu/event/physical-mathematics-seminar-Irmgard-Bischofberger",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Harvard–MIT Algebraic Geometry Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Scott Mullane (University of Melbourne) Title: Isoresidual fibrations and the moduli space of pointed rational curves Abstract: After surveying the results of the last 20 years on the structure of effective divisors on $\\overline{M}_{0,n}$, we show that the pseudo-effective cone of divisors",
+      "link": "https://calendar.mit.edu/event/harvardmit-algebraic-geometry-seminar-Scott-Mullane",
+      "time": "TBD",
+      "location": "Harvard Science Center"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "PDE/Analysis Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 3:00 PM - 4:00 PM Speakers: Hezekiah Grayer (Princeton University) Title: Radiative Vlasov-Maxwell Equations Abstract: The Radiative Vlasov-Maxwell equations model the radiative kinetics of collisionless relativistic plasma. In them the Lorentz force is modified by the addition of radiation re",
+      "link": "https://calendar.mit.edu/event/pdeanalysis-seminar-Hezekiah-Grayer",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "2026 Killian Award Lecture: Professor Dimitris Bertsimas SM ’87 PhD ’88",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "2026 James R. Killian, Jr. Award and Lecture Series by: Professor Dimitris Bertsimas SM ’87 PhD ’88 Vice Provost for Open Learning Associate Dean, Online Education & Artificial Intelligence Algorithms for Life: AI and Operations Research Transforming Healthcare, Education, and Agriculture For over f",
+      "link": "https://calendar.mit.edu/event/2026-killian-award-lecture",
+      "time": "TBD",
+      "location": "Huntington Hall (10-250)"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Biology Colloquium",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Speaker: Shruti Naik, Mount Sinai School of Medicine Host: The Chipperfield Committee Title: \"Mechanisms of Tissue Adaptation and Maladaptation\" The Biology Colloquium is a weekly seminar held throughout the academic year — featuring distinguished speakers in many areas of the biological sciences fr",
+      "link": "https://calendar.mit.edu/event/copy-of-biology-colloquium-4260",
+      "time": "TBD",
+      "location": "Stata, Kirsch auditorium, 32-123"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Physical Chemistry Seminar | Rommie Amaro (University of California, San Diego)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/physical-chemistry-seminar-rommie-amaro-university-of-california-san-diego",
+      "time": "TBD",
+      "location": "Room 6-120"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Number Theory Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Gaëtan Chenevier (ENS PSL) Title: Unimodular lattices of rank 29 and applications Abstract: I will explain the recent classification of rank 29 unimodular Euclidean integral lattices and discuss some applications to modular forms for GL_n(Z). Joint work with Olivier Taïbi.",
+      "link": "https://calendar.mit.edu/event/number-theory-seminar-Gaetan-Chenevier",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "MIT Music Tech Speaker Series Presents: Psyche Loui",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Thirteen Notes to Musical Fluency: How Brains Learn the Impossible This talk explores how brains learn unfamiliar musical structures using the Bohlen-Pierce scale—a tritave-based tuning system—as a culturally neutral research paradigm. By studying learners , this work reveals fundamental mechanisms ",
+      "link": "https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-psyche-loui",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Ancient & Medieval Studies Colloquium presents, Matthew Gabriele \"Inside Angelbert was Two Wolves, Both Feasting on an Early Medieval Empire: Fontenoy, 841\"",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by Matthew Gabriele, Professor of Medieval Studies Department of Religion & Culture, Virginia Tech Abstract: At the end of the 8th century, the Franks under their new Carolingian kings built an empire that spanned Europe and inspired the respect of both emperor(s) in Byzantium and caliphs ",
+      "link": "https://calendar.mit.edu/event/AMS-presents-matthew-gabriele-inside-angelbert-was-two-wolves-both-feasting-on-an-early-medieval-empire-fontenoy-841",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "National Engineers Week: Graduate Engineering Programs Overview",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The College of Engineering invites you to join us in celebrating National Engineers Week, taking place February 23–28, 2026. To kick off the celebration, the Graduate School of Engineering is […] The post National Engineers Week: Graduate Engineering Programs Overview appeared first on Northeastern ",
+      "link": "https://calendar.northeastern.edu/event/national-engineers-week-graduate-engineering-programs-overview",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join our Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northeastern Un",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-2658",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "CV/LinkedIn/Resume CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Graduate students, do you need to increase your on-line presence or update your CV or Resume? Join the CommLab’s LinkedIn, CV, and Resume drop-in hours any Tuesday from 11 am […] The post CV/LinkedIn/Resume CommLab Drop-In Hours appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/cvlinkedinresume-commlab-drop-in-hours-5587",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Digital Twins for Printed Electronics: How Can AI Learn FHE Printing",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Benyamin Davaji, Assistant Professor in the College of Engineering, alongside Haiyang Yun, Senior PhD Student, will instruct a professional course titled “Digital Twins for Printed Electronics: How Can AI Learn FHE Printing” on February […] The post Digital Twins for Printed Electronics: How Can AI ",
+      "link": "https://calendar.northeastern.edu/event/digital-twins-for-printed-electronics-how-can-ai-learn-fhe-printing",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-25",
+      "title": " Age of Deception: Cybersecurity as Secret Statecraft",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Professor Jon R. Lindsay, from the Georgia Institute of Technology, will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: In this seminar, Professor Lindsay will discuss his new book, Age of Deception: Cybersecurity as Secret Statecraft, which explores the dimens",
+      "link": "https://calendar.mit.edu/event/age-of-deception-cybersecurity-as-secret-statecraft",
+      "time": "TBD",
+      "location": "Building E40"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Writing Together In-person Retreat",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "If you need extra time to work on your writing projects this spring, join these in-person Writing Together Retreats. Writing can feel different and more focused when we gather in the same space to work. Each retreat includes guided goal setting, focused writing time, and the support of a shared writ",
+      "link": "https://calendar.mit.edu/event/copy-of-writing-together-in-person-writing-retreat",
+      "time": "TBD",
+      "location": "Building E19"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "drones",
+      "desc": "Speaker: Andrei Ionov (University of Texas at Austin) Title: Localization to fixed points of a cyclic group, quasi-split unequal parameter Hecke categories and base change lifting Abstract: Smith-Treumann localization to the fixed points of a cyclic group action has proven to be a powerful tool in r",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar-4705",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Colin Defant (Harvard) Title: Braid Group Presentations and Triangulations of the Permutahedron Abstract: For each finite Coxeter group W and each standard Coxeter element of W, we construct a regular triangulation of the W-permutahedron. Our proof relies on the theory of total linear stabi",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-5773",
+      "time": "TBD",
+      "location": "Harvard Science Center Hall E"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "National Engineers Week: Women in Engineering Webinar",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The College of Engineering invites you to join us in celebrating National Engineers Week, taking place February 23–28, 2026. To kick off the celebration, the Graduate School of Engineering is […] The post National Engineers Week: Women in Engineering Webinar appeared first on Northeastern University",
+      "link": "https://calendar.northeastern.edu/event/national-engineers-week-women-in-engineering-webinar",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Intro to Quantum Seminar for the Northeastern Community",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Spring 2026, West Village H Room 366, Fridays 10-11am, Weekly Gregory A. Fiete, Professor of Physics, College of Science, Northeastern University Purpose and Synopsis: Curious about quantum physics but not […] The post Intro to Quantum Seminar for the Northeastern Community appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/intro-to-quantum-seminar-for-the-northeastern-community-4657",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-25",
+      "title": "SENTRY Strategic Initiatives Virtual Workshop",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join us in a virtual discussion of best practices and evolving efforts to preserve and protect our national imperative to conduct safe and secure gatherings in public spaces. We are engaging speakers from academia, government, industry and public venue spaces to review successes, current research an",
+      "link": "https://calendar.northeastern.edu/event/sentry-strategic-initiatives-virtual-workshop",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Fireside Chat with Dr. Kimberly Budil, Lawrence Livermore Lab Director",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Leading scientific innovation: A fireside chat with Dr. Kimberly Budil Part of the Russell Women in Science Leadership lecture series In Pacific Time: 4:30-5:30 Reception at Lisser Hall on the Oakland campus 5:30-6:30 Lecture, available via livestream Be our guest on the Oakland campus or online to ",
+      "link": "https://calendar.northeastern.edu/event/fireside-chat-with-dr-kimberly-budil-lawrence-livermore-lab-director",
+      "time": "TBD",
+      "location": "Lisser Hall"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Venturing@Harvard - Cross University Mixer",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Are you making the most of this awesome city? With 74 universities and nearly 250,000 college students, Boston’s unique student economy is the engine that drives innovation. This is your chance to connect with other innovators eager to change the world, meet potential cofounders or team members, and",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-cross-university-mixer",
+      "time": "TBD",
+      "location": "i-lab Lobby"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "MIT Sloan Healthcare and BioInnovations Conference (SHBC) & Prize Competition (SHIP)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for the 24th annual MIT Sloan Healthcare and BioInnovations Conference (SHBC) and the Sloan Healthcare Innovations Prize competition (SHIP) on February 26- 27, 2026 at the MIT Media Lab!",
+      "link": "https://calendar.mit.edu/event/mit-sloan-healthcare-and-bioinnovations-conference-shbc-prize-competition-ship",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "WGS Luncheon",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join us in exploring the intersections and impact of AI, Health, and Gender! The Pulse of Ethical Machine Learning in Health (Dr. Marzyeh Ghassemi ) Machine learning in health has made impressive progress in recent years, powered by an increasing availability of health-related data and high-capacity",
+      "link": "https://calendar.mit.edu/event/wgs-luncheon",
+      "time": "TBD",
+      "location": "building 14E"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Colloquium on the Brain and Cognition with Roland Fleming",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Talk Title: Learning to See Stuff Abstract: Every time we open our eyes, we gain access to a rich world of visual experiences. Without having to reach out and touch our surroundings, we can make detailed judgments about the physical properties of objects and materials. How does the brain achieve thi",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-roland-flemming",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Organic Chemistry Seminar Series | Richard Liu (Harvard University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "https://www.liu-group.org/richard",
+      "link": "https://calendar.mit.edu/event/organic-chemistry-seminar-series-richard-liu-harvard-university",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Environmental and Energy Economics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "\"Just Economics: A better deal for people and planet\" (with Abhijit Banerjee) | Esther Duflo (MIT)",
+      "link": "https://calendar.mit.edu/event/copy-of-environmental-and-energy-economics-seminar-1183",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Symplectic Seminar  ",
+      "source": "MIT",
+      "tag": "drones",
+      "desc": "Speaker: Shaoyun Bai (MIT) Title: Quantum Adams operations from quasimaps Abstract: There have been intensive activities concerning quantum Steenrod operations recently. In this talk, I will discuss the K-theoretic counterpart of quantum deformations of cohomological power operations in the setting ",
+      "link": "https://calendar.mit.edu/event/symplectic-seminar123",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Connect at the List: Graduate Art Students",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Join us at the MIT List Visual Arts Center for a unique chance to connect with other Boston area graduate art students and emerging artists. For this special networking event, the List Center invites Boston’s area graduate art students, recent grads, and emerging artists to come together and create ",
+      "link": "https://calendar.mit.edu/event/connect-at-the-list-graduate-art-students-4522",
+      "time": "TBD",
+      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Rowan University Graduate School Fair",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join COE Graduate Admissions at the 2026 Rowan University Graduate School Fair in Glassboro, New Jersey! Ask your questions about our graduate engineering programs across the U.S. and Canada during […] The post Rowan University Graduate School Fair appeared first on Northeastern University College o",
+      "link": "https://calendar.northeastern.edu/event/rowan-university-graduate-school-fair",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-26",
+      "title": "How Do Simple Rotations Affect the Implicit Bias of Adam?",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Widely Applied Mathematics Seminar Thursday, February 26 | 3 - 4pm Maxwell Dworkin 119 \"How Do Simple Rotations Affect the Implicit Bias of Adam?\" Speaker: Professor Becca Willett Professor of Statistics and Computer Science & Director of AI in the Data Science Institute, University of Chicago Abstr",
+      "link": "https://events.seas.harvard.edu/event/how-do-simple-rotations-affect-the-implicit-bias-of-adam",
+      "time": "TBD",
+      "location": "Maxwell Dworkin"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Explore Engineering Pathways",
+      "source": "Harvard SEAS",
+      "tag": "robotics",
+      "desc": "A Harvard engineering degree prepares you to pursue a career in fields as diverse as robotics, medical devices, automotive, aerospace, biotech, and energy. Attend this panel to hear from Harvard alums making an impact in the world by creating, building, and making things that matter. Panelists will ",
+      "link": "https://events.seas.harvard.edu/event/explore-engineering-pathways",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-27",
+      "title": "36 Hours Hackathon",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Build Something That Matters in 36 Hours This February, join some of the most driven builders at MIT for a 36-hour hackathon designed to turn ideas into reality. Whether you're pushing an existing startup forward or exploring a brand-new concept, this hackathon is engineered to help you make meaning",
+      "link": "https://calendar.mit.edu/event/36-hours-hackathon",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Men's Squash vs. CSA Team Championships",
+      "source": "MIT",
+      "tag": "drones",
+      "desc": "Time: Location: Philadelphia, PA / Arlen Specter US Squash Center",
+      "link": "https://calendar.mit.edu/event/mens-squash-vs-northeastern-university",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Chemistry Student Seminar (CSS) - Leon Jeckel (Peng)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
+      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Leon-Jeckel-Peng",
+      "time": "TBD",
+      "location": "4-370"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Michael Albergo (Harvard University)",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar27",
+      "time": "TBD",
+      "location": "Building E18"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Open Sports Data & Analytics Conference + Hackathon",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "A two day conference and hackathon event focused on open data in sports analytics, bringing together Northeastern students and sports industry experts from local clubs such as the Red Sox, Bruins, and Legacy. Hackathon contestants will present to a panel of judges from major league clubs and have th",
+      "link": "https://calendar.northeastern.edu/event/open-sports-data-analytics-conference-hackathon",
+      "time": "TBD",
+      "location": "Network Science Institute"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Near-Zero-Index Optics",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Harvard Electrical Engineering Seminar Thursday, February 27 | 1-2pm Pierce 209 \"Near-Zero-Index Optics\" Speaker: Nader Engheta H. Nedwill Ramsey Professor, University of Pennsylvania Abstract: Materials are often used to manipulate and control photons. Metamaterials -- judiciously engineered materi",
+      "link": "https://events.seas.harvard.edu/event/near-zero-index-optics",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-02-28",
+      "title": "Tough Tech Venturing Workshop",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Designed and delivered by HBS professors and serial tech entrepreneurs. Gain ideas and hands-on venturing skills to lift your research from lab-2-market. Absolutely no experience required. Limited capacity. Join the Harvard Grid and HBS faculty for a one-day bootcamp designed for science and enginee",
+      "link": "https://events.seas.harvard.edu/event/tough-tech-venturing-workshop",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Global Topics for Global Learners",
+      "source": "Northeastern",
+      "tag": "networking",
+      "desc": "Connect. Converse. Grow. Global Topics for Global Learners is your weekly space to connect across campuses and dive into meaningful global (and local!) conversations. Join students and staff online for engaging, facilitated discussions led by GLS Specialists — come curious, leave connected. Check ou",
+      "link": "https://calendar.northeastern.edu/event/global-topics-for-global-learners-6290",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Creating Efficient Copilot Agents",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Build personalized AI assistants for your Microsoft 365 environment in this hands-on session introducing Copilot Agents. Learn when to use prebuilt agents versus creating custom solutions, master agent building with tailored prompts, and develop a custom agent designed for your specific needs. Throu",
+      "link": "https://calendar.northeastern.edu/event/creating-efficient-copilot-agents",
+      "time": "TBD",
+      "location": "Snell Library"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Harvard Grid X Kempner Institute | Launching Your AI Venture",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Are you curious about the intersection of cutting-edge AI research and the dynamic world of start-ups? The Kempner Institute for the Study of Natural and Artificial Intelligence invites you to join us for an event in collaboration with the Harvard Grid and Harvard Office of Technology Development. T",
+      "link": "https://events.seas.harvard.edu/event/harvard-grid-x-kempner-institute-launching-your-ai-venture",
+      "time": "TBD",
+      "location": "Kempner Institute"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Reinventing Batteries  for a Sustainable Future",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Sustainable transportation, integration of renewable electricity into grids, and powering AI computing centers call for innovation of the next generation of batteries, which are energy-dense, durable, safe, and scalable. To address these opportunities, my lab has been conducting research over the pa",
+      "link": "https://events.seas.harvard.edu/event/reinventing-batteries-for-a-sustainable-future",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-10",
+      "title": "Northeastern University Graduate Fair ",
+      "source": "Northeastern",
+      "tag": "startup",
+      "desc": "Northeastern University Graduate Fair Spring 2026 Join us Date: Tuesday, March 10 Time: 10 a.m.–2 p.m. Where: Curry Student Center Ballroom • Connect with admissions counselors from all colleges to learn more about Northeastern graduate programs. • Learn how to unlock your Double Husky Scholarship a",
+      "link": "https://calendar.northeastern.edu/event/northeastern-university-graduate-fair-9068",
+      "time": "TBD",
+      "location": "Curry Student Center"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Building Effective Claude Projects",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Create persistent AI workspaces for ongoing tasks in this session exploring Claude Projects. Learn when to use projects over simple chats, build custom knowledge bases, and develop tailored instructions for consistent responses. Through hands-on practice, construct a project suited to your work and ",
+      "link": "https://calendar.northeastern.edu/event/building-effective-claude-projects",
+      "time": "TBD",
+      "location": "Snell Library"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Continuum Dynamics Drove a Revolution in Cardiovascular Sciences & Intervention",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Elazer R. Edelman (Professor in Medical Engineering and Science at MIT and Professor of Medicine at Harvard Medical School) Recent transformative advances in cardiovascular care are remarkable not only for their dramatic impact on mortality and morbidity, nor solely for the rapid expansion of techni",
+      "link": "https://events.seas.harvard.edu/event/continuum-dynamics-drove-a-revolution-in-cardiovascular-sciences-intervention",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "CS Colloquium Series - Angelia Nedich (ASU)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Angelia Nedich, Professor at Arizona State University Talk information TBA.",
+      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-angelia-nedich-asu",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Creating Visuals with AI",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Design eye-catching images in minutes using AI-powered generation tools in this introductory session. Learn how to transform ideas into visuals without advanced design skills, master the art of crafting effective prompts, and explore creative possibilities while using AI tools responsibly. Unlock a ",
+      "link": "https://calendar.northeastern.edu/event/creating-visuals-with-ai",
+      "time": "TBD",
+      "location": "Snell Library"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "The Gordon Institute: Virtual Information Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership through The Gordon Institute as a stand-alone certificate or in combination with one of 25+ Master of Science degrees […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University Colle",
+      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-4176",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-24",
+      "title": "AI for Text Analysis with Python Using BERT and TensorFlow ",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "March 24: 11am–1pm Boston / 8–10am Oakland / 3–5pm London, virtual Pre Workshop, March 23: 11am–12:30pm Boston / 8–9:30am Oakland / 3–4:30pm London, virtual Please join us on 3/24 at 11am–1pm Boston / 8–10am Oakland / 3–5pm London, for the workshop \"AI for Text Analysis with Python Using BERT and Te",
+      "link": "https://calendar.northeastern.edu/event/ai-for-text-analysis",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Let's Talk About \"Sinners\"",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Join the Africana Studies Program for a panel discussion with Professors Layla Brown and Korey Tillman as they discuss Ryan Coogler's summer hit film, Sinners.",
+      "link": "https://calendar.northeastern.edu/event/lets-talk-about-sinners",
+      "time": "TBD",
+      "location": "Cabral Center"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "CS Colloquium Series - Haoqi Zhang (Northwestern)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Haoqi Zhang, Associate Professor in Computer Science and Design at Northwestern University Talk information TBA.",
+      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-haoqi-zhang-northwestern",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Using AI Tools To Manage Your Personal & Professional Life",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "In a world where AI tools are becoming part of everyday work, how can leaders use them in practical, responsible ways to stay productive and focused? Gajen Kandiah, CEO of Rackspace Technology, will share how he uses AI to manage both his personal and professional life, offering real examples of how",
+      "link": "https://calendar.northeastern.edu/event/using-ai-tools-to-manage-your-personal-professional-life",
+      "time": "TBD",
+      "location": "450 Dodge"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "CS Colloquium Series - Ashia Wilson (MIT)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Ashia Wilson, Lister Brothers Career Development Assistant Professor, MIT Talk information TBA.",
+      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-ashia-wilson-mit",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "3D Printing Glaze Workshop with Yonatan Hopp",
+      "source": "Harvard SEAS",
+      "tag": "manufacturing",
+      "desc": "This workshop will explore printing glazes on ceramic tiles and slabs using the clay 3D printer. Working digitally, participants will convert images into vector files that can be run by the printer and then attempt to print them in one and two colors on ceramic tiles and slabs. This workshop is for ",
+      "link": "https://events.seas.harvard.edu/event/3d-printing-glaze-workshop-with-yonatan-hopp",
+      "time": "TBD",
+      "location": "Ceramics Program, Office for the Arts at Harvard"
+    },
     {
       "date": "2026-04-13",
       "title": "RAPID + TCT 2026",
@@ -25,6 +695,36 @@
       "pickNote": "Autonomy, AI, digital twins — directly relevant to your career path"
     },
     {
+      "date": "2026-04-16",
+      "title": "Academic Honors Convocation",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Each year, we celebrate Northeastern students and faculty who have demonstrated excellence in scholarship, research, or teaching. These honorees reflect Northeastern’s mission and highest ideals: a global university powered by experience, innovation, and partnership.",
+      "link": "https://calendar.northeastern.edu/event/academic-honors-convocation",
+      "time": "TBD",
+      "location": "Blackman Theater"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "CS Colloquium Series - Sushant Sachdeva (U Toronto)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Sushant Sachdeva, Associate Professor, University of Toronto Mississauga Talk information TBA.",
+      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-sushant-sachdeva-u-toronto",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-23",
+      "title": " CS Colloquium Series - Daron Acemoglu (MIT)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Daron Acemoglu, Institute Professor at MIT Talk information TBA.",
+      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-daron-acemoglu-mit",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-04-25",
       "title": "National Drone Safety Day",
       "source": "FAA",
@@ -34,6 +734,16 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "You have your Part 107. Show up, fly, network with commercial operators"
+    },
+    {
+      "date": "2026-04-29",
+      "title": "Harvard College FounderCrush 2026",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Celebrate student innovation at Harvard College’s premier founder showcase, an end-of-year event spotlighting student-led projects and creative ventures from across campus. This showcase features work developed by students in CE11: Studio Lab on Creativity and Entrepreneurship, H2A, MCB 102: Creativ",
+      "link": "https://events.seas.harvard.edu/event/harvard-college-foundercrush-2026",
+      "time": "TBD",
+      "location": "Student Organization Center at Hilles (SOCH)"
     },
     {
       "date": "2026-05-11",
@@ -116,6 +826,150 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "Deep tech founders and investors. The Engine was spun out of MIT"
+    },
+    {
+      "date": "TBD",
+      "title": "ML Tea: Discovering Hierarchical Software Engineering Agents via Bandit Optimization / Efficient and accurate steering of Large Language Models through attention-guided feature learning",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Talk 1: Iris Xu -&nbsp;Discovering Hierarchical Software Engineering Agents via Bandit OptimizationAbstract -&nbsp;Large language models (LLMs) have shown strong reasoning and coding capabilities, yet they struggle to generalize to real-world software engineering (SWE) problems that are long-horizon",
+      "link": "https://www.csail.mit.edu/event/ml-tea-discovering-hierarchical-software-engineering-agents-bandit-optimization-efficient-and",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Visual Computing Seminar: TBA",
+      "source": "MIT CSAIL",
+      "tag": "talk",
+      "desc": "Abstract:TBA",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-0",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "HCI Seminar - Andy Matuschak - Apps and programming: two accidental tyrannies",
+      "source": "MIT CSAIL",
+      "tag": "talk",
+      "desc": "Abstract:One of the personal computer revolution’s grandest dreams was that we'd all have not only our own computers, but that we’d also create our own dynamic media, exquisitely tuned to our own purposes. Instead, we got apps. We got one-size-fits-all silos, composable only where pre-specified.Mean",
+      "link": "https://www.csail.mit.edu/event/hci-seminar-andy-matuschak-apps-and-programming-two-accidental-tyrannies",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Interdiction problems and 2-person sequential games: beyond NP-completeness",
+      "source": "MIT CSAIL",
+      "tag": "talk",
+      "desc": "AbstractIn the Knapsack Problem (KP), a decision maker wants to select items of value V or more to put into a knapsack subject to a weight limit.&nbsp; In the Interdiction Knapsack Problem (IKP), an adversary can block K items from being selected.&nbsp; The adversary’s goal is to prevent the decisio",
+      "link": "https://www.csail.mit.edu/event/interdiction-problems-and-2-person-sequential-games-beyond-np-completeness",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Takeaways from Davos on AI Trends: world models, physical AI and autonomous warfare",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "32-G449 (Kiva) and online",
+      "link": "https://www.csail.mit.edu/event/takeaways-davos-ai-trends-world-models-physical-ai-and-autonomous-warfare",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Physical AI Working Group",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "AWS presentation on modern tools for robotics A team of AWS prototyping engineers will give a primer on: Foundation models for manipulation and end-to-end learning Refinement of models Data annotation […]",
+      "link": "https://www.massrobotics.org/event/physical-ai-working-group-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Foley Hoag Lunch & Learn – Deep Dive on SAFEs (Office Hours to follow)",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics Residents Only Lunch: 12-1 PM Office hours: 1-3 PM",
+      "link": "https://www.massrobotics.org/event/foley-hoag-lunch-learn-deep-dive-on-safes-office-hours-to-follow/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Igus Office Hours",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics Residents Only Learn about residents here",
+      "link": "https://www.massrobotics.org/event/igus-office-hours/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Physical AI Working group IN-PERSON @ MassRobotics",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Physical AI Working group IN-PERSON @ MassRobotics AWS Prototyping group will follow up its virtual tutorial session from January 29th with an in-person visit to MassRobotics. They will show AWS tools that […]",
+      "link": "https://www.massrobotics.org/event/physical-ai-working-group-in-person-massrobotics/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Resident Brunch at MassRobotics",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Resident Brunch at MassRobotics - MassRobotics Resident Only",
+      "link": "https://www.massrobotics.org/event/resident-brunch-at-massrobotics/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Discover How Physical AI is Transforming Industrial Automation",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join Universal Robots and NVIDIA on February 18, 2026, for a dynamic session featuring live demonstrations from industry innovators SICK and Inbolt. Physical AI is reshaping what’s possible in industrial […]",
+      "link": "https://www.massrobotics.org/event/discover-how-physical-ai-is-transforming-industrial-automation/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Global Robotics Frontiers An Intercontinental Dialogue on Future Robotics",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "What happens when you put the world’s brightest robotics minds from the US, UK, and Japan on one stage? You get a masterclass in the future of technology. Join us […]",
+      "link": "https://www.massrobotics.org/event/global-robotics-frontiers-an-intercontinental-dialogue-on-future-robotics/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Associated Network Sponsors Office Hours + Social",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics Residents Only. Learn about the Associated Network here",
+      "link": "https://www.massrobotics.org/event/associated-network-sponsors-office-hours-social-csc-leasing-cla-social/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Deep Tech New York Conference",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/deep-tech-new-york-conference/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MD&M West",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/mdm-west/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Jumpstart Industry Visits 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/jumpstart-industry-visits-2026/",
+      "time": "TBD"
     }
   ],
   "recurring": [
