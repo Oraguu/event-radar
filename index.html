@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Event Radar — Boston</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0f1419;font-family:'DM Sans','Segoe UI',sans-serif;color:#e8e6e3;min-height:100vh;overflow-y:scroll}
+::-webkit-scrollbar{width:6px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:#333;border-radius:3px}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
+@keyframes spin{to{transform:rotate(360deg)}}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:900px;margin:0 auto;padding:0 24px}
+.header{padding:32px 24px 20px;border-bottom:1px solid #262b36;background:linear-gradient(180deg,rgba(42,157,143,.08),transparent)}
+.mono{font-family:'Space Mono',monospace}
+.pill{padding:5px 14px;border-radius:20px;font-size:12px;font-weight:600;cursor:pointer;border:1.5px solid #333;background:transparent;color:#555;font-family:'DM Sans',sans-serif}
+.tag{font-size:10px;padding:2px 8px;border-radius:10px;font-weight:600;display:inline-block}
+.card{padding:14px 16px;border-radius:10px;border:1px solid #1e222c;background:#161a24;cursor:pointer;animation:fadeIn .3s ease both;transition:border-color .2s}
+.card:hover{border-color:#2a9d8f44}
+.rec-card{padding:14px 16px;border-radius:10px;border:1px solid #262b36;background:#161a24;display:block;animation:fadeIn .3s ease both;transition:all .2s}
+.rec-card:hover{border-color:#f4a26144;background:#1c2030}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:10px}
+.sl{font-family:'Space Mono',monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#4a4e58;padding:8px 0;border-bottom:1px solid #1e222c;margin-bottom:12px}
+.slink{font-size:11px;padding:5px 12px;border-radius:20px;border:1px solid #262b36;background:#161a24;color:#666;font-weight:500;display:inline-block;margin:3px;transition:all .2s}
+.slink:hover{color:#2a9d8f;border-color:#2a9d8f44}
+.pn{font-size:11px;color:#f4a261;line-height:1.5;font-style:italic}
+.hidden{display:none}
+</style>
+</head>
+<body>
+<div id="loading" style="display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;gap:16px">
+<div style="width:24px;height:24px;border:2px solid #2a9d8f;border-top-color:transparent;border-radius:50%;animation:spin 1s linear infinite"></div>
+<div class="mono" style="color:#555;font-size:13px">Loading events...</div>
+</div>
+<div id="app" class="hidden">
+<div class="header"><div class="wrap">
+<div style="display:flex;align-items:center;gap:12px;margin-bottom:4px">
+<div style="width:10px;height:10px;border-radius:50%;background:#2a9d8f;box-shadow:0 0 12px #2a9d8f88;animation:pulse 2s ease-in-out infinite"></div>
+<span class="mono" style="font-size:11px;letter-spacing:3px;text-transform:uppercase;color:#2a9d8f">LIVE · BOSTON AREA</span>
+</div>
+<h1 class="mono" style="font-size:28px;font-weight:700;letter-spacing:-.5px;color:#f0efed;margin:8px 0 4px">Event Radar</h1>
+<p style="font-size:13px;color:#7a7d85">MIT · Harvard · Northeastern · BU · Meetups · Startups <span id="upd" style="margin-left:12px;font-size:11px;color:#444"></span></p>
+</div></div>
+<div class="wrap">
+<div style="display:flex;flex-wrap:wrap;gap:8px;padding:20px 0 12px;align-items:center;justify-content:space-between">
+<div id="tf" style="display:flex;flex-wrap:wrap;gap:6px"></div>
+<div style="display:flex;gap:6px;align-items:center">
+<button id="bp" class="pill" style="font-size:11px">Show past</button>
+<div style="display:flex;border-radius:20px;overflow:hidden;border:1.5px solid #333">
+<button class="vb pill" data-v="picks" style="border:none;border-radius:0">⭐ Picks</button>
+<button class="vb pill" data-v="list" style="border:none;border-radius:0;border-left:1px solid #333">List</button>
+<button class="vb pill" data-v="calendar" style="border:none;border-radius:0;border-left:1px solid #333">Calendar</button>
+</div></div></div>
+<button id="rt" style="width:100%;padding:14px 18px;border-radius:12px;border:1px solid #262b36;background:#161a24;color:#aaa;font-size:13px;font-weight:500;cursor:pointer;display:flex;align-items:center;justify-content:space-between;font-family:'DM Sans',sans-serif;margin-bottom:16px">
+<span>↻ Recurring Series (<span id="rc">0</span>)</span><span id="ra" style="font-size:18px;transition:transform .2s">⌄</span></button>
+<div id="rs" class="grid hidden" style="margin-bottom:20px"></div>
+<div id="vp"></div><div id="vl" class="hidden"></div><div id="vc" class="hidden"></div>
+<div style="margin-top:32px;padding:20px 0 40px;border-top:1px solid #1e222c">
+<div class="sl">SOURCE CALENDARS</div><div id="sl"></div>
+</div></div></div>
+<div id="err" class="hidden" style="display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;gap:8px">
+<p style="color:#e63946;font-family:monospace;font-size:16px">Failed to load events</p>
+<p id="em" style="color:#666;font-size:13px"></p>
+<p style="color:#555;font-size:12px;margin-top:12px">Make sure events.json exists next to index.html</p>
+</div>
+<script>
+var TAG={robotics:{l:"Robotics",c:"#e63946"},ai:{l:"AI / ML",c:"#457b9d"},startup:{l:"Startup",c:"#e76f51"},networking:{l:"Networking",c:"#2a9d8f"},drones:{l:"Drones / UAV",c:"#f4a261"},manufacturing:{l:"Manufacturing",c:"#8ecae6"},talk:{l:"Talk",c:"#6c567b"}};
+var SC={"MIT CSAIL":"#a4133c","MIT":"#a4133c","MIT Sloan":"#a4133c","MIT Media Lab":"#a4133c","Harvard":"#c9102f","Harvard i-lab":"#c9102f","Harvard/MIT":"#8b1a2b","Harvard GSD":"#c9102f","Harvard SEAS":"#c9102f","BU":"#cc0000","BU-based":"#cc0000","Northeastern":"#d41b2c","MassRobotics":"#1d3557","Meetup":"#00897b","Community":"#5a6c3e","Conference":"#6d597a","AUVSI":"#264653","FAA":"#264653","Event":"#bc6c25","Greentown Labs":"#588157","The Engine":"#264653","Makerspace":"#bc6c25","Venture Cafe":"#00897b"};
+var MO=["January","February","March","April","May","June","July","August","September","October","November","December"];
+var DY=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+var D,at=new Set(Object.keys(TAG)),cv="picks",sp=false,sr=false,cm=new Date().getMonth();
+
+function pd(s){var p=s.split("-");return new Date(+p[0],p[1]-1,+p[2])}
+function iT(s){if(s==="TBD")return false;var t=new Date(),d=pd(s);return d.getFullYear()===t.getFullYear()&&d.getMonth()===t.getMonth()&&d.getDate()===t.getDate()}
+function iW(s){if(s==="TBD")return false;var t=new Date(),d=pd(s),a=new Date(t);a.setDate(t.getDate()-t.getDay());var b=new Date(a);b.setDate(a.getDate()+6);return d>=a&&d<=b}
+function iP(s){if(s==="TBD")return false;var t=new Date();t.setHours(0,0,0,0);return pd(s)<t}
+function h(s){var d=document.createElement("div");d.textContent=s||"";return d.innerHTML}
+
+function ec(e,i,pk){
+  var today=iT(e.date),wk=iW(e.date)&&!today,past=iP(e.date);
+  var c=TAG[e.tag]||{c:"#666",l:"Other"},ac=pk?"#f4a261":"#2a9d8f";
+  var dh=e.date!=="TBD"?'<div style="min-width:48px;text-align:center;padding-top:2px"><div class="mono" style="font-size:20px;font-weight:700;color:'+(today?ac:past?"#444":"#888")+';line-height:1">'+pd(e.date).getDate()+'</div><div style="font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:1px;color:'+(today?ac+"88":"#444")+'">'+DY[pd(e.date).getDay()]+'</div><div style="font-size:9px;color:#444;margin-top:2px">'+MO[pd(e.date).getMonth()].slice(0,3)+'</div></div>':"";
+  var tb=today?'<span class="tag" style="background:'+ac+'33;color:'+ac+';font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase">TODAY</span>':"";
+  var wb=wk?'<span class="tag" style="background:#e7651133;color:#e76f51;font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase">THIS WEEK</span>':"";
+  var pn=pk&&e.pickNote?'<div class="pn">\u2192 '+h(e.pickNote)+'</div>':"";
+  return '<div class="card" style="border-color:'+(today?ac+"44":"#1e222c")+";background:"+(today?ac+"08":past?"#12141a":"#161a24")+";opacity:"+(past?.5:1)+";animation-delay:"+i*30+'ms" onclick="this.querySelector(\'.xc\').classList.toggle(\'hidden\')"><div style="display:flex;align-items:flex-start;gap:14px">'+dh+'<div style="flex:1;min-width:0"><div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:4px"><span style="font-size:14px;font-weight:600;color:'+(past?"#666":"#e0deda")+';line-height:1.3">'+h(e.title)+"</span>"+tb+wb+"</div>"+pn+'<div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap"><span class="tag" style="background:'+c.c+'18;color:'+c.c+'">'+h(c.l)+'</span><span class="tag" style="background:'+(SC[e.source]||"#555")+'18;color:'+(SC[e.source]||"#777")+'">'+h(e.source)+'</span><span style="font-size:11px;color:#555">'+h(e.time||"")+'</span></div><div class="xc hidden" style="margin-top:10px">'+(e.desc?'<p style="font-size:12px;color:#888;line-height:1.6;margin-bottom:10px">'+h(e.desc)+"</p>":"")+(e.location?'<p style="font-size:11px;color:#666;margin-bottom:8px">\uD83D\uDCCD '+h(e.location)+"</p>":"")+'<a href="'+h(e.link||"#")+'" target="_blank" style="font-size:11px;color:#2a9d8f;font-weight:600" onclick="event.stopPropagation()">Open event page \u2192</a></div></div></div></div>';
+}
+
+function rc(e,i){
+  var c=TAG[e.tag]||{c:"#666"},s=SC[e.source]||"#555";
+  return '<a href="'+h(e.link||"#")+'" target="_blank" class="rec-card" style="animation-delay:'+i*40+'ms"><div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:6px"><span style="font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:1px;color:'+c.c+'">'+h(e.freq)+'</span><span class="tag" style="background:'+s+'22;color:'+s+'">'+h(e.source)+'</span></div><div style="font-size:13px;font-weight:600;color:#e0deda;line-height:1.3;margin-bottom:4px">'+h(e.title)+"</div>"+(e.pick&&e.pickNote?'<div class="pn" style="margin-bottom:4px">\u2192 '+h(e.pickNote)+"</div>":"")+'<div style="font-size:11px;color:#555;line-height:1.4">'+h(e.desc)+"</div></a>";
+}
+
+function gf(){var f=D.events.filter(function(e){return at.has(e.tag)});if(!sp)f=f.filter(function(e){return e.date==="TBD"||!iP(e.date)});return f.sort(function(a,b){return(a.date||"9999").localeCompare(b.date||"9999")})}
+function gr(){return D.recurring.filter(function(e){return at.has(e.tag)})}
+function gp(){var f=D.events.filter(function(e){return e.pick});if(!sp)f=f.filter(function(e){return e.date==="TBD"||!iP(e.date)});return f.sort(function(a,b){return(a.date||"9999").localeCompare(b.date||"9999")})}
+function gpr(){return D.recurring.filter(function(e){return e.pick})}
+
+function ra(){
+  var tf=document.getElementById("tf");
+  tf.innerHTML=Object.keys(TAG).map(function(k){var v=TAG[k];return '<button class="pill" style="'+(at.has(k)?"border-color:"+v.c+";background:"+v.c+"18;color:"+v.c:"")+'\" data-t="'+k+'">'+v.l+"</button>"}).join("");
+  tf.querySelectorAll("button").forEach(function(b){b.onclick=function(){var t=b.dataset.t;if(at.has(t))at.delete(t);else at.add(t);ra()}});
+  var rec=gr();document.getElementById("rc").textContent=rec.length;
+  document.getElementById("rs").innerHTML=rec.map(rc).join("");
+  if(cv==="picks"){var pk=gp(),pr=gpr();document.getElementById("vp").innerHTML='<div style="padding:16px 18px;border-radius:12px;border:1px solid #f4a26133;background:linear-gradient(135deg,#f4a26108,#e76f5108);margin-bottom:20px"><div style="display:flex;align-items:center;gap:8px;margin-bottom:6px"><span style="font-size:18px">\u2B50</span><span class="mono" style="font-size:14px;font-weight:700;color:#f4a261">Picks for Alex</span></div><p style="font-size:12px;color:#888;line-height:1.6;margin:0">Curated for your robotics goals, Mowze experience, Part 107 cert, IE/Business at NEU, and autonomous systems interest.</p></div><div class="sl">MAKE THESE YOUR REGULARS</div><div class="grid" style="margin-bottom:28px">'+pr.map(rc).join("")+'</div><div class="sl">DON\'T MISS THESE DATES</div><div style="display:flex;flex-direction:column;gap:6px">'+pk.map(function(e,i){return ec(e,i,true)}).join("")+"</div>"}
+  if(cv==="list"){var ev=gf(),g={};ev.forEach(function(e){var k=e.date==="TBD"?"9999-99":e.date.slice(0,7);(g[k]=g[k]||[]).push(e)});document.getElementById("vl").innerHTML=ev.length===0?'<div style="padding:40px;text-align:center;color:#555">No events match filters.</div>':Object.keys(g).sort().map(function(k){var p=k.split("-"),lb=k==="9999-99"?"Date TBD":MO[+p[1]]+" "+p[0];return '<div style="margin-bottom:28px"><div class="sl">'+lb+'</div><div style="display:flex;flex-direction:column;gap:6px">'+g[k].map(function(e,i){return ec(e,i,false)}).join("")+"</div></div>"}).join("")}
+  if(cv==="calendar"){var ev=gf(),f=new Date(2026,cm,1),l=new Date(2026,cm+1,0),em={};ev.forEach(function(e){if(e.date==="TBD")return;var d=pd(e.date);if(d.getMonth()===cm&&d.getFullYear()===2026)(em[d.getDate()]=em[d.getDate()]||[]).push(e)});var ds=DY.map(function(d){return '<div class="mono" style="text-align:center;font-size:10px;font-weight:600;color:#444;padding:8px 0;letter-spacing:1px">'+d+"</div>"}).join("");for(var i=0;i<f.getDay();i++)ds+="<div></div>";for(var d=1;d<=l.getDate();d++){var es=em[d]||[];ds+='<div style="min-height:80px;border-radius:6px;border:1px solid #1a1e28;background:#13161e;padding:6px"><div class="mono" style="font-size:12px;font-weight:'+(es.length?600:400)+";color:"+(es.length?"#ccc":"#333")+';margin-bottom:4px">'+d+"</div>"+es.slice(0,3).map(function(e){var c=(TAG[e.tag]||{c:"#555"}).c;return '<a href="'+h(e.link)+'" target="_blank" title="'+h(e.title)+'" style="display:block;font-size:9px;line-height:1.2;padding:3px 5px;margin-bottom:2px;border-radius:4px;background:'+c+'22;color:'+c+';font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+h(e.title)+"</a>"}).join("")+(es.length>3?'<div style="font-size:9px;color:#555;padding:2px 5px">+'+(es.length-3)+" more</div>":"")+"</div>"}document.getElementById("vc").innerHTML='<div style="display:flex;align-items:center;justify-content:space-between;padding:8px 0 16px"><button onclick="cm=Math.max(0,cm-1);ra()" style="background:none;border:1px solid #333;border-radius:8px;color:#888;padding:6px 14px;cursor:pointer;font-size:13px">\u2190 Prev</button><span class="mono" style="font-size:16px;font-weight:700;color:#ccc;letter-spacing:1px">'+MO[cm]+' 2026</span><button onclick="cm=Math.min(11,cm+1);ra()" style="background:none;border:1px solid #333;border-radius:8px;color:#888;padding:6px 14px;cursor:pointer;font-size:13px">Next \u2192</button></div><div style="display:grid;grid-template-columns:repeat(7,1fr);gap:2px">'+ds+"</div>"}
+}
+
+function sv(v){cv=v;["vp","vl","vc"].forEach(function(id,i){document.getElementById(id).classList.toggle("hidden",["picks","list","calendar"][i]!==v)});document.querySelectorAll(".vb").forEach(function(b){var on=b.dataset.v===v;b.style.background=on?(v==="picks"?"#f4a26122":"#2a9d8f22"):"transparent";b.style.color=on?(v==="picks"?"#f4a261":"#2a9d8f"):"#555"});ra()}
+
+document.querySelectorAll(".vb").forEach(function(b){b.onclick=function(){sv(b.dataset.v)}});
+document.getElementById("bp").onclick=function(){sp=!sp;this.textContent=sp?"Hide past":"Show past";this.style.borderColor=sp?"#7a7d85":"#333";this.style.background=sp?"#7a7d8518":"transparent";this.style.color=sp?"#aaa":"#555";ra()};
+document.getElementById("rt").onclick=function(){sr=!sr;document.getElementById("rs").classList.toggle("hidden",!sr);document.getElementById("ra").style.transform=sr?"rotate(180deg)":"none";this.style.background=sr?"#1e2433":"#161a24"};
+
+fetch("events.json").then(function(r){if(!r.ok)throw new Error("HTTP "+r.status);return r.json()}).then(function(data){
+  D=data;document.getElementById("loading").style.display="none";document.getElementById("app").classList.remove("hidden");
+  document.getElementById("upd").textContent="Updated "+new Date(data.scraped_at).toLocaleDateString();
+  document.getElementById("sl").innerHTML=(data.source_links||[]).map(function(s){return '<a href="'+h(s.url)+'" target="_blank" class="slink">'+h(s.label)+"</a>"}).join("");
+  sv("picks");
+}).catch(function(e){document.getElementById("loading").style.display="none";document.getElementById("err").style.display="flex";document.getElementById("em").textContent=e.message});
+</script>
+</body>
+</html>
