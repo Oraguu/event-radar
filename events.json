@@ -1,0 +1,505 @@
+{
+  "scraped_at": "2026-02-21T20:57:57.641106",
+  "event_count": 11,
+  "events": [
+    {
+      "date": "2026-04-13",
+      "title": "RAPID + TCT 2026",
+      "source": "Conference",
+      "tag": "manufacturing",
+      "desc": "North America's largest additive manufacturing event. Boston Convention Center. Academic discounts.",
+      "link": "https://www.rapid3devent.com/",
+      "time": "9:00 AM",
+      "pick": true,
+      "pickNote": "Additive manufacturing + aerospace defense. Ask about academic discount"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "AeroDef Manufacturing (co-located w/ RAPID)",
+      "source": "Conference",
+      "tag": "manufacturing",
+      "desc": "Aerospace & defense manufacturing. AI, digital twins, autonomy, supply chain. Boston Convention Center.",
+      "link": "https://www.aerodefevent.com/",
+      "time": "9:00 AM",
+      "pick": true,
+      "pickNote": "Autonomy, AI, digital twins — directly relevant to your career path"
+    },
+    {
+      "date": "2026-04-25",
+      "title": "National Drone Safety Day",
+      "source": "FAA",
+      "tag": "drones",
+      "desc": "FAA-sponsored: fly-ins, STEM demos, pilot training. Events nationwide.",
+      "link": "https://www.thedronegirl.com/2026/02/06/2026-drone-events/",
+      "time": "All Day",
+      "pick": true,
+      "pickNote": "You have your Part 107. Show up, fly, network with commercial operators"
+    },
+    {
+      "date": "2026-05-11",
+      "title": "AUVSI XPONENTIAL 2026",
+      "source": "AUVSI",
+      "tag": "drones",
+      "desc": "World's largest unmanned systems conference. 8,500+ experts. Startup pavilion. Detroit, MI.",
+      "link": "https://xponential.org/",
+      "time": "All Day",
+      "pick": true,
+      "pickNote": "World's largest unmanned systems conf. Worth the Detroit trip"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "DroneArt Show Boston",
+      "source": "Event",
+      "tag": "drones",
+      "desc": "Candlelit concert + synchronized drone show. Ohiri Field, 95 N Harvard St.",
+      "link": "https://thedroneartshow.com/boston/",
+      "time": "Evening"
+    },
+    {
+      "date": "2026-05-27",
+      "title": "Robotics Summit & Expo — Day 1",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "6,000+ devs. 50+ sessions, 250+ exhibitors, live demos, RBR50 Awards. Boston Convention Center.",
+      "link": "https://www.roboticssummit.com/",
+      "time": "9:00 AM",
+      "pick": true,
+      "pickNote": "THE MUST-ATTEND. Block these dates NOW. Email for academic discount"
+    },
+    {
+      "date": "2026-05-28",
+      "title": "Robotics Summit & Expo — Day 2",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Women in Robotics Breakfast 8am. Keynotes, career fair, networking. Boston Convention Center.",
+      "link": "https://www.roboticssummit.com/",
+      "time": "8:00 AM",
+      "pick": true,
+      "pickNote": "Career fair + continued expo. Don't skip day 2"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Automate 2026",
+      "source": "Conference",
+      "tag": "manufacturing",
+      "desc": "Premier robotics + automation + smart manufacturing show. Chicago, IL.",
+      "link": "https://www.automateshow.com/",
+      "time": "All Day",
+      "pick": true,
+      "pickNote": "Premier robotics + automation manufacturing show"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Commercial UAV Expo",
+      "source": "Conference",
+      "tag": "drones",
+      "desc": "Leading international commercial UAS trade show. Las Vegas.",
+      "link": "https://www.expouav.com/",
+      "time": "All Day"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "BioProcess International",
+      "source": "Conference",
+      "tag": "manufacturing",
+      "desc": "3,200+ scientists. Biopharmaceutical manufacturing. Hynes Convention Center, Boston.",
+      "link": "https://informaconnect.com/bioprocessinternational/",
+      "time": "All Day"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Tough Tech Summit 2026",
+      "source": "The Engine",
+      "tag": "startup",
+      "desc": "Deep tech founders, investors. Robotics, energy, hard science. Hotel Commonwealth, Boston.",
+      "link": "https://engine.xyz/toughtechsummit",
+      "time": "All Day",
+      "pick": true,
+      "pickNote": "Deep tech founders and investors. The Engine was spun out of MIT"
+    }
+  ],
+  "recurring": [
+    {
+      "title": "MIT Robotics Seminar",
+      "freq": "Check schedule",
+      "source": "MIT",
+      "tag": "robotics",
+      "desc": "Flagship robotics talk series — top researchers from industry and academia.",
+      "link": "https://robotics.mit.edu/robotics-seminar/",
+      "pick": true,
+      "pickNote": "Attend regularly — meet the people building what you want to build"
+    },
+    {
+      "title": "MIT CSAIL Seminars",
+      "freq": "Multiple/week",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Regular seminars on AI, robotics, HCI, computer vision.",
+      "link": "https://www.csail.mit.edu/events"
+    },
+    {
+      "title": "MIT Schwarzman College of Computing",
+      "freq": "Multiple/week",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "AI4Society seminars, distinguished lectures. Building 45, 51 Vassar St.",
+      "link": "https://calendar.mit.edu/department/mit_schwarzman_college_of_computing"
+    },
+    {
+      "title": "MIT E-Club",
+      "freq": "Tuesdays 6pm",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Open to MIT, Harvard & Wellesley. Pitch practice, startup seminars. Room 56-114.",
+      "link": "https://web.mit.edu/e-club/"
+    },
+    {
+      "title": "MIT $100K Competition",
+      "freq": "Sep-May",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Pitch → Accelerate → Launch. $300K+ in prizes. Open to Greater Boston.",
+      "link": "https://www.mit100k.org/",
+      "pick": true,
+      "pickNote": "Watch the finals live at MIT Media Lab"
+    },
+    {
+      "title": "MIT Media Lab Perspectives",
+      "freq": "Periodic",
+      "source": "MIT Media Lab",
+      "tag": "talk",
+      "desc": "Distinguished speaker series. Free, livestream open to public.",
+      "link": "https://www.media.mit.edu/events/ml-perspectives/"
+    },
+    {
+      "title": "Venturing@Harvard Cross-University Mixer",
+      "freq": "Monthly",
+      "source": "Harvard i-lab",
+      "tag": "networking",
+      "desc": "Open to NEU, MIT, BU, Tufts, Babson & more. Harvard i-lab, Batten Hall.",
+      "link": "https://innovationlabs.harvard.edu/events/cross-university-mixer",
+      "pick": true,
+      "pickNote": "#1 EASIEST WIN. Designed for cross-university networking. Just show up every month"
+    },
+    {
+      "title": "Harvard Grid Events",
+      "freq": "Periodic",
+      "source": "Harvard",
+      "tag": "startup",
+      "desc": "Applied Sciences & Engineering startup events.",
+      "link": "https://www.grid.harvard.edu/"
+    },
+    {
+      "title": "Harvard OTD Events",
+      "freq": "Periodic",
+      "source": "Harvard",
+      "tag": "startup",
+      "desc": "Office of Technology Development — bio salons, bootcamps, pitch days.",
+      "link": "https://otd.harvard.edu/events/"
+    },
+    {
+      "title": "NEU Sherman Center Events",
+      "freq": "Periodic",
+      "source": "Northeastern",
+      "tag": "startup",
+      "desc": "Engineering entrepreneurship: Tech Rebels speakers, Generate Showcase. Hayden Hall.",
+      "link": "https://sherman.center.northeastern.edu/",
+      "pick": true,
+      "pickNote": "YOUR school's engineering entrepreneurship hub"
+    },
+    {
+      "title": "NEU Generate Showcase",
+      "freq": "End-of-semester",
+      "source": "Northeastern",
+      "tag": "manufacturing",
+      "desc": "Student product development demo day. Hardware projects, concept to prototype.",
+      "link": "https://sherman.center.northeastern.edu/",
+      "pick": true,
+      "pickNote": "YOUR school's hardware demo day. Find collaborators here"
+    },
+    {
+      "title": "NEU Experiential Robotics",
+      "freq": "Periodic",
+      "source": "Northeastern",
+      "tag": "robotics",
+      "desc": "Seminars on autonomous systems, underwater robots, soft robotics.",
+      "link": "https://robotics.northeastern.edu/",
+      "pick": true,
+      "pickNote": "Your own university's robotics research hub"
+    },
+    {
+      "title": "Startup Grind Boston",
+      "freq": "Monthly",
+      "source": "Community",
+      "tag": "startup",
+      "desc": "Fireside chats, panels, pitch nights. 11,000+ members.",
+      "link": "https://www.startupgrind.com/boston/",
+      "pick": true,
+      "pickNote": "Monthly founder fireside chats. Great for expanding your circle"
+    },
+    {
+      "title": "Boston Hardware Meetup",
+      "freq": "~Monthly",
+      "source": "Community",
+      "tag": "manufacturing",
+      "desc": "Hardware professionals. Formlabs, Greentown Labs, The Engine.",
+      "link": "https://luma.com/bos-hardware-meetup",
+      "pick": true,
+      "pickNote": "Your tribe — hardware people building physical products"
+    },
+    {
+      "title": "Boston ENET",
+      "freq": "Monthly (Sep-Jun)",
+      "source": "Community",
+      "tag": "startup",
+      "desc": "IEEE-affiliated. Expert panels, Q&A, 1.5hrs networking. Since 1991.",
+      "link": "https://bostonenet.org/",
+      "pick": true,
+      "pickNote": "IEEE-affiliated, early-stage hardware startups"
+    },
+    {
+      "title": "Venture Cafe Cambridge",
+      "freq": "Weekly (Thu)",
+      "source": "Venture Cafe",
+      "tag": "networking",
+      "desc": "Free weekly gathering. Rotating hardware/robotics/startup sessions. Kendall Square.",
+      "link": "https://venturecafecambridge.org/",
+      "pick": true,
+      "pickNote": "Free every Thursday in Kendall Square. Just drop in"
+    },
+    {
+      "title": "AI Tinkerers Boston",
+      "freq": "Monthly",
+      "source": "Meetup",
+      "tag": "ai",
+      "desc": "Code-first demos, hackathons, deep networking for AI builders.",
+      "link": "https://boston.aitinkerers.org/",
+      "pick": true,
+      "pickNote": "Code-first builders — the people you want in your network"
+    },
+    {
+      "title": "Boston Generative AI Meetup",
+      "freq": "Monthly",
+      "source": "Meetup",
+      "tag": "ai",
+      "desc": "World's largest AI meetup. Expert panels, demos, networking.",
+      "link": "https://www.meetup.com/boston-generative-ai-meetup/"
+    },
+    {
+      "title": "Boston CV AIR (AI, Autonomy & Robotics)",
+      "freq": "Regular",
+      "source": "Meetup",
+      "tag": "robotics",
+      "desc": "Autonomous robotics, biomedical robotics, computer vision.",
+      "link": "https://www.meetup.com/boston-air/",
+      "pick": true,
+      "pickNote": "Autonomous robotics talks — directly in your wheelhouse"
+    },
+    {
+      "title": "Boston Drone Racing Club",
+      "freq": "Weekly",
+      "source": "BU-based",
+      "tag": "drones",
+      "desc": "FPV drone racing & hack nights. Custom builds. $3/session.",
+      "link": "http://bostondrone.racing/",
+      "pick": true,
+      "pickNote": "You have your Part 107. Build drones, meet the FPV community"
+    },
+    {
+      "title": "MassRobotics Events",
+      "freq": "Periodic",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "World's largest independent robotics hub. 12 Channel St, Boston.",
+      "link": "https://www.massrobotics.org/events/",
+      "pick": true,
+      "pickNote": "Your industry's home base in Boston. Be a regular"
+    },
+    {
+      "title": "Greentown Labs Events",
+      "freq": "Periodic",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Climatetech incubator in Somerville. Hardware meetups, demo days.",
+      "link": "https://greentownlabs.com/events/"
+    },
+    {
+      "title": "The Engine Events",
+      "freq": "Periodic",
+      "source": "The Engine",
+      "tag": "startup",
+      "desc": "MIT-spun deep tech VC. Tough Tech Summit, hardware meetups.",
+      "link": "https://engine.xyz/",
+      "pick": true,
+      "pickNote": "Deep tech VC — serious hardware founders and investors"
+    },
+    {
+      "title": "FORGE (Prototype to Production)",
+      "freq": "Periodic",
+      "source": "Community",
+      "tag": "manufacturing",
+      "desc": "Nonprofit connecting hardware startups with manufacturers.",
+      "link": "https://www.forgehq.com/",
+      "pick": true,
+      "pickNote": "Prototype to production — the journey you did at Mowze"
+    },
+    {
+      "title": "Artisan's Asylum",
+      "freq": "Ongoing",
+      "source": "Makerspace",
+      "tag": "manufacturing",
+      "desc": "Non-profit community makerspace in Somerville.",
+      "link": "https://www.artisansasylum.com"
+    },
+    {
+      "title": "Cambridge Hackspace",
+      "freq": "Weekly",
+      "source": "Makerspace",
+      "tag": "manufacturing",
+      "desc": "Laser cutter, CNC, 3D printers. Somerville.",
+      "link": "https://www.cambridgehackspace.com/"
+    },
+    {
+      "title": "BU Spark!",
+      "freq": "Weekly (Wed)",
+      "source": "BU",
+      "tag": "ai",
+      "desc": "Tech incubator. Hackathons, Demo Days, Ignite clubs.",
+      "link": "https://www.bu.edu/spark/events/"
+    },
+    {
+      "title": "TiE Boston",
+      "freq": "Monthly",
+      "source": "Community",
+      "tag": "networking",
+      "desc": "Entrepreneur and angel investor network.",
+      "link": "https://boston.tie.org/"
+    },
+    {
+      "title": "Mass Innovation Nights",
+      "freq": "Monthly",
+      "source": "Community",
+      "tag": "startup",
+      "desc": "Monthly product showcases for Boston-area startups.",
+      "link": "https://mass.innovationnights.com/"
+    },
+    {
+      "title": "Startup Valley Networking",
+      "freq": "Biweekly",
+      "source": "Meetup",
+      "tag": "startup",
+      "desc": "Pitch & networking at Bar Moxy, Boston.",
+      "link": "https://www.meetup.com/startups-and-tech-events-in-boston/"
+    },
+    {
+      "title": "AUVSI New England",
+      "freq": "Periodic",
+      "source": "Community",
+      "tag": "drones",
+      "desc": "Drone/UAS workshops, networking, policy updates.",
+      "link": "https://www.auvsi.org/"
+    },
+    {
+      "title": "MIT Sloan Conferences",
+      "freq": "Multiple/semester",
+      "source": "MIT Sloan",
+      "tag": "startup",
+      "desc": "Student-led: tech, healthcare, fintech, national security.",
+      "link": "https://mitsloan.mit.edu/events"
+    }
+  ],
+  "source_links": [
+    {
+      "label": "MIT Events",
+      "url": "https://calendar.mit.edu/"
+    },
+    {
+      "label": "MIT CSAIL",
+      "url": "https://www.csail.mit.edu/events"
+    },
+    {
+      "label": "MIT Robotics",
+      "url": "https://robotics.mit.edu/robotics-seminar/"
+    },
+    {
+      "label": "MIT Schwarzman",
+      "url": "https://calendar.mit.edu/department/mit_schwarzman_college_of_computing"
+    },
+    {
+      "label": "MIT Media Lab",
+      "url": "https://www.media.mit.edu/events/"
+    },
+    {
+      "label": "MIT Sloan",
+      "url": "https://mitsloan.mit.edu/events"
+    },
+    {
+      "label": "Harvard SEAS",
+      "url": "https://events.seas.harvard.edu/"
+    },
+    {
+      "label": "Harvard i-lab",
+      "url": "https://innovationlabs.harvard.edu/"
+    },
+    {
+      "label": "Harvard Grid",
+      "url": "https://www.grid.harvard.edu/"
+    },
+    {
+      "label": "Northeastern",
+      "url": "https://calendar.northeastern.edu/"
+    },
+    {
+      "label": "NEU Sherman Ctr",
+      "url": "https://sherman.center.northeastern.edu/"
+    },
+    {
+      "label": "NEU Robotics",
+      "url": "https://robotics.northeastern.edu/"
+    },
+    {
+      "label": "BU Calendar",
+      "url": "https://www.bu.edu/calendar/"
+    },
+    {
+      "label": "BU Spark!",
+      "url": "https://www.bu.edu/spark/events/"
+    },
+    {
+      "label": "MassRobotics",
+      "url": "https://www.massrobotics.org/events/"
+    },
+    {
+      "label": "Greentown Labs",
+      "url": "https://greentownlabs.com/events/"
+    },
+    {
+      "label": "The Engine",
+      "url": "https://engine.xyz/"
+    },
+    {
+      "label": "HW Meetup",
+      "url": "https://luma.com/bos-hardware-meetup"
+    },
+    {
+      "label": "Drone Racing",
+      "url": "http://bostondrone.racing/"
+    },
+    {
+      "label": "Startup Boston",
+      "url": "https://www.startupbos.org/directory/events"
+    },
+    {
+      "label": "Venture Cafe",
+      "url": "https://venturecafecambridge.org/"
+    },
+    {
+      "label": "Startup Grind",
+      "url": "https://www.startupgrind.com/boston/"
+    },
+    {
+      "label": "Eventbrite",
+      "url": "https://www.eventbrite.com/d/ma--boston/"
+    }
+  ]
+}
