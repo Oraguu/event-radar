@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-02-22T10:18:42.498273",
-  "event_count": 103,
+  "scraped_at": "2026-02-23T05:01:41.207552",
+  "event_count": 502,
   "events": [
     {
-      "date": "2026-02-22",
-      "title": "MIT Voxel Lab Presents: Live from the Lab (MITxBerklee Showcase Series)",
+      "date": "2026-02-23",
+      "title": "Event Rescheduled Due to Campus Closure -- NeuroLunch: Gabriel Stine (Jazayeri Lab) & Iakovos Lazaridis (Graybiel Lab) .",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Join us for Live from the Lab, a new student performance showcase series highlighting student talent at MIT & Berklee College of Music! The Voxel Lab is excited to host Live from the Lab, a performance series featuring studio-style sets by MIT and Berklee student artists. This series brings together",
-      "link": "https://calendar.mit.edu/event/mit-voxel-lab-presents-live-from-the-lab-showcase-series-9933",
+      "desc": "The Event Has Been Rescheduled to March 2nd",
+      "link": "https://calendar.mit.edu/event/neurolunch-gabriel-stine-jazayeri-lab-iakovos-lazaridis-graybiel-lab",
       "time": "TBD",
-      "location": "Building E38"
+      "location": "Building 46"
     },
     {
       "date": "2026-02-23",
@@ -24,10 +24,10 @@
     },
     {
       "date": "2026-02-23",
-      "title": "Controlling the direction of light emission in anisotropic perovskite nanoparticles using alignment, fusing, and surface interactions",
+      "title": "CANCELLED: Controlling the direction of light emission in anisotropic perovskite nanoparticles using alignment, fusing, and surface interactions",
       "source": "MIT",
       "tag": "manufacturing",
-      "desc": "Join MIT.nano for our February seminar! Carissa Eisler Assistant Professor in Chemical Engineering and Bimolecular Engineering University of California Los Angeles Date: February 23, 2026 Time: 3:00 – 4:00 PM ET Location: Grier 34-401A Reception to follow. Register for this talk ABSTRACT Next genera",
+      "desc": "Due to the winter weather forecast, this event has been cancelled. Join MIT.nano for our February seminar! Carissa Eisler Assistant Professor in Chemical Engineering and Bimolecular Engineering University of California Los Angeles Date: February 23, 2026 Time: 3:00 – 4:00 PM ET Location: Grier 34-40",
       "link": "https://calendar.mit.edu/event/controlling-the-direction-of-light-emission-in-anisotropic-perovskite-nanoparticles-using-alignment-fusing-and-surface-interactions",
       "time": "TBD",
       "location": "Building 34"
@@ -54,11 +54,31 @@
     },
     {
       "date": "2026-02-23",
+      "title": "Communism in the Classroom: Long-Run Effects of an Experiment",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Matti Mitrunen (University of Helsinki) joint with Jaakko Meriläinen",
+      "link": "https://calendar.mit.edu/event/communism-in-the-classroom-long-run-effects-of-an-experiment",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-02-23",
       "title": "Algebraic Topology Seminar",
       "source": "MIT",
       "tag": "talk",
       "desc": "Speaker: Alexander Petrov (MIT) Title: Galois action on higher etale homotopy groups Abstract: Given a complex algebraic variety, profinite completion of its homotopy type can be recovered in purely algebraic terms as its etale homotopy type. In particular, if the variety was defined over a subfield",
       "link": "https://calendar.mit.edu/event/algebraic-topology-seminar-9231",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "Probability Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Ron Nissim (MIT) Title: Area Law and Mass Gap for Lattice Yang-Mills at Strong Coupling Abstract: This talk is based on three recent papers, including two with Scott Sheffield and Sky Cao, on lattice Yang-Mills theory. These papers extend the regime of parameter for which two properties of ",
+      "link": "https://calendar.mit.edu/event/probability-seminar-Ron-Nissim",
       "time": "TBD",
       "location": "Building 2"
     },
@@ -84,6 +104,16 @@
     },
     {
       "date": "2026-02-23",
+      "title": "Faculty Works in Progress Series: Global Fellows Presentations",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Members of the Humanities Center Global Fellowship will be presenting their work as it relates to the topic of “Unsettling,” with the following Fellows presenting on the topics below: Emily Cousens Unsettling Sex/Gender Foundations, Imagining Trans Futures Shalini Matharage Voices of Displacement: L",
+      "link": "https://calendar.northeastern.edu/event/faculty-works-in-progress-series-global-fellows-presentations-7465",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-02-23",
       "title": "Fusion Book Club",
       "source": "Northeastern",
       "tag": "talk",
@@ -91,6 +121,26 @@
       "link": "https://calendar.northeastern.edu/event/fusion-book-club-1085",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Winter Warm Up: Make a Snowflake",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all! Stop by to make a paper snowflake in the south lobby and contribute to a cozy, collaborative winter installation in the MIT Welcome Center. Available 9:30am - 4pm. Keep an eye out for origami snowflakes made by the brilliant people at OrigaMIT.",
+      "link": "https://calendar.mit.edu/event/winter-warm-up-make-a-snowflake",
+      "time": "TBD",
+      "location": "Building E38 (MIT Welcome Center)"
+    },
+    {
+      "date": "2026-02-24",
+      "title": " Cog Lunch: Alicia Chen",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Cog Lunch: Alicia Chen Feburary 24, 2026 12pm Location: 46-3189 Zoom: https://mit.zoom.us/j/91344193519 Speaker: Alicia Chen Affiliation: Saxe Lab Title: How sociological structure shapes action planning and interpretation Abstract: Cognitive models of action planning and inverse planning are highly",
+      "link": "https://calendar.mit.edu/event/cog-lunch-alicia-chen-4473",
+      "time": "TBD",
+      "location": "Building 46"
     },
     {
       "date": "2026-02-24",
@@ -109,6 +159,16 @@
       "tag": "talk",
       "desc": "Speakers: Anton Lukyanenko (George Mason) Title: From students to researchers and communicators:experimental geometry lab and in-class active learning Abstract: The Mason Experimental Geometry lab is the cornerstone of the mathematics outreach and undergraduate research efforts at George Mason Unive",
       "link": "https://calendar.mit.edu/event/online-seminar-on-undergraduate-mathematics-education",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "What Happens in the Classroom is the Main Event",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "What Happens in the Classroom is the Main Event Dr. Carlo Rotella, Professor of English, American Studies, and Journalism at Boston College What happens in the classroom is getting more, not less, cutting-edge all the time. Face-to-face teaching and learning become rarer and more valuable with each ",
+      "link": "https://calendar.mit.edu/event/what-happens-in-the-classroom-is-the-main-event",
       "time": "TBD",
       "location": ""
     },
@@ -184,6 +244,16 @@
     },
     {
       "date": "2026-02-24",
+      "title": "The Effects of Transitory and Permanent U.S. Import Tariff Shocks (joint with Martin Uribe)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Stephanie Schmitt Grohe (Columbia Univ)",
+      "link": "https://calendar.mit.edu/event/tba-6289",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-02-24",
       "title": "Number Theory Seminar",
       "source": "MIT",
       "tag": "talk",
@@ -253,6 +323,25 @@
       "location": ""
     },
     {
+      "date": "2026-02-24",
+      "title": "6th Annual Race and Community Dialogue Series",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Beyond Enforcement: Immigration, Belonging, and Community Safety and will focus on ICE enforcement and its impact on communities 6th Annual Race and Community Dialogue Series Beyond Enforcement: Immigration, Belonging, and Community Safety and will focus on ICE enforcement and its impact on communit",
+      "link": "https://calendar.northeastern.edu/event/6th-annual-race-and-community-dialogue-series",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Associated Network Sponsors Office Hours + Social",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/associated-network-sponsors-office-hours-social-csc-leasing-cla-social/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-02-25",
       "title": " Age of Deception: Cybersecurity as Secret Statecraft",
       "source": "MIT",
@@ -274,6 +363,16 @@
     },
     {
       "date": "2026-02-25",
+      "title": "The Price of Faith: Economic Costs and Religious Adaptation in Sub-Saharan Africa",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Eduardo Montero (U Chicago)",
+      "link": "https://calendar.mit.edu/event/the-price-of-faitheconomic-costs-and-religious-adaptation-in-sub-saharan-africa",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-02-25",
       "title": "Lie Groups Seminar",
       "source": "MIT",
       "tag": "drones",
@@ -291,6 +390,16 @@
       "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-5773",
       "time": "TBD",
       "location": "Harvard Science Center Hall E"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Emerson/Harris Masterclass: Augustin Hadelich, violin",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Wednesday, February 25, 2026 | 4:30pm Thomas Tull Concert Hall, MIT Violinist August Hadelich will work with three student violinists from the Emerson/Harris Program for Private Study at MIT. Program BRAHMS: Violin Sonata No. 2 in A Major Op. 100 (1886) Catherine Kung, ‘26 violin , Ga-Eun Ban, piano",
+      "link": "https://calendar.mit.edu/event/emersonharris-masterclass-augustin-hadelich-violin",
+      "time": "TBD",
+      "location": "Building W18"
     },
     {
       "date": "2026-02-25",
@@ -324,6 +433,16 @@
     },
     {
       "date": "2026-02-25",
+      "title": "Daughters Impact Screening and Panel",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Daughters is a 2024 American documentary film directed by Natalie Rae and Angela Patton. It follows a group of incarcerated men and their daughters, four young girls preparing for a special Daddy Daughter Dance with their incarcerated fathers, as part of a unique fatherhood program in a Washington, ",
+      "link": "https://calendar.northeastern.edu/event/daughters-impact-screening-and-panel",
+      "time": "TBD",
+      "location": "Blackman Auditorium, Ell Hall"
+    },
+    {
+      "date": "2026-02-25",
       "title": "Fireside Chat with Dr. Kimberly Budil, Lawrence Livermore Lab Director",
       "source": "Northeastern",
       "tag": "talk",
@@ -343,6 +462,46 @@
       "location": "i-lab Lobby"
     },
     {
+      "date": "2026-02-25",
+      "title": "Prospects for Oral Regenerative Medicine: Avenues to Clinical Application",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "William Giannobile (Dean and A. Lee Loomis Jr Professor of Oral Medicine, Infection & Immunity, Harvard University, School of Dental Medicine) Repair of bone and soft tissue defects in the oral cavity caused by periodontal diseases, trauma or tumor resection is a major goal of oral reconstructive th",
+      "link": "https://events.seas.harvard.edu/event/prospects-for-oral-regenerative-medicine-avenues-to-clinical-application",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Projected increases in western US forest fires with growing fuel constraints ",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "David Battisti (Professor of Atmospheric Sciences, and Tamaki Endowed Chair, University of Washington) The annual forested area that has burned in the western US has increased markedly in the past 40 years. Here we examine the causes and present 25-year projections of future area burned due to clima",
+      "link": "https://events.seas.harvard.edu/event/projected-increases-in-western-us-forest-fires-with-growing-fuel-constraints",
+      "time": "TBD",
+      "location": "Haller Hall"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Venturing@Harvard Cross University Mixer",
+      "source": "Harvard i-lab",
+      "tag": "networking",
+      "desc": "Monthly meetup for student innovators from NEU, MIT, BU, Babson, Tufts. Harvard i-lab Lobby, Batten Hall.",
+      "link": "https://innovationlabs.harvard.edu/events/cross-university-mixer",
+      "time": "4:30 PM",
+      "pick": true,
+      "pickNote": "#1 EASIEST WIN. Designed for cross-university networking"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Boston Generative AI Meetup",
+      "source": "Meetup",
+      "tag": "ai",
+      "desc": "Video, Image, and Vision AI in Business and Life. World's largest AI meetup.",
+      "link": "https://www.meetup.com/boston-generative-ai-meetup/",
+      "time": "Evening"
+    },
+    {
       "date": "2026-02-26",
       "title": "MIT Sloan Healthcare and BioInnovations Conference (SHBC) & Prize Competition (SHIP)",
       "source": "MIT",
@@ -351,6 +510,46 @@
       "link": "https://calendar.mit.edu/event/mit-sloan-healthcare-and-bioinnovations-conference-shbc-prize-competition-ship",
       "time": "TBD",
       "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Outside options and risk attitude",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Ludvig Sinander (Oxford)",
+      "link": "https://calendar.mit.edu/event/tba-8640",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "BCS Grad Interview Days (Virtual)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "By invitation",
+      "link": "https://calendar.mit.edu/event/bcs-grad-interview-days-virtual-6862",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-26",
+      "title": "Turning Insurance into a Force for Climate Action / Sustainability Lunch Series",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Insurance is one of the most powerful levers we have to address the climate crisis and almost nobody is pulling it. Every business pays premiums. Those dollars flow to carriers who decide what gets insured, what gets dropped, and where capital goes. Right now, that system rewards extraction and puni",
+      "link": "https://calendar.mit.edu/event/turning-insurance-into-a-force-for-climate-action-sustainability-lunch-series",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-26",
+      "title": "MLK Scholar Presentation \"Africa at 10X\" with Patrick Njoroge",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "In this talk, Njoroge draws on his experience as a central bank governor and African leader. This experience is combined with new empirical research, to present a candid view of what has held Africa back, where its biggest opportunities lie, and what it will take to seize them. Based on Njoroge’s fo",
+      "link": "https://calendar.mit.edu/event/mlk-scholar-presentation-africa-at-10x-with-patrick-njoroge",
+      "time": "TBD",
+      "location": "Building 14"
     },
     {
       "date": "2026-02-26",
@@ -374,6 +573,16 @@
     },
     {
       "date": "2026-02-26",
+      "title": "Design Redefined: Holding Our Attention",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "Holding our Attention We are all tied to our phones on a daily basis. Many of us even struggle to disconnect from our devices. This isn’t a personal failing — it’s by design. In this workshop, we’ll look at how platforms use emotional and behavioral cues to pull us back in, and how new research is m",
+      "link": "https://calendar.mit.edu/event/design-redefined-holding-our-attention",
+      "time": "TBD",
+      "location": "MIT Museum"
+    },
+    {
+      "date": "2026-02-26",
       "title": "Organic Chemistry Seminar Series | Richard Liu (Harvard University)",
       "source": "MIT",
       "tag": "talk",
@@ -381,6 +590,16 @@
       "link": "https://calendar.mit.edu/event/organic-chemistry-seminar-series-richard-liu-harvard-university",
       "time": "TBD",
       "location": "Building 6"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "TBA",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Melissa Dell (Harvard University)",
+      "link": "https://calendar.mit.edu/event/copy-of-tba",
+      "time": "TBD",
+      "location": "Building E51"
     },
     {
       "date": "2026-02-26",
@@ -424,6 +643,36 @@
     },
     {
       "date": "2026-02-26",
+      "title": "Environment, Atmosphere, Feeling Series: Dr. GJ Sevillano",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join the Global Asian Studies Program as we spotlight our post-doc fellow, Dr. GJ Sevillano for our Environment, Atmosphere, Feeling lecture series. Professor Sevillano will be delivering his lecture titled Knows-to-Tale:Culinary Epistemologies and Filipino-American Gastropoetics.",
+      "link": "https://calendar.northeastern.edu/event/environment-atmosphere-feeling-series-gj-sevillano",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "OFA Dance Program Community Classes",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Dates: January 26-April 18 Presented by: OFA Dance Program Non-credit community classes in a broad range of movement styles and dance traditions for all levels and abilities. Taught by the OFA Dance Program's teaching artists– local professional dancers, pedagogues, and culture bearers– classes are ",
+      "link": "https://events.seas.harvard.edu/event/ofa-dance-program-community-classes",
+      "time": "TBD",
+      "location": "Harvard Dance Center"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "How Strong a Notion of Rationality Can We Learn Efficiently in Multi-Agent Settings?",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Title: How Strong a Notion of Rationality Can We Learn Efficiently in Multi-Agent Settings? Speaker: Gabriele Farina, Assistant Professor of Computer Science at MIT Abstract: A central question in multi-agent learning is: how strong a notion of rational behavior can be guaranteed through efficient n",
+      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-gabriele-farina-mit",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-02-26",
       "title": "How Do Simple Rotations Affect the Implicit Bias of Adam?",
       "source": "Harvard SEAS",
       "tag": "ai",
@@ -451,6 +700,16 @@
       "link": "https://calendar.mit.edu/event/36-hours-hackathon",
       "time": "TBD",
       "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "BCS Grad Interview Days (Virtual)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "By invtitation",
+      "link": "https://calendar.mit.edu/event/bcs-grad-interview-days-virtual",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-02-27",
@@ -484,6 +743,16 @@
     },
     {
       "date": "2026-02-27",
+      "title": "Climate Action in Practice: Delivering on MIT’s Climate Goals (Spring Webinar Series)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for a new webinar series highlighting how MIT is putting Fast Forward: MIT’s Climate Action Plan for the Decade into action across campus and beyond. The series explores how collaboration, data, and design are shaping decisions about energy systems, buildings, and food. These choices affect ",
+      "link": "https://calendar.mit.edu/event/MITOS-spring-webinar-series",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-27",
       "title": " Asia's Green Revolutions: Case Studies from China and India",
       "source": "MIT",
       "tag": "talk",
@@ -504,6 +773,16 @@
     },
     {
       "date": "2026-02-27",
+      "title": "Women's Tennis vs. New York University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 2:30 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-tennis-vs-bryant-university",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-27",
       "title": "Panel Discussion: How AI is Impacting Journalism, Free Speech, and Public Discourse",
       "source": "MIT",
       "tag": "ai",
@@ -521,6 +800,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-coded-bias-5th-anniversary-virtual-finale-event",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Russian Connection - Welcome from Winter Break",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join the MIT Russian Connection to meet and greet your fellow students this Spring semester socialOpen to all graduate students of MITSponsored by the GSC Funding Board",
+      "link": "https://calendar.mit.edu/event/russian-connection-welcome-from-winter-break",
+      "time": "TBD",
+      "location": "Building W20: Stratton Student Center"
     },
     {
       "date": "2026-02-27",
@@ -554,6 +843,26 @@
     },
     {
       "date": "2026-02-28",
+      "title": "Sailing vs. Women's Team Race",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-28",
+      "title": "Rifle vs. MAC Championship (Smallbore)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 12:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/rifle-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-28",
       "title": "Tough Tech Venturing Workshop",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -566,7 +875,7 @@
       "date": "2026-03-02",
       "title": "Global Topics for Global Learners",
       "source": "Northeastern",
-      "tag": "networking",
+      "tag": "talk",
       "desc": "Connect. Converse. Grow. Global Topics for Global Learners is your weekly space to connect across campuses and dive into meaningful global (and local!) conversations. Join students and staff online for engaging, facilitated discussions led by GLS Specialists — come curious, leave connected. Check ou",
       "link": "https://calendar.northeastern.edu/event/global-topics-for-global-learners-6290",
       "time": "TBD",
@@ -584,6 +893,16 @@
     },
     {
       "date": "2026-03-04",
+      "title": "Amazon Rainforest and Its Soils: The Tipping Point as an Imminent Risk of the Savannization of the System",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "A presentation from 2025–2026 Hrdy Fellow Mauricio P. F. Fontes The Amazon biome is the world’s largest remaining tropical forest, hosting around 10 percent of the planet’s biodiversity, and the soil, part of this brittle ecosystem, plays a vital role in its conservation. The critical threshold at w",
+      "link": "https://events.seas.harvard.edu/event/its-soils-the-tipping-point-as-an-imminent-risk-of-the-savannization-of-the-system",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-04",
       "title": "Harvard Grid X Kempner Institute | Launching Your AI Venture",
       "source": "Harvard SEAS",
       "tag": "ai",
@@ -591,6 +910,67 @@
       "link": "https://events.seas.harvard.edu/event/harvard-grid-x-kempner-institute-launching-your-ai-venture",
       "time": "TBD",
       "location": "Kempner Institute"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Next in Alzheimer’s Research",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "The National Institutes of Health predicts that the number of new dementia cases per year may double by 2060. This is a daunting estimate, but innovative research in biomedicine and new clinical therapies are expanding the frontiers of dementia science, including Alzheimer’s disease and related deme",
+      "link": "https://events.seas.harvard.edu/event/next-in-alzheimers-research",
+      "time": "TBD",
+      "location": "Fay House"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "SEAS Industry Insights Series: Scott Kirby, CEO at United Airlines",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "What is the future air travel? How does United Airlines use technology-first strategies to drive transformation and profitability? How does Scott Kirby (CEO at United Airlines) approach wide-scale challenges like the COVID-19 pandemic and the sustainability of travel? Join us for a fireside chat wit",
+      "link": "https://events.seas.harvard.edu/event/seas-industry-insights-series-scott-kirby-ceo-at-united-airlines",
+      "time": "TBD",
+      "location": "Harvard Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Greentown Labs Climatetech Intern Fair",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Connect with climatetech startups hiring. 444 Somerville Ave.",
+      "link": "https://greentownlabs.com/events/",
+      "time": "4:00 PM",
+      "pick": true,
+      "pickNote": "Hardware startups hiring — you have the Mowze experience"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Sean Crowell, LumenUS and University of Rochester",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/sean-crowell-lumenus-and-university-of-rochester",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Faculty Works in Progress Series: Global Fellows Presentations",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Members of the Humanities Center Global Fellowship will be presenting their work as it relates to the topic of “Unsettling,” with the following Fellows presenting on the topics below: Odile Jordan All Red Line: Southeast Asia and the making of the Second British Empire Michael Thornton Cultivating E",
+      "link": "https://calendar.northeastern.edu/event/faculty-works-in-progress-series-global-fellows-presentations-9762",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "Dr. Mona Tajali: Women, Politics and Power during Backlash and Transitions: Possibilities of Feminist Institutions",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Dr. Tajali’s research at RJI adopts a research justice framework to examine the tensions between women’s political agency and entrenched power structures. Focusing on women’s leadership in pro-democracy movements in various Muslim-majority contexts, it analyzes the gendered backlash they face in the",
+      "link": "https://calendar.northeastern.edu/event/dr-mona-tajali-women-politics-and-power-during-backlash-and-transitions-possibilities-of-feminist-institutions",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-03-09",
@@ -624,6 +1004,16 @@
     },
     {
       "date": "2026-03-11",
+      "title": "Economic Policy Forum: Book Talk with Tim Wu ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join us for our next Economic Policy Forum featuring Professor Tim Wu (Columbia Law School) and former White House official who coined the phrase “net neutrality.” Wednesday, March 11, 2026 12:00 noon – 1:20 pm West Village G 108 Register here: https://forms.gle/vJ1epsECBEY15UvQ6 Hosted by Professor",
+      "link": "https://calendar.northeastern.edu/event/economic-policy-forum-book-talk-with-tim-wu",
+      "time": "TBD",
+      "location": "West Village G"
+    },
+    {
+      "date": "2026-03-11",
       "title": "Continuum Dynamics Drove a Revolution in Cardiovascular Sciences & Intervention",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -634,6 +1024,16 @@
     },
     {
       "date": "2026-03-12",
+      "title": "College of Science Peer Advising Research Workshop ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come listen to student and faculty experiences with getting involved in research, building your resume, cold emailing, and much more!",
+      "link": "https://calendar.northeastern.edu/event/college-of-science-peer-advising-research-workshop",
+      "time": "TBD",
+      "location": "Mugar"
+    },
+    {
+      "date": "2026-03-12",
       "title": "CS Colloquium Series - Angelia Nedich (ASU)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -641,6 +1041,26 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-angelia-nedich-asu",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "BSO Community Chamber Concert",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Clarinetist Christopher Elchico, bassoonist Joshua Baker, horn player Rachel Childers, violinist Lisa Ji Eun Kim, violist Mary Ferrillo, cellist Roric Cunningham, and double bassist Carl Anderson will perform the following: Carl NIELSEN Serenata in vano (8) Ludwig van BEETHOVEN Septet in E-flat, Op.",
+      "link": "https://calendar.northeastern.edu/event/bso-community-chamber-concert-9900",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Holocaust Legacy Foundation Gideon Klein Scholar Presentation featuring Melina Coy",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Holocaust Legacy Foundation Gideon Klein Scholar Presentation featuring Melina Coy",
+      "link": "https://calendar.northeastern.edu/event/holocaust-legacy-foundation-gideon-klein-scholar-presentation-featuring-melina-coy",
+      "time": "TBD",
+      "location": "Renaissance_Park"
     },
     {
       "date": "2026-03-18",
@@ -654,6 +1074,16 @@
     },
     {
       "date": "2026-03-18",
+      "title": "Robert Salomon Morton Lecture featuring Prof. Peter Hayes",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Robert Salomon Morton Lecture featuring Prof. Peter Hayes",
+      "link": "https://calendar.northeastern.edu/event/robert-salomon-morton-lecture-featuring-prof-peter-hayes",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-03-18",
       "title": "The Gordon Institute: Virtual Information Session",
       "source": "Northeastern",
       "tag": "talk",
@@ -663,12 +1093,71 @@
       "location": ""
     },
     {
+      "date": "2026-03-19",
+      "title": "Environment, Atmosphere, Feeling: Chetna Kuanr",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join the Global Asian Studies Program as we spotlight grad student Chetna Kuanr for our Environment, Atmosphere, Feeling Lecture series. Professor Kuanr will be delivering her lecture Milk: Mothers, Mobility, and the Buffaloin Punjab.",
+      "link": "https://calendar.northeastern.edu/event/environment-atmosphere-feeling-chetna-kuanr",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Women Take the Reel Film Screening: No One Asked You",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join Northeastern WGSS for our Women Take the Reel festival screening of No One Asked You by Ruth Leitman. Comedian Lizz Winstead (co-creator of The Daily Show) and Abortion Access Front crisscross the U.S. to support abortion clinic staff and bust stigma. Pop culture icons and next-gen comics fuel ",
+      "link": "https://calendar.northeastern.edu/event/women-take-the-reel-film-screening-no-one-asked-you",
+      "time": "TBD",
+      "location": "Behrakis"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "MTLC Tech Hot Topics",
+      "source": "Community",
+      "tag": "networking",
+      "desc": "Massachusetts Technology Leadership Council networking.",
+      "link": "https://www.mtlc.co/all-events/",
+      "time": "5:00 PM"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "ASL Festival",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "A one-day festival hosted by Northeastern's American Sign Language & Interpreting Program. This festival is a combination of Deaf performers, various workshops, and Deaf-owned vendors.",
+      "link": "https://calendar.northeastern.edu/event/asl-festival-564",
+      "time": "TBD",
+      "location": "Northeastern University Curry Center"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Philip N. Backstrom Jr. Holocaust Survivor Lecture, featuring Suzanne Resnick",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Philip N. Backstrom Jr. Holocaust Survivor Lecture, featuring Suzanne Resnick",
+      "link": "https://calendar.northeastern.edu/event/philip-n-backstrom-jr-holocaust-survivor-lecture-featuring-suzanne-resnick",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
       "date": "2026-03-24",
       "title": "AI for Text Analysis with Python Using BERT and TensorFlow ",
       "source": "Northeastern",
       "tag": "ai",
       "desc": "March 24: 11am–1pm Boston / 8–10am Oakland / 3–5pm London, virtual Pre Workshop, March 23: 11am–12:30pm Boston / 8–9:30am Oakland / 3–4:30pm London, virtual Please join us on 3/24 at 11am–1pm Boston / 8–10am Oakland / 3–5pm London, for the workshop \"AI for Text Analysis with Python Using BERT and Te",
       "link": "https://calendar.northeastern.edu/event/ai-for-text-analysis",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Living Off Campus Information Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "During a Living Off Campus information sessions, you will learn the ins and outs of living off campus. We will review the apartment search process, renter’s rights, highlight city and community resources, and share engagement opportunities.",
+      "link": "https://calendar.northeastern.edu/event/living-off-campus-information-session-8705",
       "time": "TBD",
       "location": ""
     },
@@ -684,6 +1173,26 @@
     },
     {
       "date": "2026-03-26",
+      "title": "CSSH Undergraduate Research Forum",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Students from across CSSH majors present independent research projects on faculty-moderated panels.",
+      "link": "https://calendar.northeastern.edu/event/cssh-undergraduate-research-forum-2507",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Jason Yust: Antiblackness in Foundational Music Theory Concepts: Tonality, Meter, Rock Music",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "A primary function of music theory is to establish and maintain the concepts that shape how we think about music, concepts that shape composition, performance, analysis, criticism, and scientific research. One of the bedrock concepts of music theory, tonality, is historically steeped in white suprem",
+      "link": "https://calendar.northeastern.edu/event/jason-yust-antiblackness-in-foundational-music-theory-concepts-tonality-meter-rock-music",
+      "time": "TBD",
+      "location": "Ryder"
+    },
+    {
+      "date": "2026-03-26",
       "title": "CS Colloquium Series - Haoqi Zhang (Northwestern)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -691,6 +1200,85 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-haoqi-zhang-northwestern",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Lab-to-Launch Lounge",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Hear from the Harvard PhD Lightsynq founders on spinning out breakthrough diamond photonics research into a company that's solving how to connect quantum computers together, making data-center-scale quantum computing and the quantum internet possible. For full details: https://www.grid.harvard.edu/e",
+      "link": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-8027",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-26",
+      "title": "A Fresh Start for Our Cities — Bill McKibben",
+      "source": "Harvard GSD",
+      "tag": "talk",
+      "desc": "Renewable energy transforming the built environment.",
+      "link": "https://www.gsd.harvard.edu/",
+      "time": "Evening"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "BSO Community Chamber Concert",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Violinists Julianne Lee and Samuel Andonian, violists Danny Kim and Rebecca Gitter, cellist Owen Young, and double bassist Thomas Van Dyck will perform the following: J.S. BACH Ricercar a 6 from A Musical Offering, BWV 1079 (8) George WALKER Lyric, for strings (7) Antonín DVOŘÁK String Quintet No. 2",
+      "link": "https://calendar.northeastern.edu/event/bso-community-chamber-concert-9067",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-03-27",
+      "title": "Joel Thornton, University of Washington",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/joel-thornton-university-of-washington",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Harvard VC Group Entrepreneurship Summit",
+      "source": "Harvard",
+      "tag": "startup",
+      "desc": "VC and entrepreneurship summit. The Newbury Boston.",
+      "link": "https://allevents.in/boston/entrepreneurship",
+      "time": "9:00 AM",
+      "pick": true,
+      "pickNote": "VC networking — how hardware gets funded"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Faculty Works in Progress: Global Fellows Presentations",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Members of the Humanities Center Global Fellowship will be presenting their work as it relates to the topic of “Unsettling,” with the following Fellows presenting on the topics below: Caleb Gayle Heirs to a Stolen Harvest Candice Delmas An Ethic of Courtroom Resistance Mario Hernandez From Occupatio",
+      "link": "https://calendar.northeastern.edu/event/faculty-works-in-progress-global-fellows-presentations",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Wind Ensemble",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Northeastern Wind Ensemble, conducted by Prof Allen Feinstein, will perform at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/wind-ensemble",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Mastering Intelligent Failures — Amy Edmondson",
+      "source": "Harvard HBS",
+      "tag": "talk",
+      "desc": "Prof. Edmondson + CEO of Kraft Analytics. Batten Hall, Hive 301.",
+      "link": "https://events.hbs.edu/",
+      "time": "3:00 PM"
     },
     {
       "date": "2026-04-02",
@@ -704,6 +1292,16 @@
     },
     {
       "date": "2026-04-02",
+      "title": "Dan DiPiero: Big Feelings: Queer and Feminist Indie Rock After Riot Grrrl",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "This talk discusses research from the book Big Feelings about contemporary indie artists such as Soccer Mommy, Indigo De Souza, boygenius, and more. It will discuss the musical and social features of this music, in addition to historical precedents speculations about the future of indie scenes. Dan ",
+      "link": "https://calendar.northeastern.edu/event/dan-dipiero-big-feelings-queer-and-feminist-indie-rock-after-riot-grrrl",
+      "time": "TBD",
+      "location": "Ryder"
+    },
+    {
+      "date": "2026-04-02",
       "title": "CS Colloquium Series - Ashia Wilson (MIT)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -711,6 +1309,66 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-ashia-wilson-mit",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Beyond the Cradle: Envisioning a New Space Age",
+      "source": "MIT Media Lab",
+      "tag": "talk",
+      "desc": "10th annual space event. MIT Media Lab, E14, 6th Floor.",
+      "link": "https://www.media.mit.edu/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Imagination in Action AI Summit",
+      "source": "MIT Media Lab",
+      "tag": "ai",
+      "desc": "AI leaders + researchers at MIT Media Lab.",
+      "link": "https://www.imaginationinaction.co/",
+      "time": "All Day",
+      "pick": true,
+      "pickNote": "AI leaders at MIT Media Lab — high-caliber networking"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "NU Choral Society 4/10 Performance",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Northeastern Choral Society, conducted by Prof. Katherine Chan, will perform April 10th, at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/nu-choral-society-410-performance",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Kang Sun, University at Buffalo",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/kang-sun-university-at-buffalo",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "NU Choral Society 4/11 Performance",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Northeastern Choral Society, conducted by Prof. Katherine Chan, will perform April 11th, at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/nu-choral-society-411-performance",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-11",
+      "title": "NU Symphony Orchestra ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Northeastern Symphony Orchestra, conducted by Prof. Allison Betsold and Prof. Allen Feinstein, will perform at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/nu-symphony-orchestra",
+      "time": "TBD",
+      "location": "Fenway Center"
     },
     {
       "date": "2026-04-11",
@@ -724,10 +1382,30 @@
     },
     {
       "date": "2026-04-13",
+      "title": "Pop Music Performance",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Tisha Stadnicki will direct the Pop Music Performance at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/pop-music-performance",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "World Music Ensemble",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Northeastern World Music Ensemble, directed by Prof. Fernando Heurgo, director, will perform at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/world-music-ensemble",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-13",
       "title": "RAPID + TCT 2026",
       "source": "Conference",
       "tag": "manufacturing",
-      "desc": "North America's largest additive manufacturing event. Boston Convention Center. Academic discounts.",
+      "desc": "North America's largest additive manufacturing event. Boston Convention Center.",
       "link": "https://www.rapid3devent.com/",
       "time": "9:00 AM",
       "pick": true,
@@ -735,14 +1413,64 @@
     },
     {
       "date": "2026-04-14",
+      "title": "The Elephant Moves: The State of India's Economy and Competitiveness",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Center for Emerging Markets will host Dr. Amit Kapoor for a fireside chat on India's economic rise and global competitiveness. As international economic and geopolitical shifts reshape global markets, India's growth has captured unprecedented attention. In conversation with Michael Enright, Kapo",
+      "link": "https://calendar.northeastern.edu/event/the-elephant-moves-the-state-of-indias-economy-and-competitiveness",
+      "time": "TBD",
+      "location": "221 Hayden Hall"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Jazz Choir and Combo",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Tisha Stadnicki will direct a Jazz Choir and Combo performance at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/jazz-choir-and-combo",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Open Mic Concert",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Tisha Stadnicki will direct an Open Mic Workshop performance at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/open-mic-concert",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-14",
       "title": "AeroDef Manufacturing (co-located w/ RAPID)",
       "source": "Conference",
       "tag": "manufacturing",
-      "desc": "Aerospace & defense manufacturing. AI, digital twins, autonomy, supply chain. Boston Convention Center.",
+      "desc": "Aerospace & defense manufacturing. AI, digital twins, autonomy. Boston.",
       "link": "https://www.aerodefevent.com/",
       "time": "9:00 AM",
       "pick": true,
       "pickNote": "Autonomy, AI, digital twins — directly relevant to your career path"
+    },
+    {
+      "date": "2026-04-15",
+      "title": "NULab Hosts the DISKAH Fellows",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "April 15: 10am–12:30pm Boston / 7–9:30am Oakland / 3–5:30pm London, hybrid in London in Devon House 104 or on Zoom This hybrid event will bring together the five current Fellows of the UK-wide Digital Skills in the Arts and Humanities (DISKAH) network to present their projects to faculty and student",
+      "link": "https://calendar.northeastern.edu/event/diskah-fellows",
+      "time": "TBD",
+      "location": "London, Devon House 104"
+    },
+    {
+      "date": "2026-04-15",
+      "title": "Jazz Ensemble",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Joel LaRue Smith will direct the Northeastern Jazz Ensemble's performance at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/jazz-ensemble-5700",
+      "time": "TBD",
+      "location": "Fenway Center"
     },
     {
       "date": "2026-04-16",
@@ -756,6 +1484,16 @@
     },
     {
       "date": "2026-04-16",
+      "title": "Blues/Rock, Rock and Fusion Ensembles",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Junauro Landgrebe will direct the Blues/Rock, Rock and Fusion Ensembles at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/bluesrock-rock-and-fusion-ensembles-6046",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-16",
       "title": "CS Colloquium Series - Sushant Sachdeva (U Toronto)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -763,6 +1501,35 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-sushant-sachdeva-u-toronto",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Orchestra Chamber Music",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Evan Benett will direct the Northeastern Chamber Orchestra at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/orchestra-chamber-music",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Lessons Program Honors Recital",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Lessons Program Honors Recital will take place from 3:00-10:00pm at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/lessons-program-honors-recital",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "MIT KSC: Innovation in Global Growth Markets",
+      "source": "MIT Sloan",
+      "tag": "startup",
+      "desc": "Entrepreneurship, innovation ecosystems, ethical tech.",
+      "link": "https://mitsloan.mit.edu/ksc/annual-conference",
+      "time": "All Day"
     },
     {
       "date": "2026-04-23",
@@ -779,11 +1546,11 @@
       "title": "National Drone Safety Day",
       "source": "FAA",
       "tag": "drones",
-      "desc": "FAA-sponsored: fly-ins, STEM demos, pilot training. Events nationwide.",
+      "desc": "FAA-sponsored: fly-ins, STEM demos, pilot training nationwide.",
       "link": "https://www.thedronegirl.com/2026/02/06/2026-drone-events/",
       "time": "All Day",
       "pick": true,
-      "pickNote": "You have your Part 107. Show up, fly, network with commercial operators"
+      "pickNote": "You have your Part 107. Show up, fly, network"
     },
     {
       "date": "2026-04-29",
@@ -796,22 +1563,42 @@
       "location": "Student Organization Center at Hilles (SOCH)"
     },
     {
+      "date": "2026-05-01",
+      "title": "NULab Spring Conference 2026",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "May 1: 10:30am–3pm Boston / 7:30am–12:00pm Oakland / 3:30–8:00pm London, virtual Please join us for the ninth annual NULab spring conference, featuring talks by Northeastern faculty, staff, students, and collaborators about their work in computational social science and digital humanities. This year",
+      "link": "https://calendar.northeastern.edu/event/nulab-conference-2026",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Eric Kort, University of Michigan ",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/eric-kort-university-of-michigan",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
       "date": "2026-05-11",
       "title": "AUVSI XPONENTIAL 2026",
       "source": "AUVSI",
       "tag": "drones",
-      "desc": "World's largest unmanned systems conference. 8,500+ experts. Startup pavilion. Detroit, MI.",
+      "desc": "World's largest unmanned systems conf. 8,500+ experts. Detroit, MI.",
       "link": "https://xponential.org/",
       "time": "All Day",
       "pick": true,
-      "pickNote": "World's largest unmanned systems conf. Worth the Detroit trip"
+      "pickNote": "World's largest unmanned systems conf. Worth the trip"
     },
     {
       "date": "2026-05-22",
       "title": "DroneArt Show Boston",
       "source": "Event",
       "tag": "drones",
-      "desc": "Candlelit concert + synchronized drone show. Ohiri Field, 95 N Harvard St.",
+      "desc": "Candlelit concert + drone show. Ohiri Field, 95 N Harvard St.",
       "link": "https://thedroneartshow.com/boston/",
       "time": "Evening"
     },
@@ -820,18 +1607,18 @@
       "title": "Robotics Summit & Expo — Day 1",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "6,000+ devs. 50+ sessions, 250+ exhibitors, live demos, RBR50 Awards. Boston Convention Center.",
+      "desc": "6,000+ devs, 50+ sessions, 250+ exhibitors. Boston Convention Center.",
       "link": "https://www.roboticssummit.com/",
       "time": "9:00 AM",
       "pick": true,
-      "pickNote": "THE MUST-ATTEND. Block these dates NOW. Email for academic discount"
+      "pickNote": "THE MUST-ATTEND. Block these dates NOW"
     },
     {
       "date": "2026-05-28",
       "title": "Robotics Summit & Expo — Day 2",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "Women in Robotics Breakfast 8am. Keynotes, career fair, networking. Boston Convention Center.",
+      "desc": "Women in Robotics Breakfast 8am. Career fair, networking.",
       "link": "https://www.roboticssummit.com/",
       "time": "8:00 AM",
       "pick": true,
@@ -842,7 +1629,7 @@
       "title": "Automate 2026",
       "source": "Conference",
       "tag": "manufacturing",
-      "desc": "Premier robotics + automation + smart manufacturing show. Chicago, IL.",
+      "desc": "Premier robotics + automation show. Chicago, IL.",
       "link": "https://www.automateshow.com/",
       "time": "All Day",
       "pick": true,
@@ -853,7 +1640,7 @@
       "title": "Commercial UAV Expo",
       "source": "Conference",
       "tag": "drones",
-      "desc": "Leading international commercial UAS trade show. Las Vegas.",
+      "desc": "Leading commercial UAS trade show. Las Vegas.",
       "link": "https://www.expouav.com/",
       "time": "All Day"
     },
@@ -862,7 +1649,7 @@
       "title": "BioProcess International",
       "source": "Conference",
       "tag": "manufacturing",
-      "desc": "3,200+ scientists. Biopharmaceutical manufacturing. Hynes Convention Center, Boston.",
+      "desc": "3,200+ scientists. Biopharmaceutical manufacturing. Hynes, Boston.",
       "link": "https://informaconnect.com/bioprocessinternational/",
       "time": "All Day"
     },
@@ -871,11 +1658,11 @@
       "title": "Tough Tech Summit 2026",
       "source": "The Engine",
       "tag": "startup",
-      "desc": "Deep tech founders, investors. Robotics, energy, hard science. Hotel Commonwealth, Boston.",
+      "desc": "Deep tech founders, investors. Hotel Commonwealth, Boston.",
       "link": "https://engine.xyz/toughtechsummit",
       "time": "All Day",
       "pick": true,
-      "pickNote": "Deep tech founders and investors. The Engine was spun out of MIT"
+      "pickNote": "Deep tech founders and investors. Spun out of MIT"
     },
     {
       "date": "TBD",
@@ -890,16 +1677,43 @@
       "date": "TBD",
       "title": "Visual Computing Seminar: TBA",
       "source": "MIT CSAIL",
-      "tag": "talk",
+      "tag": "ai",
       "desc": "Abstract:TBA",
       "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-0",
       "time": "TBD"
     },
     {
       "date": "TBD",
+      "title": "CSAIL Forum with Pulkit Agrawal: Force Intelligence: The Missing Ingredient for Scalable Real-World Autonomy",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Virtual event, registration required",
+      "link": "https://www.csail.mit.edu/event/csail-forum-pulkit-agrawal-force-intelligence-missing-ingredient-scalable-real-world-autonomy",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Upper and Lower Bounds for the Linear Ordering Principle",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Hewlett",
+      "link": "https://www.csail.mit.edu/event/upper-and-lower-bounds-linear-ordering-principle",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CSAIL Forum with Saman Amarasinghe",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "virtual event, registration required",
+      "link": "https://www.csail.mit.edu/event/csail-forum-saman-amarasinghe",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "HCI Seminar - Andy Matuschak - Apps and programming: two accidental tyrannies",
       "source": "MIT CSAIL",
-      "tag": "talk",
+      "tag": "ai",
       "desc": "Abstract:One of the personal computer revolution’s grandest dreams was that we'd all have not only our own computers, but that we’d also create our own dynamic media, exquisitely tuned to our own purposes. Instead, we got apps. We got one-size-fits-all silos, composable only where pre-specified.Mean",
       "link": "https://www.csail.mit.edu/event/hci-seminar-andy-matuschak-apps-and-programming-two-accidental-tyrannies",
       "time": "TBD"
@@ -908,7 +1722,7 @@
       "date": "TBD",
       "title": "Interdiction problems and 2-person sequential games: beyond NP-completeness",
       "source": "MIT CSAIL",
-      "tag": "talk",
+      "tag": "ai",
       "desc": "AbstractIn the Knapsack Problem (KP), a decision maker wants to select items of value V or more to put into a knapsack subject to a weight limit.&nbsp; In the Interdiction Knapsack Problem (IKP), an adversary can block K items from being selected.&nbsp; The adversary’s goal is to prevent the decisio",
       "link": "https://www.csail.mit.edu/event/interdiction-problems-and-2-person-sequential-games-beyond-np-completeness",
       "time": "TBD"
@@ -924,11 +1738,119 @@
     },
     {
       "date": "TBD",
+      "title": "Events Search and Views Navigation",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Events help us connect our community of entrepreneurs & startups, enterprise companies, government and academia. MassRobotics hosts a variety of informational, educational and networking events focused on robotics, artificial intelligence, drones, autonomous vehicles and more. We are regularly addin",
+      "link": "https://www.massrobotics.org",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Event Views Navigation",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/month/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Events",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "M Monday",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics is supporting AlleyCorp’s invite-only Deep Tech New York (DTNY) conference on January 28, 2026 at Newlab (Brooklyn Navy Yard)—bringing together 300+ leading founders, researchers, and investors across robotics, space, biotech, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-01-28/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "T Tuesday",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "W Wednesday",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "T Thursday",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "F Friday",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "S Saturday",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "S Sunday",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Deep Tech New York Conference",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics is supporting AlleyCorp’s invite-only Deep Tech New York (DTNY) conference on January 28, 2026 at Newlab (Brooklyn Navy Yard)—bringing together 300+ leading founders, researchers, and investors across robotics, space, biotech, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-01-28/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Physical AI Working Group",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "AWS presentation on modern tools for robotics A team of AWS prototyping engineers will give a primer on: Foundation models for manipulation and end-to-end learning Refinement of models Data annotation […]",
-      "link": "https://www.massrobotics.org/event/physical-ai-working-group-2/",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-01-29/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MD&M West",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Discover the Automation Sector at MD&M West, where robotics, intelligent systems, and smart technologies come together to transform manufacturing. Explore cutting-edge equipment and solutions built to improve speed, precision, and […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-02-03/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -955,7 +1877,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Physical AI Working group IN-PERSON @ MassRobotics AWS Prototyping group will follow up its virtual tutorial session from January 29th with an in-person visit to MassRobotics. They will show AWS tools that […]",
-      "link": "https://www.massrobotics.org/event/physical-ai-working-group-in-person-massrobotics/",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-02-12/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -964,7 +1886,16 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Resident Brunch at MassRobotics - MassRobotics Resident Only",
-      "link": "https://www.massrobotics.org/event/resident-brunch-at-massrobotics/",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-02-13/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Jumpstart Industry Visits 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Jumpstart Industry Visits - MassRobotics (Private)",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-02-16/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -991,34 +1922,2770 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "MassRobotics Residents Only. Learn about the Associated Network here",
-      "link": "https://www.massrobotics.org/event/associated-network-sponsors-office-hours-social-csc-leasing-cla-social/",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-02-24/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Deep Tech New York Conference",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/deep-tech-new-york-conference/",
+      "title": "Greentown Labs",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Greentown Labs prides itself on being a convener of the climatetech ecosystem, both within and across the cities we call home. Join us at an upcoming event to explore all things climate action, collaboration, and innovation!",
+      "link": "#primary",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "MD&M West",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/mdm-west/",
+      "title": "February Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Network with the best of the best in Houston's climatetech and energy ecosystem at this Transition on Tap with TotalEnergies!",
+      "link": "https://greentownlabs.com/event/feb-2026-transition-on-tap/",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Jumpstart Industry Visits 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
+      "title": "Renewable Energy Systems Showcase and Networking",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a showcase and networking event celebrating the innovators driving the clean-energy transition!",
+      "link": "https://greentownlabs.com/event/renewable-energy-systems-networking/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Intern Fair",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The climate and energy workforce is hiring!",
+      "link": "https://greentownlabs.com/event/climatetech-intern-fair-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2026 Cleantech Open Northeast Boston Kickoff Party",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for an evening of food, drink, celebration, and opportunity!",
+      "link": "https://greentownlabs.com/event/2026-ctone-boston-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CERAWeek Networking at Greentown Houston",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Celebrate the biggest week in energy with the world's best climate and energy entrepreneurs!",
+      "link": "https://greentownlabs.com/event/ceraweek-networking/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2026 MIT Energy Conference",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "EMPOWER TOMORROW: ENGAGE, INNOVATE, CONNECT AT MIT'S PREMIER ENERGY CONFERENCE",
+      "link": "https://greentownlabs.com/event/2026-mit-energy-conference/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "World Hydrogen & Carbon Americas",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Accelerating Solutions to Our Planet's Biggest Challenges",
+      "link": "https://greentownlabs.com/event/world-hydrogen-carbon-americas/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ClimateWork Maine Summit 2026",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Convening more than 500 business, public, and NGO leaders focused on climate action in Maine!",
+      "link": "https://greentownlabs.com/event/climatework-maine-summit-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CERAWeek 2026: Convergence and Competition: Energy, Technology and Geopolitics",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Convening more than 500 business, public, and NGO leaders focused on climate action in Maine!",
+      "link": "https://greentownlabs.com/event/ceraweek-2026-convergence-and-competition-energy-technology-and-geopolitics/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2026 Energy Venture Day and Pitch Competition",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Convening more than 500 business, public, and NGO leaders focused on climate action in Maine!",
+      "link": "https://greentownlabs.com/event/2026-energy-venture-day-and-pitch-competition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CATALYZE 2026",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
+      "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Decarb Connect North America",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Accelerating Solutions to Our Planet's Biggest Challenges",
+      "link": "https://greentownlabs.com/event/decarb-connect-north-america/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Looking Ahead Together",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for the first EnergyBar of 2026!",
+      "link": "https://greentownlabs.com/event/energybar-looking-ahead-together/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Go Make 2026 Informational Webinar",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Learn how your startup can work with Shell and Technip Energies through Go Make 2026!",
+      "link": "https://greentownlabs.com/event/go-make-2026-informational-webinar/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACWA Power Innovation Days 2026",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Convening more than 500 business, public, and NGO leaders focused on climate action in Maine!",
+      "link": "https://greentownlabs.com/event/acwa-power-innovation-days-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cleantech Forum North America",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
       "desc": "",
-      "link": "https://www.massrobotics.org/event/jumpstart-industry-visits-2026/",
+      "link": "https://greentownlabs.com/event/cleantech-forum-north-america/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "European Innovation Spotlight",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Meet 15 of the hottest European climatetech startups supported by the European Innovation Council!",
+      "link": "https://greentownlabs.com/event/european-innovation-spotlight/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative Year 5 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Meet the startups shaping the future of carbontech and kick off Year 5 of the Carbon to Value Initiative!",
+      "link": "https://greentownlabs.com/event/carbon-to-value-initiative-year-5-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Resiliency + Adaptation Sector Pitch Day",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Exploring technologies designed to protect communities, critical infrastructure, and natural systems",
+      "link": "https://greentownlabs.com/event/resilience-adaptation-sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Volta Foundation Battery Social",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join Volta Foundation for an evening of networking and tech talks at Greentown Labs!",
+      "link": "https://greentownlabs.com/event/volta-foundation-battery-social/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Innovation Awards",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Celebrate the best and brightest in Houston innovation!",
+      "link": "https://greentownlabs.com/event/houston-innovation-awards/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Summit 2025",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Step into our incubators for a day of hands-on exploration of climatetech solutions from 200+ startups, insightful keynotes and discussions with industry leaders, and unparalleled networking opportunities!",
+      "link": "https://greentownlabs.com/event/climatetech-summit-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Founders Networking Breakfast",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Wrap up Tough Tech Week at Greentown Labs!",
+      "link": "https://greentownlabs.com/event/climatetech-founders-networking-breakfast/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "M-Lab Ignite 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/m-lab-ignite-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "VERGE at Trellis Impact 25",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Accelerating Solutions to Our Planet's Biggest Challenges",
+      "link": "https://greentownlabs.com/event/trellis-impact-25/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2025 Green Future Gala",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join ACT for their Green Future Gala",
+      "link": "https://greentownlabs.com/event/2025-green-future-gala/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MarComm Strategies for Attracting Investors, Customers, & Partners",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join FischTank PR and Greentown Labs on during Climate Week NYC!",
+      "link": "https://greentownlabs.com/event/marcomm-strategies-for-attracting-investors-customers-partners/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Labs Startup Showcase at Climate Week NYC",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join Greentown Labs at the SOSV Biome during Climate Week NYC for a showcase of our groundbreaking member startups!",
+      "link": "https://greentownlabs.com/event/greentown-startup-showcase-climate-week-nyc/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Urban Playground: Climate Innovation in our Cities",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join Climate Salon during Climate Week NYC!",
+      "link": "https://greentownlabs.com/event/urban-playground-climate-salon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "U.S. Clean Energy & Industrial Innovation – Report Launch & Climate Week Kick-Off",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Bringing together the people and insights powering the Net Zero economy.",
+      "link": "https://greentownlabs.com/event/net-zero-insights-report-launch-climate-week-kick-off/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACCEL Year 3 Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us for a celebration of the eight startups in our ACCEL program, sponsored by Wilson Sonsini Goodrich & Rosati!",
+      "link": "https://greentownlabs.com/event/accel-year-3-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "From Local to Global: Helping Climatetech Startups Succeed Internationally",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us for a panel discussion on helping startups expand abroad!",
+      "link": "https://greentownlabs.com/event/from-local-to-global-helping-climatetech-startups-succeed-internationally/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Energy and Climate Startup Week 2025",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us this fall in Houston, where energy meets climate innovation!",
+      "link": "https://greentownlabs.com/event/houston-energy-and-climate-startup-week-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Career Fair 2025",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Learn about career opportunities with our community of world-changing climatetech startups!",
+      "link": "https://greentownlabs.com/event/climatetech-career-fair-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "August Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us in toasting to the summer at this Transition On Tap, which will feature remarks from Greentown's new Head of Houston!",
+      "link": "https://greentownlabs.com/event/august-transition-on-tap-4/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Angel Investing 101: Valuation and Term Sheets",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Learn the basics of sourcing and vetting deals with Urban Capital Network!",
+      "link": "https://greentownlabs.com/event/angel-investing-101-valuation-and-term-sheets/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Summer Rooftop Party",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for another summer edition of our signature networking event, put on in partnership with TSK Associates!",
+      "link": "https://greentownlabs.com/event/energybar-summer-rooftop-party-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Out in Climate Boston - Annual Pride Mixer",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Out in Climate connects and elevates LGBTQ+ professionals advancing climate solutions.",
+      "link": "https://greentownlabs.com/event/out-in-climate-boston-pride-mixer/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Co_Invest Climate 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Evergreen Climate Innovations' annual flagship event!",
+      "link": "https://greentownlabs.com/event/co-invest-climate-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building Tech Forum",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Accelerating Change in the Built Environment",
+      "link": "https://greentownlabs.com/event/building-tech-forum-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Angel Investing 101: Due Diligence",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Learn the basics of sourcing and vetting deals with Urban Capital Network!",
+      "link": "https://greentownlabs.com/event/angel-investing-101-due-diligence/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RNG & SAF Capital Markets Summit",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us this fall in Houston, where energy meets climate innovation!",
+      "link": "https://greentownlabs.com/event/rng-saf-capital-markets-summit/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Green Pathways Symposium: Careers & Connections for a Sustainable Future",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Boosting green workforce access, fostering collaboration, and sparking actionable connections!",
+      "link": "https://greentownlabs.com/event/green-pathways-symposium/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Energy Summit 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Explore the Future of the Energy Transition at Energy Summit 2025",
+      "link": "https://greentownlabs.com/event/energy-summit-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Angel Investing 101: Sourcing and Vetting Deals",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Learn the basics of sourcing and vetting deals with Urban Capital Network!",
+      "link": "https://greentownlabs.com/event/angel-investing-101-sourcing-and-vetting-deals/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "June Transition On Tap: New Member Spotlight",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Hear pitches from some of Greentown Labs' newest startup members while you beat the heat!",
+      "link": "https://greentownlabs.com/event/june-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Resilient Power Fueling Houston's Growing Economy",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join Houston's energy leadership community for a day focused on resilient power, ft. our CEO Georgina Campbell Flatter!",
+      "link": "https://greentownlabs.com/event/resilient-power-fueling-houstons-growing-economy/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: FOAK Climatetech Opportunities in Canada",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for a panel highlighting first-of-a-kind (FOAK) climatetech projects in Canada, featuring notable Greentown alumni.",
+      "link": "https://greentownlabs.com/event/june-energybar-2025-foak-canada/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CHARGE North America",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "A leading event for energy industry professionals and forward-thinking experts looking to gain insights, inspiration, and valuable connections.",
+      "link": "https://greentownlabs.com/event/charge-north-america/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Angel Investing 101: Introduction to Angel Investing",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Learn the basics of angel investing with Urban Capital Network!",
+      "link": "https://greentownlabs.com/event/angel-investing-101-introduction-to-angel-investing/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Renewables UnWind Houston",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Mingle with top industry professionals in a relaxed, vibrant atmosphere. Whether you’re building partnerships, expanding your network, or just looking to unwind, this is the event you won’t want to miss.",
+      "link": "https://greentownlabs.com/event/renewables-unwind-houston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Manufacturing Sector Networking",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Connect with Greentown startups innovating in the manufacturing sector during this evening of networking!",
+      "link": "https://greentownlabs.com/event/manufacturing-sector-networking/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Activation Series: Insights, Pitches, & Due Diligence",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for a series designed for investors interested in the climatetech and manufacturing sectors!",
+      "link": "https://greentownlabs.com/event/investor-activation-series-at-greentown-houston-insights-pitches-due-diligence/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Earth Night 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/earth-night-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Tech in the City",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climate-tech-in-the-city-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Houston Fourth Anniversary Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "​Greentown Houston launched in April 2021, and we welcome you to join us as we celebrate four years!",
+      "link": "https://greentownlabs.com/event/greentown-houston-4th-anniversary-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Unpitch Summit",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/the-unpitch-summit/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "FORGE Spring Showcase: Celebrating 10 Years of Impact",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/forge-spring-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MIT Climate and Energy Prize Grand Finals Networking Reception",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a networking reception ahead of the MIT Climate and Energy Prize Grand Final!",
+      "link": "https://greentownlabs.com/event/mit-climate-and-energy-prize-grand-finals-networking-reception-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "56th Boston Hardware Meetup",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us to get an inside take on what it's like to turn cutting edge science into hardened tech!",
+      "link": "https://greentownlabs.com/event/56-boston-hardware-meetup/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: New Member Spotlight",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Meet and hear pitches from some of Greentown Labs' newest startup members at our signature networking event!",
+      "link": "https://greentownlabs.com/event/energybar-new-member-spotlight-3/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative Year 4 Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/c2v-year-4-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Scaling First-of-a-Kind Cleantech with Next Rung Technology!",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "This AIChE-Boston Meeting will focus on scaling First-of-a-Kind sustainable technologies for carbon capture and industrial wastewater cleanup",
+      "link": "https://greentownlabs.com/event/scaling-foak-with-next-rung/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2025 Cleantech Open Northeast Boston Kickoff Party",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for an evening of food, drink, celebration and opportunity!",
+      "link": "https://greentownlabs.com/event/2025-ctone-kickoff-party/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "H-Town Roundup 2025",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "H-Town Roundup will gather the brightest minds, innovative ideas, and impactful startups from across the city, the region and beyond.",
+      "link": "https://greentownlabs.com/event/h-town-roundup-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CERAWeek Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Featuring opening remarks from our new CEO Georgina Campbell Flatter!",
+      "link": "https://greentownlabs.com/event/ceraweek-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CERAWeek Innovation Agora 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Catch our new CEO, new board chair, and members and alumni at Innovation Agora this year!",
+      "link": "https://greentownlabs.com/event/ceraweek-innovation-agora-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CERAWeek 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/ceraweek-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Innovation Across Markets",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/innovate-uk-climatetech-innovation-across-markets/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACCEL Year 3 Kickoff Event",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Kick off Year 3 of our accelerator program for BIPOC-led startups!",
+      "link": "https://greentownlabs.com/event/accel-year-3-kickoff-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2025 MIT Energy Conference",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Empower Tomorrow: Engage, Innovate, Connect at MIT's Premier Energy Conference",
+      "link": "https://greentownlabs.com/event/2025-mit-energy-conference/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Decarb Connect North America 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "At Decarb Connect North America, the goal is simple, to gather 300+ of the essential stakeholders in the ecosystem to tackle the most pressing challenges and explore new opportunities in industrial decarbonization. Based on extensive research with decarbonization leaders in steel, cement, chemicals,",
+      "link": "https://greentownlabs.com/event/decarb-connect-north-america-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Salon: The \"Other\" Footprints",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Take a step back to explore innovations that help us adapt to, mitigate, or reduce our effects on various footprints.",
+      "link": "https://greentownlabs.com/event/climate-salon-other-footprints/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Massachusetts Founders Network Sustainability Challenge",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "See pitches from the five finalists competing in this culminating event!",
+      "link": "https://greentownlabs.com/event/massachusetts-founders-network-sustainability-challenge/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Kicking Off 2025",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Featuring remarks from our new, incoming CEO Georgina Campbell Flatter!",
+      "link": "https://greentownlabs.com/event/energybar-kicking-off-2025/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Canary Live Houston",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join Houston's climate community for an evening of exper insights, networking, drinks, and hors d'oevres!",
+      "link": "https://greentownlabs.com/event/canary-live-houston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACT's Direct Air Capture Academy Finale",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join ACT to celebrate the seven graduates of the inaugural Direct Air Capture Academy!",
+      "link": "https://greentownlabs.com/event/act-dac-finale/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Celebrating a Year of Climate Action",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for an end of year celebration!",
+      "link": "https://greentownlabs.com/event/energybar-celebrating-year-of-climate-action/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition-AI 2024",
+      "source": "Greentown Labs",
+      "tag": "ai",
+      "desc": "Transition-AI 2024 is designed for leaders and practitioners responsible for innovation, strategy, technology, security, and product development within the energy and utilities sectors.",
+      "link": "https://greentownlabs.com/event/transition-ai-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Energy-sector Networking",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us on Tuesday, Nov. 19 for an evening of networking with Greentown startups in the energy sector.",
+      "link": "https://greentownlabs.com/event/energy-sector-networking/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Massachusetts Climatetech Studio Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The Massachusetts Climatetech Studio, powered by MassCEC and FedTech, invites you to the showcase event for its inaugural cohort.",
+      "link": "https://greentownlabs.com/event/massachusetts-climatetech-studio/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Keeping Services Running",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Climatetech Solutions for Continuity of Operations",
+      "link": "https://greentownlabs.com/event/keeping-services-running-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Symposium 2024",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join HBS for Climate Symposium 2024 on Nov 1-2, exploring \"Confronting Reality, Celebrating Innovation.\" Don't miss it!",
+      "link": "https://greentownlabs.com/event/climate-symposium-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "VERGE: Deploying Climate Tech at Scale",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "VERGE 24 is the center of gravity for professionals catalyzing transformative, profitable change through deploying climate tech at scale. Join more than 6,000 leaders from across the climate tech ecosystem to accelerate the speed and scale of your impact.",
+      "link": "https://greentownlabs.com/event/verge-24/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Summit 2024",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Now in its fifth year, the Greentown Labs Climatetech Summit is the ultimate celebration of climate-focused entrepreneurship and innovation. We’re inviting you into our Houston, TX and Boston, MA incubators for a day of hands-on exploration with our 200+ startups and their climatetech solutions.",
+      "link": "https://greentownlabs.com/event/climatetech-summit-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "College to Climate Fall 2024 Symposium",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join College to Climate to learn what opportunities exist for young people in climate, network with like-minded students and climate professionals, and kick-start your career in climate.",
+      "link": "https://greentownlabs.com/event/college-to-climate-fall-2024-symposium/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Fireside Chat with Boston's Green New Deal Director",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Out in Climate, an organization connecting LGBTQ+ professionals in climate and sustainability, is hosting a Fireside Chat with Boston's Green New Deal Director.",
+      "link": "https://greentownlabs.com/event/out-in-climate-fireside-chat/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2024 Cleantech Open Northeast Regional Finals Awards & Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us for an afternoon and evening of live pitching, awards, and showcasing to honor the 2024 Cleantech Open Northeast cohort!",
+      "link": "https://greentownlabs.com/event/2024-cleantech-open-northeast-boston-regional-finals/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building a Climatetech Brand That Gets Noticed",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join FischTank PR and Greentown Labs on Tuesday, Sept. 24 during NYC Climate Week!",
+      "link": "https://greentownlabs.com/event/building-a-climatetech-brand-that-gets-noticed/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2024 NECEC Green Future Gala",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "NECEC’s Green Future Gala is an impactful gathering of over 800 climate economy champions, including influential policymakers, dedicated activists, transformative corporate leaders, and innovative startups.",
+      "link": "https://greentownlabs.com/event/2024-necec-green-future-gala/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative Year 4 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us virtually or at Greentown Houston on Thursday, September 19 to celebrate the kickoff of Year 4 of the Carbon to Value Initiative!",
+      "link": "https://greentownlabs.com/event/carbon-to-value-initiative-year-4-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transatlantic Cleantech Summit",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The 2024 Transatlantic Cleantech Summit will convene 200+ industry leaders, climate tech investors, innovators, and policymakers from both sides of the Atlantic to explore success stories and roadblocks in scaling cleantech.",
+      "link": "https://greentownlabs.com/event/transatlantic-cleantech-summit/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Impact Awards Dinner",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Close out the inaugural Houston Energy and Climate Startup Week with Greentown Houston’s first-ever Climate Impact Awards Dinner!",
+      "link": "https://greentownlabs.com/event/climate-impact-awards-dinner/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Career Fair",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Learn about career opportunities with our Boston-based community of world-changing climatetech startups!",
+      "link": "https://greentownlabs.com/event/climatetech-career-fair-24/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Innovation Festival: Stories from Schools to Startups",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "As part of the inaugural Houston Energy and Climate Startup Week, join Greentown to recognize and celebrate the impact of startups and universities in mitigating climate change and building resilient communities.",
+      "link": "https://greentownlabs.com/event/climatetech-innovation-festival-stories-from-schools-to-startups/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Energy and Climate Startup Week",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "The Sept. 9-13 event will bring together leading energy and climate venture capital investors, industry leaders and startups from around the world where they will showcase the most innovative and promising companies and technologies that are transforming the energy industry while driving a sustainab",
+      "link": "https://greentownlabs.com/event/houston-energy-and-climate-startup-week/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACCEL Year 2 Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us to celebrate the seven startups in the ACCEL program, an accelerator for BIPOC-led startups in collaboration with Browning the Green Space!",
+      "link": "https://greentownlabs.com/event/accel-year-2-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Education Workshop: Impact Investing",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us at Greentown Houston on August 27th for the final workshop of the Houston Ion District Investor Activation Program!",
+      "link": "https://greentownlabs.com/event/investor-education-workshop-impact-investing/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Energy and Climate Startup Week Preview Happy Hour",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join Halliburton Labs, Greentown Labs, the Houston Energy Transition Initiative, Ion, and the Rice Alliance for Technology and Entrepreneurship for an informational and networking happy hour.",
+      "link": "https://greentownlabs.com/event/houston-energy-and-climate-startup-week-preview-happy-hour/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Growth-Stage VC: Behind the Dealmaking Curtain",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join Greentown Labs at The Ion for the next workshop in the Houston Ion District Investor Activation Program! In this session, we’ll be learning from our friends at Vinson & Elkins about a real growth-stage venture capital deal that they recently advised on.",
+      "link": "https://greentownlabs.com/event/growth-stage-vc-behind-the-dealmaking-curtain/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Digital With Purpose Global Summit 2024",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Recognized globally as one of the most sustainable and intelligent cities, Cascais provides an inspiring canvas for an event that seeks to explore the nexus of technology and sustainability. Meet us during the 9, 10 and 11 of July in Cascais.",
+      "link": "https://greentownlabs.com/event/digital-with-purpose-global-summit-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Leading the Charge: Investing in the MA Climatetech Ecosystem",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The Corporate Climatetech Coalition invites you to an insightful panel event on the future of the climatetech industry in Massachusetts.",
+      "link": "https://greentownlabs.com/event/leading-the-charge-investing-in-the-ma-climatetech-ecosystem/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Angel Investing: From Pitch Deck to Deal Memo",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us on June 18th for the third workshop of the Houston Ion District Investor Activation Program!",
+      "link": "https://greentownlabs.com/event/climatetech-angel-investing-from-pitch-deck-to-deal-memo/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Pride Month Celebration",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a Pride Month edition of our signature EnergyBar Networking event!",
+      "link": "https://greentownlabs.com/event/energybar-pride-month-celebration/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup Showcase: Circular Economy in the Buildings Sector",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Featuring pitches from the Go Build 2023 cohort, in partnership with Saint-Gobain!",
+      "link": "https://greentownlabs.com/event/startup-showcase-circular-economy-in-the-buildings-sector/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Additive Manufacturing and Sustainability Panel",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Women in 3D printing (Wi3DP) and Greentown Labs are pleased to host a panel conversation on sustainability and diversity in the additive manufacturing (AM) industry.",
+      "link": "https://greentownlabs.com/event/additive-manufacturing-and-sustainability-panel/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Education Workshop: Climatetech Investing 101",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us on May 21 for the second workshop of the Houston Ion District Investor Activation Program!",
+      "link": "https://greentownlabs.com/event/investor-education-workshop-climatetech-investing-101-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Innovating Towards a Sustainable Economy",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Wells Fargo and Greentown Labs are pleased to host a conversation on sustainability and the economy.",
+      "link": "https://greentownlabs.com/event/innovating-towards-a-sustainable-economy/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ELM Earth Night 2024",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/elm-earth-night-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "May Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for this month's Transition on Tap!",
+      "link": "https://greentownlabs.com/event/may-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "NREL Industry Growth Forum",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "In its 29th year, the Industry Growth Forum (IGF) is the premier event for climate tech and cleantech entrepreneurs, investors, and experts from industry and the public sector to build relationships, showcase innovative technologies, and identify disruptive business solutions.",
+      "link": "https://greentownlabs.com/event/nrel-industry-growth-forum/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Imagining Climate Forward 2050",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "​Step into Somerville in 2050, an inspiring community where our collective efforts have triumphed in creating a climate-forward society.",
+      "link": "https://greentownlabs.com/event/imagining-climate-forward-2050/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2024 EarthX E-Capital Summit",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/earthx-e-capital-summit-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Houston Career Fair",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us on April 11 for a career fair with Greentown Houston’s climatetech startups!",
+      "link": "https://greentownlabs.com/event/greentown-houston-career-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Room to Grow: Creating Space for Climatetech",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/room-to-grow/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cleantech Open Houston Kick-Off Event",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join to meet like-minded people, hear interesting ideas, and learn more about Cleantech Open's 2024 Accelerator Program. We'd love to meet!",
+      "link": "https://greentownlabs.com/event/cleantech-open-houston-kick-off/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Introduction to Angel Investing",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us on March 28 for the first workshop of the Houston Ion District Investor Activation Program!",
+      "link": "https://greentownlabs.com/event/introduction-to-angel-investing-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Accelerating Net-Zero Solutions: CCUS Innovation and Startup Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Featuring presentations from the Go Make 2023 Cohort startups, in partnership with Shell",
+      "link": "https://greentownlabs.com/event/go-make-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2024 Cleantech Open Northeast Boston Kickoff Party",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join NECEC and Cleantech Open Northeast for an evening of food, drink, celebration, and opportunity!",
+      "link": "https://greentownlabs.com/event/cleantech-open-northeast-kickoff-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "25th Annual Social Enterprise Conference (SECON)",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "For the conference’s upcoming 25th session, we will bring together top leaders, practitioners, and students to engage in conversations, workshops and networking around empowering narratives and fostering collaboration for sustainable social impact.",
+      "link": "https://greentownlabs.com/event/secon-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building Energy Infrastructure: Lessons from the Big Dig & Where We Go From Here",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join Advanced Energy United & other experts for a discussion on how we successfully build the energy infrastructure needed to achieve 100% clean energy across the U.S.",
+      "link": "https://greentownlabs.com/event/building-energy-infrastructure/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for this month's Transition on Tap sponsored by Baker Botts!",
+      "link": "https://greentownlabs.com/event/march-2024-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Opportunity is Now",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The Environmental League of Massachusetts Advisory Council invites you to join us for an exclusive panel discussion at Mintz in Boston, focused on the transformative potential of the economic development bond.",
+      "link": "https://greentownlabs.com/event/the-opportunity-is-now/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Pitch Preview: Energy Venture Day and Pitch Competition",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "As part of the Energy Venture Day and Pitch Competition , co-hosted by the Rice Alliance, Ion, HETI, and TEX-E, we’re bringing exciting pitches from the 40+ energy ventures competing at the CERAWeek Innovation Agora event on Wednesday, March 20.",
+      "link": "https://greentownlabs.com/event/energy-venture-day-and-pitch-competition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Energy & Electric Vehicle Transitions Symposium",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join Dynamic Sustainability Lab and NECEC for the second session of the Boston Sustainability Symposiums!",
+      "link": "https://greentownlabs.com/event/energy-and-ev-transitions-symposium/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MIT Energy Conference",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The MIT Energy Conference Team is thrilled to extend an invitation to the 2024 MIT Energy Conference: “Short and Long: A Balanced Approach to the Energy Transition,” taking place on March 11 and 12 at The Westin Copley Place, Boston. Join us for two exciting days of deep insights from expert speaker",
+      "link": "https://greentownlabs.com/event/mit-energy-conference/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "SXSW 2024",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The SXSW Conference provides an opportunity for the global community of digital creatives to encounter cutting-edge ideas, discover new interests, and network with other professionals who share a similar appetite for forward-focused experiences.",
+      "link": "https://greentownlabs.com/event/sxsw-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "NECA 2024 Renewable Energy Conference",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "In its 29th year, the Industry Growth Forum (IGF) is the premier event for climate tech and cleantech entrepreneurs, investors, and experts from industry and the public sector to build relationships, showcase innovative technologies, and identify disruptive business solutions.",
+      "link": "https://greentownlabs.com/event/neca-2024-renewable-energy-conference/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACCEL Year 2 Kickoff Event",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Kick off Year 2 of our accelerator program for BIPOC-led startups!",
+      "link": "https://greentownlabs.com/event/accel-kickoff-event-year-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "H-Town Roundup 2024",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join 5,000 innovators, entrepreneurs and tech talent for one global week of innovation, tech and entrepreneurial impact.",
+      "link": "https://greentownlabs.com/event/htown-roundup/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tufts Energy Conference",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The Tufts Energy Conference has a 19-year legacy of bringing together students, academics, public officials, and energy industry professionals for thought-provoking discussions on some of the most critical energy issues of our time.",
+      "link": "https://greentownlabs.com/event/tufts-energy-conference-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Empowerment Through Investment",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us and the Ion District for a Black History Month event celebrating Black Investors in Climatetech!",
+      "link": "https://greentownlabs.com/event/empowerment-through-investment/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "6th Annual INSPIRE STEM Gala",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "In its 29th year, the Industry Growth Forum (IGF) is the premier event for climate tech and cleantech entrepreneurs, investors, and experts from industry and the public sector to build relationships, showcase innovative technologies, and identify disruptive business solutions.",
+      "link": "https://greentownlabs.com/event/6th-annual-inspire-stem-gala/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "North American Energy Insights - The Future of Hydrogen and Industry Challenges",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Emerson invites you to attend a panel on key Hydrogen Industry Insights!",
+      "link": "https://greentownlabs.com/event/north-american-energy-insights/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Hydrogen Industry Networking",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us on Tuesday, February 20 for an afternoon of networking with Greentown startups in the hydrogen industry.",
+      "link": "https://greentownlabs.com/event/hydrogen-sector-networking/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Gulf Coast Clean Hydrogen Market Overview",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/gulf-coast-clean-hydrogen-market-overview/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Sustainability Connect",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/capgemini-business-to-plane/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RaptorCon '24",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/raptor-con-2024/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Kicking Off 2024",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "EnergyBar is Greentown Labs' signature networking event.",
+      "link": "https://greentownlabs.com/event/energybar-2024-kick-off/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CleanTX Houston Chapter Luncheon: Energy Underground",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/cleantx-houston-chapter-luncheon-energy-underground/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: Both Sides of the Coin",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for a celebration of this year’s climate action following our last Investor Speaker Series of 2023!",
+      "link": "https://greentownlabs.com/event/investor-speaker-series/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CCUS Commercial Deployment: What Will It Take To Make It Happen?",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/ccus-commercial-deployment-what-will-it-take-to-make-it-happen/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Manufacturing Sector Pitch Day",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for a pitch day featuring startups innovating to decarbonize the manufacturing sector!",
+      "link": "https://greentownlabs.com/event/manufacturing-sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Pumps & Pipes Annual Event 2023 – Problem XChange: Where Solutions Converge",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/ion-family-stemday/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Circular Economy in the Buildings Sector",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Featuring pitches from the Go Build 2023 finalist startups, in partnership with Saint-Gobain!",
+      "link": "https://greentownlabs.com/event/circular-economy-in-the-buildings-sector/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative Year 3 Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us to celebrate the culmination of the third year of the Carbon to Value Initiative!",
+      "link": "https://greentownlabs.com/event/carbon-to-value-initiative-year-3-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "A Conversation with J. Clay Sell, CEO of X-energy: Redefining Nuclear Energy",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/a-conversation-with-j-clay-sell-ceo-of-x-energy-redefining-nuclear-energy/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Future of Offshore Wind: Innovation + Startup Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Featuring pitches from the Go Energize 2023 Cohort startups, in partnership with Vineyard Wind and MassCEC!",
+      "link": "https://greentownlabs.com/event/the-future-of-offshore-wind-innovation-startup-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Startup Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us to celebrate the culmination of the third year of the Carbon to Value Initiative!",
+      "link": "https://greentownlabs.com/event/houston-startup-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Illuminate Houston - An Innovation Conversation",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us to celebrate the culmination of the third year of the Carbon to Value Initiative!",
+      "link": "https://greentownlabs.com/event/illuminate-houston-an-innovation-conversation/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Ion Family Stem+Day",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us to celebrate the culmination of the third year of the Carbon to Value Initiative!",
+      "link": "https://greentownlabs.com/event/ion-family-stem-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BIPOC Green Career Summit 2023",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Open to those identifying as Black, Indigenous, or a Person of Color pursuing an environmental or sustainability degree or seeking a career in sustainability!",
+      "link": "https://greentownlabs.com/event/bipoc-green-careers-summit/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Summit 2023",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "The Greentown Labs Climatetech Summit is a deep dive into accelerating deployment through collaboration. We’re inviting you into our Houston, TX and Boston, MA incubators for a day of hands-on exploration with our 200+ startups and their climatetech solutions.",
+      "link": "https://greentownlabs.com/event/climatetech-summit-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "NECEC's 14th Annual Green Future Gala",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/necec-green-future-gala/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "VERGE 2023",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "VERGE 23 is the leading climate tech event accelerating solutions to the most pressing challenges of our time. It is the center of gravity for the climate community — leaders from business, government, solution providers and startups — working together to address the climate crisis.",
+      "link": "https://greentownlabs.com/event/verge-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2nd Tejano Tech Summit Week 2023",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join the Ion for a day of panel discussions and fireside chats with startup founders and investors. These subject matter experts will highlight tools, resources, and programs for Latinx founders.",
+      "link": "https://greentownlabs.com/event/2nd-tejano-tech-summit-week-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Beacon Conference 2023",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climate-beacon-conference-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston CDR Happy Hour - Featuring C2V's Year 3 Cohort",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Calling all members of the CDR Community in Houston as we celebrate C2V's Year 3 Cohort!",
+      "link": "https://greentownlabs.com/event/c2v-happy-hour/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Go Make 2023 Kickoff Event",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us virtually or at Greentown Boston on Wednesday, Sept. 27 to celebrate the kickoff of Go Make 2023!",
+      "link": "https://greentownlabs.com/event/go-make-2023-kickoff-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Walk With Us: South Bronx's New Community Air Quality Monitoring",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join South Bronx Unite and QuantAQ during Climate Week NYC for a walking tour!",
+      "link": "https://greentownlabs.com/event/walk-with-us/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Ion District Career Fair and Company Expo",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "In partnership with Capital Factory and Greentown Labs, the Ion is excited to host this year’s Ion District Career Fair.",
+      "link": "https://greentownlabs.com/event/ion-district-career-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Cocktails",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us for Climatetech Cocktails and grab a drink (or two) with best-in-class climatetech founders!",
+      "link": "https://greentownlabs.com/event/climate-tech-cocktails/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACCEL Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us to celebrate the six startups in the ACCEL program, an accelerator for BIPOC-led startups in collaboration with Browning the Green Space!",
+      "link": "https://greentownlabs.com/event/accel-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Venture Houston 2023",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Greentown Labs will be joining HX Venture Fund at Venture Houston 2023 on Sept 7th to engage in a full day of innovation around decarbonization in a digital world.",
+      "link": "https://greentownlabs.com/event/venture-houston-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "University of Houston 2023 Energy Research Day",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Set for August 30, Energy Research Day will be a showcase of outstanding energy-related research by University of Houston graduate and post-doctoral students.",
+      "link": "https://greentownlabs.com/event/uh-energy-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Bridging the Startup and Corporate Divide",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us on Aug. 24 at Greentown Boston for a discussion that will unlock the potential of corporate and startup partnerships in driving climatetech innovation to new heights.",
+      "link": "https://greentownlabs.com/event/bridging-the-startup-and-corporate-divide/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: Celebrating Identity In Angel Investing",
+      "source": "Greentown Labs",
+      "tag": "ai",
+      "desc": "This installment of our Investor Speaker Series will feature insights from angel investors focused on founders from diverse identities.",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-houston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Houston <> MCJ Meetup: Hello's and Farewell's",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "​We're here to say Hello and follow up to the great June event with more regular Houston-MCJ meetups. Bringing together founder-curious people, early stage founders / founding teams, investors and ecosystem partners is where we believe MCJ can have the most impact.",
+      "link": "https://greentownlabs.com/event/mcj-meetup/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Innovation Intersection",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "We’re bringing together experts in the fields of climatetech and public health for a discussion on the convergence of climate and human health at the wet lab bench.",
+      "link": "https://greentownlabs.com/event/innovation-intersection/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Scaling Clean Tech | Operators and Investors",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us for a panel discussion at Greentown Labs in Somerville, MA. Leaders from TDK Ventures, Ascend Elements, AM Batteries, VEIR and Sublime Systems will speak about the challenges and opportunities of scaling clean tech companies in Massachusetts and beyond.",
+      "link": "https://greentownlabs.com/event/scaling-clean-tech-operators-investors/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Entrepreneurship & Elections: A Conversation with Andrew Yang",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us for a Fireside Chat between Andrew Yang, the Asian Chamber of Commerce, and Greentown Lab startups!",
+      "link": "https://greentownlabs.com/event/entrepreneurship-and-election/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition-AI: Boston",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us in-person or online to celebrate the culmination of our Go Make 2022 program! Hear the program cohort speak about their technologies, their work with our corporate partners, and where they are headed next.",
+      "link": "https://greentownlabs.com/event/transition-ai-boston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "FoodHack Boston | Precision Fermentation: Future of Nutrition?",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join FoodHack Boston's meetup for entrepreneurs, professionals, investors and food enthusiasts to network and hear from food industry speakers.",
+      "link": "https://greentownlabs.com/event/foodhack-boston-meetup/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Go Energize 2023 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us to celebrate the kickoff of Go Energize 2023, a Greentown Go startup-corporate partnerships accelerator program focused on decarbonizing our energy system, in partnership with Vineyard Wind and MassCEC.",
+      "link": "https://greentownlabs.com/event/energybar-go-energize-2023-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Houston + BCG X Pitch Day",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/greentown-labs-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative Year 3 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us virtually or at Greentown Boston on Wednesday, May 24 to celebrate the kickoff of Year 3 of the Carbon to Value Initiative!",
+      "link": "https://greentownlabs.com/event/carbon-to-value-initiative-year-3-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Labs + Ion Activation Festival 2023",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/greentown-labs-ion-activation-festival-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ELM Earth Night 2023",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "oin us in-person or online to celebrate the culmination of our Go Make 2022 program! Hear the program cohort speak about their technologies, their work with our corporate partners, and where they are headed next.",
+      "link": "https://greentownlabs.com/event/elm-earth-night-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Go Move Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us in-person or online to celebrate the culmination of our Go Move 2022 program! Hear the program cohort speak about their partnership with BASF and Magna to decarbonize automotive manufacturing and reduce vehicles’ life-cycle impact.",
+      "link": "https://greentownlabs.com/event/energybar-go-move-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Buildings Sector Pitch Day",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyTech University Prize Collegiate Competition",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energytech-university-prize-collegiate-competition-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "April Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/april-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Green Justice: A Climate Crisis Conversation",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/green-justice-climate-crisis-conversation/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "TEX-E Fellowship Informational Session",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "oin us in-person or online to celebrate the culmination of our Go Make 2022 program! Hear the program cohort speak about their technologies, their work with our corporate partners, and where they are headed next.",
+      "link": "https://greentownlabs.com/event/tex-e-informational-session/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Where Art & Climatetech Meet",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-where-art-climatetech-meet/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Canary Live Boston",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "oin us in-person or online to celebrate the culmination of our Go Make 2022 program! Hear the program cohort speak about their technologies, their work with our corporate partners, and where they are headed next.",
+      "link": "https://greentownlabs.com/event/canary-live-boston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Go Make 2022 Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "oin us in-person or online to celebrate the culmination of our Go Make 2022 program! Hear the program cohort speak about their technologies, their work with our corporate partners, and where they are headed next.",
+      "link": "https://greentownlabs.com/event/energybar-go-make-2022-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2023 Cleantech Open Boston Kickoff Party",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "oin us in-person or online to celebrate the culmination of our Go Make 2022 program! Hear the program cohort speak about their technologies, their work with our corporate partners, and where they are headed next.",
+      "link": "https://greentownlabs.com/event/cleantech-open-northeast-kickoff-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "DivInc Clean Energy Panel",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/divinc-clean-energy-panel/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2023 MIT Climate & Energy Prize: US Semi-Final",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "oin us in-person or online to celebrate the culmination of our Go Make 2022 program! Hear the program cohort speak about their technologies, their work with our corporate partners, and where they are headed next.",
+      "link": "https://greentownlabs.com/event/2023-mit-climate-energy-prize-us-semi-final/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "HETI Energy Ventures Pitch Competition",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/heti-energy-ventures-pitch-competition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "March Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/march-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Intern Fair 2023",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climatetech-intern-fair-2023/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Tech Rodeo",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/houston-tech-rodeo/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ACCEL Year 1 Kickoff Event",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/accel-year-1-kickoff-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate & Community",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climate-community/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Celebrating a Decade of Impact",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-celebrating-a-decade-of-impact/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Go Move 2022 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-go-move-2022-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Summit 2022",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climatetech-summit-2022/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "VERGE 22",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/verge-22-partner-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "October Transition On Tap",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/october-transition-on-tap/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transportation Sector Pitch Day",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/transportation-sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Go Make 2022 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/go-make-2022-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Low-Carbon Hydrogen Accelerator Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/low-carbon-hydrogen-accelerator-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cleantech Open Northeast Regional Finals Awards & Showcase￼",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/cleantech-open-northeast-regional-finals-awards-showcase%ef%bf%bc/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Access to Success Pitch Event",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-access-to-success-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Climatetech Career Fair",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-climatetech-career-fair-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Tech Cocktails Happy Hour + Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climate-tech-cocktails-happy-hour-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Summer Rooftop Networking",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-august-2022/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition On Tap: Investor Readiness with Vinson & Elkins LLP",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/transition-on-tap-investor-readiness-with-vinson-elkins-llp/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Celebrate Juneteenth ￼￼",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/celebrate-juneteenth/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition On Tap: In Partnership with The Veterans Advanced Energy Project",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/june-tot/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Celebrating Leadership in Offshore Wind Energy",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/celebrating-leadership-in-offshore-wind-energy/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative Year 2 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/c2v-year2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "YPE May Happy Hour",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/ype-may-happy-hour/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Solar: An Engine for Energy Justice￼￼",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/solar-an-engine-for-energy-justice%ef%bf%bc%ef%bf%bc/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "NECEC Emerging Trends Series: Deploying Climate Solutions￼￼",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/necec-emerging-trends-series-deploying-climate-solutions%ef%bf%bc%ef%bf%bc/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Circularity 22",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/circularity-22/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Member Resource Fair",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-member-resource-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition On Tap: Member Resource Fair",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/tot-may/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ALLY Energy Presents: Energy 2.0",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/ally-energy-presents-energy-2-0/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "OTC Happy Hour Networking Event",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "Join us for a night of climatech networking! Transition On Tap is Greentown Labs' monthly networking event devoted to fostering conversations and connections among the climate and energy transition ecosystem in Houston and beyond.",
+      "link": "https://greentownlabs.com/event/otc-happy-hour-networking-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Oceanit 2022 Energy Transformation Technology Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/oceanit-2022/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "NEWIEE’s 11th Annual Awards Gala￼",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/newiees-11th-annual-awards-gala%ef%bf%bc/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Houston First Anniversary Event",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/greentown-houston-first-anniversary-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: Access to Success",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-access-to-success/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AABE Bow Ties & Bourbon Fundraiser",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/aabes-bow-ties-bourbon-fundraiser/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Low-Carbon Hydrogen Accelerator Kickoff",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/low-carbon-hydrogen-accelerator-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "World Hydrogen North America",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/world-hydrogen-north-america/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Healthy Buildings Challenge Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/healthy-buildings-challenge-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "GridNEXT Happy Hour",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/gridnext-happy-hour/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "How Island Grids are Leading the Global Energy Transition",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/how-island-grids-are-leading-the-global-energy-transition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2022 Cleantech Open Northeast Kickoff at Greentown Labs￼￼",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/2022-cleantech-open-northeast-kickoff-at-greentown-labs%ef%bf%bc%ef%bf%bc/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Solar United Neighbors Co-Op Happy Hour",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/solar-united-neighbors-co-op-happy-hour/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition On Tap: SXSW Edition",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/transition-on-tap-sxsw-edition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: Climatetech Intern Fair",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-climatetech-intern-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "7th Annual ALLY Energy International Women's Day Summit",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/7th-annual-ally-energy-international-womens-day-summit/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Tech Rodeo Roadshow",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/houston-tech-rodeo-roadshow/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition On Tap: EnergyTech Up",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/transition-on-tap-energytech-up/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Contractors of Color in Clean Energy: Conversations and Connections",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/contractors-of-color-in-clean-energy-conversations-and-connections/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Transition On Tap: Reflections and Lessons From the Texas Freeze",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/transition-on-tap-reflections-and-lessons-from-the-texas-freeze/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Roundtable: Long-duration Energy Storage for a Decarbonized Grid",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/roundtable-long-duration-energy-storage-for-a-decarbonized-grid/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "VERGE 21",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/verge-21/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative: Year 1 Cohort Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/carbon-to-value-initiative-year-1-cohort-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Healthy Buildings Challenge Kickoff Event",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/23311/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "KAITEKI Challenge Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/kaiteki-challenge-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Equity in Green Jobs",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/equity-in-green-jobs-climatetech-career-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "How the Gulf Coast Can Lead the Energy Transition",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/how-the-gulf-coast-can-lead-the-energy-transition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Labs Climatetech Career Fair",
+      "source": "Greentown Labs",
+      "tag": "networking",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/greentown-labs-climatetech-career-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: The IPCC Report's Call to Action",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-the-ipcc-reports-call-to-action/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Veterans Energy Project",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/veterans-energy-project/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Out in Climatetech: A Fireside Chat with Rachel Kyte",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/out-in-climatetech-a-fireside-chat-with-rachel-kyte/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: Spotlight on Houston",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-spotlight-on-houston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Fireside Chat: Saint-Gobain Program Flashback",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/fireside-chat-saint-gobain-program-flashback/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Municipal Decision Making Processes with Respect to Climate Action",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/municipal-decision-making-processes-with-respect-to-climate-action/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Innovation at Scale: Boosting Climatetech and Clean Energy Startups",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/innovation-at-scale-boosting-climatetech-and-clean-energy-startups/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: Navigating Corporate Venture Capital",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-navigating-corporate-venture-capital/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative Kickoff",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/carbon-to-value-initiative-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Houston Grand Opening",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/greentown-houston-grand-opening/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The KAITEKI Challenge Kickoff Event",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/the-kaiteki-challenge-kickoff-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Energy 2.0",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energy-2-0/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Inclusion: The Key to Building Strong Startups",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/inclusion-the-key-to-building-strong-startups-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Careers in the Energy Transition: Making the Move",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/careers-in-the-energy-transition-making-the-move/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Action New England: The Road to COP26",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climate-action-new-england-the-road-to-cop26/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Bold Ideas 2020 Final Showcase Event",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/bold-ideas-2020-final-showcase-event/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Intern Fair EnergyBar",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/climatetech-intern-fair-energybar/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Six Ways to Prioritize Diversity and Inclusion In Recruitment",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/six-ways-to-prioritize-diversity-and-inclusion-in-recruitment/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Mythbusters: How to Counter Common Objections to D&I Efforts in Startups",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/mythbusters-how-to-counter-common-objections-to-di-efforts-in-startups/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Offshore Wind Challenge Final Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/offshore-wind-challenge-final-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "New England Cleantech Landscape 2021",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/new-england-cleantech-landscape-2021/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building Together for the Future—A Sneak Peek into our Houston Incubator",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/building-together-for-the-future-a-sneak-peek-into-our-houston-incubator/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building a More Inclusive Startup",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/building-a-more-inclusive-startup-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Value Initiative - Informational and Q+A Webinar for Startups",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/carbon-to-value-initiative-informational-and-qa-webinar-for-startups/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "December Virtual EnergyBar: Wrapping Up an Unprecedented Year",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/december-virtual-energybar-wrapping-up-an-unprecedented-year/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Municipal Climate Voices: Who’s Leading the Charge",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/municipal-climate-voices-whos-leading-the-charge/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: European Venture Capital",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-european-venture-capital/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Dutch Pitch for a Sustainable Future",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/the-dutch-pitch-for-a-sustainable-future/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Advanced Cleantech Investing",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/advanced-cleantech-investing/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Greentown Labs Climatetech Summit",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/the-greentown-labs-climatetech-summit/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "VERGE 20",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/verge-20/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "FORGE Manufacturing & Innovation Showcase",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/forge-manufacturing-innovation-showcase/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Municipal Climate Action: Sustainability Officers",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/municipal-climate-action-sustainability-officers/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Urban Mobility: An International Roundtable",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/urban-mobility-an-international-roundtable/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EnergyBar: A Virtual Tour of Greentown Houston",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energybar-a-virtual-tour-of-greentown-houston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Greentown Labs Houston Location Announcement",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/greentown-labs-houston-location-announcement/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: The Built Environment",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-the-built-environment/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Advancing Sustainability Through Innovation: A Fireside Chat with Johnson Matthey",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/advancing-sustainability-through-innovation-a-fireside-chat-with-johnson-matthey/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Corporate Voices: Leading Through Crisis",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/corporate-voices-leading-through-crisis/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Bold Ideas 2020 Kickoff",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/bold-ideas-2020-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Energy Capital of the World: Houston's Energy 2.0 Transition",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energy-capital-of-the-world-houstons-energy-2-0-transition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Finding Balance",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/finding-balance/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ENERGY TRANSITION: Making Houston a Global Leader in Energy Innovation",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/energy-transition-making-houston-a-global-leader-in-energy-innovation/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Circularity 20",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/circularity-20/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The POWER of Meaningful Mentor Relationships",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/the-power-of-meaningful-mentor-relationships/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Municipal Climate Action: A Fireside Chat with Dr. Atyia Martin",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/municipal-climate-action-a-fireside-chat-with-dr-atyia-martin/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Founder Speaker Series: Jigar Shah of Generate Capital",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/founder-speaker-series-jigar-shah-of-generate-capital/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Offshore Wind in New England: An Industry Opportunity for the Future",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/offshore-wind-in-new-england-an-industry-opportunity-for-the-future/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: Non-Dilutive Funding",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-non-dilutive-funding/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Founder Speaker Series: Sense",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/founder-speaker-series-sense/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "July EnergyBar",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/july-energybar/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Sustainability Through Innovation: Goals + Opportunities with Johnson Matthey",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/sustainability-through-innovation-goals-opportunities-with-johnson-matthey/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Virtual Clean Energy Day",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/virtual-clean-energy-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston’s Position as the Energy 2.0 Capital of the World",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/houstons-position-as-the-energy-2-0-capital-of-the-world/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Founder Speaker Series: Accion Systems",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/founder-speaker-series-accion-systems/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "June EnergyBar: Leading the Energy Transition",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/june-energybar-leading-the-energy-transition/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Speaker Series: Insights from Early-Stage Climatetech Investors",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://greentownlabs.com/event/investor-speaker-series-insights-from-early-stage-climatetech-investors/",
       "time": "TBD"
     }
   ],
@@ -1028,25 +4695,25 @@
       "freq": "Check schedule",
       "source": "MIT",
       "tag": "robotics",
-      "desc": "Flagship robotics talk series — top researchers from industry and academia.",
+      "desc": "Flagship robotics talk series.",
       "link": "https://robotics.mit.edu/robotics-seminar/",
       "pick": true,
-      "pickNote": "Attend regularly — meet the people building what you want to build"
+      "pickNote": "Attend regularly — meet your future colleagues"
     },
     {
       "title": "MIT CSAIL Seminars",
       "freq": "Multiple/week",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Regular seminars on AI, robotics, HCI, computer vision.",
+      "desc": "AI, robotics, HCI, computer vision.",
       "link": "https://www.csail.mit.edu/events"
     },
     {
-      "title": "MIT Schwarzman College of Computing",
+      "title": "MIT Schwarzman College",
       "freq": "Multiple/week",
       "source": "MIT",
       "tag": "ai",
-      "desc": "AI4Society seminars, distinguished lectures. Building 45, 51 Vassar St.",
+      "desc": "AI4Society seminars. Building 45.",
       "link": "https://calendar.mit.edu/department/mit_schwarzman_college_of_computing"
     },
     {
@@ -1054,7 +4721,7 @@
       "freq": "Tuesdays 6pm",
       "source": "MIT",
       "tag": "startup",
-      "desc": "Open to MIT, Harvard & Wellesley. Pitch practice, startup seminars. Room 56-114.",
+      "desc": "Pitch practice, startup seminars.",
       "link": "https://web.mit.edu/e-club/"
     },
     {
@@ -1062,7 +4729,7 @@
       "freq": "Sep-May",
       "source": "MIT",
       "tag": "startup",
-      "desc": "Pitch → Accelerate → Launch. $300K+ in prizes. Open to Greater Boston.",
+      "desc": "$300K+ in prizes.",
       "link": "https://www.mit100k.org/",
       "pick": true,
       "pickNote": "Watch the finals live at MIT Media Lab"
@@ -1072,25 +4739,25 @@
       "freq": "Periodic",
       "source": "MIT Media Lab",
       "tag": "talk",
-      "desc": "Distinguished speaker series. Free, livestream open to public.",
+      "desc": "Distinguished speaker series. Free.",
       "link": "https://www.media.mit.edu/events/ml-perspectives/"
     },
     {
-      "title": "Venturing@Harvard Cross-University Mixer",
+      "title": "Venturing@Harvard Mixer",
       "freq": "Monthly",
       "source": "Harvard i-lab",
       "tag": "networking",
-      "desc": "Open to NEU, MIT, BU, Tufts, Babson & more. Harvard i-lab, Batten Hall.",
+      "desc": "Cross-university. NEU welcome. Batten Hall.",
       "link": "https://innovationlabs.harvard.edu/events/cross-university-mixer",
       "pick": true,
-      "pickNote": "#1 EASIEST WIN. Designed for cross-university networking. Just show up every month"
+      "pickNote": "#1 EASIEST WIN. Go every month"
     },
     {
       "title": "Harvard Grid Events",
       "freq": "Periodic",
       "source": "Harvard",
       "tag": "startup",
-      "desc": "Applied Sciences & Engineering startup events.",
+      "desc": "Engineering startup events.",
       "link": "https://www.grid.harvard.edu/"
     },
     {
@@ -1098,15 +4765,15 @@
       "freq": "Periodic",
       "source": "Harvard",
       "tag": "startup",
-      "desc": "Office of Technology Development — bio salons, bootcamps, pitch days.",
+      "desc": "Bio salons, bootcamps, pitch days.",
       "link": "https://otd.harvard.edu/events/"
     },
     {
-      "title": "NEU Sherman Center Events",
+      "title": "NEU Sherman Center",
       "freq": "Periodic",
       "source": "Northeastern",
       "tag": "startup",
-      "desc": "Engineering entrepreneurship: Tech Rebels speakers, Generate Showcase. Hayden Hall.",
+      "desc": "Tech Rebels speakers, Generate Showcase.",
       "link": "https://sherman.center.northeastern.edu/",
       "pick": true,
       "pickNote": "YOUR school's engineering entrepreneurship hub"
@@ -1116,115 +4783,115 @@
       "freq": "End-of-semester",
       "source": "Northeastern",
       "tag": "manufacturing",
-      "desc": "Student product development demo day. Hardware projects, concept to prototype.",
+      "desc": "Student product dev demo day.",
       "link": "https://sherman.center.northeastern.edu/",
       "pick": true,
-      "pickNote": "YOUR school's hardware demo day. Find collaborators here"
+      "pickNote": "YOUR school's hardware demo day"
     },
     {
       "title": "NEU Experiential Robotics",
       "freq": "Periodic",
       "source": "Northeastern",
       "tag": "robotics",
-      "desc": "Seminars on autonomous systems, underwater robots, soft robotics.",
+      "desc": "Autonomous systems, soft robotics.",
       "link": "https://robotics.northeastern.edu/",
       "pick": true,
-      "pickNote": "Your own university's robotics research hub"
+      "pickNote": "Your university's robotics hub"
     },
     {
       "title": "Startup Grind Boston",
       "freq": "Monthly",
       "source": "Community",
       "tag": "startup",
-      "desc": "Fireside chats, panels, pitch nights. 11,000+ members.",
+      "desc": "Fireside chats, pitch nights. 11K members.",
       "link": "https://www.startupgrind.com/boston/",
       "pick": true,
-      "pickNote": "Monthly founder fireside chats. Great for expanding your circle"
+      "pickNote": "Monthly founder fireside chats"
     },
     {
       "title": "Boston Hardware Meetup",
       "freq": "~Monthly",
       "source": "Community",
       "tag": "manufacturing",
-      "desc": "Hardware professionals. Formlabs, Greentown Labs, The Engine.",
+      "desc": "Formlabs, Greentown, The Engine.",
       "link": "https://luma.com/bos-hardware-meetup",
       "pick": true,
-      "pickNote": "Your tribe — hardware people building physical products"
+      "pickNote": "Your tribe — hardware builders"
     },
     {
       "title": "Boston ENET",
       "freq": "Monthly (Sep-Jun)",
       "source": "Community",
       "tag": "startup",
-      "desc": "IEEE-affiliated. Expert panels, Q&A, 1.5hrs networking. Since 1991.",
+      "desc": "IEEE-affiliated. Expert panels + networking.",
       "link": "https://bostonenet.org/",
       "pick": true,
-      "pickNote": "IEEE-affiliated, early-stage hardware startups"
+      "pickNote": "IEEE, early-stage hardware startups"
     },
     {
       "title": "Venture Cafe Cambridge",
       "freq": "Weekly (Thu)",
       "source": "Venture Cafe",
       "tag": "networking",
-      "desc": "Free weekly gathering. Rotating hardware/robotics/startup sessions. Kendall Square.",
+      "desc": "Free weekly. Kendall Sq.",
       "link": "https://venturecafecambridge.org/",
       "pick": true,
-      "pickNote": "Free every Thursday in Kendall Square. Just drop in"
+      "pickNote": "Free every Thursday. Just drop in"
     },
     {
       "title": "AI Tinkerers Boston",
       "freq": "Monthly",
       "source": "Meetup",
       "tag": "ai",
-      "desc": "Code-first demos, hackathons, deep networking for AI builders.",
+      "desc": "Code-first demos, hackathons.",
       "link": "https://boston.aitinkerers.org/",
       "pick": true,
-      "pickNote": "Code-first builders — the people you want in your network"
+      "pickNote": "Code-first builders"
     },
     {
-      "title": "Boston Generative AI Meetup",
+      "title": "Boston Gen AI Meetup",
       "freq": "Monthly",
       "source": "Meetup",
       "tag": "ai",
-      "desc": "World's largest AI meetup. Expert panels, demos, networking.",
+      "desc": "World's largest AI meetup.",
       "link": "https://www.meetup.com/boston-generative-ai-meetup/"
     },
     {
-      "title": "Boston CV AIR (AI, Autonomy & Robotics)",
+      "title": "Boston CV AIR",
       "freq": "Regular",
       "source": "Meetup",
       "tag": "robotics",
-      "desc": "Autonomous robotics, biomedical robotics, computer vision.",
+      "desc": "Autonomous robotics, CV.",
       "link": "https://www.meetup.com/boston-air/",
       "pick": true,
-      "pickNote": "Autonomous robotics talks — directly in your wheelhouse"
+      "pickNote": "Autonomous robotics — your wheelhouse"
     },
     {
-      "title": "Boston Drone Racing Club",
+      "title": "Boston Drone Racing",
       "freq": "Weekly",
       "source": "BU-based",
       "tag": "drones",
-      "desc": "FPV drone racing & hack nights. Custom builds. $3/session.",
+      "desc": "FPV racing & hack nights. $3/session.",
       "link": "http://bostondrone.racing/",
       "pick": true,
-      "pickNote": "You have your Part 107. Build drones, meet the FPV community"
+      "pickNote": "Part 107 holder. Build drones here"
     },
     {
       "title": "MassRobotics Events",
       "freq": "Periodic",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "World's largest independent robotics hub. 12 Channel St, Boston.",
+      "desc": "Boston's robotics hub. 12 Channel St.",
       "link": "https://www.massrobotics.org/events/",
       "pick": true,
-      "pickNote": "Your industry's home base in Boston. Be a regular"
+      "pickNote": "Your industry's home base"
     },
     {
-      "title": "Greentown Labs Events",
+      "title": "Greentown Labs",
       "freq": "Periodic",
       "source": "Greentown Labs",
       "tag": "manufacturing",
-      "desc": "Climatetech incubator in Somerville. Hardware meetups, demo days.",
+      "desc": "Climatetech incubator. Somerville.",
       "link": "https://greentownlabs.com/events/"
     },
     {
@@ -1232,43 +4899,27 @@
       "freq": "Periodic",
       "source": "The Engine",
       "tag": "startup",
-      "desc": "MIT-spun deep tech VC. Tough Tech Summit, hardware meetups.",
+      "desc": "MIT deep tech VC.",
       "link": "https://engine.xyz/",
       "pick": true,
-      "pickNote": "Deep tech VC — serious hardware founders and investors"
+      "pickNote": "Deep tech VC — serious founders"
     },
     {
-      "title": "FORGE (Prototype to Production)",
+      "title": "FORGE",
       "freq": "Periodic",
       "source": "Community",
       "tag": "manufacturing",
-      "desc": "Nonprofit connecting hardware startups with manufacturers.",
+      "desc": "Prototype to production.",
       "link": "https://www.forgehq.com/",
       "pick": true,
-      "pickNote": "Prototype to production — the journey you did at Mowze"
-    },
-    {
-      "title": "Artisan's Asylum",
-      "freq": "Ongoing",
-      "source": "Makerspace",
-      "tag": "manufacturing",
-      "desc": "Non-profit community makerspace in Somerville.",
-      "link": "https://www.artisansasylum.com"
-    },
-    {
-      "title": "Cambridge Hackspace",
-      "freq": "Weekly",
-      "source": "Makerspace",
-      "tag": "manufacturing",
-      "desc": "Laser cutter, CNC, 3D printers. Somerville.",
-      "link": "https://www.cambridgehackspace.com/"
+      "pickNote": "Your Mowze path"
     },
     {
       "title": "BU Spark!",
       "freq": "Weekly (Wed)",
       "source": "BU",
       "tag": "ai",
-      "desc": "Tech incubator. Hackathons, Demo Days, Ignite clubs.",
+      "desc": "Tech incubator. Hackathons, Demo Days.",
       "link": "https://www.bu.edu/spark/events/"
     },
     {
@@ -1276,7 +4927,7 @@
       "freq": "Monthly",
       "source": "Community",
       "tag": "networking",
-      "desc": "Entrepreneur and angel investor network.",
+      "desc": "Angel investor network.",
       "link": "https://boston.tie.org/"
     },
     {
@@ -1284,23 +4935,15 @@
       "freq": "Monthly",
       "source": "Community",
       "tag": "startup",
-      "desc": "Monthly product showcases for Boston-area startups.",
+      "desc": "Monthly product showcases.",
       "link": "https://mass.innovationnights.com/"
-    },
-    {
-      "title": "Startup Valley Networking",
-      "freq": "Biweekly",
-      "source": "Meetup",
-      "tag": "startup",
-      "desc": "Pitch & networking at Bar Moxy, Boston.",
-      "link": "https://www.meetup.com/startups-and-tech-events-in-boston/"
     },
     {
       "title": "AUVSI New England",
       "freq": "Periodic",
       "source": "Community",
       "tag": "drones",
-      "desc": "Drone/UAS workshops, networking, policy updates.",
+      "desc": "Drone/UAS workshops.",
       "link": "https://www.auvsi.org/"
     },
     {
@@ -1308,7 +4951,7 @@
       "freq": "Multiple/semester",
       "source": "MIT Sloan",
       "tag": "startup",
-      "desc": "Student-led: tech, healthcare, fintech, national security.",
+      "desc": "Student-led: tech, healthcare, fintech.",
       "link": "https://mitsloan.mit.edu/events"
     }
   ],
@@ -1334,10 +4977,6 @@
       "url": "https://www.media.mit.edu/events/"
     },
     {
-      "label": "MIT Sloan",
-      "url": "https://mitsloan.mit.edu/events"
-    },
-    {
       "label": "Harvard SEAS",
       "url": "https://events.seas.harvard.edu/"
     },
@@ -1346,24 +4985,12 @@
       "url": "https://innovationlabs.harvard.edu/"
     },
     {
-      "label": "Harvard Grid",
-      "url": "https://www.grid.harvard.edu/"
-    },
-    {
       "label": "Northeastern",
       "url": "https://calendar.northeastern.edu/"
     },
     {
-      "label": "NEU Sherman Ctr",
+      "label": "NEU Sherman",
       "url": "https://sherman.center.northeastern.edu/"
-    },
-    {
-      "label": "NEU Robotics",
-      "url": "https://robotics.northeastern.edu/"
-    },
-    {
-      "label": "BU Calendar",
-      "url": "https://www.bu.edu/calendar/"
     },
     {
       "label": "BU Spark!",
@@ -1382,24 +5009,12 @@
       "url": "https://engine.xyz/"
     },
     {
-      "label": "HW Meetup",
-      "url": "https://luma.com/bos-hardware-meetup"
-    },
-    {
-      "label": "Drone Racing",
-      "url": "http://bostondrone.racing/"
-    },
-    {
       "label": "Startup Boston",
       "url": "https://www.startupbos.org/directory/events"
     },
     {
       "label": "Venture Cafe",
       "url": "https://venturecafecambridge.org/"
-    },
-    {
-      "label": "Startup Grind",
-      "url": "https://www.startupgrind.com/boston/"
     },
     {
       "label": "Eventbrite",
