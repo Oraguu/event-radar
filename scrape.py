@@ -14,9 +14,10 @@ TAG_RULES = [
     (["manufactur", "3d print", "additive", "cnc", "hardware meetup", "fabricat", "device"], "manufacturing"),
     (["ai ", "artificial intelligence", "machine learning", "deep learning", "llm", "neural", "computer vision", "generative"], "ai"),
     (["startup", "entrepreneur", "venture", "pitch", "accelerat", "incubator", "demo day", "founder"], "startup"),
+    (["hackathon", "hack day", "hackmit", "makemit", "bostonhacks", "hackbeanpot", "game jam", "code jam", "buildathon"], "startup"),
     (["networking", "mixer", "career fair", "cross university"], "networking"),
 ]
-EXCLUDE = ["basketball","hockey","football","baseball","softball","lacrosse","yoga","meditation","worship","prayer","intramural","parking","dining","meal plan","commencement ceremony"]
+EXCLUDE = ["basketball","hockey","football","baseball","softball","lacrosse","squash","ncaa","yoga","meditation","worship","prayer","intramural","parking","dining","meal plan","commencement ceremony","volleyball","swimming","track and field","rowing","tennis vs","field hockey"]
 
 def tag_for(t, d=""):
     x = (t + " " + d).lower()
@@ -109,6 +110,164 @@ def scrape_meetup(url, name):
         print(f"  ERR {name}: {e}")
     return out
 
+def scrape_mlh():
+    """Scrape MLH season schedule for Boston-area hackathons."""
+    out = []
+    try:
+        r = requests.get("https://mlh.io/seasons/2026/events", headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for card in soup.select("[class*='event-wrapper'], .container .row"):
+            ti = card.select_one("h3, [class*='event-name'], [class*='title']")
+            if not ti: continue
+            title = clean(ti.get_text())
+            if not title: continue
+            loc = card.select_one("[class*='event-location'], p")
+            location = clean(loc.get_text()) if loc else ""
+            # Only keep Boston-area or virtual hackathons
+            loc_lower = location.lower()
+            if not any(x in loc_lower for x in ["boston", "cambridge", "massachusetts", "ma", "virtual", "hybrid", "online", "mit", "harvard", "northeastern"]): continue
+            li = card.select_one("a[href]")
+            link = li["href"] if li else "https://mlh.io/seasons/2026/events"
+            te = card.select_one("[class*='date'], time, p")
+            date = ""
+            if te:
+                raw = te.get("datetime", te.get_text())
+                for fmt in ["%Y-%m-%dT%H:%M:%S", "%Y-%m-%d", "%B %d, %Y", "%b %d, %Y", "%b %dth, %Y", "%b %dst, %Y"]:
+                    try: date = datetime.strptime(raw.strip()[:20], fmt).strftime("%Y-%m-%d"); break
+                    except: pass
+            out.append(dict(date=date or "TBD", title=title, source="MLH", tag="startup",
+                            desc=f"MLH hackathon. {location}", link=link, time="All Day"))
+        print(f"  OK  MLH: {len(out)} Boston-area hackathons")
+    except Exception as e:
+        print(f"  ERR MLH: {e}")
+    return out
+
+def scrape_eventbrite_hackathons():
+    """Scrape Eventbrite for Boston hackathons."""
+    out = []
+    try:
+        r = requests.get("https://www.eventbrite.com/d/ma--boston/hackathon/", headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for card in soup.select("[class*='event-card'], [data-testid*='event'], article"):
+            ti = card.select_one("h2, h3, [class*='title']")
+            if not ti: continue
+            title = clean(ti.get_text())
+            if not title or bad(title) or is_scam(title): continue
+            li = card.select_one("a[href*='eventbrite']")
+            link = li["href"] if li else "https://www.eventbrite.com/d/ma--boston/hackathon/"
+            te = card.select_one("time, [datetime]")
+            date = te.get("datetime", "")[:10] if te else ""
+            out.append(dict(date=date or "TBD", title=title, source="Eventbrite", tag="startup",
+                            desc="Hackathon in Boston area.", link=link, time="TBD"))
+        print(f"  OK  Eventbrite Hackathons: {len(out)} events")
+    except Exception as e:
+        print(f"  ERR Eventbrite Hackathons: {e}")
+    return out
+
+# ── Scam / low-quality event filter ───────────────────────────────
+SCAM_PHRASES = [
+    "biggest business", "hottest networking",
+    "soiree", "mingle with millionaires", "luxury networking",
+    "get rich", "passive income", "financial freedom",
+    "forex", "crypto trading signal", "binary option",
+    "secret to success", "6 figure", "7 figure",
+    "manifestation", "manifest your", "law of attraction",
+    "high-ticket", "coaching empire", "sales funnel mastery",
+    "free money", "government grant", "guaranteed income",
+    "mlm", "network marketing opportunity",
+    "speed dating", "singles mixer",
+    "psychic", "tarot reading", "astrology event",
+    "1 day training, boston, ma",  # generic Eventbrite course spam
+    "essentials for startups & smes",  # template courses
+]
+# Organizers known to spam Eventbrite with low-quality paid events
+SCAM_ORGS = [
+    "successinboston", "wealthmindset", "bossladies",
+]
+
+def is_scam(title, desc="", organizer=""):
+    t = (title + " " + desc + " " + organizer).lower()
+    return any(s in t for s in SCAM_PHRASES)
+
+# ── Broader Eventbrite scraper (tech, AI, robotics, startup) ──────
+EVENTBRITE_CATEGORIES = [
+    ("https://www.eventbrite.com/d/ma--boston/tech--events/", "tech"),
+    ("https://www.eventbrite.com/d/ma--boston/startup-events/", "startup"),
+    ("https://www.eventbrite.com/d/ma--boston/robotics/", "robotics"),
+    ("https://www.eventbrite.com/d/ma--boston/artificial-intelligence/", "ai"),
+]
+
+def scrape_eventbrite_category(url, category):
+    """Scrape an Eventbrite category page, with scam filtering."""
+    out = []
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for card in soup.select("[class*='event-card'], [data-testid*='event'], article"):
+            ti = card.select_one("h2, h3, [class*='title']")
+            if not ti: continue
+            title = clean(ti.get_text())
+            if not title or len(title) < 8: continue
+            if bad(title) or is_scam(title): continue
+            # Extra quality signals: skip if title is ALL CAPS (spammy) or too generic
+            if title == title.upper() and len(title) > 20: continue
+            li = card.select_one("a[href*='eventbrite']")
+            link = li["href"] if li else url
+            te = card.select_one("time, [datetime]")
+            date = te.get("datetime", "")[:10] if te else ""
+            org = card.select_one("[class*='organizer'], [class*='host']")
+            org_name = clean(org.get_text()) if org else ""
+            if is_scam("", "", org_name): continue
+            desc_el = card.select_one("p, [class*='desc']")
+            desc = clean(desc_el.get_text()) if desc_el else ""
+            if is_scam(title, desc): continue
+            out.append(dict(date=date or "TBD", title=title, source="Eventbrite",
+                            tag=tag_for(title, desc) if tag_for(title, desc) != "talk" else category,
+                            desc=desc[:300], link=link, time="TBD"))
+        print(f"  OK  Eventbrite/{category}: {len(out)} events")
+    except Exception as e:
+        print(f"  ERR Eventbrite/{category}: {e}")
+    return out
+
+# ── Luma scraper (professional tech events) ───────────────────────
+LUMA_PAGES = [
+    ("https://lu.ma/boston", "Luma Boston"),
+    ("https://lu.ma/bos-hardware-meetup", "Boston HW Meetup"),
+]
+
+def scrape_luma(url, name):
+    """Scrape a Luma calendar page for events."""
+    out = []
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for card in soup.select("[class*='event'], [class*='card'], article, a[href*='/event/']"):
+            ti = card.select_one("h2, h3, h4, [class*='title'], [class*='name']")
+            if not ti: continue
+            title = clean(ti.get_text())
+            if not title or len(title) < 5 or bad(title) or is_scam(title): continue
+            li = card.select_one("a[href*='lu.ma'], a[href*='luma.com']")
+            if not li: li = card if card.name == "a" else None
+            link = li.get("href", url) if li else url
+            if link.startswith("/"): link = "https://lu.ma" + link
+            te = card.select_one("time, [datetime], [class*='date']")
+            date = ""
+            if te:
+                raw = te.get("datetime", te.get_text())
+                for fmt in ["%Y-%m-%dT%H:%M:%S", "%Y-%m-%d", "%B %d, %Y", "%b %d, %Y", "%b %d"]:
+                    try: date = datetime.strptime(raw.strip()[:20], fmt).strftime("%Y-%m-%d"); break
+                    except: pass
+            out.append(dict(date=date or "TBD", title=title, source="Luma",
+                            tag=tag_for(title, name), desc="", link=link, time="TBD"))
+        print(f"  OK  {name}: {len(out)} events")
+    except Exception as e:
+        print(f"  ERR {name}: {e}")
+    return out
+
 STATIC = [
     dict(date="2026-02-25", title="Venturing@Harvard Cross University Mixer", source="Harvard i-lab", tag="networking", desc="Monthly meetup for student innovators from NEU, MIT, BU, Babson, Tufts. Harvard i-lab Lobby, Batten Hall.", link="https://innovationlabs.harvard.edu/events/cross-university-mixer", time="4:30 PM", pick=True, pickNote="#1 EASIEST WIN. Designed for cross-university networking"),
     dict(date="2026-02-25", title="Boston Generative AI Meetup", source="Meetup", tag="ai", desc="Video, Image, and Vision AI in Business and Life. World's largest AI meetup.", link="https://www.meetup.com/boston-generative-ai-meetup/", time="Evening"),
@@ -132,6 +291,11 @@ STATIC = [
     dict(date="2026-09-01", title="Commercial UAV Expo", source="Conference", tag="drones", desc="Leading commercial UAS trade show. Las Vegas.", link="https://www.expouav.com/", time="All Day"),
     dict(date="2026-09-22", title="BioProcess International", source="Conference", tag="manufacturing", desc="3,200+ scientists. Biopharmaceutical manufacturing. Hynes, Boston.", link="https://informaconnect.com/bioprocessinternational/", time="All Day"),
     dict(date="2026-10-27", title="Tough Tech Summit 2026", source="The Engine", tag="startup", desc="Deep tech founders, investors. Hotel Commonwealth, Boston.", link="https://engine.xyz/toughtechsummit", time="All Day", pick=True, pickNote="Deep tech founders and investors. Spun out of MIT"),
+    # Hackathons (dates update yearly — check sites)
+    dict(date="2026-09-01", title="HackMIT 2026", source="MIT", tag="startup", desc="MIT's flagship hackathon. 1,000+ hackers, top sponsors, prizes. Usually mid-September. Check hackmit.org for exact dates.", link="https://hackmit.org/", time="All Day", pick=True, pickNote="MIT's flagship hackathon. Apply early — competitive admission"),
+    dict(date="2026-11-01", title="BostonHacks 2026", source="BU", tag="startup", desc="BU's annual hackathon. Open to all college students. Usually November. Check bostonhacks.io.", link="https://bostonhacks.io/", time="All Day", pick=True, pickNote="BU's annual hackathon — great vibes, good sponsors"),
+    dict(date="2026-02-01", title="HackBeanpot 2026", source="Community", tag="startup", desc="Boston's inclusive undergraduate hackathon. Cross-university. Usually February. Check hackbeanpot.com.", link="https://www.hackbeanpot.com/", time="All Day"),
+    dict(date="2026-02-01", title="MakeMIT x Harvard — Hardware Hackathon", source="MIT", tag="manufacturing", desc="MIT's largest hardware hackathon. 400+ students. Free laser cutters, 3D printers, microcontrollers. Feb 21-22.", link="https://makemit.org/", time="All Day", pick=True, pickNote="HARDWARE hackathon at MIT. Free tools, perfect for your skillset"),
 ]
 
 RECURRING = [
@@ -164,6 +328,14 @@ RECURRING = [
     dict(title="Mass Innovation Nights", freq="Monthly", source="Community", tag="startup", desc="Monthly product showcases.", link="https://mass.innovationnights.com/"),
     dict(title="AUVSI New England", freq="Periodic", source="Community", tag="drones", desc="Drone/UAS workshops.", link="https://www.auvsi.org/"),
     dict(title="MIT Sloan Conferences", freq="Multiple/semester", source="MIT Sloan", tag="startup", desc="Student-led: tech, healthcare, fintech.", link="https://mitsloan.mit.edu/events"),
+    dict(title="HackMIT", freq="Annual (Sep)", source="MIT", tag="startup", desc="MIT's flagship hackathon. 1,000+ hackers. Apply at hackmit.org.", link="https://hackmit.org/", pick=True, pickNote="MIT's flagship hackathon. Mark September"),
+    dict(title="MakeMIT — Hardware Hackathon", freq="Annual (Feb)", source="MIT", tag="manufacturing", desc="MIT's hardware hackathon. Free laser cutters, 3D printers, microcontrollers.", link="https://makemit.org/", pick=True, pickNote="HARDWARE hackathon. Perfect for your skillset"),
+    dict(title="BostonHacks", freq="Annual (Nov)", source="BU", tag="startup", desc="BU's annual hackathon. Open to all college students.", link="https://bostonhacks.io/"),
+    dict(title="HackBeanpot", freq="Annual (Feb)", source="Community", tag="startup", desc="Boston's inclusive undergraduate hackathon. Cross-university.", link="https://www.hackbeanpot.com/"),
+    dict(title="Blueprint (MIT)", freq="Annual", source="MIT", tag="startup", desc="Beginner-friendly hackathon by HackMIT team.", link="https://blueprint.hackmit.org/"),
+    dict(title="MLH Season — Boston Area", freq="Check schedule", source="MLH", tag="startup", desc="Major League Hacking lists all collegiate hackathons. Filter for Boston/MA.", link="https://mlh.io/seasons/2026/events", pick=True, pickNote="Check MLH for ALL upcoming Boston-area hackathons"),
+    dict(title="BU Spark! Hackathons", freq="Semester", source="BU", tag="startup", desc="CivicHacks, Mini Hacks, Demo Days at BU CDS building.", link="https://www.bu.edu/spark/events/"),
+    dict(title="Devpost — Boston", freq="Ongoing", source="Community", tag="startup", desc="Browse all hackathons with Boston-area eligibility. Online + in-person.", link="https://devpost.com/hackathons?search=boston"),
 ]
 
 SOURCE_LINKS = [
@@ -183,6 +355,15 @@ SOURCE_LINKS = [
     dict(label="Startup Boston", url="https://www.startupbos.org/directory/events"),
     dict(label="Venture Cafe", url="https://venturecafecambridge.org/"),
     dict(label="Eventbrite", url="https://www.eventbrite.com/d/ma--boston/"),
+    dict(label="Eventbrite Tech", url="https://www.eventbrite.com/d/ma--boston/tech--events/"),
+    dict(label="Eventbrite AI", url="https://www.eventbrite.com/d/ma--boston/artificial-intelligence/"),
+    dict(label="Luma Boston", url="https://lu.ma/boston"),
+    dict(label="MLH Hackathons", url="https://mlh.io/seasons/2026/events"),
+    dict(label="Devpost", url="https://devpost.com/hackathons?search=boston"),
+    dict(label="HackMIT", url="https://hackmit.org/"),
+    dict(label="MakeMIT", url="https://makemit.org/"),
+    dict(label="BostonHacks", url="https://bostonhacks.io/"),
+    dict(label="HackBeanpot", url="https://www.hackbeanpot.com/"),
 ]
 
 def main():
@@ -209,7 +390,17 @@ def main():
         ("https://www.meetup.com/startups-and-tech-events-in-boston/", "Startup Valley"),
     ]:
         all_ev.extend(scrape_meetup(url, name))
-    print(f"\n[4/4] Static events: +{len(STATIC)}")
+    print("\n[4/6] Hackathon sources...")
+    all_ev.extend(scrape_mlh())
+    all_ev.extend(scrape_eventbrite_hackathons())
+    all_ev.extend(scrape_html("https://hackmit.org/", "HackMIT", "startup"))
+    all_ev.extend(scrape_html("https://bostonhacks.io/", "BostonHacks", "startup"))
+    print("\n[5/6] Eventbrite categories + Luma (with scam filter)...")
+    for url, cat in EVENTBRITE_CATEGORIES:
+        all_ev.extend(scrape_eventbrite_category(url, cat))
+    for url, name in LUMA_PAGES:
+        all_ev.extend(scrape_luma(url, name))
+    print(f"\n[6/6] Static events: +{len(STATIC)}")
     all_ev.extend(STATIC)
     seen, deduped = set(), []
     for e in all_ev:
