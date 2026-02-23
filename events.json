@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-02-23T05:01:41.207552",
-  "event_count": 502,
+  "scraped_at": "2026-02-23T10:43:27.336105",
+  "event_count": 506,
   "events": [
     {
       "date": "2026-02-23",
@@ -723,6 +723,26 @@
     },
     {
       "date": "2026-02-27",
+      "title": "Men's Swimming and Diving vs. NCAA Diving Regionals",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: New London, CT / Connecticut College",
+      "link": "https://calendar.mit.edu/event/mens-swimming-and-diving-vs-harvard-university-8050",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Women's Swimming and Diving vs. NCAA Diving Regionals",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: New London, CT / Connecticut College",
+      "link": "https://calendar.mit.edu/event/womens-swimming-and-diving-vs-northeastern-university",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-27",
       "title": "Chemistry Student Seminar (CSS) - Leon Jeckel (Peng)",
       "source": "MIT",
       "tag": "talk",
@@ -843,11 +863,31 @@
     },
     {
       "date": "2026-02-28",
+      "title": "Women's Fencing vs. Brown University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 9:00 AM Location: Chestnut Hill, MA / Boston College",
+      "link": "https://calendar.mit.edu/event/womens-fencing-vs-alumni-meet",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-28",
       "title": "Sailing vs. Women's Team Race",
       "source": "MIT",
       "tag": "talk",
       "desc": "Time: 10:00 AM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-02-28",
+      "title": "Men's Fencing vs. Wheaton College (Mass.)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 11:00 AM Location: Chestnut Hill, MA / Boston College",
+      "link": "https://calendar.mit.edu/event/mens-fencing-vs-alumni-meet",
       "time": "TBD",
       "location": ""
     },
