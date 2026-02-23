@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-02-23T10:43:27.336105",
-  "event_count": 506,
+  "scraped_at": "2026-02-23T13:42:11.569189",
+  "event_count": 524,
   "events": [
     {
       "date": "2026-02-23",
@@ -473,16 +473,6 @@
     },
     {
       "date": "2026-02-25",
-      "title": "Projected increases in western US forest fires with growing fuel constraints ",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "David Battisti (Professor of Atmospheric Sciences, and Tamaki Endowed Chair, University of Washington) The annual forested area that has burned in the western US has increased markedly in the past 40 years. Here we examine the causes and present 25-year projections of future area burned due to clima",
-      "link": "https://events.seas.harvard.edu/event/projected-increases-in-western-us-forest-fires-with-growing-fuel-constraints",
-      "time": "TBD",
-      "location": "Haller Hall"
-    },
-    {
-      "date": "2026-02-25",
       "title": "Venturing@Harvard Cross University Mixer",
       "source": "Harvard i-lab",
       "tag": "networking",
@@ -713,36 +703,6 @@
     },
     {
       "date": "2026-02-27",
-      "title": "Men's Squash vs. CSA Team Championships",
-      "source": "MIT",
-      "tag": "drones",
-      "desc": "Time: Location: Philadelphia, PA / Arlen Specter US Squash Center",
-      "link": "https://calendar.mit.edu/event/mens-squash-vs-northeastern-university",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Men's Swimming and Diving vs. NCAA Diving Regionals",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: Location: New London, CT / Connecticut College",
-      "link": "https://calendar.mit.edu/event/mens-swimming-and-diving-vs-harvard-university-8050",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Women's Swimming and Diving vs. NCAA Diving Regionals",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: Location: New London, CT / Connecticut College",
-      "link": "https://calendar.mit.edu/event/womens-swimming-and-diving-vs-northeastern-university",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
       "title": "Chemistry Student Seminar (CSS) - Leon Jeckel (Peng)",
       "source": "MIT",
       "tag": "talk",
@@ -793,16 +753,6 @@
     },
     {
       "date": "2026-02-27",
-      "title": "Women's Tennis vs. New York University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 2:30 PM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-tennis-vs-bryant-university",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
       "title": "Panel Discussion: How AI is Impacting Journalism, Free Speech, and Public Discourse",
       "source": "MIT",
       "tag": "ai",
@@ -835,7 +785,7 @@
       "date": "2026-02-27",
       "title": "Open Sports Data & Analytics Conference + Hackathon",
       "source": "Northeastern",
-      "tag": "talk",
+      "tag": "startup",
       "desc": "A two day conference and hackathon event focused on open data in sports analytics, bringing together Northeastern students and sports industry experts from local clubs such as the Red Sox, Bruins, and Legacy. Hackathon contestants will present to a panel of judges from major league clubs and have th",
       "link": "https://calendar.northeastern.edu/event/open-sports-data-analytics-conference-hackathon",
       "time": "TBD",
@@ -1685,6 +1635,17 @@
       "time": "All Day"
     },
     {
+      "date": "2026-09-01",
+      "title": "HackMIT 2026",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "MIT's flagship hackathon. 1,000+ hackers, top sponsors, prizes. Usually mid-September. Check hackmit.org for exact dates.",
+      "link": "https://hackmit.org/",
+      "time": "All Day",
+      "pick": true,
+      "pickNote": "MIT's flagship hackathon. Apply early — competitive admission"
+    },
+    {
       "date": "2026-09-22",
       "title": "BioProcess International",
       "source": "Conference",
@@ -1703,6 +1664,17 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "Deep tech founders and investors. Spun out of MIT"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "BostonHacks 2026",
+      "source": "BU",
+      "tag": "startup",
+      "desc": "BU's annual hackathon. Open to all college students. Usually November. Check bostonhacks.io.",
+      "link": "https://bostonhacks.io/",
+      "time": "All Day",
+      "pick": true,
+      "pickNote": "BU's annual hackathon — great vibes, good sponsors"
     },
     {
       "date": "TBD",
@@ -2386,15 +2358,6 @@
       "tag": "startup",
       "desc": "Hear pitches from some of Greentown Labs' newest startup members while you beat the heat!",
       "link": "https://greentownlabs.com/event/june-transition-on-tap/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Resilient Power Fueling Houston's Growing Economy",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Join Houston's energy leadership community for a day focused on resilient power, ft. our CEO Georgina Campbell Flatter!",
-      "link": "https://greentownlabs.com/event/resilient-power-fueling-houstons-growing-economy/",
       "time": "TBD"
     },
     {
@@ -4727,6 +4690,204 @@
       "desc": "",
       "link": "https://greentownlabs.com/event/investor-speaker-series-insights-from-early-stage-climatetech-investors/",
       "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "PAHAM4D > Platform Situs Slot Deposit DANA Tanpa Potongan Biaya Admin!",
+      "source": "BostonHacks",
+      "tag": "ai",
+      "desc": "Viral spot gacor PAHAM4D merupakan platform situs slot yang memudahkan pemain dengan sistem deposit DANA tanpa potongan biaya admin. Setiap transaksi diproses dengan cepat dan transparan, sehingga saldo yang masuk tetap utuh sesuai nominal. Tanpa biaya tersembunyi, tanpa ribet, cukup deposit, main, ",
+      "link": "https://paham4donline.com/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EventsSubmit Event",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Hidden Patterns of Great Startup Ideas w/ NFX James Currier",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Infra Demo Night | Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Ten: Brian Kenny",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Founders' Dinner",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Travel Happy Hour + $150 Airline Credit Giveaway",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Dealflow Mixer: Connecting Investors & Founders",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Ramadan Night Market 🌙 (NIGHT 1)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Girls Into VC 2026 Summit",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Ramadan Night Market 🌙 (NIGHT 2)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cafe After Hours @ The Smoot Standard",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investing in Consumer AI: Matcha with RRE Ventures",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "SheTO Boston Hub Event",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "FounderConnect: Startup Resources & Networking Expo",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Klarity + AI@MIT",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Education is Freedom - A Fireside Chat with Jim Keyes",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "62nd Boston Hardware Meetup @ Boston University RASTIC + Innovate@BU",
+      "source": "Luma",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Life Sciences AI on Tap: Boston Connect",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Harvard XR 2026 Conference",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Neuroscience of Vitality and Aging (NOVA) Conference",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
     }
   ],
   "recurring": [
@@ -4993,6 +5154,76 @@
       "tag": "startup",
       "desc": "Student-led: tech, healthcare, fintech.",
       "link": "https://mitsloan.mit.edu/events"
+    },
+    {
+      "title": "HackMIT",
+      "freq": "Annual (Sep)",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "MIT's flagship hackathon. 1,000+ hackers. Apply at hackmit.org.",
+      "link": "https://hackmit.org/",
+      "pick": true,
+      "pickNote": "MIT's flagship hackathon. Mark September"
+    },
+    {
+      "title": "MakeMIT — Hardware Hackathon",
+      "freq": "Annual (Feb)",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "MIT's hardware hackathon. Free laser cutters, 3D printers, microcontrollers.",
+      "link": "https://makemit.org/",
+      "pick": true,
+      "pickNote": "HARDWARE hackathon. Perfect for your skillset"
+    },
+    {
+      "title": "BostonHacks",
+      "freq": "Annual (Nov)",
+      "source": "BU",
+      "tag": "startup",
+      "desc": "BU's annual hackathon. Open to all college students.",
+      "link": "https://bostonhacks.io/"
+    },
+    {
+      "title": "HackBeanpot",
+      "freq": "Annual (Feb)",
+      "source": "Community",
+      "tag": "startup",
+      "desc": "Boston's inclusive undergraduate hackathon. Cross-university.",
+      "link": "https://www.hackbeanpot.com/"
+    },
+    {
+      "title": "Blueprint (MIT)",
+      "freq": "Annual",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Beginner-friendly hackathon by HackMIT team.",
+      "link": "https://blueprint.hackmit.org/"
+    },
+    {
+      "title": "MLH Season — Boston Area",
+      "freq": "Check schedule",
+      "source": "MLH",
+      "tag": "startup",
+      "desc": "Major League Hacking lists all collegiate hackathons. Filter for Boston/MA.",
+      "link": "https://mlh.io/seasons/2026/events",
+      "pick": true,
+      "pickNote": "Check MLH for ALL upcoming Boston-area hackathons"
+    },
+    {
+      "title": "BU Spark! Hackathons",
+      "freq": "Semester",
+      "source": "BU",
+      "tag": "startup",
+      "desc": "CivicHacks, Mini Hacks, Demo Days at BU CDS building.",
+      "link": "https://www.bu.edu/spark/events/"
+    },
+    {
+      "title": "Devpost — Boston",
+      "freq": "Ongoing",
+      "source": "Community",
+      "tag": "startup",
+      "desc": "Browse all hackathons with Boston-area eligibility. Online + in-person.",
+      "link": "https://devpost.com/hackathons?search=boston"
     }
   ],
   "source_links": [
@@ -5059,6 +5290,42 @@
     {
       "label": "Eventbrite",
       "url": "https://www.eventbrite.com/d/ma--boston/"
+    },
+    {
+      "label": "Eventbrite Tech",
+      "url": "https://www.eventbrite.com/d/ma--boston/tech--events/"
+    },
+    {
+      "label": "Eventbrite AI",
+      "url": "https://www.eventbrite.com/d/ma--boston/artificial-intelligence/"
+    },
+    {
+      "label": "Luma Boston",
+      "url": "https://lu.ma/boston"
+    },
+    {
+      "label": "MLH Hackathons",
+      "url": "https://mlh.io/seasons/2026/events"
+    },
+    {
+      "label": "Devpost",
+      "url": "https://devpost.com/hackathons?search=boston"
+    },
+    {
+      "label": "HackMIT",
+      "url": "https://hackmit.org/"
+    },
+    {
+      "label": "MakeMIT",
+      "url": "https://makemit.org/"
+    },
+    {
+      "label": "BostonHacks",
+      "url": "https://bostonhacks.io/"
+    },
+    {
+      "label": "HackBeanpot",
+      "url": "https://www.hackbeanpot.com/"
     }
   ]
 }
