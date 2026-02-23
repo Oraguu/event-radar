@@ -28,7 +28,7 @@ a{color:inherit;text-decoration:none}
 .slink{font-size:11px;padding:5px 12px;border-radius:20px;border:1px solid #262b36;background:#161a24;color:#666;font-weight:500;display:inline-block;margin:3px;transition:all .2s}
 .slink:hover{color:#2a9d8f;border-color:#2a9d8f44}
 .pn{font-size:11px;color:#f4a261;line-height:1.5;font-style:italic}
-.hidden{display:none}
+.hidden{display:none!important}
 </style>
 </head>
 <body>
@@ -62,7 +62,7 @@ a{color:inherit;text-decoration:none}
 <div style="margin-top:32px;padding:20px 0 40px;border-top:1px solid #1e222c">
 <div class="sl">SOURCE CALENDARS</div><div id="sl"></div>
 </div></div></div>
-<div id="err" class="hidden" style="display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;gap:8px">
+<div id="err" class="hidden" style="align-items:center;justify-content:center;height:100vh;flex-direction:column;gap:8px">
 <p style="color:#e63946;font-family:monospace;font-size:16px">Failed to load events</p>
 <p id="em" style="color:#666;font-size:13px"></p>
 <p style="color:#555;font-size:12px;margin-top:12px">Make sure events.json exists next to index.html</p>
