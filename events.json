@@ -1,147 +1,7 @@
 {
-  "scraped_at": "2026-02-27T10:31:17.129961",
-  "event_count": 523,
+  "scraped_at": "2026-02-28T10:17:21.241389",
+  "event_count": 532,
   "events": [
-    {
-      "date": "2026-02-27",
-      "title": "36 Hours Hackathon",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Build Something That Matters in 36 Hours This February, join some of the most driven builders at MIT for a 36-hour hackathon designed to turn ideas into reality. Whether you're pushing an existing startup forward or exploring a brand-new concept, this hackathon is engineered to help you make meaning",
-      "link": "https://calendar.mit.edu/event/36-hours-hackathon",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "BCS Grad Interview Days (Virtual)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "By invtitation",
-      "link": "https://calendar.mit.edu/event/bcs-grad-interview-days-virtual",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
-      "title": "BCS Graduate Student Research Presentations for Interview Day",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "BCS Graduate Student Research Presentations for Interview Day Date: Friday, February 27th at 9AM On Zoom: https://mit.zoom.us/j/99479394726 Presenter: Thomas Clark Advisors: Ted Gibson & Roger Levy Modeling Noisy-Channel Comprehension: Incremental Processing and Reanalysis as Probabilistic Inference",
-      "link": "https://calendar.mit.edu/event/bcs-graduate-student-research-presentations-for-interview-day",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Chemistry Student Seminar (CSS) - Leon Jeckel (Peng)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
-      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Leon-Jeckel-Peng",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Speaker: Michael Albergo (Harvard University) Title: Frontiers of dynamical control of generative models Abstract: Flow and diffusion models have become cornerstones of both scientific and industrial generative AI research. These methods work by construction of a dynamics that maps samples from a re",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar27",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Climate Action in Practice: Delivering on MIT’s Climate Goals (Spring Webinar Series)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us for a new webinar series highlighting how MIT is putting Fast Forward: MIT’s Climate Action Plan for the Decade into action across campus and beyond. The series explores how collaboration, data, and design are shaping decisions about energy systems, buildings, and food. These choices affect ",
-      "link": "https://calendar.mit.edu/event/MITOS-spring-webinar-series",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
-      "title": " Asia's Green Revolutions: Case Studies from China and India",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Seminar on Environmental and Agricultural History (SEAH) presents Asia's Green Revolutions: Case Studies from China and India. Invited Speakers: Micah Muscolino, Professor and Paul G. Pickowicz Endowed Chair in Modern Chinese History at the University of California at San Diego Sigrid Schmalzer, Pro",
-      "link": "https://calendar.mit.edu/event/asias-green-revolutions-case-studies-from-china-and-india",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Infinite-Dimensional Algebra Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Daniil Klyuev (Northwestern University) Title: q-characters of Verma modules via the sphere trace Abstract: I will talk about twisted traces on quantized Coulomb branches. Any Verma module over a quantized Coulomb branch gives rise to a twisted trace. For conical Coulomb branches there is a",
-      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-1169",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Panel Discussion: How AI is Impacting Journalism, Free Speech, and Public Discourse",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Join us for a discussion on how AI is impacting the way news is reported and disseminated, the way we learn and communicate, and how this is impacting free speech and democracy. The discussion will feature journalists who are examining more ethical ways to report on and use AI, an MIT Media Lab rese",
-      "link": "https://calendar.mit.edu/event/panel-discussion-how-ai-is-impacting-journalism-free-speech-and-public-discourse",
-      "time": "TBD",
-      "location": "Building E38 (MIT Welcome Center)"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Coded Bias: 5th Anniversary Virtual Finale Event",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "2025 marked the 5-year anniversary of Coded Bias, which premiered at Sundance in January 2020. The documentary sheds light on critical flaws in AI systems that threaten democracy and our basic rights, telling the story of Dr. Joy Buolamwini, who uncovered biases in these systems while at MIT and sub",
-      "link": "https://calendar.mit.edu/event/copy-of-coded-bias-5th-anniversary-virtual-finale-event",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Russian Connection - Welcome from Winter Break",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join the MIT Russian Connection to meet and greet your fellow students this Spring semester socialOpen to all graduate students of MITSponsored by the GSC Funding Board",
-      "link": "https://calendar.mit.edu/event/russian-connection-welcome-from-winter-break",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Case Western Reserve University Graduate and Career Fair",
-      "source": "Northeastern",
-      "tag": "networking",
-      "desc": "Join COE Graduate Admissions at the 2026 Case Western Reserve University Graduate and Career Fair in Cleveland, Ohio! Ask your questions about our graduate engineering programs across the U.S. and […] The post Case Western Reserve University Graduate and Career Fair appeared first on Northeastern Un",
-      "link": "https://calendar.northeastern.edu/event/case-western-reserve-university-graduate-and-career-fair",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Open Sports Data & Analytics Conference + Hackathon",
-      "source": "Northeastern",
-      "tag": "startup",
-      "desc": "A two day conference and hackathon event focused on open data in sports analytics, bringing together Northeastern students and sports industry experts from local clubs such as the Red Sox, Bruins, and Legacy. Hackathon contestants will present to a panel of judges from major league clubs and have th",
-      "link": "https://calendar.northeastern.edu/event/open-sports-data-analytics-conference-hackathon",
-      "time": "TBD",
-      "location": "Network Science Institute"
-    },
-    {
-      "date": "2026-02-27",
-      "title": "Near-Zero-Index Optics",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Harvard Electrical Engineering Seminar Thursday, February 27 | 1-2pm Pierce 209 \"Near-Zero-Index Optics\" Speaker: Nader Engheta H. Nedwill Ramsey Professor, University of Pennsylvania Abstract: Materials are often used to manipulate and control photons. Metamaterials -- judiciously engineered materi",
-      "link": "https://events.seas.harvard.edu/event/near-zero-index-optics",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
     {
       "date": "2026-02-28",
       "title": "MIT Sloan Africa Innovate Conference",
@@ -341,6 +201,16 @@
       "link": "https://events.seas.harvard.edu/event/dawei-xi-electrifying-nonaqueous-chemical-production-with-scalable-aqueous-electrochemistry",
       "time": "TBD",
       "location": "Cruft"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "Fasting Across Religious Traditions",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Lunchless “Lunch & Learn”: Fasting Across Religious Traditions Monday, March 2, 12-1pm Smith Campus Center, Hawk’s Nest (10th Fl) March 2 marks a day when many religious communities are fasting in observance of Lent (Christianity), the Fast of Esther (Judaism), Ramadan (Islam), & the 19-Day Fast (Ba",
+      "link": "https://events.seas.harvard.edu/event/fasting-across-religious-traditions",
+      "time": "TBD",
+      "location": "Smith Campus Center"
     },
     {
       "date": "2026-03-03",
@@ -554,6 +424,56 @@
     },
     {
       "date": "2026-03-04",
+      "title": "Harvard-MIT Seminars in Inorganic Chemistry- Professor Eszter Boros (University of Wisconsin-Madison)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "TBD",
+      "link": "https://calendar.mit.edu/event/harvard-mit-seminars-in-inorganic-chemistry-professor-eszter-boros-university-of-wisconsin-madison",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Baiying Liu (Purdue University) Title: On Arthur representations and the p-adic unitary dual Abstract: In this talk, I will introduce a new conjecture describing the structure of the unitary dual in terms of Arthur representations for connected reductive algebraic groups defined over any no",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar-4724",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "SCSB Colloquium Series with Dr. Xiao Wang: Translating 3D molecular atlas to brain function and dysfunction",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Wednesday, March 4, 2026 Location: 46-3002 (Singleton Auditorium) Speaker: Xiao Wang, Ph.D. Affiliation: Associate Professor, Department of Chemistry, MIT; Core institute member, Broad Institute of MIT and Harvard. Host: Dr. Guoping Feng Talk title: Translating 3D molecular atlas to brain func",
+      "link": "https://calendar.mit.edu/event/scsb-colloquium-series-dr-xiao-wang",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "Spring 2026 Compton Lecture: Jonathan Haidt, Author of The Anxious Generation and Professor, NYU Stern School of Business",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Spring 2026 Karl Taylor Compton Lecture Series by: Jonathan Haidt Author, The Anxious Generation Professor, New York University Stern School of Business Lecture title: Life After Babel: Democracy and Human Development in the Fractured, Lonely World That Technology Gave Us ■ ■ ■ About the Karl Taylor",
+      "link": "https://calendar.mit.edu/event/jh-compton-26",
+      "time": "TBD",
+      "location": "Huntington Hall (10-250)"
+    },
+    {
+      "date": "2026-03-04",
+      "title": "MIT Music Tech Speaker Series Presents: Psyche Loui",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Thirteen Notes to Musical Fluency: How Brains Learn the Impossible This talk explores how brains learn unfamiliar musical structures using the Bohlen-Pierce scale—a tritave-based tuning system—as a culturally neutral research paradigm. By studying learners , this work reveals fundamental mechanisms ",
+      "link": "https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-psyche-loui",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-03-04",
       "title": "Creating Efficient Copilot Agents",
       "source": "Northeastern",
       "tag": "ai",
@@ -604,6 +524,16 @@
     },
     {
       "date": "2026-03-04",
+      "title": "Julian Vigil: Harnessing Disorder: Defect Chemistry and Structure–Property Relationships in Energy Materials",
+      "source": "Harvard SEAS",
+      "tag": "manufacturing",
+      "desc": "Abstract: Efforts to design crystalline materials with tailored properties often begin with an idealized model of structure and bonding; however, bridging the gap from models to comprehensive structure–property relationships relies on an appreciation of the imperfections and reactivity of real mater",
+      "link": "https://events.seas.harvard.edu/event/julian-vigil-harnessing-disorder-defect-chemistry-and-structureproperty-relationships-in-energy-materials",
+      "time": "TBD",
+      "location": "Cruft"
+    },
+    {
+      "date": "2026-03-04",
       "title": "Harvard Grid X Kempner Institute | Launching Your AI Venture",
       "source": "Harvard SEAS",
       "tag": "ai",
@@ -611,6 +541,66 @@
       "link": "https://events.seas.harvard.edu/event/harvard-grid-x-kempner-institute-launching-your-ai-venture",
       "time": "TBD",
       "location": "Kempner Institute"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Distinguished Seminar in Computational Science and Engineering",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Distinguished Seminar in Computational Science and Engineering March 5, 2026, 12-1PM 45-432 in Building 45 and Zoom Webinar Leveraging Machine Learning for Simulations of Turbulent Multi-Physics Flows: Computational Acceleration, Physics Generalization, and Model Hybridization Michael Mueller Donald",
+      "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-4518",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "MERE 2026: Mechanical Engineering Research Exhibition ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us at MIT's Mechanical Engineering Research Exhibition (MERE), where graduate students, postdocs, and UROPs showcase their cutting-edge research to the broader MIT community! This year's MERE will feature an in-person poster session on March 5th from 1- 3pm in buildings 1, 3, & 5, bringing toge",
+      "link": "https://calendar.mit.edu/event/mere-2026",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-05",
+      "title": "\"Is Equal Opportunity Different from Welfarism?\"",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Gabriel Carroll (University of Toronto)",
+      "link": "https://calendar.mit.edu/event/on-single-versus-multiple-inequality-attitudes",
+      "time": "TBD",
+      "location": "Littauer Center 301, Hansen-Mason Room"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Colloquium on the Brain and Cognition with Fan Wang",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Time: 4:00pm Location: 46-3002, Singleton Auditorium (Third floor of MIT Building 46) Title: Pain, Emotion, and Body Schema​​​​​​​ Abstract: I will discuss the neural mechanisms underlying pain and body schema perception. In the first part, I focus on pain, particularly its emotional dimension. Pain",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-fan-wang",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Nonparametric Identification of Demand without Exogenous Product Characteristics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Kirill Borusyak (University of California, Berkeley)",
+      "link": "https://calendar.mit.edu/event/copy-of-tba-1052",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Organic Chemistry Seminar Series | Connor Coley (MIT)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "https://coley.mit.edu/",
+      "link": "https://calendar.mit.edu/event/organic-chemistry-seminar-series-connor-coley-mit",
+      "time": "TBD",
+      "location": "Building 6"
     },
     {
       "date": "2026-03-05",
@@ -651,6 +641,16 @@
       "link": "https://events.seas.harvard.edu/event/seas-industry-insights-series-scott-kirby-ceo-at-united-airlines",
       "time": "TBD",
       "location": "Harvard Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Interfaith Ramadan Iftar",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Interfaith Ramadan Iftar Thursday, March 5, 5:15-6:30pm Join Harvard’s Muslim Chaplains and the Presidential Initiative on Interfaith Engagement for an Interfaith Ramadan Iftar. Together, we’ll learn and share about the Muslim holiday of Ramadan, the practice of fasting, and the principles of spirit",
+      "link": "https://events.seas.harvard.edu/event/interfaith-ramadan-iftar",
+      "time": "TBD",
+      "location": "Student Organization Center at Hilles (SOCH)"
     },
     {
       "date": "2026-03-05",
@@ -755,6 +755,16 @@
     },
     {
       "date": "2026-03-10",
+      "title": "Deep Dive into Electrical and Computer Engineering Research Webinar",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "As you continue exploring your graduate school options, we invite you to join a special webinar highlighting the exciting research taking place within our Electrical & Computer Engineering Department. With […] The post Deep Dive into Electrical and Computer Engineering Research Webinar appeared firs",
+      "link": "https://calendar.northeastern.edu/event/deep-dive-into-electrical-and-computer-engineering-research-webinar",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-10",
       "title": "Northeastern University Graduate Fair ",
       "source": "Northeastern",
       "tag": "startup",
@@ -825,6 +835,16 @@
     },
     {
       "date": "2026-03-11",
+      "title": "ChE PhD Dissertation Defense: Justin Hayes",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Name: Justin Hayes Title: Leveraging Synthetic Biology and Gut-on-chip Systems to Interrogate and Modulate Intestinal H₂S Date: 03/11/2026 Time: 11:00:00 AM Committee Members: Prof. Benjamin Woolston (Advisor) Prof. Ryan Koppes […] The post ChE PhD Dissertation Defense: Justin Hayes appeared first o",
+      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-justin-hayes",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-11",
       "title": "Sustainability Innovation Competition Awards Ceremony",
       "source": "Northeastern",
       "tag": "talk",
@@ -874,6 +894,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-03-11",
+      "title": "Yannick Naunheim: Alloys Designed for Rapid Solid-State Additive Manufacturing",
+      "source": "Harvard SEAS",
+      "tag": "manufacturing",
+      "desc": "New manufacturing methods, particularly powder-based processes, are gaining momentum in industry, as they enhance supply-chain resilience, shorten lead times, and enable design freedom. Additive manufacturing is an emerging technology platform at the center of this shift. Yet most commercial alloys ",
+      "link": "https://events.seas.harvard.edu/event/yannick-naunheim-alloys-designed-for-rapid-solid-state-additive-manufacturing",
+      "time": "TBD",
+      "location": "Cruft"
+    },
+    {
       "date": "2026-03-12",
       "title": "College of Science Peer Advising Research Workshop ",
       "source": "Northeastern",
@@ -902,6 +932,16 @@
       "link": "https://calendar.northeastern.edu/event/bso-community-chamber-concert-9900",
       "time": "TBD",
       "location": "Fenway Center"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Xuelin Guo: Coupling Mechanics and Electrochemistry in Batteries: from Materials Innovation to System Integration",
+      "source": "Harvard SEAS",
+      "tag": "manufacturing",
+      "desc": "Abstract: As electrification expands from infrastructure to personal devices, power sources are increasingly expected to operate under highly diverse and often conflicting constraints. Electrochemical systems place battery components in extreme redox and chemically active environments, where trade-o",
+      "link": "https://events.seas.harvard.edu/event/xuelin-guo-coupling-mechanics-and-electrochemistry-in-batteries-from-materials-innovation-to-system-integration",
+      "time": "TBD",
+      "location": "Cruft"
     },
     {
       "date": "2026-03-16",
@@ -1272,6 +1312,16 @@
       "location": "Pierce Hall"
     },
     {
+      "date": "2026-04-10",
+      "title": "Annual Summer Urban Program Auction",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Join us on April 10 for PBHA’s 23rd Annual SUP Auction at the Gutman Conference Center in Cambridge. This special evening of food, community, and celebration supports the Summer Urban Program, PBHA’s student-run summer camps serving more than 600 youth and teens across Boston and Cambridge each year",
+      "link": "https://events.seas.harvard.edu/event/annual-summer-urban-program-auction",
+      "time": "TBD",
+      "location": "Gutman Conference Center"
+    },
+    {
       "date": "2026-04-11",
       "title": "NU Choral Society 4/11 Performance",
       "source": "Northeastern",
@@ -1402,6 +1452,16 @@
       "link": "https://calendar.northeastern.edu/event/academic-honors-convocation",
       "time": "TBD",
       "location": "Blackman Theater"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Blues/Rock, Rock and Fusion Ensembles",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Junauro Landgrebe will direct the Blues/Rock, Rock and Fusion Ensembles at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/bluesrock-rock-and-fusion-ensembles-6046",
+      "time": "TBD",
+      "location": "Fenway Center"
     },
     {
       "date": "2026-04-16",
@@ -1569,15 +1629,6 @@
     },
     {
       "date": "TBD",
-      "title": "End-to-End Formal Security Guarantees for Low-Trust Architectures- Yonathan Fisseha",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Modern cloud-based applications often operate in environments of mutual distrust, generating concrete requirements for data confidentiality, data integrity, and computational integrity. This talk presents an approach to end-to-end formal security guarantees for Low-Trust Architectures (LTAs): microa",
-      "link": "https://www.csail.mit.edu/event/end-end-formal-security-guarantees-low-trust-architectures-yonathan-fisseha",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "ML Tea: When Symmetries Break: From Dataset Bias to Positional Encodings",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1587,11 +1638,11 @@
     },
     {
       "date": "TBD",
-      "title": "Visual Computing Seminar: TBA",
+      "title": "Visual Computing Seminar: Continual learning: the Where, What, and When of Introspective Updates",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Abstract:TBA",
-      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-1",
+      "desc": "Abstract:Continual learning is having a renaissance under new names: post-training, personalization, tool-augmented finetuning, and on-the-fly adaptation in foundation models. Across these settings, the core challenge remains the same: how can a model keep learning without overwriting what it alread",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-continual-learning-where-what-and-when-introspective-updates",
       "time": "TBD"
     },
     {
@@ -1686,6 +1737,24 @@
     },
     {
       "date": "TBD",
+      "title": "Graph-Based Algorithms for Similarity Search: Challenges and Opportunities",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Over the last few years, graph-based approaches to nearest neighbor search have attracted renewed interest. Algorithms such as HNSW, NSG, and DiskANN have become popular tools in practice. These algorithms are highly versatile and come with efficient implementations. At the same time, their correctn",
+      "link": "https://www.csail.mit.edu/event/graph-based-algorithms-similarity-search-challenges-and-opportunities",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "HCI Seminar - Ruofei Du - Kicking Off the Flywheel of AI + XR Innovations with XR Blocks",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:The concurrent revolutions in generative AI and spatial computing are fundamentally transforming how we work, communicate, and live. While AI research is accelerated by mature frameworks and benchmarks, inventing AI-driven XR interactions remains a high-friction process. This raises a criti",
+      "link": "https://www.csail.mit.edu/event/hci-seminar-ruofei-du-kicking-flywheel-ai-xr-innovations-xr-blocks",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Interdiction problems and 2-person sequential games: beyond NP-completeness",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1695,11 +1764,38 @@
     },
     {
       "date": "TBD",
+      "title": "SNARGs for NP from Unprovability of Mathematical Theorems",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Modern cryptography relies on the intractability of computational problems. We present an approach to build cryptography from a new source of hardness: proving mathematical theorems. Unprovability results are abundant in mathematics and theoretical computer science, yet to our knowledge, they have n",
+      "link": "https://www.csail.mit.edu/event/snargs-np-unprovability-mathematical-theorems",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Visual Computing Seminar: TBA",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:&nbsp;",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-3",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Takeaways from Davos on AI Trends: world models, physical AI and autonomous warfare",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "32-G449 (Kiva) and online",
       "link": "https://www.csail.mit.edu/event/takeaways-davos-ai-trends-world-models-physical-ai-and-autonomous-warfare",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Unclonable Encryption in the Haar Random Oracle Model",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "We construct reusable private-key unclonable encryption (UE), where a single key can be used to encrypt arbitrarily many messages in the Haar random oracle model, where all parties have query access to U, U †, U ∗, U T for a single Haar random unitary U . Our scheme satisfies the standard notion of ",
+      "link": "https://www.csail.mit.edu/event/unclonable-encryption-haar-random-oracle-model",
       "time": "TBD"
     },
     {
@@ -4692,33 +4788,6 @@
     },
     {
       "date": "TBD",
-      "title": "Dealflow Mixer: Connecting Investors & Founders",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Big Tech to 1M+ followers: Building a Personal Brand in the Age of AI",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Ramadan Night Market 🌙 (NIGHT 1)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Girls Into VC 2026 Summit",
       "source": "Luma",
       "tag": "talk",
@@ -4863,11 +4932,29 @@
     },
     {
       "date": "TBD",
+      "title": "Boston Open Science & Innovation Forum",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "62nd Boston Hardware Meetup @ Boston University | RASTIC + Innovate@BU",
       "source": "Luma",
       "tag": "manufacturing",
       "desc": "",
-      "link": "https://lu.ma/bos-hardware-meetup",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "OpenClaw Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
       "time": "TBD"
     }
   ],
