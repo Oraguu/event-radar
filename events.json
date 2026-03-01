@@ -1,66 +1,26 @@
 {
-  "scraped_at": "2026-02-28T10:17:21.241389",
-  "event_count": 532,
+  "scraped_at": "2026-03-01T10:19:02.080700",
+  "event_count": 565,
   "events": [
     {
-      "date": "2026-02-28",
-      "title": "MIT Sloan Africa Innovate Conference",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "The Africa Innovate Conference (AIC) is the flagship event of the MIT Sloan Africa Business Club, bringing together over 250 entrepreneurs, innovators, investors, policymakers, and industry leaders from around the world. Hosted by MIT Sloan students, AIC fosters networking, learning, and collaborati",
-      "link": "https://calendar.mit.edu/event/mit-sloan-africa-innovate-conference-140",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-02-28",
-      "title": "Women's Fencing vs. Brown University",
+      "date": "2026-03-01",
+      "title": "Rifle vs. MAC Championship (Air Rifle)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 9:00 AM Location: Chestnut Hill, MA / Boston College",
-      "link": "https://calendar.mit.edu/event/womens-fencing-vs-alumni-meet",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-28",
-      "title": "Men's Fencing vs. Wheaton College (Mass.)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 11:00 AM Location: Chestnut Hill, MA / Boston College",
-      "link": "https://calendar.mit.edu/event/mens-fencing-vs-alumni-meet",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-28",
-      "title": "Sailing vs. Liam O'Keefe Trophy",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 11:00 AM Location: Providence, RI",
-      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-02-28",
-      "title": "Rifle vs. MAC Championship (Smallbore)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 12:00 PM Location: Cambridge, MA",
+      "desc": "Time: 9:30 AM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/rifle-vs-united-states-coast-guard-academy",
       "time": "TBD",
       "location": ""
     },
     {
-      "date": "2026-02-28",
-      "title": "Tough Tech Venturing Workshop",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Designed and delivered by HBS professors and serial tech entrepreneurs. Gain ideas and hands-on venturing skills to lift your research from lab-2-market. Absolutely no experience required. Limited capacity. Join the Harvard Grid and HBS faculty for a one-day bootcamp designed for science and enginee",
-      "link": "https://events.seas.harvard.edu/event/tough-tech-venturing-workshop",
+      "date": "2026-03-01",
+      "title": "Sailing vs. Harvard Women's Team Race",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Providence, RI",
+      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
       "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
+      "location": ""
     },
     {
       "date": "2026-03-02",
@@ -604,6 +564,36 @@
     },
     {
       "date": "2026-03-05",
+      "title": "Environmental and Energy Economics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "“Regulation Meets Public Infrastructure: Evidence from Environmental Water Policy in China” | Daniel Xu (Duke University)",
+      "link": "https://calendar.mit.edu/event/copy-of-environmental-and-energy-economics-seminar-3712",
+      "time": "TBD",
+      "location": "Harvard Kennedy School, Land Hall (Belfer Building, Room 400)"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Speaker: Pitchayut (Mark) Saengrungkongka (MIT) Title: An example of descent Abstract: Reference: Poonen, Rational points on varieties, Section 8.3.",
+      "link": "https://calendar.mit.edu/event/seminar-on-arithmetic-geometry-etc-stage-Pitchayut-Saengrungkongka",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Katie Kitamura presenting Flare-Up in conversation with David Levine",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "MIT List Visual Arts Center, in partnership with Triple Canopy, presents a reading of Flare-Up, a novel in progress by Katie Kitamura with Goldin+Senneby. The duo’s work, on view at the List Center’s exhibition of the same name, examines the language of autoimmunity as well as the risks and paradoxe",
+      "link": "https://calendar.mit.edu/event/katie-kitamura-presenting-flare-up-in-conversation-with-david-levine",
+      "time": "TBD",
+      "location": "Bartos Theatre 20 Ames Street, Bldg. E15 Atrium level Cambridge, Massachusetts 02139"
+    },
+    {
+      "date": "2026-03-05",
       "title": "Oral Presentations: CommLab Drop-In Workshops",
       "source": "Northeastern",
       "tag": "talk",
@@ -654,6 +644,15 @@
     },
     {
       "date": "2026-03-05",
+      "title": "Boston Robot Hackers",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/boston-robot-hackers-3/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-03-05",
       "title": "Greentown Labs Climatetech Intern Fair",
       "source": "Greentown Labs",
       "tag": "networking",
@@ -662,6 +661,116 @@
       "time": "4:00 PM",
       "pick": true,
       "pickNote": "Hardware startups hiring — you have the Mowze experience"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "MIT Sloan + HBS LATAM Business Conference 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Annual Latin American Business Conference, led by MIT Sloan and HBS students. About the Conference The MIT Sloan & HBS Latin American Business Conference 2026 is a student-led event hosted at the MIT Sloan School of Management, in collaboration with Harvard Business School. Come join us this Friday ",
+      "link": "https://calendar.mit.edu/event/mit-sloan-hbs-latam-business-conference-2026",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Women in Data Science (WiDS) Cambridge",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "For the tenth year, MIT and Microsoft New England are proud to collaborate with Women in Data Science (WiDS) Worldwide to bring the WiDS regional conference to Cambridge, Massachusetts. This one-day conference will feature an all-female lineup of speakers and panelists from academia and industry to ",
+      "link": "https://calendar.mit.edu/event/women-in-data-science-wids-cambridge",
+      "time": "TBD",
+      "location": "Microsoft New England"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "8th MIT Global Humanities Forum on “Athletes, Equality & Diplomacy” on March 6 (online)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "8th GHI Forum Title: Athletes, Equality & DiplomacyDate: March 6, 2026, 10:00–11:30 AM ESTWhere: Online (Zoom Registration Link: https://mit.zoom.us/meeting/register/K1xD3FjiQ6KbpReKezqcxw)Speakers: Gregory Nagy, Leonard Muellner 【Abstract】 Leonard Muellner will discuss the political and social func",
+      "link": "https://calendar.mit.edu/event/8thGHIForum-Athletes-Equality-and-Diplomacy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Chemistry Student Seminar (CSS) - Aurelio Mollo (Nolan)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
+      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Aurelio-Mollo-Nolan",
+      "time": "TBD",
+      "location": "4-370"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Energy and Climate Career Fair",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Exploring career opportunities in energy, climate, or sustainability? Don’t miss the MIT Climate and Energy Career Fair! Connect with top employers hiring for internships and full-time roles in clean energy, batteries, consulting, grid infrastructure, energy markets, R&D, and beyond. Open to all stu",
+      "link": "https://calendar.mit.edu/event/energy-and-climate-career-fair",
+      "time": "TBD",
+      "location": "Building W20: Stratton Student Center"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Piotr Indyk (MIT) Title: Graph-Based Algorithms for Similarity Search: Challenges and Opportunities Abstract: Over the last few years, graph-based approaches to nearest neighbor search have attracted renewed interest. Algorithms such as HNSW, NSG, and DiskANN have become popular tools in pr",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar6",
+      "time": "TBD",
+      "location": "Building E18"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Computational Research in Boston and Beyond Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Sommer Gentry (New York University) Zoom link: https://mit.zoom.us/j/91933017072 Title: Multiobjective Optimization for Allocating Livers for Transplantation Abstract: Organ allocation requires ethical balancing of multiple viewpoints and different notions of benefit, and this talk will des",
+      "link": "https://calendar.mit.edu/event/computational-research-in-boston-and-beyond-seminar-9024",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-06",
+      "title": "The ABD presents: Tanzanian Bird Lovers Unite!",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Want to get away? The ABD is proud to offer you the following lunch time showing with Debby Carr! Escape the snow and ice and enjoy spectacular photographs of “Birds and Mammals of Tanzania” in a slide presentation put together by Debby Carr, who is a Senior Planner in the MIT Facilities Department.",
+      "link": "https://calendar.mit.edu/event/the-abd-presents-tanzanian-bird-lovers-unite",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Juan Montoya (University of Colorado Boulder) Title: Recent Infinite-Dimensional Algebras from Physics Abstract: In this talk, I will present several scattering-amplitude formulas arising in quantum field theory and explain how they lead to new infinite-dimensional algebraic structures. In ",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-7341",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "WTTR Film Festival \"the Right Track: true survivor journeys\" Free Film Screening and Q&A",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Please join us in the free screening of \"the Right Track: true survivor journeys\" followed by a Q&A session with special guests. Reception at 5:30pm | Screening at 6pm | Registration is required. Synopsis: Through the eyes of those who live it, this documentary spotlights the fight to end sex traffi",
+      "link": "https://calendar.mit.edu/event/wttr-film-festival-the-right-track-true-survivor-journeys-free-film-screening-and-qa",
+      "time": "TBD",
+      "location": "Bartos Theater"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Bailando Latin Showcase",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Hosted by MIT’s Latin Dance Club, Bailando is a vibrant celebration of Latino culture, passion, and artistry. This annual showcase features MIT’s Alma y Sabor team performing a variety of Latin dance styles from around the world, alongside several talented guest performers. Audiences will experience",
+      "link": "https://calendar.mit.edu/event/bailando-latin-showcase",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
     },
     {
       "date": "2026-03-06",
@@ -742,6 +851,15 @@
       "link": "https://events.seas.harvard.edu/event/reinventing-batteries-for-a-sustainable-future",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "AFCEA New Horizons",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/afcea-new-horizons/",
+      "time": "TBD"
     },
     {
       "date": "2026-03-10",
@@ -954,6 +1072,33 @@
       "location": "Renaissance_Park"
     },
     {
+      "date": "2026-03-16",
+      "title": "Intl. Conference on Human-Robot Interaction",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The ACM/IEEE International Conference on Human-Robot Interaction (HRI) is the premier venue for innovations on human-robot interaction. Sponsored by the ACM special interest groups on computer-human interaction (SIGCHI) and artificial […]",
+      "link": "https://www.massrobotics.org/event/intl-conference-on-human-robot-interaction/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "NVIDIA GTC",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "NVIDIA GTC is the premier global AI conference, where developers, researchers, and business leaders come together to explore the next wave of AI innovation. From physical AI and AI factories […]",
+      "link": "https://www.massrobotics.org/event/nvidia-gtc/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Robotics in Healthcare Week – MassRobotics",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Robotics in Healthcare Week. More information to come.",
+      "link": "https://www.massrobotics.org/event/robotics-in-healthcare-week-massrobotics/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-03-18",
       "title": "Creating Visuals with AI",
       "source": "Northeastern",
@@ -1025,6 +1170,15 @@
     },
     {
       "date": "2026-03-19",
+      "title": "AUVSI New England Next Generation Aviation Summit",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Executive Orders Unlocked: Implications & Opportunities for YOU Please join AUVSI New England for the New England Next Generation Aviation Summit on March 19, 2026! The theme this year is […]",
+      "link": "https://www.massrobotics.org/event/auvsi-new-england-next-generation-aviation-summit/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-03-19",
       "title": "MTLC Tech Hot Topics",
       "source": "Community",
       "tag": "networking",
@@ -1051,6 +1205,15 @@
       "link": "https://calendar.northeastern.edu/event/philip-n-backstrom-jr-holocaust-survivor-lecture-featuring-suzanne-resnick",
       "time": "TBD",
       "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "European Robotics Forum",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The European Robotics Forum (ERF) is the leading event for the European robotics and AI community, bringing together over 1,000 participants from industry, academia, and the public sector. Held annually […]",
+      "link": "https://www.massrobotics.org/event/european-robotics-forum/",
+      "time": "TBD"
     },
     {
       "date": "2026-03-24",
@@ -1081,6 +1244,15 @@
       "link": "https://calendar.northeastern.edu/event/lets-talk-about-sinners",
       "time": "TBD",
       "location": "Cabral Center"
+    },
+    {
+      "date": "2026-03-25",
+      "title": "MAX Manufacturing and Automation Exchange",
+      "source": "MassRobotics",
+      "tag": "manufacturing",
+      "desc": "Why Attend MAX MAX isn’t about walking a show floor and collecting brochures. It’s about rolling up your sleeves, seeing real solutions in action with hands-on demonstrations and interactive exhibits, […]",
+      "link": "https://www.massrobotics.org/event/max-manufacturing-and-automation-exchange/",
+      "time": "TBD"
     },
     {
       "date": "2026-03-26",
@@ -1183,6 +1355,15 @@
       "pickNote": "VC networking — how hardware gets funded"
     },
     {
+      "date": "2026-03-29",
+      "title": "IEEE Haptics Symposium",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the […]",
+      "link": "https://www.massrobotics.org/event/ieee-haptics-symposium/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-03-30",
       "title": "Faculty Works in Progress: Global Fellows Presentations",
       "source": "Northeastern",
@@ -1211,6 +1392,24 @@
       "link": "https://calendar.northeastern.edu/event/wind-ensemble",
       "time": "TBD",
       "location": "Fenway Center"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "Global Industrie",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Global Industrie explores the major issues transforming contemporary industry. Through key themes, we highlight the innovations, challenges and solutions shaping the industry of the future. Whether you're concerned by the ecological […]",
+      "link": "https://www.massrobotics.org/event/global-industrie/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "3rd Annual Prosthetics & Robotics 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Welcome to Prosthetics & Robotics 2026, the premier gathering of innovators, researchers, clinicians, and industry leaders shaping the future of human-machine integration. With traditional prosthetics still limited in adaptability, sensory […]",
+      "link": "https://www.massrobotics.org/event/3rd-annual-prosthetics-robotics-2026/",
+      "time": "TBD"
     },
     {
       "date": "2026-03-31",
@@ -1260,6 +1459,24 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-ashia-wilson-mit",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-04",
+      "title": "National Robotics Week 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
+      "link": "https://www.massrobotics.org/event/national-robotics-week-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-04-05",
+      "title": "RoboNexus",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "RoboNexus is an international robotics festival, hosted at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia. The event brings together global robotics teams, technology companies, solution providers, startups, […]",
+      "link": "https://www.massrobotics.org/event/robonexus/",
+      "time": "TBD"
     },
     {
       "date": "2026-04-08",
@@ -1472,6 +1689,26 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-sushant-sachdeva-u-toronto",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Orchestra Chamber Music",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Evan Benett will direct the Northeastern Chamber Orchestra at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/orchestra-chamber-music",
+      "time": "TBD",
+      "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Lessons Program Honors Recital",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Lessons Program Honors Recital will take place from 3:00-10:00pm at the Fenway Center.",
+      "link": "https://calendar.northeastern.edu/event/lessons-program-honors-recital",
+      "time": "TBD",
+      "location": "Fenway Center"
     },
     {
       "date": "2026-04-22",
@@ -1830,8 +2067,8 @@
       "title": "M Monday",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "MassRobotics is supporting AlleyCorp’s invite-only Deep Tech New York (DTNY) conference on January 28, 2026 at Newlab (Brooklyn Navy Yard)—bringing together 300+ leading founders, researchers, and investors across robotics, space, biotech, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-01-28/?shortcode=f0b1cb7d",
+      "desc": "MassRobotics Residents Only. Learn about the Associated Network here",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-02-24/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -1890,101 +2127,164 @@
     },
     {
       "date": "TBD",
-      "title": "Deep Tech New York Conference",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics is supporting AlleyCorp’s invite-only Deep Tech New York (DTNY) conference on January 28, 2026 at Newlab (Brooklyn Navy Yard)—bringing together 300+ leading founders, researchers, and investors across robotics, space, biotech, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-01-28/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Physical AI Working Group",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "AWS presentation on modern tools for robotics A team of AWS prototyping engineers will give a primer on: Foundation models for manipulation and end-to-end learning Refinement of models Data annotation […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-01-29/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "MD&M West",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Discover the Automation Sector at MD&M West, where robotics, intelligent systems, and smart technologies come together to transform manufacturing. Explore cutting-edge equipment and solutions built to improve speed, precision, and […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-02-03/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Foley Hoag Lunch & Learn – Deep Dive on SAFEs (Office Hours to follow)",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents Only Lunch: 12-1 PM Office hours: 1-3 PM",
-      "link": "https://www.massrobotics.org/event/foley-hoag-lunch-learn-deep-dive-on-safes-office-hours-to-follow/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Igus Office Hours",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents Only Learn about residents here",
-      "link": "https://www.massrobotics.org/event/igus-office-hours/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Physical AI Working group IN-PERSON @ MassRobotics",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Physical AI Working group IN-PERSON @ MassRobotics AWS Prototyping group will follow up its virtual tutorial session from January 29th with an in-person visit to MassRobotics. They will show AWS tools that […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-02-12/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Resident Brunch at MassRobotics",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Resident Brunch at MassRobotics - MassRobotics Resident Only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-02-13/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Jumpstart Industry Visits 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Jumpstart Industry Visits - MassRobotics (Private)",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-02-16/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Discover How Physical AI is Transforming Industrial Automation",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join Universal Robots and NVIDIA on February 18, 2026, for a dynamic session featuring live demonstrations from industry innovators SICK and Inbolt. Physical AI is reshaping what’s possible in industrial […]",
-      "link": "https://www.massrobotics.org/event/discover-how-physical-ai-is-transforming-industrial-automation/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Global Robotics Frontiers An Intercontinental Dialogue on Future Robotics",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "What happens when you put the world’s brightest robotics minds from the US, UK, and Japan on one stage? You get a masterclass in the future of technology. Join us […]",
-      "link": "https://www.massrobotics.org/event/global-robotics-frontiers-an-intercontinental-dialogue-on-future-robotics/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Associated Network Sponsors Office Hours + Social",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "MassRobotics Residents Only. Learn about the Associated Network here",
       "link": "https://www.massrobotics.org/eventscalendar/2026-02-24/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Robot Hackers",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-03-05/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AFCEA New Horizons",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us at the Harvard Ed Portal in Allston for Better, Stronger, Faster: How Robotics Can Enhance Human Performance and Quality of Life, an engaging talk with Conor Walsh, SEAS, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-03-09/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Community Lecture: Better, Stronger, Faster – How Robotics Can Improve Quality of Life and Enhance Human Performance with Professor Conor Walsh",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us at the Harvard Ed Portal in Allston for Better, Stronger, Faster: How Robotics Can Enhance Human Performance and Quality of Life, an engaging talk with Conor Walsh, SEAS, […]",
+      "link": "https://www.massrobotics.org/event/community-lecture-better-stronger-faster-how-robotics-can-improve-quality-of-life-and-enhance-human-performance-with-professor-conor-walsh/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Intl. Conference on Human-Robot Interaction",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The ACM/IEEE International Conference on Human-Robot Interaction (HRI) is the premier venue for innovations on human-robot interaction. Sponsored by the ACM special interest groups on computer-human interaction (SIGCHI) and artificial […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-03-16/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "NVIDIA GTC",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics in Healthcare Week – MassRobotics",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Optikos Office Hours",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics Residents Only",
+      "link": "https://www.massrobotics.org/event/optikos-office-hours-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics & Physical AI for Healthcare Innovation",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "​Join us at a MassRobotics signature series event, Robotics and Physical AI for Healthcare Innovation. ​This event is focused on the future of robotics and Physical AI in healthcare with a spotlight […]",
+      "link": "https://www.massrobotics.org/event/robotics-physical-ai-for-healthcare-innovation/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AUVSI New England Next Generation Aviation Summit",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics in Healthcare Demo Day",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "​The 2026 Healthcare Robotics Startup Catalyst will be set up to provide interactive demonstrations at this in-person, open-house. Attendees will experience live demos and engage with the startups in our […]",
+      "link": "https://www.massrobotics.org/event/robotics-in-healthcare-demo-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "European Robotics Forum",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The European Robotics Forum (ERF) is the leading event for the European robotics and AI community, bringing together over 1,000 participants from industry, academia, and the public sector. Held annually […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-03-23/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MAX Manufacturing and Automation Exchange",
+      "source": "MassRobotics",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "IEEE Haptics Symposium",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-03-29/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Global Industrie",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3rd Annual Prosthetics & Robotics 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "National Robotics Week 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-04-04/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RoboNexus",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
       "time": "TBD"
     },
     {
@@ -4788,42 +5088,6 @@
     },
     {
       "date": "TBD",
-      "title": "Girls Into VC 2026 Summit",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Poker Night",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Ramadan Night Market 🌙 (NIGHT 2)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Cafe After Hours @ The Smoot Standard",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "DIY Glass (Coaster/Magnet/Plate) Workshop by Glass Ripples",
       "source": "Luma",
       "tag": "talk",
@@ -4953,6 +5217,51 @@
       "title": "OpenClaw Boston",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "DeCo The Decentralized Coding Workshop",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Life Sciences AI on Tap: Boston Connect",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Harvard XR 2026 Conference",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Neuroscience of Vitality and Aging (NOVA) Conference",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ODSC AI East 2026 | The #1 AI Builders Conference",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
