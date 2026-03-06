@@ -1,217 +1,7 @@
 {
-  "scraped_at": "2026-03-05T10:33:18.189834",
-  "event_count": 608,
+  "scraped_at": "2026-03-06T10:28:55.869427",
+  "event_count": 589,
   "events": [
-    {
-      "date": "2026-03-05",
-      "title": "Distinguished Seminar in Computational Science and Engineering",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Distinguished Seminar in Computational Science and Engineering March 5, 2026, 12-1PM 45-432 in Building 45 and Zoom Webinar Leveraging Machine Learning for Simulations of Turbulent Multi-Physics Flows: Computational Acceleration, Physics Generalization, and Model Hybridization Michael Mueller Donald",
-      "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-4518",
-      "time": "TBD",
-      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "MERE 2026: Mechanical Engineering Research Exhibition ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us at MIT's Mechanical Engineering Research Exhibition (MERE), where graduate students, postdocs, and UROPs showcase their cutting-edge research to the broader MIT community! This year's MERE will feature an in-person poster session on March 5th from 1- 3pm in Lobby 13, bringing together resear",
-      "link": "https://calendar.mit.edu/event/mere-2026",
-      "time": "TBD",
-      "location": "Building 13"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Special Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Jorge Garza-Vargas (Princeton University) Title: On the fluctuations of the number of spanning trees in a random $d$-regular graph Abstract: In the early 80's McKay proved that, as the number of vertices goes to infinity, the eigenvalue distribution of $X^N$, the adjacency matrix of a rando",
-      "link": "https://calendar.mit.edu/event/special-seminar-Jorge-Garza-Vargas",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "How Did We Get Here? Iran and the History of Today's Middle East War",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "This panel, organized under the rubric of the History Faculty’s History of Now initiative, brings two historians of Iran into conversation about the historical forces that have shaped the current war in the Middle East. Rather than offering immediate policy prescriptions, the panel situates today’s ",
-      "link": "https://calendar.mit.edu/event/how-did-we-get-here-iran-and-the-history-of-todays-middle-east-war",
-      "time": "TBD",
-      "location": "Building 3"
-    },
-    {
-      "date": "2026-03-05",
-      "title": " On Single Versus Multiple Inequality Attitudes",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Gabriel Carroll (University of Toronto)",
-      "link": "https://calendar.mit.edu/event/on-single-versus-multiple-inequality-attitudes",
-      "time": "TBD",
-      "location": "Littauer Center 301, Hansen-Mason Room"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Colloquium on the Brain and Cognition with Fan Wang",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Time: 4:00pm Location: 46-3002, Singleton Auditorium (Third floor of MIT Building 46) Title: Pain, Emotion, and Body Schema​​​​​​​ Abstract: I will discuss the neural mechanisms underlying pain and body schema perception. In the first part, I focus on pain, particularly its emotional dimension. Pain",
-      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-fan-wang",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Nonparametric Identification of Demand without Exogenous Product Characteristics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Kirill Borusyak (University of California, Berkeley)",
-      "link": "https://calendar.mit.edu/event/copy-of-tba-1052",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Organic Chemistry Seminar Series | Connor Coley (MIT)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "https://coley.mit.edu/",
-      "link": "https://calendar.mit.edu/event/organic-chemistry-seminar-series-connor-coley-mit",
-      "time": "TBD",
-      "location": "Building 6"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Environmental and Energy Economics Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "“Regulation Meets Public Infrastructure: Evidence from Environmental Water Policy in China” | Daniel Xu (Duke University)",
-      "link": "https://calendar.mit.edu/event/copy-of-environmental-and-energy-economics-seminar-3712",
-      "time": "TBD",
-      "location": "Harvard Kennedy School, Land Hall (Belfer Building, Room 400)"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Speaker: Pitchayut (Mark) Saengrungkongka (MIT) Title: Examples of descent Abstract: The main theorem of descent states that if $X$ is a smooth proper variety over global field $k$, $G$ is a smooth affine algebraic group over $k$, and $f : Z\\to X$ is a $G$-torsor over $X$, then the $k$-rational poin",
-      "link": "https://calendar.mit.edu/event/seminar-on-arithmetic-geometry-etc-stage-Pitchayut-Saengrungkongka",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Katie Kitamura presenting Flare-Up in conversation with David Levine",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "MIT List Visual Arts Center, in partnership with Triple Canopy, presents a reading of Flare-Up, a novel in progress by Katie Kitamura with Goldin+Senneby. The duo’s work, on view at the List Center’s exhibition of the same name, examines the language of autoimmunity as well as the risks and paradoxe",
-      "link": "https://calendar.mit.edu/event/katie-kitamura-presenting-flare-up-in-conversation-with-david-levine",
-      "time": "TBD",
-      "location": "Bartos Theatre 20 Ames Street, Bldg. E15 Atrium level Cambridge, Massachusetts 02139"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Oral Presentations: CommLab Drop-In Workshops",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The NU CommLab is hosting a weekly hybrid Oral Presentation Drop-in practice for graduate students. Drop-in virtually or in-person any week to practice for your upcoming presentations whether it is […] The post Oral Presentations: CommLab Drop-In Workshops appeared first on Northeastern University C",
-      "link": "https://calendar.northeastern.edu/event/oral-presentations-commlab-drop-in-workshops-7447",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Harvard Grid Lab-2-Launch Lounge",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Have ideas for use-inspired applications of your research? Wondering what is the first step or how to test your ideas? No translation or venturing experience or knowledge required! Just bring your curiosity and questions for a no-risk discussion with the Grid's Executive Director Paul Hayre and resi",
-      "link": "https://events.seas.harvard.edu/event/harvard-grid-lab-2-launch-lounge",
-      "time": "TBD",
-      "location": "Node (SEC 2.203)"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Next in Alzheimer’s Research",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "The National Institutes of Health predicts that the number of new dementia cases per year may double by 2060. This is a daunting estimate, but innovative research in biomedicine and new clinical therapies are expanding the frontiers of dementia science, including Alzheimer’s disease and related deme",
-      "link": "https://events.seas.harvard.edu/event/next-in-alzheimers-research",
-      "time": "TBD",
-      "location": "Fay House"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "AI Interpretability: From Insight to Action ",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "Title: AI Interpretability: From Insight to Action Speaker: Yonatan Belinkov, Kempner Visiting Scholar and Assistant Professor of Computer Science at Technion - Israel Institute of Technology Abstract: Interpretability research has made various discoveries about how language models operate. However,",
-      "link": "https://events.seas.harvard.edu/event/ai-interpretability-from-insight-to-action",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "SEAS Industry Insights Series: Scott Kirby, CEO at United Airlines",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "What is the future air travel? How does United Airlines use technology-first strategies to drive transformation and profitability? How does Scott Kirby (CEO at United Airlines) approach wide-scale challenges like the COVID-19 pandemic and the sustainability of travel? Join us for a fireside chat wit",
-      "link": "https://events.seas.harvard.edu/event/seas-industry-insights-series-scott-kirby-ceo-at-united-airlines",
-      "time": "TBD",
-      "location": "Harvard Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Interfaith Ramadan Iftar",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Interfaith Ramadan Iftar Thursday, March 5, 5:15-6:30pm Join Harvard’s Muslim Chaplains and the Presidential Initiative on Interfaith Engagement for an Interfaith Ramadan Iftar. Together, we’ll learn and share about the Muslim holiday of Ramadan, the practice of fasting, and the principles of spirit",
-      "link": "https://events.seas.harvard.edu/event/interfaith-ramadan-iftar",
-      "time": "TBD",
-      "location": "Student Organization Center at Hilles (SOCH)"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Conflux Art-Tech Residency Exhibition",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Join us in the SOCH Penthouse from March 5th - 7th to celebrate our fellows from the 2026 Conflux Winter Residency, Habitual Devotion. The exhibition will feature four connected art-tech displays that involve interactive installations and storytelling, wearable tech, and a blend of traditional and n",
-      "link": "https://events.seas.harvard.edu/event/conflux-art-tech-residency-exhibition",
-      "time": "TBD",
-      "location": "Student Organization Center at Hilles 59 Shephard Street Cambridge, MA 02138 617-495-1020"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "iCreate Series Presents: Julian Brown — Innovation Beyond the Box",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "The iCreate Series invites Harvard students and affiliates to an intimate, conversation-driven gathering featuring Julian Brown, a 22-year-old inventor redefining sustainability through groundbreaking technology. Julian is the creator of Plastoline, a solar-powered microwave pyrolysis system that co",
-      "link": "https://events.seas.harvard.edu/event/icreate-series-presents-julian-brown-innovation-beyond-the-box",
-      "time": "TBD",
-      "location": "Harvard Graduate School of Education"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Boston Robot Hackers – Robotics Landscape",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/boston-robot-hackers-3/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Greentown Labs Climatetech Intern Fair",
-      "source": "Greentown Labs",
-      "tag": "networking",
-      "desc": "Connect with climatetech startups hiring. 444 Somerville Ave.",
-      "link": "https://greentownlabs.com/events/",
-      "time": "4:00 PM",
-      "pick": true,
-      "pickNote": "Hardware startups hiring — you have the Mowze experience"
-    },
     {
       "date": "2026-03-06",
       "title": "MIT Sloan + HBS LATAM Business Conference 2026",
@@ -853,6 +643,96 @@
     },
     {
       "date": "2026-03-11",
+      "title": "Headshots with The Loop Lab",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Refresh your professional presence with a high-quality headshot. After the event, you’ll receive two expertly edited digital portraits ready for LinkedIn, conference bios, and your next big opportunity. We’re thrilled to partner with The Loop Lab, an award-winning Cambridge media arts nonprofit know",
+      "link": "https://calendar.mit.edu/event/headshots-with-the-loop-lab",
+      "time": "TBD",
+      "location": "Building E38 (MIT Welcome Center)"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Writing Together In-person Retreat",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "If you need extra time to work on your writing projects this spring, join these in-person Writing Together Retreats. Writing can feel different and more focused when we gather in the same space to work. Each retreat includes guided goal setting, focused writing time, and the support of a shared writ",
+      "link": "https://calendar.mit.edu/event/copy-of-writing-together-in-person-retreat",
+      "time": "TBD",
+      "location": "Building E19"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Making Non-Tradables Tradable: Human Mobility and the Spatial Reach of African Cities",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Doug Gollin (Tufts)",
+      "link": "https://calendar.mit.edu/event/doug-gollin-tufts",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "drones",
+      "desc": "☛ Time and Place Change ☚ Speaker: Justin Campbell (Brandeis University) Title: A proof of the FFKM tilting conjecture Abstract: In their 1997 paper on semi-infinite flags, Feigin, Finkelberg, Kuznetsov, and Mirković constructed a remarkable action of the Langlands dual Lie algebra on the intersecti",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar-5213",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "“Electrochemical Strategies for Challenging Separations and Polymer-Relevant Conversions” Prof. Magda Barecka Northeastern University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "PPSM Seminar",
+      "link": "https://calendar.mit.edu/event/prof-magda-barecka-departments-of-chemical-engineering-and-chemistry-and-chemical-biology-northeastern-university",
+      "time": "TBD",
+      "location": "Building 56"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Book Talk with Tim Wu: The Age of Extraction",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for a book talk with Tim Wu, discussing his latest book, The Age of Extraction. Join us for an engaging conversation on power, technology, and the forces shaping our economic and digital lives. We hope you’ll be part of this timely and thought-provoking discussion. Tim Wu is a Silicon Valley",
+      "link": "https://calendar.mit.edu/event/book-talk-with-tim-wu-the-age-of-extraction",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Tuong Le (Princeton University) Title: Abstract:",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-9166",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "BWSI Alum Pizza Party ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "We’re excited to invite MIT BWSI alumni back to Beaver Works for a casual social gathering. Come reconnect with fellow alumni and catch up with the BWSI team.",
+      "link": "https://calendar.mit.edu/event/bwsi-alum-pizza-party",
+      "time": "TBD",
+      "location": "Building NE45"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "MIT Literature Section presents, Author Talk & Live Musical Performance with Ling Ling Huang",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Reception: Hayden Library Courtyard @ 5:00 – 5:30 PM Author Talk & Live Musical Performance: Killian Hall (14S-111) @ 5:30 PM Can literature teach empathy? And how much empathy is too much? Join award-winning author Ling Ling Huang for a live conversation on Immaculate Conception. Moderated by Prof.",
+      "link": "https://calendar.mit.edu/event/mit-literature-section-presents-author-talk-live-musical-performance-with-ling-ling-huang",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-03-11",
       "title": "Building Effective Claude Projects",
       "source": "Northeastern",
       "tag": "ai",
@@ -993,6 +873,26 @@
     },
     {
       "date": "2026-03-16",
+      "title": "Future of Robotics at Northeastern University",
+      "source": "Northeastern",
+      "tag": "robotics",
+      "desc": "Join us on March 16, 2026, at 9:00 a.m. ET for an exclusive webinar highlighting Northeastern University’s MS in Robotics at the Seattle campus — located in one of the most advanced tech ecosystems in […] The post Future of Robotics at Northeastern University appeared first on Northeastern Universit",
+      "link": "https://calendar.northeastern.edu/event/future-of-robotics-at-northeastern-university",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Design Research Week",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Design Research Week is a weeklong event that showcases design-led research projects and initiatives. Keynotes, panels, workshops, exhibitions and more connect Northeastern’s research community with external stakeholders, partners, and guests across the design ecosystem in the Boston area and beyond",
+      "link": "https://calendar.northeastern.edu/event/design-research-week",
+      "time": "TBD",
+      "location": "Center for Design"
+    },
+    {
+      "date": "2026-03-16",
       "title": "Faculty Works in Progress Series: Global Fellows Presentations",
       "source": "Northeastern",
       "tag": "talk",
@@ -1100,16 +1000,6 @@
     },
     {
       "date": "2026-03-19",
-      "title": "PESIR 2026",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The Publicly-Engaged Scholar in Residence (PESIR) is a two-day symposium, hosted by the Community-Engaged Teaching & Research team (CETR, like the tree) at Northeastern University, takes place on March 19th and 20th. Community representatives from orgs across Boston, Northeastern faculty and staff, ",
-      "link": "https://calendar.northeastern.edu/event/pesir-2026",
-      "time": "TBD",
-      "location": "Egan Research Center"
-    },
-    {
-      "date": "2026-03-19",
       "title": "Applied and Interdisciplinary Mathematics (AIM) Seminar",
       "source": "Northeastern",
       "tag": "talk",
@@ -1175,16 +1065,6 @@
       "link": "https://calendar.northeastern.edu/event/asl-festival-564",
       "time": "TBD",
       "location": "Northeastern University Curry Center"
-    },
-    {
-      "date": "2026-03-20",
-      "title": "PESIR 2026",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The Publicly-Engaged Scholar in Residence (PESIR) is a two-day symposium, hosted by the Community-Engaged Teaching & Research team (CETR, like the tree) at Northeastern University, takes place on March 19th and 20th. Community representatives from orgs across Boston, Northeastern faculty and staff, ",
-      "link": "https://calendar.northeastern.edu/event/pesir-2026-2294",
-      "time": "TBD",
-      "location": "Fenway Center"
     },
     {
       "date": "2026-03-20",
@@ -1682,26 +1562,6 @@
     },
     {
       "date": "2026-04-16",
-      "title": "Academic Honors Convocation",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Each year, we celebrate Northeastern students and faculty who have demonstrated excellence in scholarship, research, or teaching. These honorees reflect Northeastern’s mission and highest ideals: a global university powered by experience, innovation, and partnership.",
-      "link": "https://calendar.northeastern.edu/event/academic-honors-convocation",
-      "time": "TBD",
-      "location": "Blackman Theater"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Blues/Rock, Rock and Fusion Ensembles",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Prof. Junauro Landgrebe will direct the Blues/Rock, Rock and Fusion Ensembles at the Fenway Center.",
-      "link": "https://calendar.northeastern.edu/event/bluesrock-rock-and-fusion-ensembles-6046",
-      "time": "TBD",
-      "location": "Fenway Center"
-    },
-    {
-      "date": "2026-04-16",
       "title": "CS Colloquium Series - Sushant Sachdeva (U Toronto)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -1709,16 +1569,6 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-sushant-sachdeva-u-toronto",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-04-17",
-      "title": "Orchestra Chamber Music",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Prof. Evan Benett will direct the Northeastern Chamber Orchestra at the Fenway Center.",
-      "link": "https://calendar.northeastern.edu/event/orchestra-chamber-music",
-      "time": "TBD",
-      "location": "Fenway Center"
     },
     {
       "date": "2026-04-22",
@@ -1883,60 +1733,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "AI Agents as universal solvers in evolving worlds",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Hewlett reading room",
-      "link": "https://www.csail.mit.edu/event/ai-agents-universal-solvers-evolving-worlds",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Balyasny Asset Management (BAM)- AI x Investing: Less hype, more alpha.",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "32-G449 (Kiva Seminar Room)",
-      "link": "https://www.csail.mit.edu/event/balyasny-asset-management-bam-ai-x-investing-less-hype-more-alpha",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Tian Jin Thesis Defense: Self-Orchestrating Language Models: Leveraging Semantic Dependence for Efficient Inference",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Large language models (LLMs) demonstrate impressive capabilities, but their deployment presents significant efficiency challenges. Autoregressive decoding imposes substantial inference latency and under-utilizes hardware accelerators in low batch size regimes. Discrete diffusion models can generate ",
-      "link": "https://www.csail.mit.edu/event/tian-jin-thesis-defense-self-orchestrating-language-models-leveraging-semantic-dependence",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "LLMs as Universal Computers and the Transductive Approach to AI Code Generation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "---- For the zoom passcode, please contact the host at markakis@mit.eduAbstract: We describe AI agents as stochastic dynamical systems and frame the problem of learning to reason as in transductive inference: Rather than approximating the distribution of past data as in classical induction, the obje",
-      "link": "https://www.csail.mit.edu/event/llms-universal-computers-and-transductive-approach-ai-code-generation",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Ideals, Macaulay Bases, and PCPs",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "The PCP Theorem is a central result in theoretical computer science, giving query-efficient verifiers for NP. All known proofs of the PCP Theorem rely on (multiple applications of) proof composition, where two sub-optimal PCPs are combined into an optimal one. In this work, we build improved compone",
-      "link": "https://www.csail.mit.edu/event/ideals-macaulay-bases-and-pcps",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Vision Transformers Don't Need Trained Registers",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "RSVP here: https://forms.gle/BTNTn3NuhrQXPFNaA&nbsp;We investigate the mechanism underlying a previously identified phenomenon in Vision Transformers - the emergence of high-norm tokens that lead to noisy attention maps (Darcet et al., 2024). We observe that in multiple models (e.g., CLIP, DINOv2), ",
-      "link": "https://www.csail.mit.edu/event/vision-transformers-dont-need-trained-registers",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -2345,7 +2141,7 @@
     },
     {
       "date": "TBD",
-      "title": "5 events 18",
+      "title": "6 events 18",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This event is for MassRobotics Residents only Learn about MassRobotics Residents here",
@@ -2354,7 +2150,7 @@
     },
     {
       "date": "TBD",
-      "title": "5 events, 18",
+      "title": "6 events, 18",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This event is for MassRobotics Residents only Learn about MassRobotics Residents here",
@@ -2368,6 +2164,15 @@
       "tag": "robotics",
       "desc": "This event is for MassRobotics Residents only Learn about MassRobotics Residents here",
       "link": "https://www.massrobotics.org/event/optikos-office-hours-3/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "SEGA Robo-Explorers Virtual Information Session",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Naturing Minds invites you to join us on Wednesday, March 18 at 1:00 PM EST for a virtual information session to learn more about the program, meet the leadership team, […]",
+      "link": "https://www.massrobotics.org/event/sega-robo-explorers-virtual-information-session/",
       "time": "TBD"
     },
     {
@@ -2714,15 +2519,6 @@
     },
     {
       "date": "TBD",
-      "title": "Climatetech Intern Fair",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "The climate and energy workforce is hiring!",
-      "link": "https://greentownlabs.com/event/climatetech-intern-fair-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "2026 Cleantech Open Northeast Boston Kickoff Party",
       "source": "Greentown Labs",
       "tag": "manufacturing",
@@ -2800,6 +2596,15 @@
       "tag": "manufacturing",
       "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
       "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Intern Fair",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "The climate and energy workforce is hiring!",
+      "link": "https://greentownlabs.com/event/climatetech-intern-fair-2026/",
       "time": "TBD"
     },
     {
@@ -5495,24 +5300,6 @@
     },
     {
       "date": "TBD",
-      "title": "SheTO Boston Hub Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Founder-led Sales Workshop with Rob Snyder: How to Find Real Customer Demand",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "B2B Founders & Builders Night",
       "source": "Luma",
       "tag": "startup",
@@ -5603,6 +5390,15 @@
     },
     {
       "date": "TBD",
+      "title": "「垃圾回收」漫才拼盘",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "DeCo The Decentralized Coding Workshop",
       "source": "Luma",
       "tag": "talk",
@@ -5612,9 +5408,45 @@
     },
     {
       "date": "TBD",
+      "title": "Cofounder Matching: Meet Your Future Founding Team",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Healthcare Ecosystem Mixer by Epistemix & AWS Boston",
+      "source": "Luma",
+      "tag": "networking",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Life Sciences AI on Tap: Boston Connect",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Korrfocus Studio: Studio Signal",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Mentor Matching for Early-Stage Founders",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5633,24 +5465,6 @@
       "title": "Harvard XR 2026 Conference",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Neuroscience of Vitality and Aging (NOVA) Conference",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "ODSC AI East 2026 | The #1 AI Builders Conference",
-      "source": "Luma",
-      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
