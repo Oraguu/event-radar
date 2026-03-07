@@ -1,127 +1,7 @@
 {
-  "scraped_at": "2026-03-06T10:28:55.869427",
-  "event_count": 589,
+  "scraped_at": "2026-03-07T10:17:35.293159",
+  "event_count": 593,
   "events": [
-    {
-      "date": "2026-03-06",
-      "title": "MIT Sloan + HBS LATAM Business Conference 2026",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Annual Latin American Business Conference, led by MIT Sloan and HBS students. About the Conference The MIT Sloan & HBS Latin American Business Conference 2026 is a student-led event hosted at the MIT Sloan School of Management, in collaboration with Harvard Business School. Come join us this Friday ",
-      "link": "https://calendar.mit.edu/event/mit-sloan-hbs-latam-business-conference-2026",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Women in Data Science (WiDS) Cambridge",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "For the tenth year, MIT and Microsoft New England are proud to collaborate with Women in Data Science (WiDS) Worldwide to bring the WiDS regional conference to Cambridge, Massachusetts. This one-day conference will feature an all-female lineup of speakers and panelists from academia and industry to ",
-      "link": "https://calendar.mit.edu/event/women-in-data-science-wids-cambridge",
-      "time": "TBD",
-      "location": "Microsoft New England"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "8th MIT Global Humanities Forum on “Athletes, Equality & Diplomacy” on March 6 (online)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "8th GHI Forum Title: Athletes, Equality & DiplomacyDate: March 6, 2026, 10:00–11:30 AM ESTWhere: Online (Zoom Registration Link: https://mit.zoom.us/meeting/register/K1xD3FjiQ6KbpReKezqcxw)Speakers: Gregory Nagy, Leonard Muellner 【Abstract】 Leonard Muellner will discuss the political and social func",
-      "link": "https://calendar.mit.edu/event/8thGHIForum-Athletes-Equality-and-Diplomacy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Chemistry Student Seminar (CSS) - Aurelio Mollo (Nolan)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
-      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Aurelio-Mollo-Nolan",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Energy and Climate Career Fair",
-      "source": "MIT",
-      "tag": "networking",
-      "desc": "Exploring career opportunities in energy, climate, or sustainability? Don’t miss the MIT Climate and Energy Career Fair! Connect with top employers hiring for internships and full-time roles in clean energy, batteries, consulting, grid infrastructure, energy markets, R&D, and beyond. Open to all stu",
-      "link": "https://calendar.mit.edu/event/energy-and-climate-career-fair",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Piotr Indyk (MIT) Title: Graph-Based Algorithms for Similarity Search: Challenges and Opportunities Abstract: Over the last few years, graph-based approaches to nearest neighbor search have attracted renewed interest. Algorithms such as HNSW, NSG, and DiskANN have become popular tools in pr",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar6",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Computational Research in Boston and Beyond Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Sommer Gentry (New York University) Zoom link: https://mit.zoom.us/j/91933017072 Title: Multiobjective Optimization for Allocating Livers for Transplantation Abstract: Organ allocation requires ethical balancing of multiple viewpoints and different notions of benefit, and this talk will des",
-      "link": "https://calendar.mit.edu/event/computational-research-in-boston-and-beyond-seminar-9024",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-06",
-      "title": "The ABD presents: Tanzanian Bird Lovers Unite!",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Want to get away? The ABD is proud to offer you the following lunch time showing with Debby Carr! Escape the snow and ice and enjoy spectacular photographs of “Birds and Mammals of Tanzania” in a slide presentation put together by Debby Carr, who is a Senior Planner in the MIT Facilities Department.",
-      "link": "https://calendar.mit.edu/event/the-abd-presents-tanzanian-bird-lovers-unite",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Infinite-Dimensional Algebra Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Juan Montoya (University of Colorado Boulder) Title: Recent Infinite-Dimensional Algebras from Physics Abstract: In this talk, I will present several scattering-amplitude formulas arising in quantum field theory and explain how they lead to new infinite-dimensional algebraic structures. In ",
-      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-7341",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "WTTR Film Festival \"the Right Track: true survivor journeys\" Free Film Screening and Q&A",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Please join us in the free screening of \"the Right Track: true survivor journeys\" followed by a Q&A session with special guests. Reception at 5:30pm | Screening at 6pm | Registration is required. Synopsis: Through the eyes of those who live it, this documentary spotlights the fight to end sex traffi",
-      "link": "https://calendar.mit.edu/event/wttr-film-festival-the-right-track-true-survivor-journeys-free-film-screening-and-qa",
-      "time": "TBD",
-      "location": "Bartos Theater"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Bailando Latin Showcase",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Hosted by MIT’s Latin Dance Club, Bailando is a vibrant celebration of Latino culture, passion, and artistry. This annual showcase features MIT’s Alma y Sabor team performing a variety of Latin dance styles from around the world, alongside several talented guest performers. Audiences will experience",
-      "link": "https://calendar.mit.edu/event/bailando-latin-showcase",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-03-06",
-      "title": "Observing the Carbon Cycle from Space",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Sean Crowell (LumenUs Scientific and University of Rochester) Much of what we know about our planet is derived from space-based observations. Over the past decades, national space agencies and commercial enterprises have launched more and more sophisticated sensors into various orbits around the Ear",
-      "link": "https://events.seas.harvard.edu/event/observing-the-carbon-cycle-from-space",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
     {
       "date": "2026-03-07",
       "title": "MIT Recreation Winter Triathlon 2026",
@@ -144,10 +24,10 @@
     },
     {
       "date": "2026-03-07",
-      "title": "Sailing vs. Team Race",
+      "title": "Sailing vs. Wood Trophy",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: Location: Cambridge, MA",
+      "desc": "Time: 10:00 AM Location: Providence, RI",
       "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
       "time": "TBD",
       "location": ""
@@ -237,7 +117,7 @@
       "title": "International/Trade Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "TBA | Torsten Jaccard (University of British Columbia)",
+      "desc": "Tariff Pass-through into Retail Prices: Measurement, Replacement, and Shrink-flation | Torsten Jaccard (University of British Columbia)",
       "link": "https://calendar.mit.edu/event/copy-of-internationaltrade-seminar-4065",
       "time": "TBD",
       "location": "Harvard Littauer M-16"
@@ -683,6 +563,16 @@
     },
     {
       "date": "2026-03-11",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "*Note: unusual time and location Speaker: Tuong Le (Princeton University) Title: Quantum bumpless pipe dreams Abstract: Schubert polynomials are polynomial representatives of Schubert classes in the cohomology of the complete flag variety and have a rich combinatorial theory. In particular, their mo",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-9166",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-11",
       "title": "“Electrochemical Strategies for Challenging Separations and Polymer-Relevant Conversions” Prof. Magda Barecka Northeastern University",
       "source": "MIT",
       "tag": "talk",
@@ -700,16 +590,6 @@
       "link": "https://calendar.mit.edu/event/book-talk-with-tim-wu-the-age-of-extraction",
       "time": "TBD",
       "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-03-11",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Tuong Le (Princeton University) Title: Abstract:",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-9166",
-      "time": "TBD",
-      "location": "Building 2"
     },
     {
       "date": "2026-03-11",
@@ -830,6 +710,116 @@
       "link": "https://events.seas.harvard.edu/event/yannick-naunheim-alloys-designed-for-rapid-solid-state-additive-manufacturing",
       "time": "TBD",
       "location": "Cruft"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Distinguished Seminar in Computational Science and Engineering",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Distinguished Seminar in Computational Science and Engineering March 12, 2026, 12-1PM 45-432 in Building 45 and Zoom Webinar Talk Title: Model-consistent data-driven computational strategies for PDE joint inversion problems Kui Ren Professor of Applied Physics and Applied Mathematics, Columbia Unive",
+      "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-1740",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Thesis Defense - Lara Elcavage",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Bartel lab I \"Regulation of MicroRNAs and by MicroRNAs in Mammals\"",
+      "link": "https://calendar.mit.edu/event/thesis-defense-lara-elcavage",
+      "time": "TBD",
+      "location": "McGovern Auditorium, Whitehead Institute"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "MIT Buchi Lecture | Organic Chemistry Seminar Series | Sarah Reisman (California Institute of Technology)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "http://reismangroup.caltech.edu/index.html",
+      "link": "https://calendar.mit.edu/event/mit-buchi-lecture-organic-chemistry-seminar-series-sarah-reisman-california-institute-of-technology",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Semiparametric Learning of Integral Functionals on Submanifolds ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Wayne Gao (University of Pennsylvania)",
+      "link": "https://calendar.mit.edu/event/copy-of-compound-selection-decisions-an-almost-sure-approach",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Why anecdotes? ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Nina Bobkova (Rice)",
+      "link": "https://calendar.mit.edu/event/tba-3853",
+      "time": "TBD",
+      "location": "Building 51"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Environmental and Energy Economics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Two Wrongs can Sometimes Make a Right: The Environmental Benefits of Market Power in Oil | Jan De Loecker (KU Leuven)",
+      "link": "https://calendar.mit.edu/event/copy-of-environmental-and-energy-economics-seminar",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Symplectic Seminar  ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Roger Casals (University of California Davis) Title: Categorical weave calculus Abstract: Weaves have been used to address questions in different contexts, including the study of Lagrangian fillings in symplectic topology, the construction of cluster algebras, and the formalization of spect",
+      "link": "https://calendar.mit.edu/event/symplectic-seminar-12",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Fireside Chat: Adam Bry SM '12, CEO and Co-Founder of Skydio",
+      "source": "MIT",
+      "tag": "robotics",
+      "desc": "Join us for a conversation with Skydio CEO Adam Bry as he shares his journey from studying at MIT to founding Skydio. Join us for a conversation with Skydio co-founder and CEO Adam Bry SM ’12 as he shares his path from graduate studies at MIT to leading advances at the frontier of modern robotics. S",
+      "link": "https://calendar.mit.edu/event/fireside-chat-adam-bry",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Music Forum: Molly Herron, composer",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Thursday, March 12th at 5pm. Lewis Music Library Please join us for a light reception in the Lewis Music Library after the event. About the Speaker Composer Molly Herron “thinks deeply about motion, energy, and the physics of sound” (NPR). Whether writing for baroque strings, flowerpots, or newly de",
+      "link": "https://calendar.mit.edu/event/music-forum-molly-herron-composer",
+      "time": "TBD",
+      "location": "Lewis Music Library"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Yutong Chen (MIT) Title: The descent obstruction Abstract: In this talk, we will briefly review the notion of Selmer sets and how they provide an obstruction to the existence of rational points. We will then prove a theorem showing that, the Selmer set is finite in interested cases. Next, w",
+      "link": "https://calendar.mit.edu/event/seminar-on-arithmetic-geometry-etc-stage-Yutong-Chen-1",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-12",
+      "title": "Veritas Forum: Are we too busy to care?",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Veritas Forum is an annual event organized by the MIT Graduate Christian Fellowship, in partnership with several other campus organizations, that aims to model the best of the university through rigorous and respectful conversations. You are invited to join our 2026 event, “Are we too busy to ca",
+      "link": "https://calendar.mit.edu/event/veritas-forum-2026",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
     },
     {
       "date": "2026-03-12",
@@ -1736,20 +1726,11 @@
     },
     {
       "date": "TBD",
-      "title": "EECS Special Seminar: Amanda Xu, \"Synthesizing the Quantum Software Stack\"",
-      "source": "MIT CSAIL",
-      "tag": "manufacturing",
-      "desc": "Abstract:&nbsp;Reducing the timeline for solving useful problems with quantum computing requires a flexible compilation stack that can adapt to emerging hardware. Optimizing compilers ensure that the programs we run on these error-prone devices obtain the intended output, while also informing resour",
-      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-amanda-xu-synthesizing-quantum-software-stack",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Graph-Based Algorithms for Similarity Search: Challenges and Opportunities",
+      "title": "Workload-Adaptive Model Serving",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Over the last few years, graph-based approaches to nearest neighbor search have attracted renewed interest. Algorithms such as HNSW, NSG, and DiskANN have become popular tools in practice. These algorithms are highly versatile and come with efficient implementations. At the same time, their correctn",
-      "link": "https://www.csail.mit.edu/event/graph-based-algorithms-similarity-search-challenges-and-opportunities",
+      "desc": "Machine learning models are becoming increasingly capable, leading to their widespread adoption across a growing range of domains. Many of these models incur substantial inference costs. In 2025, spending on inference chips for Gen AI alone amounted to 11.4B USD. However, much of this hardware is no",
+      "link": "https://www.csail.mit.edu/event/workload-adaptive-model-serving",
       "time": "TBD"
     },
     {
@@ -1781,11 +1762,47 @@
     },
     {
       "date": "TBD",
+      "title": "[ML+Crypto Seminar] Refereed Learning",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "We initiate an investigation of learning tasks in a setting where the learner is given access to two competing provers, only one of which is honest. Specifically, we consider the power of such learners in assessing purported properties of opaque models. Following prior work in complexity theory that",
+      "link": "https://www.csail.mit.edu/event/mlcrypto-seminar-refereed-learning",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "HCI Seminar - Ruofei Du - Kicking Off the Flywheel of AI + XR Innovations with XR Blocks",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Abstract:The concurrent revolutions in generative AI and spatial computing are fundamentally transforming how we work, communicate, and live. While AI research is accelerated by mature frameworks and benchmarks, inventing AI-driven XR interactions remains a high-friction process. This raises a criti",
       "link": "https://www.csail.mit.edu/event/hci-seminar-ruofei-du-kicking-flywheel-ai-xr-innovations-xr-blocks",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Lower Bounds for Non-adaptive Local Computation Algorithms",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "We study&nbsp;non-adaptive&nbsp;LCAs. A classical reduction of Parnas and Ron converts any distributed algorithm into a non-adaptive LCA. Applied to known distributed algorithms, this yields non-adaptive LCAs for constant approximations of Maximum Matching (MM) and Minimum Vertex Cover (MVC) with qu",
+      "link": "https://www.csail.mit.edu/event/lower-bounds-non-adaptive-local-computation-algorithms",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Pretraining Methods for Speech Representation Learning and Generation",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "MIT Stata Center (Building 32) 32 Vassar Street",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-pretraining-methods-speech-representation-learning-and-generation",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EECS Special Seminar: Rohan Yadav, “Productively Programming Accelerated Computing Systems”",
+      "source": "MIT CSAIL",
+      "tag": "startup",
+      "desc": "AbstractModern accelerated computing systems are increasing in scale, becoming more specialized and diverse, and evolving more quickly. While these changes bring significant performance improvements, they also come with the challenges of productively developing software that targets complex and rapi",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-rohan-yadav-productively-programming-accelerated-computing-systems",
       "time": "TBD"
     },
     {
@@ -1844,11 +1861,29 @@
     },
     {
       "date": "TBD",
+      "title": "EECS Special Seminar: Gokul Swamy, \"Efficient Interactive Learning: Learning More From Less\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-gokul-swamy-efficient-interactive-learning-learning-more-less",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Computational Ecosystems: Advancing Human Values Through Integrative Computing and Changing Practice",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Kiva",
       "link": "https://www.csail.mit.edu/event/computational-ecosystems-advancing-human-values-through-integrative-computing-and-changing",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EECS Special Seminar: Carmen Amo Alonso, \"Controllable AI: Artificial Intelligence meets Control Theory\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-carmen-amo-alonso-controllable-ai-artificial-intelligence-meets-control",
       "time": "TBD"
     },
     {
@@ -2528,20 +2563,20 @@
     },
     {
       "date": "TBD",
-      "title": "Innovating with Amazon: CO₂ Utilization in the Built Environment",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Kick off Go Build 2026 at Greentown Boston!",
-      "link": "https://greentownlabs.com/event/co2-utilization-in-the-built-environment/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CERAWeek Networking at Greentown Houston",
       "source": "Greentown Labs",
       "tag": "startup",
       "desc": "Celebrate the biggest week in energy with the world's best climate and energy entrepreneurs!",
       "link": "https://greentownlabs.com/event/ceraweek-networking/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Innovating with Amazon: CO₂ Utilization in the Built Environment",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Kick off Go Build 2026 at Greentown Boston!",
+      "link": "https://greentownlabs.com/event/co2-utilization-in-the-built-environment/",
       "time": "TBD"
     },
     {
@@ -5300,24 +5335,6 @@
     },
     {
       "date": "TBD",
-      "title": "B2B Founders & Builders Night",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "South Asians in Sports - Sloan Sports Analytics Conference Meet Up",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "PMs in AI (Boston): PM Hackathon",
       "source": "Luma",
       "tag": "ai",
@@ -5354,9 +5371,27 @@
     },
     {
       "date": "TBD",
+      "title": "Celebrating Women in Climate & Energy",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Boston OpenClaw Hackathon",
       "source": "Luma",
       "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cafe Cursor Boston",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5417,6 +5452,15 @@
     },
     {
       "date": "TBD",
+      "title": "From Copilots to Agents: The New Era of Software Delivery",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Healthcare Ecosystem Mixer by Epistemix & AWS Boston",
       "source": "Luma",
       "tag": "networking",
@@ -5453,16 +5497,7 @@
     },
     {
       "date": "TBD",
-      "title": "Conversations with People who Hate Me",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Harvard XR 2026 Conference",
+      "title": "Neuroscience Insights to Navigate Stress and Trauma: A Harvard Neuroscience & Society Conversation with Leading Experts",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
