@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-03-15T10:22:53.699309",
-  "event_count": 691,
+  "scraped_at": "2026-03-16T10:49:10.878707",
+  "event_count": 700,
   "events": [
     {
       "date": "2026-03-16",
@@ -392,6 +392,16 @@
     },
     {
       "date": "2026-03-17",
+      "title": "MIE Seminar: Automated Driving from a Control Systems Perspective: Architectures, Learning, and Safety Guarantees",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "MIE Seminar Speaker: Stefano Di Cairano, Mitsubishi Electric Research Laboratories The post MIE Seminar: Automated Driving from a Control Systems Perspective: Architectures, Learning, and Safety Guarantees appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/mie-seminar-automated-driving-from-a-control-systems-perspective-architectures-learning-and-safety-guarantees",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-17",
       "title": "Robotics in Healthcare Week – MassRobotics",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -498,6 +508,16 @@
       "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-6301",
       "time": "TBD",
       "location": "Building 2"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Hellenic Students' Association Movie Night",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Decompress after the midterms with another one of our traditional movie nights! The movie will include English subtitles. Greek food first, and the movie starts afterwards! Movie: It's a long road (Όλα είναι δρόμος). Event Details: What: HSA Movie night Movie: It's a long road (Όλα είναι δρόμος) Whe",
+      "link": "https://calendar.mit.edu/event/hellenic-students-association-movie-night-2022",
+      "time": "TBD",
+      "location": "Building 4"
     },
     {
       "date": "2026-03-18",
@@ -824,6 +844,26 @@
       "tag": "talk",
       "desc": "Speaker: Daniel Lazarev Title: Entropy-Extremizing Representations Zoom link: https://mit.zoom.us/j/2337741369 Abstract: Exploring alternative representations of mathematical and physical objects is central to progress in mathematics and science. From changes of variables to integral transformations",
       "link": "https://calendar.mit.edu/event/thesis-defense-daniel-lazarev",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Charlotte Wickert (G), flute",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Charlotte Wickert is a PhD student at MIT in the Nuclear Science and Engineering Department, where she conducts research in the Computationa",
+      "link": "https://calendar.mit.edu/event/charlotte-wickert-flute-1087",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Ivan Cherednik (UNC Chapel Hill) Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-3307",
       "time": "TBD",
       "location": "Building 2"
     },
@@ -1737,11 +1777,11 @@
     },
     {
       "date": "TBD",
-      "title": "SNARGs for NP from Unprovability of Mathematical Theorems",
+      "title": "Diffusion geometry for accessing the Riemannian toolkit on non-manifolds (Iolo Jones, Oxford)",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Modern cryptography relies on the intractability of computational problems. We present an approach to build cryptography from a new source of hardness: proving mathematical theorems. Unprovability results are abundant in mathematics and theoretical computer science, yet to our knowledge, they have n",
-      "link": "https://www.csail.mit.edu/event/snargs-np-unprovability-mathematical-theorems",
+      "desc": "Speaker: Iolo JonesSpeaker Affiliation: University of OxfordDate: Tuesday, March 17, 2026Time: 9:30AM - 10:30AMLocation: 32-G449Title: Diffusion geometry for accessing the Riemannian toolkit on non-manifoldsAbstract: A general assumption in machine learning is that real-world data have intrinsic low",
+      "link": "https://www.csail.mit.edu/event/diffusion-geometry-accessing-riemannian-toolkit-non-manifolds-iolo-jones-oxford",
       "time": "TBD"
     },
     {
@@ -1782,11 +1822,29 @@
     },
     {
       "date": "TBD",
+      "title": "EECS Special Seminar: Max Hopkins, \"Fast Codes and Hard Functions: Derandomization from High Dimensional Expanders\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:&nbsp;Pseudorandomness and derandomization are central themes in the study of computation, underlying everything from the ubiquitous theory of error-correcting codes to modern cryptographic protocols and the fundamental limits of efficient computing. In this talk, I will give an overview of",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-max-hopkins-fast-codes-and-hard-functions-derandomization-high",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Half-Approximating Maximum Dicut in the Streaming Setting",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "This talk is based on joint work with Soheil Behnezhad, Shane Ferrante, and&nbsp;Mohammad Saneian, to appear at STOC'26. We study streaming algorithms for the maximum directed cut problem. The edges of an n-vertex directed graph arrive one by one in an arbitrary order, and the goal is to estimate th",
       "link": "https://www.csail.mit.edu/event/half-approximating-maximum-dicut-streaming-setting",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EECS Special Seminar: Florentin Guth, \"Towards a science of deep learning: the structure of data and weights”",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:&nbsp;With deep learning, we now have access to strikingly powerful generative models of images and text, in apparent spite of the curse of dimensionality. This success rests on two facts: natural data is highly structured, and our choices of network architectures and training algorithms im",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-florentin-guth-towards-science-deep-learning-structure-data-and-weights",
       "time": "TBD"
     },
     {
@@ -1849,7 +1907,7 @@
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Abstract:TBA",
-      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-2",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-0",
       "time": "TBD"
     },
     {
@@ -1881,11 +1939,29 @@
     },
     {
       "date": "TBD",
+      "title": "New England Symposium on Graphics",
+      "source": "MIT CSAIL",
+      "tag": "manufacturing",
+      "desc": "The New England Symposium on Graphics (NESG) will take place on April 12 at MIT. Please register in advance using the following link: https://forms.gle/g5fWyLVqCfm8hJVW6&nbsp;NESG is a one-day informal gathering for students, postdocs, and faculty working in computer graphics and related areas such ",
+      "link": "https://www.csail.mit.edu/event/new-england-symposium-graphics-0",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "EECS Special Seminar: Deb Raji, \"Closing the AI Accountability Gap: Audits & Evaluation in the Age of Artificial Intelligence\"",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/eecs-special-seminar-deb-raji-closing-ai-accountability-gap-audits-evaluation-age-artificial",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Justin Y. Chen",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-justin-y-chen",
       "time": "TBD"
     },
     {
@@ -5499,7 +5575,7 @@
     },
     {
       "date": "TBD",
-      "title": "1. Comedy shows",
+      "title": "1. St patrick",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5508,7 +5584,7 @@
     },
     {
       "date": "TBD",
-      "title": "2. St patrick",
+      "title": "2. Comedy shows",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5526,7 +5602,7 @@
     },
     {
       "date": "TBD",
-      "title": "5. Concert",
+      "title": "5. St patrick day",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5535,7 +5611,7 @@
     },
     {
       "date": "TBD",
-      "title": "6. St patrick day",
+      "title": "6. Concert",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5553,7 +5629,7 @@
     },
     {
       "date": "TBD",
-      "title": "8. Job fair",
+      "title": "8. St patricks day",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5562,7 +5638,7 @@
     },
     {
       "date": "TBD",
-      "title": "9. Drag",
+      "title": "9. Job fair",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5571,7 +5647,7 @@
     },
     {
       "date": "TBD",
-      "title": "10. Boston",
+      "title": "10. Drag",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5580,7 +5656,7 @@
     },
     {
       "date": "TBD",
-      "title": "11. St patricks day",
+      "title": "11. Boston",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5598,11 +5674,11 @@
     },
     {
       "date": "TBD",
-      "title": "FREE Machine Learning Bootcamp",
+      "title": "Senior Scams: Identifying Top Senior Scams & Where to Report Them",
       "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Mon, Mar 23, 10:30 AM EDT",
-      "link": "https://www.eventbrite.com/e/free-machine-learning-bootcamp-tickets-1982551913141?aff=ebdssbdestsearch",
+      "tag": "tech",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/senior-scams-identifying-top-senior-scams-where-to-report-them-tickets-1978832509304?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5616,11 +5692,11 @@
     },
     {
       "date": "TBD",
-      "title": "Senior Scams: Identifying Top Senior Scams & Where to Report Them",
+      "title": "AI Use Cases in Research & Analytics",
       "source": "Eventbrite",
-      "tag": "tech",
-      "desc": "Sales end soon",
-      "link": "https://www.eventbrite.com/e/senior-scams-identifying-top-senior-scams-where-to-report-them-tickets-1978832509304?aff=ebdssbdestsearch",
+      "tag": "ai",
+      "desc": "Wed, Apr 15, 12:00 PM EDT",
+      "link": "https://www.eventbrite.com/e/ai-use-cases-in-research-analytics-tickets-1983349963130?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5664,7 +5740,7 @@
       "title": "Boston Tech & Finance Networking Event",
       "source": "Eventbrite",
       "tag": "networking",
-      "desc": "Friday at 7:00 PM",
+      "desc": "Sales end soon",
       "link": "https://www.eventbrite.ca/e/boston-tech-finance-networking-event-tickets-1980571369281?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5682,7 +5758,7 @@
       "title": "Boston Tech Mixer and Social (Tech / AI / Data) ✨ Boston Connect",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Friday at 5:30 PM + 40 more",
+      "desc": "Sales end soon",
       "link": "https://www.eventbrite.com.au/e/boston-tech-mixer-and-social-tech-ai-data-boston-connect-tickets-1975977091673?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5700,7 +5776,7 @@
       "title": "IT Social Boston Friday | Data, Technology, Cybersecurity, IT",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Friday at 5:30 PM + 40 more",
+      "desc": "Sales end soon",
       "link": "https://www.eventbrite.com.au/e/it-social-boston-friday-data-technology-cybersecurity-it-tickets-1538589806529?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5709,7 +5785,7 @@
       "title": "Young IT Professionals in Boston Social Friday",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Friday at 5:30 PM + 40 more",
+      "desc": "Sales end soon",
       "link": "https://www.eventbrite.com.au/e/young-it-professionals-in-boston-social-friday-tickets-1538591401299?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5729,15 +5805,6 @@
       "tag": "networking",
       "desc": "Wed, Apr 1, 4:00 PM",
       "link": "https://www.eventbrite.com/e/techspecialists-techconnect-your-monthly-virtual-career-networking-hub-boston-tickets-1984380493474?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Technical Writing for Non-Technical Roles – 1 Day Course in Boston, MA",
-      "source": "Eventbrite",
-      "tag": "tech",
-      "desc": "Tomorrow at 9:00 AM + 3 more",
-      "link": "https://www.eventbrite.sg/e/technical-writing-for-non-technical-roles-1-day-course-in-boston-ma-tickets-1980068975608?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5765,6 +5832,15 @@
       "tag": "networking",
       "desc": "Wed, Apr 22, 6:00 PM",
       "link": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-boston-tickets-1980883539992?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Technical Writing for Non-Technical Roles – 1 Day Course in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Today at 9:00 AM + 3 more",
+      "link": "https://www.eventbrite.sg/e/technical-writing-for-non-technical-roles-1-day-course-in-boston-ma-tickets-1980068975608?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5805,11 +5881,11 @@
     },
     {
       "date": "TBD",
-      "title": "Starting Your Startup March",
+      "title": "Patents for Entrepreneurs: A Practical Masterclass for Founders",
       "source": "Eventbrite",
       "tag": "startup",
-      "desc": "Almost full",
-      "link": "https://www.eventbrite.com/e/starting-your-startup-march-tickets-1983546072699?aff=ebdssbdestsearch",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/patents-for-entrepreneurs-a-practical-masterclass-for-founders-tickets-1984835756177?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5817,7 +5893,7 @@
       "title": "Idea-to-Launch Startup Accelerator: 1 Day Workshop in Boston, MA",
       "source": "Eventbrite",
       "tag": "startup",
-      "desc": "Sales end soon",
+      "desc": "Thu, Mar 26, 9:00 AM + 3 more",
       "link": "https://www.eventbrite.sg/e/idea-to-launch-startup-accelerator-1-day-workshop-in-boston-ma-tickets-1977688243775?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5934,8 +6010,17 @@
       "title": "Flying a Virtual Drone with PX4 and Gazebo",
       "source": "Eventbrite",
       "tag": "drones",
-      "desc": "Almost full",
+      "desc": "Going fast",
       "link": "https://www.eventbrite.com/e/flying-a-virtual-drone-with-px4-and-gazebo-tickets-1982944587641?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Website Trends - What's Hot, What's Not. The CMO Scoop (episode 11)",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Almost full",
+      "link": "https://www.eventbrite.com/e/website-trends-whats-hot-whats-not-the-cmo-scoop-episode-11-tickets-1983113395550?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5952,7 +6037,7 @@
       "title": "Book Talk: Degrees of Freedom: On Robotics and Social Justice",
       "source": "Eventbrite",
       "tag": "robotics",
-      "desc": "Mon, Mar 23, 7:00 PM",
+      "desc": "Going fast",
       "link": "https://www.eventbrite.com/e/book-talk-degrees-of-freedom-on-robotics-and-social-justice-tickets-1983404065953?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5979,7 +6064,7 @@
       "title": "In-Person Free Coding Workshop For Kids at Revere, MA (7-14 yrs)",
       "source": "Eventbrite",
       "tag": "robotics",
-      "desc": "Sat, Mar 21, 11:00 AM",
+      "desc": "Sales end soon",
       "link": "https://www.eventbrite.com/e/in-person-free-coding-workshop-for-kids-at-revere-ma-7-14-yrs-tickets-1984295434059?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5988,7 +6073,7 @@
       "title": "Artificial Intelligence & Automation 1 Day Workshop |Lowell, MA",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Sales end soon",
+      "desc": "Friday at 9:00 AM + 4 more",
       "link": "https://www.eventbrite.com/e/artificial-intelligence-automation-1-day-workshop-lowell-ma-tickets-1980247528665?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -6057,20 +6142,20 @@
     },
     {
       "date": "TBD",
-      "title": "Redesigning Humanity: Evolution 2.0",
+      "title": "AI Webinar for Small Businesses by OurAiAssistant",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Sat, Mar 21, 5:00 PM",
-      "link": "https://www.eventbrite.com/e/redesigning-humanity-evolution-20-tickets-1984226471791?aff=ebdssbdestsearch",
+      "desc": "Almost full",
+      "link": "https://www.eventbrite.com/e/ai-webinar-for-small-businesses-by-ouraiassistant-tickets-1984929603878?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Earth 2.0 Global Activation: The 12-Month Human System Upgrade",
+      "title": "Good Girl Be Gone: Why capable women burn out from carrying everyone else",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Sat, Mar 21, 10:00 AM EDT",
-      "link": "https://www.eventbrite.com/e/earth-20-global-activation-the-12-month-human-system-upgrade-tickets-1980896918006?aff=ebdssbdestsearch",
+      "desc": "Almost full",
+      "link": "https://www.eventbrite.com/e/good-girl-be-gone-why-capable-women-burn-out-from-carrying-everyone-else-tickets-1984831092227?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
