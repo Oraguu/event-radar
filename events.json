@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-03-21T10:20:22.340805",
-  "event_count": 563,
+  "scraped_at": "2026-03-22T10:21:18.824914",
+  "event_count": 571,
   "events": [
-    {
-      "date": "2026-03-21",
-      "title": "Men's Heavyweight Crew vs. United States Coast Guard Academy",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 8:12 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-21",
-      "title": "Women's Openweight Crew vs. United States Coast Guard Academy",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 8:24 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-21",
-      "title": "Sailing vs. Duplin Women's Team Race",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Medford, MA",
-      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-21",
-      "title": "Gamelan Showdown: A Balinese Battle of the Bands",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "MIT’s Gamelan Galak Tika and Queens College’s Gamelan Yowana Sari come together for a joint concert—a Balinese mebarung (melody competition) Featuring new works by Evan Ziporyn, Kyle Miller, and Théo Mérigeau Come for the music and stay for a light reception afterward, celebrating the release of Yow",
-      "link": "https://calendar.mit.edu/event/gamelan-showdown-a-balinese-battle-of-the-bands",
-      "time": "TBD",
-      "location": "Building W18"
-    },
     {
       "date": "2026-03-23",
       "title": "Joint COS, COE & QMSI Colloquium: \"Accelerating Quantum Materials Discovery with AI-enabled Autonomous Experimentation\"",
@@ -253,6 +213,26 @@
     },
     {
       "date": "2026-03-25",
+      "title": "Bioengineering Spring Seminar Series",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "BIOE 7390 – Spring 2026 Bioengineering Seminar Series Schedule Internal and external faculty seminar speakers, weekly 12-1pm on Wednesdays in Richards Hall 300 JANUARY 1/7 – Jonathan Weissman, PhD Professor […] The post Bioengineering Spring Seminar Series appeared first on Northeastern University C",
+      "link": "https://calendar.northeastern.edu/event/bioengineering-spring-seminar-series-4401",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-25",
+      "title": "Chemical Engineering Spring Seminar Series: Steven Wrenn",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Realizing emergent properties in functional composite from directed assembly at the micro-scale Location: 108 Snell Engineering Center Abstract: This talk will describe fundamental studies and practical applications of biological colloids […] The post Chemical Engineering Spring Seminar Series: Stev",
+      "link": "https://calendar.northeastern.edu/event/chemical-engineering-spring-seminar-series-steven-wrenn",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-25",
       "title": "Is It Real or Is It #Spons? Navigating Truth in the Age of Influencers",
       "source": "Northeastern",
       "tag": "talk",
@@ -441,11 +421,41 @@
     },
     {
       "date": "2026-03-28",
+      "title": "Men's Heavyweight Crew vs. Holy Cross",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: TBA Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-28",
       "title": "Men's Lightweight Crew vs. National Collegiate Lightweight Invitational",
       "source": "MIT",
       "tag": "talk",
       "desc": "Time: TBA Location: Leonia, NJ / Overpeck Park",
       "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Women's Openweight Crew vs. Holy Cross",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: TBA Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Sailing vs. Dellenbaugh Team Race",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Providence, RI",
+      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
       "time": "TBD",
       "location": ""
     },
@@ -699,6 +709,46 @@
     },
     {
       "date": "2026-03-31",
+      "title": "SQI Mission Update: Embodied Intelligence",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The MIT Siegel Family Quest for Intelligence (SQI) is a community of scientists, engineers, faculty, students, staff, and supporters that aim to understand intelligence – how brains produce it and how it can be replicated in artificial systems. Together, we approach intelligence as a single grand ch",
+      "link": "https://calendar.mit.edu/event/sqi-mission-update-embodied-intelligence",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "The Optimal Macro Tariff",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dmitry Mukhin (London School of Economics) joint w/ Oleg Itskhoki",
+      "link": "https://calendar.mit.edu/event/tba-2635",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Conversation and Concert: Carlos Prieto, cello",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Carlos Prieto, celloMarch 31, 2026 4:30 PM - 6:30 PM, Lewis Music Library (14E-109) MIT alum and distinguished cellist Carlos Prieto is celebrated in an afternoon of conversation and music, co-hosted by the SHASS Dean’s Office, the Lewis Music Library, and the Emerson/Harris Program. Prieto will be ",
+      "link": "https://calendar.mit.edu/event/emersonharris-masterclass-carlos-prieto-cello",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Thought Leader Lecture: Hossein Fateh — Founder & CEO of CloudHQ",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Join us for a Thought Leader Lecture with Hossein Fateh, Founder and CEO of CloudHQ Hossein Fateh is the Founder and Chief Executive Officer of CloudHQ and was one of the original developers of the new asset class of data centers and he has continued to help shape the industry as tenants’ data needs",
+      "link": "https://calendar.mit.edu/event/thought-leader-lecture-hossein-fatehfounder-ceo-of-cloudhq",
+      "time": "TBD",
+      "location": "Building 9"
+    },
+    {
+      "date": "2026-03-31",
       "title": "Economics PhD Dissertation Defense - Shenghao Peng",
       "source": "Northeastern",
       "tag": "talk",
@@ -715,6 +765,36 @@
       "desc": "Prof. Edmondson + CEO of Kraft Analytics. Batten Hall, Hive 301.",
       "link": "https://events.hbs.edu/",
       "time": "3:00 PM"
+    },
+    {
+      "date": "2026-04-01",
+      "title": " Polarization and International Politics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Professor Rachel Myrick from Duke University will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: Polarization is a defining feature of politics in the United States and many other democracies. Yet although there is much research focusing on the effects of polar",
+      "link": "https://calendar.mit.edu/event/polarization-and-international-politics",
+      "time": "TBD",
+      "location": "Building E40"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Habit Formation in Labor Supply",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Heather Schofield (Cornell)",
+      "link": "https://calendar.mit.edu/event/habit-formation-in-labor-supply",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Geometric Analysis Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Gianmarco Caldini (University of Trento) Title: On regularity theory for generalized surfaces Abstract: The natural question of how much smoother integral currents are with respect to their initial definition goes back to the late 1950s and to the origin of the theory with the seminal artic",
+      "link": "https://calendar.mit.edu/event/geometric-analysis-seminar-Gianmarco-Caldini",
+      "time": "TBD",
+      "location": "Building 2"
     },
     {
       "date": "2026-04-01",
@@ -5031,33 +5111,6 @@
     },
     {
       "date": "TBD",
-      "title": "Bad Mom’s Good Form Live Podcast",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "OpenClaw Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "「垃圾回收」漫才拼盘",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Bloom & Bond",
       "source": "Luma",
       "tag": "talk",
@@ -5103,6 +5156,15 @@
     },
     {
       "date": "TBD",
+      "title": "Spin The Globe Night - Travel Trivia Happy Hour",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Beyond the Pilot: Blueprints for Resilient AI Scale",
       "source": "Luma",
       "tag": "ai",
@@ -5130,7 +5192,16 @@
     },
     {
       "date": "TBD",
-      "title": "Resolution Hacks Sponsored by Eight Sleep, swsh, Duckbill, & Fragile",
+      "title": "SharkNinja Innovation Challenge Live Pitch Finale",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Resolution Hacks (w. Eight Sleep, swsh, Duckbill, Fragile, Clair & Wayfair)",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -5203,6 +5274,15 @@
     {
       "date": "TBD",
       "title": "Validated AI Conference",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "HARVARD AI FORUM",
       "source": "Luma",
       "tag": "ai",
       "desc": "",
