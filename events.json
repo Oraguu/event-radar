@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-03-22T10:21:18.824914",
-  "event_count": 571,
+  "scraped_at": "2026-03-23T10:47:04.593341",
+  "event_count": 575,
   "events": [
     {
       "date": "2026-03-23",
@@ -581,6 +581,16 @@
     },
     {
       "date": "2026-03-30",
+      "title": "Where We Stand: Black Feminist Thought Across the Americas",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "As part of Women’s History Month, MIT Women’s and Gender Studies and the MIT-Brazil and Latin America groups at MIT CIS will host Brazilian philosopher and writer Djamila Ribeiro for a conversation about her book Where We Stand. In dialogue with MIT scholar Paloma Duong, the event will explore Black",
+      "link": "https://calendar.mit.edu/event/where-we-stand-black-feminist-thought-across-the-americas",
+      "time": "TBD",
+      "location": "Building 10"
+    },
+    {
+      "date": "2026-03-30",
       "title": "Artist Talk with Victoria Shen",
       "source": "MIT",
       "tag": "talk",
@@ -795,6 +805,36 @@
       "link": "https://calendar.mit.edu/event/geometric-analysis-seminar-Gianmarco-Caldini",
       "time": "TBD",
       "location": "Building 2"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Si'an Nie (Chinese Academy of Sciences) ☛ Tentative — speaker availability to be confirmed ☚",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar-5398",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Seyferth Lecture- Professor Peter T. Wolczanski (Cornell University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Ruminations in Inorganic and Organometallic Chemistry by a Grumpy Old Man This lecture will be a potpourri of inorganic and organometallic chemistry that reflects: 1) teachings that are either inaccurate or puzzling; 2) attempts to broaden the redox capability of base metals; and 3) accompanying ele",
+      "link": "https://calendar.mit.edu/event/seyferth-lecture-professor-peter-t-wolczanski-cornell-university",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-04-01",
+      "title": "Write for the World: The Art of the Blog Post: Information Session",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, check this information session. This program is for MIT scholars who want to find their voice, share their story, learn about blog writing ",
+      "link": "https://calendar.mit.edu/event/write-for-the-world-the-art-of-the-blog-post-information-session",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-04-01",
@@ -5111,24 +5151,6 @@
     },
     {
       "date": "TBD",
-      "title": "Bloom & Bond",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Build with TRAE & Z.ai @ Boston (Creative Lab)",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "DeCo The Decentralized Coding Workshop",
       "source": "Luma",
       "tag": "talk",
@@ -5192,15 +5214,6 @@
     },
     {
       "date": "TBD",
-      "title": "SharkNinja Innovation Challenge Live Pitch Finale",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Resolution Hacks (w. Eight Sleep, swsh, Duckbill, Fragile, Clair & Wayfair)",
       "source": "Luma",
       "tag": "talk",
@@ -5255,6 +5268,15 @@
     },
     {
       "date": "TBD",
+      "title": "Boston Women in Fintech: AI is Changing Fintech. Who Gets to Shape it?",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "[Stripe Press] Boston Pop-up",
       "source": "Luma",
       "tag": "talk",
@@ -5285,6 +5307,24 @@
       "title": "HARVARD AI FORUM",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "No. 54-Tech Pulse 2030- AI 2030 Boston Event",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Harvard XR 2026 Conference",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
