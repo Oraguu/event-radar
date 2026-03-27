@@ -1,146 +1,7 @@
 {
-  "scraped_at": "2026-03-26T10:46:54.716141",
-  "event_count": 588,
+  "scraped_at": "2026-03-27T10:41:09.645335",
+  "event_count": 590,
   "events": [
-    {
-      "date": "2026-03-26",
-      "title": "Special Seminar with Harris Kaplan",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Talk Title: A coming-of-age story: neuronal circuit function in early life Talk Abstract: How is the brain built? Even very early in life, developing neuronal circuits are active, responsive to sensory inputs, and drive behavior. Such early life circuit functions both guide circuit formation and als",
-      "link": "https://calendar.mit.edu/event/special-seminar-with-harris-kaplan",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Brandeis-Harvard-MIT-Northeastern Joint Mathematics Colloquium",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Fabian Ruehle​​​​​​​ (Northeastern) Title: Kaleidoscopes and Waves on Calabi–Yau Moduli Spaces Abstract: A Calabi–Yau manifold comes with an associated moduli space. This space carries a distinguished function called the prepotential, which encodes the moduli space metric and enumerative in",
-      "link": "https://calendar.mit.edu/event/brandeis-harvard-mit-northeastern-joint-mathematics-colloquium-Fabian-Ruehle",
-      "time": "TBD",
-      "location": "Northeastern University"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "University of Scranton Spring 2026 Career Expo",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join COE Graduate Admissions at the 2026 University of Scranton Spring 2026 Career Expo in Scranton, Pennsylvania! Ask your questions about our graduate engineering programs across the U.S. and Canada […] The post University of Scranton Spring 2026 Career Expo appeared first on Northeastern Universi",
-      "link": "https://calendar.northeastern.edu/event/university-of-scranton-spring-2026-career-expo",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Oral Presentations: CommLab Drop-In Workshops",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The NU CommLab is hosting a weekly hybrid Oral Presentation Drop-in practice for graduate students. Drop-in virtually or in-person any week to practice for your upcoming presentations whether it is […] The post Oral Presentations: CommLab Drop-In Workshops appeared first on Northeastern University C",
-      "link": "https://calendar.northeastern.edu/event/oral-presentations-commlab-drop-in-workshops-5876",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Applied and Interdisciplinary Mathematics (AIM) Seminar",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Date: Thursday, March 26, 2026 Time: 1:00 pm Location: EXP 601 (the room with the oval conference table) Speaker: Prof. Ray Zirui Zhang (Department of Mathematical Sciences, Worcester Polytechnic Institute). Title: Bilevel Local Operator Learning (BiLO) for PDE inverse problems Abstract: Many scient",
-      "link": "https://calendar.northeastern.edu/event/applied-and-interdisciplinary-mathematics-aim-seminar-5410",
-      "time": "TBD",
-      "location": "EXP"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "CSSH Undergraduate Research Forum",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Students from across CSSH majors present independent research projects on faculty-moderated panels.",
-      "link": "https://calendar.northeastern.edu/event/cssh-undergraduate-research-forum-2507",
-      "time": "TBD",
-      "location": "Renaissance_Park"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "ChE MS Thesis Defense: Benjamin Peck",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Name: Benjamin Peck Title: Generalizable Image Analysis Pipelines for Junction Fragmentation and Vascular Marker Analysis Applied to Blood-Brain Barrier Disease Models Date: 03/26/2026 Time: 02:00:00 PM Committee Members: Prof. Eno […] The post ChE MS Thesis Defense: Benjamin Peck appeared first on ",
-      "link": "https://calendar.northeastern.edu/event/che-ms-thesis-defense-benjamin-peck",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Jason Yust: Antiblackness in Foundational Music Theory Concepts: Tonality, Meter, Rock Music",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "A primary function of music theory is to establish and maintain the concepts that shape how we think about music, concepts that shape composition, performance, analysis, criticism, and scientific research. One of the bedrock concepts of music theory, tonality, is historically steeped in white suprem",
-      "link": "https://calendar.northeastern.edu/event/jason-yust-antiblackness-in-foundational-music-theory-concepts-tonality-meter-rock-music",
-      "time": "TBD",
-      "location": "Ryder"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Dominating the Domains: Great Power Competition in Areas Beyond National Jurisdiction",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "This event is part of the Leaders in Foreign Service Keynote Speakers Series. The discussion will be led by Esther D. Brimmer, Former Assistant Secretary of State for International Organization Affairs and James H. Binger senior fellow in global governance at the Council on Foreign Relations (CFR), ",
-      "link": "https://calendar.northeastern.edu/event/dominating-the-domains-great-power-competition-in-areas-beyond-national-jurisdiction",
-      "time": "TBD",
-      "location": "Alumni Center"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "A Sixth of Humanity: Independent India's Development Odyssey",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The Center for Emerging Markets will welcome Devesh Kapur, Starr Foundation Professor of South Asian Studies at Johns Hopkins University, and Arvind Subramanian, Senior Fellow at the Pearson Institute for International Economics, to discuss the distinctive economic and political path India has follo",
-      "link": "https://calendar.northeastern.edu/event/a-sixth-of-humanity-independent-indias-development-odyssey",
-      "time": "TBD",
-      "location": "Egan Research Center"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Computational Ecosystems: Advancing Human Values Through Integrative Computing and Changing Practice",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Title: Computational Ecosystems: Advancing Human Values Through Integrative Computing and Changing Practice Speaker: Haoqi Zhang, Associate Professor in Computer Science and Design at Northwestern University Abstract: Despite decades of computing advances, some human problems and core human values h",
-      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-haoqi-zhang-northwestern",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Efficient Machine Learning for Rare Events from Time Series Data",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "Widely Applied Mathematics Seminar Thursday, March 26 | 3 - 4pm Maxwell Dworkin 119 \"Efficient Machine Learning for Rare Events from Time Series Data\" Speaker: Jonathan Weare Professor of Mathematics, Courant Institute, New York University Abstract: Prediction of the future behavior of a dynamical s",
-      "link": "https://events.seas.harvard.edu/event/efficient-machine-learning-for-rare-events-from-time-series-data",
-      "time": "TBD",
-      "location": "Maxwell Dworkin"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Lab-to-Launch Lounge",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Hear from the Harvard PhD Lightsynq founders on spinning out breakthrough diamond photonics research into a company that's solving how to connect quantum computers together, making data-center-scale quantum computing and the quantum internet possible. For full details: https://www.grid.harvard.edu/e",
-      "link": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-8027",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "A Fresh Start for Our Cities — Bill McKibben",
-      "source": "Harvard GSD",
-      "tag": "talk",
-      "desc": "Renewable energy transforming the built environment.",
-      "link": "https://www.gsd.harvard.edu/",
-      "time": "Evening"
-    },
     {
       "date": "2026-03-27",
       "title": "Thesis Defense: Abdallah Mohamed",
@@ -193,16 +54,6 @@
     },
     {
       "date": "2026-03-27",
-      "title": "Reckonings Community Network Series: Awakening the Dragon: Role Play Guides Workshop",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come engage with and learn more about Boston’s long tradition of dragon boat histories, rituals, and racing. This interactive participatory workshop will be co-designed and co-led by Lani Asunción and Joanna Tam, Reckonings Hidden Histories Artists-in-Residence.",
-      "link": "https://calendar.northeastern.edu/event/reckonings-community-network-series-awakening-the-dragon-role-play-guides-workshop",
-      "time": "TBD",
-      "location": "Snell Library, Centers for Digital Scholarship Space on the Third Floor"
-    },
-    {
-      "date": "2026-03-27",
       "title": "Connections: ships, trees, nanoparticles and lightning",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -213,31 +64,21 @@
     },
     {
       "date": "2026-03-28",
-      "title": "Men's Heavyweight Crew vs. Holy Cross",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Men's Lightweight Crew vs. National Collegiate Lightweight Invitational",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Leonia, NJ / Overpeck Park",
-      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Women's Openweight Crew vs. Holy Cross",
+      "title": "Women's Openweight Crew vs. Bucknell, Holy Cross",
       "source": "MIT",
       "tag": "talk",
       "desc": "Time: TBA Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Men's Heavyweight Crew vs. Holy Cross",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 9:12 AM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
       "time": "TBD",
       "location": ""
     },
@@ -248,6 +89,16 @@
       "tag": "talk",
       "desc": "Time: 10:00 AM Location: Providence, RI",
       "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-28",
+      "title": "Men's Lightweight Crew vs. National Collegiate Lightweight Invitational",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:18 AM Location: Leonia, NJ / Overpeck Park",
+      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
       "time": "TBD",
       "location": ""
     },
@@ -343,6 +194,16 @@
     },
     {
       "date": "2026-03-30",
+      "title": "AI: Foundations for Academia (and Startups) ",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "AI: Foundations for Academia (and Startups) A New Seminar Series (MIBR, MIT) “Is it still worthwhile to be a researcher in AI?” The landscape of AI research is shifting. Many problems that once defined academia are now dominated by scale, data, and incumbent advantage. Yet the most important questio",
+      "link": "https://calendar.mit.edu/event/ai-foundations-for-academia-and-startups",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-03-30",
       "title": "Chemical Biology Seminar (Huiqing (Jane) Zhou, Boston College)",
       "source": "MIT",
       "tag": "talk",
@@ -423,6 +284,26 @@
     },
     {
       "date": "2026-03-30",
+      "title": "COS, COE & QMSI Special Joint Colloquium: \"New Degrees of Freedom for Quantum Hardware\"",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Speaker: Dr. Haoxin Zhou (University of California, Berkeley) Abstract: Realizing the full potential of quantum information processing requires overcoming fundamental limitations in qubit coherence, connectivity, and scalability. One promising pathway is to harness new quantum degrees of freedom in ",
+      "link": "https://calendar.northeastern.edu/event/cos-coe-qmsi-special-joint-colloquium-new-degrees-of-freedom-for-quantum-hardware",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-30",
+      "title": "JOINT SPECIAL COLLOQUIUM: New Degrees of Freedom for Quantum Hardware",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Joint Special Colloquium Speaker: Haoxin Zhou, University of California, Berkeley The post JOINT SPECIAL COLLOQUIUM: New Degrees of Freedom for Quantum Hardware appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/joint-special-colloquium-new-degrees-of-freedom-for-quantum-hardware",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-03-30",
       "title": "Faculty Works in Progress: Global Fellows Presentations",
       "source": "Northeastern",
       "tag": "talk",
@@ -430,6 +311,16 @@
       "link": "https://calendar.northeastern.edu/event/faculty-works-in-progress-global-fellows-presentations",
       "time": "TBD",
       "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-03-30",
+      "title": "The Last Cookies with This Dean",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "All COE students are invited to join COE Dean Gregory Abowd one last time for cookies and other treats in the first-floor lobby of the Snell Engineering Center. The post The Last Cookies with This Dean appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/the-last-cookies-with-this-dean",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-03-30",
@@ -504,7 +395,7 @@
       "title": "Physical Mathematics Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "*Note: The speaker will be joining virtually; the audience will be in person. Speaker: Germain Rousseaux (CNRS) Title: Echoes Between Horizons: Direct Observation of Hawking Radiation from an Aquatic Analogue Abstract: Germain Rousseaux (Research Director at CNRS, Futuroscope) Hawking radiation is c",
+      "desc": "Speaker: Germain Rousseaux (CNRS) Title: Echoes Between Horizons: Direct Observation of Hawking Radiation from an Aquatic Analogue Abstract: Hawking radiation is commonly discussed in the context of black holes, but at a deeper level it reflects a universal wave phenomenon: the conversion of modes a",
       "link": "https://calendar.mit.edu/event/physical-mathematics-seminar-316",
       "time": "TBD",
       "location": "Building 2"
@@ -810,6 +701,16 @@
     },
     {
       "date": "2026-04-01",
+      "title": "ChE MS Thesis Defense: Daniel Sekyere",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Name: Daniel Sekyere Title: Integrating Direct Air Capture with Bicarbonate Electrolysis Date: 04/01/2026 Time: 10:00:00 AM Committee Members: Prof. Magda Barecka (Advisor) Prof. Richard West Prof. Damilola Daramola Prof. Aaron […] The post ChE MS Thesis Defense: Daniel Sekyere appeared first on Nor",
+      "link": "https://calendar.northeastern.edu/event/che-ms-thesis-defense-daniel-sekyere",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-01",
       "title": "Intro to Quantum Seminar for the Northeastern Community",
       "source": "Northeastern",
       "tag": "talk",
@@ -825,6 +726,16 @@
       "tag": "talk",
       "desc": "Dissertation Defense of English PhD Candidate Rachael McIntosh, entitled \"Humanizing the Archive: Coloniality, Racism, and the Rhetorics of Archival Structures\"",
       "link": "https://calendar.northeastern.edu/event/dissertation-defense-rachael-mcintosh",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-01",
+      "title": "COS, COE & QMSI Special Joint Colloquium: \"Scalable Quantum Applications: Synergies in Control, Learning, and Co-design\"",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Speaker: Dr. Hong-Ye Hu (Harvard University) Abstract: The rapid advancement of quantum science and technology has ushered in a new era where analog simulators can now control thousands of qubits and digital processors are approaching break-even points for error correction. However, bridging the gap",
+      "link": "https://calendar.northeastern.edu/event/cos-coe-qmsi-special-joint-colloquium-scalable-quantum-applications-synergies-in-control-learning-and-co-design",
       "time": "TBD",
       "location": ""
     },
@@ -855,6 +766,96 @@
       "tag": "talk",
       "desc": "Please join us for the Spring lecture series, co-hosted by the Leventhal Center for Advanced Urbanism (LCAU) and the SMArchS Urbanism Program. This series was organized by Rania Ghosn, Associate Professor in the Department of Architecture and Director of the SMArchS Urbanism Program. GEO–MATTERS ask",
       "link": "https://calendar.mit.edu/event/smarchs-urbanism-lecture-series-geo-matters-with-roi-salgueiro-barrio",
+      "time": "TBD",
+      "location": "Building 7"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Colloquium on the Brain and Cognition with Nicole Rust",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 4:00pm Location: 46-3002, Singleton Auditorium (Third floor of MIT Building 46) Talk Title: Subjective Feelings to Brain Mechanisms: Advancing the Science of Mood through Epistemic Iteration Abstract: What happens in our brains to generate our moods? We don't yet know. Unlike functions such as",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-nicole-rust",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Equal Pay Laws in Equilibrium: Constraints, Wage Gaps, and Segregation",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Bobby Pakzad-Hurson (Brown)",
+      "link": "https://calendar.mit.edu/event/tba-6837",
+      "time": "TBD",
+      "location": "Harvard"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "MIT-Bristol Myers Squibb Lecture | Organic Chemistry Seminar Series | Steve Wisniewski (BMS) & Scott Miller (Yale University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Steven Wisniewski “From Vials to Reactors: Catalyzing Innovation in Process Development” Scott J. Miller “Asymmetric Catalysis in Structurally and Mechanistically Complex Molecular Environments” Scott Miller (Yale) - https://millerlab.yale.edu/ Steve Wisniewski (BMS) - Talk Title: From Vials to Reac",
+      "link": "https://calendar.mit.edu/event/mit-bristol-myers-squibb-lecture-organic-chemistry-seminar-series-scott-miller-yale-university",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Patent agent careers & the patent bar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "If you have (or will soon have) a degree in engineering, computer sciences, or the hard sciences (chemistry, biology, physics and related disciplines), you can take the Patent Office’s Registration Exam to become a Patent Agent. Patent Agents can make up to $20,000 a year more than similarly situate",
+      "link": "https://calendar.mit.edu/event/patent-agent-careers-the-patent-bar",
+      "time": "TBD",
+      "location": "Building 7"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "TBA",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Peng Ding (University of California, Berkeley)",
+      "link": "https://calendar.mit.edu/event/copy-of-tba-1359",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Environmental and Energy Economics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "TBA | Neil Mehrotra (FRB Minneapolis)",
+      "link": "https://calendar.mit.edu/event/copy-of-environmental-and-energy-economics-seminar-8379",
+      "time": "TBD",
+      "location": "Harvard Kennedy School, Land Hall (Belfer Building, Room 400)"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Symplectic Seminar  ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Melissa Liu (Columbia University) Title: Remodeling Conjecture with descendants Abstract: The Remodeling Conjecture proposed by Bouchard–Klemm–Mariño–Pasquetti relates Gromov–Witten (GW) invariants counting holomorphic curves in a semi-projective toric Calabi–Yau 3-manifold/3-orbifold 𝑋 to ",
+      "link": "https://calendar.mit.edu/event/symplectic-seminar-2",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Leonid Gorodetskii (MIT) Title: Universal Torsors Abstract: Reference: Wittenberg, Rational points and zero-cycles on rationally connected varieties over number fields, Section 3.3. Skorobogatov, Torsors and Rational Points, Section 2.3, p.25 and the references there.",
+      "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-6016",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Spring 2026 Architecture Lecture Series: Forrest Meggers",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Forrest Meggers THERManifesto: Wordplay, Techplay, and Systemic Change in Architecture Part of the Spring 2026 MIT Architecture Lecture Series. Presented with the Building Technology Group. Does architecture really require a strict divide between inside and outside? This lecture questions the long-h",
+      "link": "https://calendar.mit.edu/event/spring-2026-architecture-lecture-series-forrest-meggers",
       "time": "TBD",
       "location": "Building 7"
     },
@@ -900,6 +901,16 @@
     },
     {
       "date": "2026-04-03",
+      "title": "HBS & MIT Sloan Technology and National Security Conference",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "The HBS-MIT Sloan Technology and National Security Conference is a student-led event that brings together students, government officials, industry leaders, venture capitalists, and academics to foster collaboration, drive innovation, and challenge conventional thinking in addressing the complex chal",
+      "link": "https://calendar.mit.edu/event/hbs-mit-sloan-technology-and-national-security-conference",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-04-03",
       "title": "Dissertation Defense – Jeffrey Lamson, Ph.D. Candidate - Department of History",
       "source": "Northeastern",
       "tag": "talk",
@@ -907,6 +918,16 @@
       "link": "https://calendar.northeastern.edu/event/dissertation-defense-jeffrey-lamson-phd-candidate-department-of-history",
       "time": "TBD",
       "location": "Egan Research Center"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "COS, COE & QMSI Special Joint Colloquium: \"AI-Optimized Advanced Packaging for Next-Generation Computing\"",
+      "source": "Northeastern",
+      "tag": "drones",
+      "desc": "Dr. Rabindra Das (MIT Lincoln Laboratory) Abstract: The rapid growth of artificial intelligence (AI), high-performance computing (HPC), and data-intensive sensing systems is creating unprecedented demands for computational capability, energy efficiency, and system integration. Applications such as a",
+      "link": "https://calendar.northeastern.edu/event/cos-coe-qmsi-special-joint-colloquium-ai-optimized-advanced-packaging-for-next-generation-computing",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-04-03",
@@ -1067,16 +1088,6 @@
     },
     {
       "date": "2026-04-09",
-      "title": "Harvard Grid | Meet the VCs Series: Pear Venture Capital",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "*Applications close on April 6th The Harvard Grid Meet the VCs Series continues with Pear VC, a Silicon Valley-based pre-seed and seed firm whose portfolio has grown to over $300B in value, with companies like DoorDash, Gusto, Vanta, and AppLovin. What sets Pear apart: their investing team has actua",
-      "link": "https://events.seas.harvard.edu/event/harvard-grid-meet-the-vcs-series-pear-venture-capital",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-04-09",
       "title": "Imagination in Action AI Summit",
       "source": "MIT Media Lab",
       "tag": "ai",
@@ -1229,6 +1240,16 @@
     },
     {
       "date": "2026-04-14",
+      "title": "Civic Data Theatre and Municipal Climate Action",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "What if the community meeting was a play? This panel examines how Civic Data Theatre bridges the gap between quantitative government data and lived community experience, using a Boston climate action case study to demonstrate a model for more inclusive democratic participation.",
+      "link": "https://calendar.northeastern.edu/event/civic-data-theatre-and-municipal-climate-action",
+      "time": "TBD",
+      "location": "Center for Design"
+    },
+    {
+      "date": "2026-04-14",
       "title": "The Elephant Moves: The State of India's Economy and Competitiveness",
       "source": "Northeastern",
       "tag": "talk",
@@ -1325,16 +1346,6 @@
       "tag": "talk",
       "desc": "Speaker: Sushant Sachdeva, Associate Professor, University of Toronto Mississauga Talk information TBA.",
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-sushant-sachdeva-u-toronto",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Harvard Grid | Meet the VCs Series: Underscore Venture Capital",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "*Applications close on April 13th This session will be a small group dinner and discussion rather than a formal talk. The goal is open conversation. Attendees will meet investors and founders working in AI and healthcare and learn how venture investors evaluate early teams, research-driven ideas, an",
-      "link": "https://events.seas.harvard.edu/event/harvard-grid-meet-the-vcs-series-underscore-venture-capital",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
     },
@@ -1594,33 +1605,6 @@
     },
     {
       "date": "TBD",
-      "title": "AI-Driven Discovery: From Algorithm Generation to Self-Improving Research Loops",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Please reach out to markakis@mit.edu for the Zoom password.---Abstract: AI is beginning to transform how we design and conduct research. In many research domains, particularly in systems, the presence of fast, reliable evaluators enables a new workflow: agents can iteratively generate candidate solu",
-      "link": "https://www.csail.mit.edu/event/ai-driven-discovery-algorithm-generation-self-improving-research-loops",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Optiver Recruiting & High Frequency Trading Tech Talk",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Star Seminar Room: 32-D463 in CSAIL",
-      "link": "https://www.csail.mit.edu/event/optiver-recruiting-high-frequency-trading-tech-talk-0",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Have a thing? Reasoning around recursion with dynamic typing in grounded arithmetic",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract: Neither the classical nor intuitionistic logic traditions are perfectly-aligned with the purpose of reasoning about computation, in that neither tradition can permit unconstrained recursive definitions without inconsistency: recursive logical definitions must normally be proven terminating",
-      "link": "https://www.csail.mit.edu/event/have-thing-reasoning-around-recursion-dynamic-typing-grounded-arithmetic",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Thesis Defense: Scalable Data-Driven Interactive World Models",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1657,11 +1641,11 @@
     },
     {
       "date": "TBD",
-      "title": "Visual Computing Seminar: TBA",
+      "title": "Visual Computing Seminar: Towards self-driving MRI for fetal brain imaging",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Abstract:TBA",
-      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-0",
+      "desc": "Abstract:Prenatal intervention strategies are the most effective treatment for abnormal fetal brain development, if detected early in pregnancy. Radiological assessment relies on volumetric MRI, acquired as stacks of high-resolution, T2-weighted 2D slices relative to an anatomical coordinate frame. ",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-towards-self-driving-mri-fetal-brain-imaging",
       "time": "TBD"
     },
     {
@@ -1671,6 +1655,24 @@
       "tag": "ai",
       "desc": "Title: Towards Understanding Animal CommunicationAbstract:&nbsp;Understanding the communication systems of non-human animals is a scientific challenge that bridges biology, linguistics, and machine learning. It involves making sense not only of the sounds animals produce but also how they influence ",
       "link": "https://www.csail.mit.edu/event/csail-forum-pratyusha-sharma-towards-understanding-animal-communication",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EECS Special Seminar: Zander Kelley, \"New Quantitative Frontiers in Structure vs. Randomness\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "AbstractThe \"structure vs. randomness\" paradigm decomposes complex mathematical objects like graphs, functions, or sets into structured and random-like components. While this framework has been wildly successful in pure mathematics and extremal combinatorics, its broader application in computer scie",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-zander-kelley-new-quantitative-frontiers-structure-vs-randomness",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CSAIL Open Studios",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "R&D Commons",
+      "link": "https://www.csail.mit.edu/event/csail-open-studios",
       "time": "TBD"
     },
     {
@@ -1716,6 +1718,15 @@
       "tag": "ai",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/eecs-special-seminar-jason-altschuler-algorithmic-challenges-optimization-sampling-and-beyond",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Visual Computing Seminar: Generative Re-Photography with Video Models",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:I will introduce \"generative re-photography\" methods that use new generative video models to get more out of your photos—even the blurry ones. First, I will present a method for converting motion-blurred images to video. This method can even predict the \"past\" and \"future\" (right before and",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-generative-re-photography-video-models",
       "time": "TBD"
     },
     {
@@ -1770,6 +1781,15 @@
       "tag": "ai",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/eecs-special-seminar-deb-raji-closing-ai-accountability-gap-audits-evaluation-age-artificial",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Visual Computing Seminar: TBA",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:&nbsp;",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-0",
       "time": "TBD"
     },
     {
@@ -2485,15 +2505,6 @@
     },
     {
       "date": "TBD",
-      "title": "CERAWeek Transition on Tap",
-      "source": "Greentown Labs",
-      "tag": "startup",
-      "desc": "Celebrate the biggest week in energy with the world's best climate and energy entrepreneurs!",
-      "link": "https://greentownlabs.com/event/ceraweek-networking/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "MIT Climate and Energy Prize Grand Final",
       "source": "Greentown Labs",
       "tag": "startup",
@@ -2535,6 +2546,15 @@
       "tag": "manufacturing",
       "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
       "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CERAWeek Transition on Tap",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Celebrate the biggest week in energy with the world's best climate and energy entrepreneurs!",
+      "link": "https://greentownlabs.com/event/ceraweek-networking/",
       "time": "TBD"
     },
     {
@@ -5275,34 +5295,7 @@
     },
     {
       "date": "TBD",
-      "title": "Beyond the Pilot: Blueprints for Resilient AI Scale",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Healthcare Ecosystem Mixer by Epistemix & AWS Boston",
-      "source": "Luma",
-      "tag": "networking",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Life Sciences AI on Tap: Boston Connect",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "No Bad Nights Series: Play Arcade Bar",
+      "title": "No Bad Nights Series: Versus Arcade Bar",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -5392,6 +5385,15 @@
     },
     {
       "date": "TBD",
+      "title": "Fireside Chat with Cloudflare CEO Matthew Prince | Presented by TNT",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Boston Social Conversations - April Event",
       "source": "Luma",
       "tag": "talk",
@@ -5413,6 +5415,15 @@
       "title": "Boston Women in Fintech: AI is Changing Fintech. Who Gets to Shape it?",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Build Your Agentic Research Assistant",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5447,6 +5458,15 @@
     {
       "date": "TBD",
       "title": "HARVARD AI FORUM",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "No. 56-Tech Pulse 2030- AI 2030 Boston Event",
       "source": "Luma",
       "tag": "ai",
       "desc": "",
