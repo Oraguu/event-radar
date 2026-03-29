@@ -1,78 +1,7 @@
 {
-  "scraped_at": "2026-03-28T10:25:50.822184",
+  "scraped_at": "2026-03-29T10:26:35.533508",
   "event_count": 695,
   "events": [
-    {
-      "date": "2026-03-28",
-      "title": "Women's Openweight Crew vs. Bucknell, Holy Cross",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 9:00 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Men's Heavyweight Crew vs. Holy Cross",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 9:12 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Sailing vs. Dellenbaugh Team Race",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Providence, RI",
-      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Men's Lightweight Crew vs. National Collegiate Lightweight Invitational",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:18 AM Location: Leonia, NJ / Overpeck Park",
-      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-28",
-      "title": "MITHAS presents: Ganesh & Kumaresh (Carnatic Violin)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Experience the Magic of MITHAS: Ganesh & Kumaresh (Carnatic Violin) Welcome to a mesmerizing evening of Tamil Classical Music, presented by MITHAS. Join us on the 28th of March, 2026 for a unique musical journey with the renowned Ganesh & Kumaresh. The Carnatic Violin duo, popularly known as the Vio",
-      "link": "https://calendar.mit.edu/event/mithas-presents-ganesh-kumaresh-carnatic-violin",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "NU Concert Band",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The Northeastern Concert Band, directed by Prof. Allison Betsold, will perform at the Fenway Center.",
-      "link": "https://calendar.northeastern.edu/event/nu-concert-band",
-      "time": "TBD",
-      "location": "Fenway Center"
-    },
-    {
-      "date": "2026-03-28",
-      "title": "Harvard VC Group Entrepreneurship Summit",
-      "source": "Harvard",
-      "tag": "startup",
-      "desc": "VC and entrepreneurship summit. The Newbury Boston.",
-      "link": "https://allevents.in/boston/entrepreneurship",
-      "time": "9:00 AM",
-      "pick": true,
-      "pickNote": "VC networking — how hardware gets funded"
-    },
     {
       "date": "2026-03-29",
       "title": "Entrepreneurship Summit 2026",
@@ -938,6 +867,66 @@
       "link": "https://calendar.mit.edu/event/fulbright-virtual-info-session-6002",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Thesis Defense:  Hannah LeBlanc",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Li lab I \"Resolving functional units of mRNA defines the decay landscape of the bacterial transcriptome\"",
+      "link": "https://calendar.mit.edu/event/thesis-defense-hannah-leblanc",
+      "time": "TBD",
+      "location": "Building 68"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Ilya Dumanski (MIT) Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-6129",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Jade Buckwalter '26, flute",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Jade Buckwalter is a senior at MIT majoring in computer science and mathematics and minoring in music. She currently studies with Sue-Ellen ",
+      "link": "https://calendar.mit.edu/event/jade-buckwalter-26-flute",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Molecular and Cellular Neuroscience Seminar - Steve McCarroll (Harvard Medical School)  Title: The ticking DNA clock:  How somatic expansion of a DNA repeat over a human lifetime leads to Huntington’s disease",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/molecular-and-cellular-neuroscience-seminar-steve-mccarroll-broad-institute-title-the-ticking-dna-clock-how-somatic-expansion-of-a-dna-repeat-over-a-human-lifetime-leads-to-huntingtons-disease",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Megan Huang '28, flute",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Pr",
+      "link": "https://calendar.mit.edu/event/megan-huang-28-flute",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "MITHAS presents: Lalgudi GJR Krishnan and Rupak Kulkarni (Violin and Flute Jugalbandhi)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "An Evening of Enthralling Melodies: Lalgudi GJR Krishnan and Rupak Kulkarni's Violin and Flute Jugalbandhi MITHAS and LearnQuest present an enchanting evening of Tamil Classical Music with Lalgudi GJR Krishnan and Rupak Kulkarni's Violin and Flute Jugalbandhi. This musical extravaganza is set to tak",
+      "link": "https://calendar.mit.edu/event/mithas-presents-lalgudi-gjr-krishnan-rupak-kulkarni",
+      "time": "TBD",
+      "location": "Building W18"
     },
     {
       "date": "2026-04-03",
@@ -5486,20 +5475,20 @@
     },
     {
       "date": "TBD",
-      "title": "HackerX - Boston - Employer Ticket - 4/2",
-      "source": "Eventbrite",
-      "tag": "startup",
-      "desc": "Hackathon in Boston area.",
-      "link": "https://www.eventbrite.com/e/hackerx-boston-employer-ticket-42-tickets-1979830387986?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Tavern Crawl",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
       "link": "https://www.eventbrite.com/e/tavern-crawl-tickets-1980900287083?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "HackerX - Boston - Employer Ticket - 4/2",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/hackerx-boston-employer-ticket-42-tickets-1979830387986?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5603,7 +5592,7 @@
     },
     {
       "date": "TBD",
-      "title": "7. Live music",
+      "title": "7. Concert",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5612,7 +5601,7 @@
     },
     {
       "date": "TBD",
-      "title": "8. Concert",
+      "title": "8. Live music",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5630,7 +5619,7 @@
     },
     {
       "date": "TBD",
-      "title": "10. Job fair",
+      "title": "10. April",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5639,7 +5628,7 @@
     },
     {
       "date": "TBD",
-      "title": "11. April",
+      "title": "11. Job fair",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
@@ -5657,20 +5646,20 @@
     },
     {
       "date": "TBD",
-      "title": "Podcast & YouTube Creators: How to Start and Get Found on YouTube in 2026",
-      "source": "Eventbrite",
-      "tag": "tech",
-      "desc": "Thu, Apr 9, 6:30 PM EDT",
-      "link": "https://www.eventbrite.com/e/podcast-youtube-creators-how-to-start-and-get-found-on-youtube-in-2026-tickets-1985552656445?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "AI Use Cases in Research & Analytics",
       "source": "Eventbrite",
       "tag": "ai",
       "desc": "Almost full",
       "link": "https://www.eventbrite.com/e/ai-use-cases-in-research-analytics-tickets-1983349963130?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Understanding AI For Small Businesses",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Tue, Apr 21, 8:30 PM EDT",
+      "link": "https://www.eventbrite.com/e/understanding-ai-for-small-businesses-tickets-1985653411807?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5747,15 +5736,6 @@
     },
     {
       "date": "TBD",
-      "title": "TechSpecialists: TechConnect - Your Monthly Virtual Career & Networking Hub - Boston",
-      "source": "Eventbrite",
-      "tag": "networking",
-      "desc": "Sales end soon",
-      "link": "https://www.eventbrite.com/e/techspecialists-techconnect-your-monthly-virtual-career-networking-hub-boston-tickets-1984380493474?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Boston Tech & Finance Networking Event",
       "source": "Eventbrite",
       "tag": "networking",
@@ -5783,20 +5763,20 @@
     },
     {
       "date": "TBD",
-      "title": "Boston Health Innovation Night on LongevityTech",
-      "source": "Eventbrite",
-      "tag": "tech",
-      "desc": "Thu, May 28, 5:30 PM",
-      "link": "https://www.eventbrite.com/e/boston-health-innovation-night-on-longevitytech-registration-1981977740776?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "TECHSPO Boston 2026 Technology Expo (Internet ~ AdTech ~ MarTech)",
       "source": "Eventbrite",
       "tag": "tech",
       "desc": "Tue, May 12, 9:00 AM",
       "link": "https://www.eventbrite.com/e/techspo-boston-2026-technology-expo-internet-adtech-martech-tickets-1653535903399?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Health Innovation Night on LongevityTech",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Thu, May 28, 5:30 PM",
+      "link": "https://www.eventbrite.com/e/boston-health-innovation-night-on-longevitytech-registration-1981977740776?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5831,7 +5811,7 @@
       "title": "AI-Powered Prompting for Tech Writers – 1 Day Training in Boston, MA",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Sales end soon",
+      "desc": "Wed, Apr 8, 9:00 AM + 2 more",
       "link": "https://www.eventbrite.sg/e/ai-powered-prompting-for-tech-writers-1-day-training-in-boston-ma-tickets-1979703018019?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5842,6 +5822,15 @@
       "tag": "ai",
       "desc": "Sales end soon",
       "link": "https://www.eventbrite.com/e/ux-careers-in-the-age-of-ai-tickets-1985216851042?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boxing, but make it girly",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Going fast",
+      "link": "https://www.eventbrite.com/e/boxing-but-make-it-girly-tickets-1984405762053?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5927,11 +5916,11 @@
     },
     {
       "date": "TBD",
-      "title": "Harvard Venture Capital Group 2026 Entrepreneurship Summit",
+      "title": "Startup Networking and Pizza with IEEE Boston ENET",
       "source": "Eventbrite",
       "tag": "startup",
-      "desc": "Today at 9:00 AM",
-      "link": "https://www.eventbrite.com/e/harvard-venture-capital-group-2026-entrepreneurship-summit-tickets-1967819157071?aff=ebdssbdestsearch",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/startup-networking-and-pizza-with-ieee-boston-enet-tickets-1986101755816?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5993,7 +5982,7 @@
       "title": "Memoir Writing Lab: Use AI as Your Writing Coach Not A Ghostwriter",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Monday at 4:00 PM PDT",
+      "desc": "Tomorrow at 4:00 PM PDT",
       "link": "https://www.eventbrite.com/e/memoir-writing-lab-use-ai-as-your-writing-coach-not-a-ghostwriter-tickets-1984000196997?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -6020,7 +6009,7 @@
       "title": "Boston Robot Hackers Monthly Meeting",
       "source": "Eventbrite",
       "tag": "robotics",
-      "desc": "Thursday at 7:00 PM + 4 more",
+      "desc": "Sales end soon",
       "link": "https://www.eventbrite.com/e/boston-robot-hackers-monthly-meeting-tickets-1489641520889?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -6080,20 +6069,20 @@
     },
     {
       "date": "TBD",
-      "title": "ODSC AI East 2026 Conference | Open Data Science Conference",
-      "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Tue, Apr 28, 9:00 AM",
-      "link": "https://www.eventbrite.com/e/odsc-ai-east-2026-conference-open-data-science-conference-tickets-1780200771429?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Remembering Seth",
       "source": "Eventbrite",
       "tag": "robotics",
       "desc": "Sales end soon",
       "link": "https://www.eventbrite.com/e/remembering-seth-tickets-1982509439100?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ODSC AI East 2026 Conference | Open Data Science Conference",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Tue, Apr 28, 9:00 AM",
+      "link": "https://www.eventbrite.com/e/odsc-ai-east-2026-conference-open-data-science-conference-tickets-1780200771429?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -6107,6 +6096,15 @@
     },
     {
       "date": "TBD",
+      "title": "Summer Camp Gan Israel Shaloh House",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Mon, Jun 29, 9:00 AM",
+      "link": "https://www.eventbrite.com/e/summer-camp-gan-israel-shaloh-house-tickets-1984326615323?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "MIT Starr Forum: New World Disorder: What’s the Humanitarian Perspective?",
       "source": "Eventbrite",
       "tag": "ai",
@@ -6116,20 +6114,20 @@
     },
     {
       "date": "TBD",
-      "title": "Generative AI and Agentic AI for Finance Certification (Cohort 2)",
+      "title": "CDVP2.1®-Certified Data Vault 2.1 Practitioner-LIVE-Virtual-USA",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Going fast",
-      "link": "https://www.eventbrite.com/e/generative-ai-and-agentic-ai-for-finance-certification-cohort-2-tickets-1977795824552?aff=ebdssbdestsearch",
+      "desc": "Mon, May 18, 10:00 AM EDT",
+      "link": "https://www.eventbrite.com/e/cdvp21-certified-data-vault-21-practitioner-live-virtual-usa-registration-1983887951267?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "RISE: The Self-Leadership Revolution",
+      "title": "Finding Delight in the Midst of Chaos: A Women’s Workshop",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Just added",
-      "link": "https://www.eventbrite.com/e/rise-the-self-leadership-revolution-tickets-1986035561828?aff=ebdssbdestsearch",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/finding-delight-in-the-midst-of-chaos-a-womens-workshop-tickets-1985918709319?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -6173,7 +6171,7 @@
       "title": "Leadership in the Age of AI: 1 Day Training in Boston, MA",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Fri, Apr 3, 9:00 AM + 2 more",
+      "desc": "Friday at 9:00 AM + 2 more",
       "link": "https://www.eventbrite.sg/e/leadership-in-the-age-of-ai-1-day-training-in-boston-ma-tickets-1978370587684?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -6251,24 +6249,6 @@
     },
     {
       "date": "TBD",
-      "title": "Resolution Hacks (w. Eight Sleep, swsh, Duckbill, Fragile, Clair & Wayfair)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Mindful Makers Hack #9 - Open Ideas Hack",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Korrfocus Studio: Studio Signal",
       "source": "Luma",
       "tag": "talk",
@@ -6317,6 +6297,15 @@
       "title": "Women Shaping the Future of Agentic AI in Healthcare",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BNB Chain & YZi Labs @ MIT",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -6423,6 +6412,15 @@
     {
       "date": "TBD",
       "title": "Harvard XR 2026 Conference",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Talks",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
