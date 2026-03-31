@@ -1,225 +1,7 @@
 {
-  "scraped_at": "2026-03-30T10:57:01.167064",
-  "event_count": 695,
+  "scraped_at": "2026-03-31T10:47:56.897115",
+  "event_count": 689,
   "events": [
-    {
-      "date": "2026-03-30",
-      "title": "Spring into Writing with Writing Together Online (Challenge 2)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Writing Together Online offers structured time to help you spring into writing and stay focused this semester. We hold writing sessions every weekday, Monday through Friday. Join our daily writing sessions and become part of a community of scholars who connect online, set realistic goals, and write ",
-      "link": "https://calendar.mit.edu/event/copy-of-build-up-healthy-writing-habits-with-writing-together-online-challenge-1-2002",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Systemic Risk Management: A Perspective from the Inter-American Development Bank",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The risk picture in Latin America is evolving rapidly, with systemic shocks and climate pressures increasingly shaping development outcomes. In such uncertain environments, multilateral development banks play a key role in protecting development gains while mobilizing investment. Their effectiveness",
-      "link": "https://calendar.mit.edu/event/grps-development-finance-risk",
-      "time": "TBD",
-      "location": "Building E40"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Jonathan Leake (University of Waterloo) Title: Log-concavity, Sampling, and Lorentzian Polynomials Abstract: In this talk, we demonstrate a connection between log-concavity statements and sampling algorithms via high-dimensional expanders and Lorentzian polynomials. To do this, we first dis",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-3647",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Geometry & Topology Seminar ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Louisa Lilies (Ohio State University) Title: Connections between Invariants of Negative-Definite Plumbed 3-Manifolds Abstract: Connections between Invariants of Negative-Definite Plumbed 3-Manifolds Abstract: This talk will introduce a recently developed family of (t,q)-series invariants of",
-      "link": "https://calendar.mit.edu/event/geometry-topology-seminar-march",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "AI: Foundations for Academia (and Startups) ",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "AI: Foundations for Academia (and Startups) A New Seminar Series (MIBR, MIT) “Is it still worthwhile to be a researcher in AI?” The landscape of AI research is shifting. Many problems that once defined academia are now dominated by scale, data, and incumbent advantage. Yet the most important questio",
-      "link": "https://calendar.mit.edu/event/ai-foundations-for-academia-and-startups",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Chemical Biology Seminar (Huiqing (Jane) Zhou, Boston College)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Detection and Modulation of RNA Chemical Modifications via Engineered Proteins",
-      "link": "https://calendar.mit.edu/event/chemical-biology-seminar-huiqing-jane-zhou-boston-college",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "State Capacity and Infrastructure Costs",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Zachary D. Liscow (Yale University - Law School) joint with Cailin Slattery and William Nober",
-      "link": "https://calendar.mit.edu/event/state-capacity-and-infrastructure-costs",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-03-30",
-      "title": " Probability Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Michael Douglas (Harvard) Title: Formalizing Quantum Field Theory Abstract: Quantum field theory (QFT) is the theoretical framework underlying the Standard Model of particle physics. There are many open questions in the mathematics of QFT, including the Yang-Mills Millennium prize problem, ",
-      "link": "https://calendar.mit.edu/event/probability-seminar-Michael-Douglas",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Algebraic Topology Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Adela Zhang (University of Copenhagen) Title: Canonical Local-to-Global Extensions of TFTs Abstract: We show that any 2D open field theory 𝐹 extends canonically to an open– closed field theory whose value at the circle is the Hochschild homology of the 𝐸1-Frobenius algebra associated to 𝐹. ",
-      "link": "https://calendar.mit.edu/event/algebraic-topology-seminar-7782",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "International/Trade Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "TBA | Sharat Ganapati (Georgetown University)",
-      "link": "https://calendar.mit.edu/event/copy-of-internationaltrade-seminar-7043",
-      "time": "TBD",
-      "location": "Harvard Littauer M-16"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Where We Stand: Black Feminist Thought Across the Americas",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "As part of Women’s History Month, MIT Women’s and Gender Studies and the MIT-Brazil and Latin America groups at MIT CIS will host Brazilian philosopher and writer Djamila Ribeiro for a conversation about her book Where We Stand. In dialogue with MIT scholar Paloma Duong, the event will explore Black",
-      "link": "https://calendar.mit.edu/event/where-we-stand-black-feminist-thought-across-the-americas",
-      "time": "TBD",
-      "location": "Building 10"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Artist Talk with Victoria Shen",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Victoria Shen is an interdisciplinary artist with a focus on sound and performance based in San Francisco. Shen’s practice is concerned with the materiality of sound and its relationship to the human body through a lens of disruption and experimentation. She creates and manipulates custom-built scul",
-      "link": "https://calendar.mit.edu/event/artist-talk-with-victoria-shen",
-      "time": "TBD",
-      "location": "Building E15"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Artist Talk: Victoria Shen",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Victoria Shen is an interdisciplinary artist with a focus on sound and performance based in San Francisco. Shen's practice is concerned with the materiality of sound and its relationship to the human body through a lens of disruption and experimentation. She creates and manipulates custom-built scul",
-      "link": "https://calendar.mit.edu/event/artist-talk-victoria-shen",
-      "time": "TBD",
-      "location": "ACT Cube inside the Lower Level of the List Center. 20 Ames Street, Cambridge, MA 02139"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Infinite Careers–Ada Glover – Co-Founder of Zus Health & Former Bain Consultant",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Join us for dinner with Ada Glover! Come meet Ada in person and enjoy dinner while learning about her journey in product leadership, entrepreneurship, and healthcare technology. Ada is the Co-Founder and Chief Product Officer at Zus Health, where she is building a shared health data platform designe",
-      "link": "https://calendar.mit.edu/event/infinite-careersada-glover-co-founder-of-zus-health-former-bain-consultant",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "COS, COE & QMSI Special Joint Colloquium: \"New Degrees of Freedom for Quantum Hardware\"",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Speaker: Dr. Haoxin Zhou (University of California, Berkeley) Abstract: Realizing the full potential of quantum information processing requires overcoming fundamental limitations in qubit coherence, connectivity, and scalability. One promising pathway is to harness new quantum degrees of freedom in ",
-      "link": "https://calendar.northeastern.edu/event/cos-coe-qmsi-special-joint-colloquium-new-degrees-of-freedom-for-quantum-hardware",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-30",
-      "title": "JOINT SPECIAL COLLOQUIUM: New Degrees of Freedom for Quantum Hardware",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Joint Special Colloquium Speaker: Haoxin Zhou, University of California, Berkeley The post JOINT SPECIAL COLLOQUIUM: New Degrees of Freedom for Quantum Hardware appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/joint-special-colloquium-new-degrees-of-freedom-for-quantum-hardware",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Faculty Works in Progress: Global Fellows Presentations",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Members of the Humanities Center Global Fellowship will be presenting their work as it relates to the topic of “Unsettling,” with the following Fellows presenting on the topics below: Caleb Gayle Heirs to a Stolen Harvest Candice Delmas An Ethic of Courtroom Resistance Mario Hernandez From Occupatio",
-      "link": "https://calendar.northeastern.edu/event/faculty-works-in-progress-global-fellows-presentations",
-      "time": "TBD",
-      "location": "Renaissance_Park"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "The Last Cookies with This Dean",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "All COE students are invited to join COE Dean Gregory Abowd one last time for cookies and other treats in the first-floor lobby of the Snell Engineering Center. The post The Last Cookies with This Dean appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/the-last-cookies-with-this-dean",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-03-30",
-      "title": "2026 Hanson Lecture",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "Generative AI platforms such as ChatGPT have suddenly thrust the automation of writing into the public spotlight. The machine learning techniques behind AI may be new; however, for centuries, humans have attempted to automate writing using mechanical, spiritual, and procedural means. The automation ",
-      "link": "https://calendar.northeastern.edu/event/2026-hanson-lecture",
-      "time": "TBD",
-      "location": "Alumni Center"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Wind Ensemble",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The Northeastern Wind Ensemble, conducted by Prof Allen Feinstein, will perform at the Fenway Center.",
-      "link": "https://calendar.northeastern.edu/event/wind-ensemble",
-      "time": "TBD",
-      "location": "Fenway Center"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "3rd Annual Prosthetics & Robotics 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Welcome to Prosthetics & Robotics 2026, the premier gathering of innovators, researchers, clinicians, and industry leaders shaping the future of human-machine integration. With traditional prosthetics still limited in adaptability, sensory […]",
-      "link": "https://www.massrobotics.org/event/3rd-annual-prosthetics-robotics-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-03-30",
-      "title": "Global Industrie",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Global Industrie explores the major issues transforming contemporary industry. Through key themes, we highlight the innovations, challenges and solutions shaping the industry of the future. Whether you're concerned by the ecological […]",
-      "link": "https://www.massrobotics.org/event/global-industrie/",
-      "time": "TBD"
-    },
     {
       "date": "2026-03-31",
       "title": "Special Seminar with Srini Turaga",
@@ -481,7 +263,7 @@
     },
     {
       "date": "2026-04-01",
-      "title": "Habit Formation in Labor Supply",
+      "title": "[CANCELED] Habit Formation in Labor Supply",
       "source": "MIT",
       "tag": "talk",
       "desc": "Heather Schofield (Cornell)",
@@ -651,6 +433,16 @@
     },
     {
       "date": "2026-04-01",
+      "title": "Bioengineering Spring Seminar Series",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "BIOE 7390 – Spring 2026 Bioengineering Seminar Series Schedule Internal and external faculty seminar speakers, weekly 12-1pm on Wednesdays in Richards Hall 300 JANUARY 1/7 – Jonathan Weissman, PhD Professor […] The post Bioengineering Spring Seminar Series appeared first on Northeastern University C",
+      "link": "https://calendar.northeastern.edu/event/bioengineering-spring-seminar-series-7965",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-01",
       "title": "Pushing exoskeletons out of the lab and into the wild: ‘Smart-apparel’ to support resilient mobility across the healthspan and lifespan",
       "source": "Harvard SEAS",
       "tag": "robotics",
@@ -721,7 +513,7 @@
     },
     {
       "date": "2026-04-02",
-      "title": "TBA",
+      "title": "Unifying Regression-Based and Design-Based Causal Inference in Time-Series Experiments and Crossover Experiments",
       "source": "MIT",
       "tag": "talk",
       "desc": "Peng Ding (University of California, Berkeley)",
@@ -754,7 +546,7 @@
       "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Leonid Gorodetskii (MIT) Title: Universal Torsors Abstract: Reference: Wittenberg, Rational points and zero-cycles on rationally connected varieties over number fields, Section 3.3. Skorobogatov, Torsors and Rational Points, Section 2.3, p.25 and the references there.",
+      "desc": "Speaker: Leonid Gorodetskii (MIT) Title: Universal Torsors Abstract: In this talk, we focus on torsors under algebraic tori. For an algebraic variety $X$ with discrete $\\operatorname{Pic}(X_{\\bar k})$ (for instance, when $X_{\\bar k}$ is rationally connected), the dual group $T = \\operatorname{Hom}(\\",
       "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-6016",
       "time": "TBD",
       "location": "Building 2"
@@ -768,6 +560,16 @@
       "link": "https://calendar.mit.edu/event/spring-2026-architecture-lecture-series-forrest-meggers",
       "time": "TBD",
       "location": "Building 7"
+    },
+    {
+      "date": "2026-04-02",
+      "title": "Oral Presentations: CommLab Drop-In Workshops",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The NU CommLab is hosting a weekly hybrid Oral Presentation Drop-in practice for graduate students. Drop-in virtually or in-person any week to practice for your upcoming presentations whether it is […] The post Oral Presentations: CommLab Drop-In Workshops appeared first on Northeastern University C",
+      "link": "https://calendar.northeastern.edu/event/oral-presentations-commlab-drop-in-workshops-4102",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-04-02",
@@ -811,10 +613,10 @@
     },
     {
       "date": "2026-04-02",
-      "title": "CS Colloquium Series - Ashia Wilson (MIT)",
+      "title": "Structured Randomness for Shaping AI",
       "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Speaker: Ashia Wilson, Lister Brothers Career Development Assistant Professor, MIT Talk information TBA.",
+      "tag": "ai",
+      "desc": "Title: Structured Randomness for Shaping AI Speaker: Ashia Wilson, Lister Brothers Career Development Assistant Professor, MIT Abstract: AI alignment is often framed as if the goal were clear. In practice, AI systems are shaped to satisfy a layered and contested set of desires: those of users, devel",
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-ashia-wilson-mit",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
@@ -858,6 +660,16 @@
       "link": "https://calendar.mit.edu/event/fulbright-virtual-info-session-6002",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-04-03",
+      "title": "SCSB Lunch Series with Dr. Wenyu Tu: Neural correlates of visual behavior in normal and ASD-model marmosets",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Date: Friday, April 3, 2026 Time: 12:00pm – 1:00pm Location: Simons Center Conference room 46-6011 + Zoom [https://mit.zoom.us/j/98510143434] Speaker: Wenyu Tu, Ph.D. Affiliation: Simons Postdoctoral Fellow, Alan Jasanoff Laboratory, Department of Biological Engineering; McGovern Institute, MIT Talk",
+      "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-wenyu-tu-neural-correlates-of-visual-behavior-in-normal-and-asd-model-marmosets",
+      "time": "TBD",
+      "location": "Simons Center Conference room, 46-6011"
     },
     {
       "date": "2026-04-03",
@@ -998,6 +810,46 @@
       "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Women's Lightweight Crew vs. Bates, Simmons",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: TBA Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Women's Openweight Crew vs. Boston University (Lightweight)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: TBA Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Sailing vs. Mystic Lake Team Race",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Medford, MA",
+      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Ana Schon & the Reunion",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Special Live Concert with 21T.221 Lighting Design Join us for a live concert featuring Ana Schon & The Reunion, with lighting design created and operated by students in MIT’s 21T.221 Lighting Design class. This special performance brings together professional musicians and student designers in a dyn",
+      "link": "https://calendar.mit.edu/event/ana-schon-the-reunion",
+      "time": "TBD",
+      "location": "Building W97"
     },
     {
       "date": "2026-04-04",
@@ -1189,11 +1041,21 @@
     },
     {
       "date": "2026-04-10",
-      "title": "Kang Sun, University at Buffalo",
+      "title": "Satellites Unveil Natural and Leaked Atmospheric Biosignatures",
       "source": "Harvard SEAS",
       "tag": "talk",
-      "desc": "",
-      "link": "https://events.seas.harvard.edu/event/kang-sun-university-at-buffalo",
+      "desc": "Kang Sun (Associate Professor of Environmental Engineering at University at Buffalo) Generations of satellites have revolutionized the observation of emissions from manmade and natural sources. A unified framework quantifying emission fluxes from satellite-observed column amounts is derived from mas",
+      "link": "https://events.seas.harvard.edu/event/satellites-unveil-natural-and-leaked-atmospheric-biosignatures",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Shelly Zhang: Toward Multifunctional Materials: From Design to Manufacturing",
+      "source": "Harvard SEAS",
+      "tag": "robotics",
+      "desc": "Multifunctional materials and structures that carry load, dissipate energy, and actively respond to external stimuli hold great potential for various applications, such as robotics, biomedical devices, and civil structures. Realizing such systems requires design strategies that can navigate high-dim",
+      "link": "https://events.seas.harvard.edu/event/shelly-zhang-toward-multifunctional-materials-from-design-to-manufacturing",
       "time": "TBD",
       "location": "Pierce Hall"
     },
@@ -1470,6 +1332,16 @@
       "location": "Pierce Hall"
     },
     {
+      "date": "2026-04-21",
+      "title": "Towards a complete understanding of airborne pollutants and health",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Havala Pye (Research Scientist) Understanding the implications of airborne chemicals for health requires characterizing their identity and abundance as well as how harmful they are. This talk will show that the characterization of hazard (toxicity) and exposure is incomplete for species in air by hi",
+      "link": "https://events.seas.harvard.edu/event/towards-a-complete-understanding-of-airborne-pollutants-and-health",
+      "time": "TBD",
+      "location": "Cruft"
+    },
+    {
       "date": "2026-04-22",
       "title": "Lessons Program Honors Recital",
       "source": "Northeastern",
@@ -1561,6 +1433,16 @@
     },
     {
       "date": "2026-04-29",
+      "title": "Measuring, modeling, and reprogramming tissue organization",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Fei Chen (Broad Institute of MIT and Harvard University) Tissues are not simply collections of cell types, but organized multicellular communities whose structure across space and time helps determine function in development, homeostasis, aging, and disease. In this lecture, I will describe my lab’s",
+      "link": "https://events.seas.harvard.edu/event/measuring-modeling-and-reprogramming-tissue-organization",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-29",
       "title": "Harvard College FounderCrush 2026",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -1642,16 +1524,6 @@
       "pickNote": "Career fair + continued expo. Don't skip day 2"
     },
     {
-      "date": "2026-06-05",
-      "title": "AI in Action 2026: Business Summit",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "AI in Action 2026 brings together business leaders, innovators, and practitioners from across Northern New England and beyond, for a full day of applied learning, real-world case studies, and meaningful connection. Whether you're just beginning your AI journey or scaling what's already working, this",
-      "link": "https://calendar.northeastern.edu/event/ai-in-action-2026-business-summit",
-      "time": "TBD",
-      "location": "Roux Institute"
-    },
-    {
       "date": "2026-06-22",
       "title": "Automate 2026",
       "source": "Conference",
@@ -1715,38 +1587,11 @@
     },
     {
       "date": "TBD",
-      "title": "Thesis Defense: Scalable Data-Driven Interactive World Models",
+      "title": "CSAIL Forum with Pratyusha Sharma: Towards Understanding Animal Communication",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "32-G449 KIVA",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-scalable-data-driven-interactive-world-models",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "EECS Special Seminar: Gokul Swamy, \"Efficient Interactive Learning: Learning More From Less\"",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Star",
-      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-gokul-swamy-efficient-interactive-learning-learning-more-less",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Computational Ecosystems: Advancing Human Values Through Integrative Computing and Changing Practice",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva",
-      "link": "https://www.csail.mit.edu/event/computational-ecosystems-advancing-human-values-through-integrative-computing-and-changing",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "From Demonstrations to Operators: Incrementally Learning Compositional Abstract Models for Bilevel Planning",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Robots operating in real-world environments must solve long-horizon tasks while improving from limited experience. Bilevel planning addresses this challenge by decomposing decision-making into symbolic task planning (\"what to do\") and continuous control (\"how to do it\"), but relies on abstractions t",
-      "link": "https://www.csail.mit.edu/event/demonstrations-operators-incrementally-learning-compositional-abstract-models-bilevel",
+      "desc": "Title: Towards Understanding Animal CommunicationAbstract:&nbsp;Understanding the communication systems of non-human animals is a scientific challenge that bridges biology, linguistics, and machine learning. It involves making sense not only of the sounds animals produce but also how they influence ",
+      "link": "https://www.csail.mit.edu/event/csail-forum-pratyusha-sharma-towards-understanding-animal-communication",
       "time": "TBD"
     },
     {
@@ -1756,15 +1601,6 @@
       "tag": "ai",
       "desc": "Abstract:Prenatal intervention strategies are the most effective treatment for abnormal fetal brain development, if detected early in pregnancy. Radiological assessment relies on volumetric MRI, acquired as stacks of high-resolution, T2-weighted 2D slices relative to an anatomical coordinate frame. ",
       "link": "https://www.csail.mit.edu/event/visual-computing-seminar-towards-self-driving-mri-fetal-brain-imaging",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "CSAIL Forum with Pratyusha Sharma: Towards Understanding Animal Communication",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Title: Towards Understanding Animal CommunicationAbstract:&nbsp;Understanding the communication systems of non-human animals is a scientific challenge that bridges biology, linguistics, and machine learning. It involves making sense not only of the sounds animals produce but also how they influence ",
-      "link": "https://www.csail.mit.edu/event/csail-forum-pratyusha-sharma-towards-understanding-animal-communication",
       "time": "TBD"
     },
     {
@@ -1805,6 +1641,15 @@
     },
     {
       "date": "TBD",
+      "title": "[NLP Seminar] Inducing Functions to Improve LLM Agents",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Programs provide a structured, reusable, and verifiable means for people to carry out digital tasks. We show that LLM-based agents also benefit from generating code, executing that code in an environment, and abstracting&nbsp;functions&nbsp;from correct code. We present tool&nbsp;induction&nbsp;meth",
+      "link": "https://www.csail.mit.edu/event/nlp-seminar-inducing-functions-improve-llm-agents",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "EECS Special Seminar: Hugo Lefeuvre, \"Towards More Trustworthy and Efficient Systems\"",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1823,11 +1668,29 @@
     },
     {
       "date": "TBD",
+      "title": "How to Classically Verify a Quantum Cat Without Killing It",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Existing protocols for classical verification of quantum computation (CVQC) consume the prover's witness state, requiring a new witness state for each invocation. Because QMA witnesses are not generally clonable, destroying the input witness means that amplifying soundness and completeness via repet",
+      "link": "https://www.csail.mit.edu/event/how-classically-verify-quantum-cat-without-killing-it",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "EECS Special Seminar: Jason Altschuler, \"Algorithmic Challenges in Optimization, Sampling, and Beyond\"",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/eecs-special-seminar-jason-altschuler-algorithmic-challenges-optimization-sampling-and-beyond",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EECS Special Seminar: Tri Dao, \"Hardware-Aware Algorithms and Architectures for Modern AI\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:Thanks to scaling laws, training and inference efficiency now drive progress in AI, making hardware-aware algorithm design essential. As hardware grows increasingly specialized (asynchronous pipelines, asymmetric compute units, and deeper memory hierarchies), co-designing algorithms and har",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-tri-dao-hardware-aware-algorithms-and-architectures-modern-ai",
       "time": "TBD"
     },
     {
@@ -1850,11 +1713,29 @@
     },
     {
       "date": "TBD",
+      "title": "HCI Seminar - Valentina Shin - Lessons I Learned from Building and Studying Audio-Visual Tools",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:In this talk, I reflect on lessons from building and studying audio-visual creation tools across both research and product settings. I will discuss how creative work is fundamentally iterative, and how tools can better support that process through abstraction, intermediate artifacts, and in",
+      "link": "https://www.csail.mit.edu/event/hci-seminar-valentina-shin-lessons-i-learned-building-and-studying-audio-visual-tools",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "On zeros and algorithms for disordered systems",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Refreshments at 4:00 PM",
       "link": "https://www.csail.mit.edu/event/zeros-and-algorithms-disordered-systems",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "EECS Special Seminar: Dylan Foster, \"Understanding the foundation model pipeline: From imitation to exploration”",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-dylan-foster-understanding-foundation-model-pipeline-imitation",
       "time": "TBD"
     },
     {
@@ -1895,11 +1776,47 @@
     },
     {
       "date": "TBD",
+      "title": "FASTCODE SEMINAR: Engineering Compressed Data Structures",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Virtual seminar: Zoom registration required at https://mit.zoom.us/meeting/register/6yyq8cjeTKmBqvdK7t4-MA",
+      "link": "https://www.csail.mit.edu/event/fastcode-seminar-engineering-compressed-data-structures",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Visual Computing Seminar: From Measurements to Structure: Annotation-Free Acquisition of Symbolic Geometry",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:Measurement-centric 3D representations such as meshes and point clouds excel at shape reconstruction and rendering, but offer limited leverage for enforcing constraints or enabling meaningful edits. Symbolic geometry addresses this by representing shape with concise, executable structures—p",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-measurements-structure-annotation-free-acquisition-symbolic-geometry",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Machine Learning Seminar: Aditi Raghunathan, \"Principled Methods for Reliable AI at Scale\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/machine-learning-seminar-aditi-raghunathan-principled-methods-reliable-ai-scale",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Visual Computing Seminar: TBA",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Abstract:&nbsp;",
-      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-0",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-1",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "(Thesis Defense) Towards Generalist Robots via Integrated Planning and Learning with Foundation Models",
+      "source": "MIT CSAIL",
+      "tag": "robotics",
+      "desc": "32-D463 (Star)",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-towards-generalist-robots-integrated-planning-and-learning-foundation-models",
       "time": "TBD"
     },
     {
@@ -5396,6 +5313,15 @@
     },
     {
       "date": "TBD",
+      "title": "UX Design Hackathon with UX Woman",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/ux-design-hackathon-with-ux-woman-tickets-1980891134708?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "MIT Bitcoin Hackathon 2026: Freedom for All | Cambridge, MA",
       "source": "Eventbrite",
       "tag": "startup",
@@ -5437,6 +5363,15 @@
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
       "link": "https://www.eventbrite.com/e/master-the-art-of-buying-selling-scaling-startups-successfully-tickets-1979663439639?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Zerve × ODSC AI: Datathon | Boston/Virtual",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/zerve-odsc-ai-datathon-bostonvirtual-tickets-1986200326644?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5549,15 +5484,6 @@
     },
     {
       "date": "TBD",
-      "title": "No-Code Tools for Beginners: 1 Day Workshop in Boston, MA",
-      "source": "Eventbrite",
-      "tag": "startup",
-      "desc": "Hackathon in Boston area.",
-      "link": "https://www.eventbrite.sg/e/no-code-tools-for-beginners-1-day-workshop-in-boston-ma-tickets-1980444037428?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "1. St patrick",
       "source": "Eventbrite",
       "tag": "startup",
@@ -5657,11 +5583,11 @@
     },
     {
       "date": "TBD",
-      "title": "AI Use Cases in Research & Analytics",
+      "title": "Organizing Your Smartphone: Declutter & Customize Your Device",
       "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Almost full",
-      "link": "https://www.eventbrite.com/e/ai-use-cases-in-research-analytics-tickets-1983349963130?aff=ebdssbdestsearch",
+      "tag": "manufacturing",
+      "desc": "Fri, Apr 24, 10:00 AM PDT",
+      "link": "https://www.eventbrite.com/e/organizing-your-smartphone-declutter-customize-your-device-tickets-1986009765671?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5675,11 +5601,11 @@
     },
     {
       "date": "TBD",
-      "title": "Podcast & YouTube Creators: How to Start and Get Found on YouTube in 2026",
+      "title": "Reinventing Wastewater. Unlocking a $20B Opportunity.",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Thu, Apr 9, 6:30 PM EDT",
-      "link": "https://www.eventbrite.com/e/podcast-youtube-creators-how-to-start-and-get-found-on-youtube-in-2026-tickets-1985552656445?aff=ebdssbdestsearch",
+      "desc": "Thu, May 7, 11:00 AM EDT",
+      "link": "https://www.eventbrite.com/e/reinventing-wastewater-unlocking-a-20b-opportunity-tickets-1985935579779?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5741,7 +5667,7 @@
       "title": "HBS Tech Club Merchandise",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Sales end soon",
+      "desc": "Boston · Klarman Hall",
       "link": "https://www.eventbrite.com/e/hbs-tech-club-merchandise-tickets-1982039300904?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5774,20 +5700,20 @@
     },
     {
       "date": "TBD",
-      "title": "Boston Health Innovation Night on LongevityTech",
-      "source": "Eventbrite",
-      "tag": "tech",
-      "desc": "Thu, May 28, 5:30 PM",
-      "link": "https://www.eventbrite.com/e/boston-health-innovation-night-on-longevitytech-registration-1981977740776?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "TECHSPO Boston 2026 Technology Expo (Internet ~ AdTech ~ MarTech)",
       "source": "Eventbrite",
       "tag": "tech",
       "desc": "Tue, May 12, 9:00 AM",
       "link": "https://www.eventbrite.com/e/techspo-boston-2026-technology-expo-internet-adtech-martech-tickets-1653535903399?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Health Innovation Night on LongevityTech",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Thu, May 28, 5:30 PM",
+      "link": "https://www.eventbrite.com/e/boston-health-innovation-night-on-longevitytech-registration-1981977740776?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5851,6 +5777,15 @@
       "tag": "networking",
       "desc": "Sales end soon",
       "link": "https://www.eventbrite.com/e/business-incubation-networking-grit-tickets-1982636244378?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Gay Business Networking - Wealth and Impact Circle",
+      "source": "Eventbrite",
+      "tag": "networking",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/gay-business-networking-wealth-and-impact-circle-tickets-1984527456043?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -6062,10 +5997,19 @@
     },
     {
       "date": "TBD",
+      "title": "In-person Free Robotics Workshop For Kids at Braintree, MA( 7-14 yrs)",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/in-person-free-robotics-workshop-for-kids-at-braintree-ma-7-14-yrs-tickets-1986184760084?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Remembering Seth",
       "source": "Eventbrite",
       "tag": "robotics",
-      "desc": "Sales end soon",
+      "desc": "Almost full",
       "link": "https://www.eventbrite.com/e/remembering-seth-tickets-1982509439100?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -6098,15 +6042,6 @@
     },
     {
       "date": "TBD",
-      "title": "My Dear You Release Bash with Rachel Khong",
-      "source": "Eventbrite",
-      "tag": "robotics",
-      "desc": "Tue, Apr 7, 7:00 PM",
-      "link": "https://www.eventbrite.com/e/my-dear-you-release-bash-with-rachel-khong-tickets-1984315040703?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "MIT Starr Forum: New World Disorder: What’s the Humanitarian Perspective?",
       "source": "Eventbrite",
       "tag": "ai",
@@ -6116,20 +6051,20 @@
     },
     {
       "date": "TBD",
-      "title": "RISE: The Self-Leadership Revolution",
+      "title": "Full Moon KAP Transmission with Melissa and Claire",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Just added",
-      "link": "https://www.eventbrite.com/e/rise-the-self-leadership-revolution-tickets-1986035561828?aff=ebdssbdestsearch",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/full-moon-kap-transmission-with-melissa-and-claire-tickets-1986169997930?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Claude Skills for Financial Planning & Analysis (FP&A)",
+      "title": "Emotional Intelligence at Work",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Almost full",
-      "link": "https://www.eventbrite.com/e/claude-skills-for-financial-planning-analysis-fpa-tickets-1984866130026?aff=ebdssbdestsearch",
+      "desc": "Sat, Apr 25, 10:00 AM EDT",
+      "link": "https://www.eventbrite.com/e/emotional-intelligence-at-work-tickets-1983367969989?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -6197,20 +6132,20 @@
     },
     {
       "date": "TBD",
-      "title": "AI Skills for Healthcare: 1 Day Beginner to Intermediate Course, Boston, MA",
-      "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Wednesday at 9:00 AM + 4 more",
-      "link": "https://www.eventbrite.sg/e/ai-skills-for-healthcare-1-day-beginner-to-intermediate-course-boston-ma-tickets-1978776213923?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "In-Person AI Expo Pass | ODSC AI East 2026 Conference",
       "source": "Eventbrite",
       "tag": "ai",
       "desc": "Tue, Apr 28, 9:00 AM",
       "link": "https://www.eventbrite.com/e/in-person-ai-expo-pass-odsc-ai-east-2026-conference-tickets-1781483839119?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Skills for Healthcare: 1 Day Beginner to Intermediate Course, Boston, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Tomorrow at 9:00 AM + 4 more",
+      "link": "https://www.eventbrite.sg/e/ai-skills-for-healthcare-1-day-beginner-to-intermediate-course-boston-ma-tickets-1978776213923?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -6243,42 +6178,6 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Alpha School, AI and the Reinvention of Education: A Conversation with Joe Liemandt & Michael Horn",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Mentor Matching for Early-Stage Founders",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Neuroscience Insights to Navigate Stress and Trauma: A Harvard Neuroscience & Society Conversation with Leading Experts",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Conversations with People who Hate Me",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -6332,6 +6231,15 @@
     },
     {
       "date": "TBD",
+      "title": "Alex Lieberman (Morning Brew, Tenex, and storyarb)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Funding & Banking the Next Generation of Biotech Lecture Series - Session 2",
       "source": "Luma",
       "tag": "talk",
@@ -6377,6 +6285,15 @@
     },
     {
       "date": "TBD",
+      "title": "Manoj Dias x HBS: Spirituality and Religion in the \"Temple of Capitalism\"",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Validated AI Conference",
       "source": "Luma",
       "tag": "ai",
@@ -6386,9 +6303,9 @@
     },
     {
       "date": "TBD",
-      "title": "HARVARD AI FORUM",
+      "title": "MLP Office Opening",
       "source": "Luma",
-      "tag": "ai",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -6425,6 +6342,24 @@
       "title": "Cursor Boston Hack-a-Sprint",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Alt Cloud Meetup (April 2026)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Founder/Funder Meetup: Round 3",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
