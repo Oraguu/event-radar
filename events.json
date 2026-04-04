@@ -1,207 +1,7 @@
 {
-  "scraped_at": "2026-04-03T10:37:17.942729",
-  "event_count": 615,
+  "scraped_at": "2026-04-04T10:26:52.431467",
+  "event_count": 610,
   "events": [
-    {
-      "date": "2026-04-03",
-      "title": "HBS & MIT Sloan Technology and National Security Conference",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "The HBS-MIT Sloan Technology and National Security Conference is a student-led event that brings together students, government officials, industry leaders, venture capitalists, and academics to foster collaboration, drive innovation, and challenge conventional thinking in addressing the complex chal",
-      "link": "https://calendar.mit.edu/event/hbs-mit-sloan-technology-and-national-security-conference",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Chemistry Student Seminar (CSS) - Amy Vidal (Johnson)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
-      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Amy-Vidal-johnson",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "robotics",
-      "desc": "Speaker: Surbhi Goel (University of Pennsylvania) Title: Reliable Learning via Abstention Abstract: When a learning system is deployed, the data it encounters may no longer resemble its training data. The nature of this shift is typically unknown, whether due to changing conditions, adversarial mani",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar1",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Fulbright Virtual Info Session",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Learn how to apply for a Fulbright fellowship! The Fulbright U.S. Student Program offers grants to over 140 countries for an academic year of research, graduate study, or English teaching. Eligible applicants must be U.S. citizens and have completed at least a BS degree by the start of the grant in ",
-      "link": "https://calendar.mit.edu/event/fulbright-virtual-info-session-6002",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-03",
-      "title": "SCSB Lunch Series with Dr. Wenyu Tu: Neural correlates of visual behavior in normal and ASD-model marmosets",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Date: Friday, April 3, 2026 Time: 12:00pm – 1:00pm Location: Simons Center Conference room 46-6011 + Zoom [https://mit.zoom.us/j/98510143434] Speaker: Wenyu Tu, Ph.D. Affiliation: Simons Postdoctoral Fellow, Alan Jasanoff Laboratory, Department of Biological Engineering; McGovern Institute, MIT Talk",
-      "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-wenyu-tu-neural-correlates-of-visual-behavior-in-normal-and-asd-model-marmosets",
-      "time": "TBD",
-      "location": "Simons Center Conference room, 46-6011"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Thesis Defense:  Hannah LeBlanc",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Li lab I \"Resolving functional units of mRNA defines the decay landscape of the bacterial transcriptome\"",
-      "link": "https://calendar.mit.edu/event/thesis-defense-hannah-leblanc",
-      "time": "TBD",
-      "location": "Building 68"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Infinite-Dimensional Algebra Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Ilya Dumanski (MIT) Title: Perverse coherent sheaves on symplectic singulariti Abstract: Perverse constructible sheaves are ubiquitous in algebraic geometry and geometric representation theory. Bezrukavnikov and Arinkin introduced their coherent analog, called perverse coherent sheaves. For",
-      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-6129",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Jade Buckwalter '26, flute",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Jade Buckwalter is a senior at MIT majoring in computer science and mathematics and minoring in music. She currently studies with Sue-Ellen ",
-      "link": "https://calendar.mit.edu/event/jade-buckwalter-26-flute",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Molecular and Cellular Neuroscience Seminar - Steve McCarroll (Harvard Medical School)  Title: The ticking DNA clock:  How somatic expansion of a DNA repeat over a human lifetime leads to Huntington’s disease",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/molecular-and-cellular-neuroscience-seminar-steve-mccarroll-broad-institute-title-the-ticking-dna-clock-how-somatic-expansion-of-a-dna-repeat-over-a-human-lifetime-leads-to-huntingtons-disease",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Megan Huang '28, flute",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Pr",
-      "link": "https://calendar.mit.edu/event/megan-huang-28-flute",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "MITHAS presents: Lalgudi GJR Krishnan and Rupak Kulkarni (Violin and Flute Jugalbandhi)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "An Evening of Enthralling Melodies: Lalgudi GJR Krishnan and Rupak Kulkarni's Violin and Flute Jugalbandhi MITHAS and LearnQuest present an enchanting evening of Tamil Classical Music with Lalgudi GJR Krishnan and Rupak Kulkarni's Violin and Flute Jugalbandhi. This musical extravaganza is set to tak",
-      "link": "https://calendar.mit.edu/event/mithas-presents-lalgudi-gjr-krishnan-rupak-kulkarni",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Video Understanding AI Hackathon at Northeastern",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "Join our in-person AI Hackathon focused on video understanding using the FiftyOne open-source ecosystem and TwelveLabs’ models and APIs. Register Time and Location 9 AM – 4:30 PM – Raytheon […] The post Video Understanding AI Hackathon at Northeastern appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/video-understanding-ai-hackathon-at-northeastern",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Dissertation Defense – Jeffrey Lamson, Ph.D. Candidate - Department of History",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Jeffrey Lamson will defend his dissertation on Friday, April 3rd, from 10am - noon. Jeffrey will present: \"MOBILIZING AUTHORITY: PATROL CARS, POLICE REFORM, AND THE MAKING OF MODERN URBAN POLICING IN THE UNITED STATES AND THE WORLD, 1900-1980\"",
-      "link": "https://calendar.northeastern.edu/event/dissertation-defense-jeffrey-lamson-phd-candidate-department-of-history",
-      "time": "TBD",
-      "location": "Egan Research Center"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "COS, COE & QMSI Special Joint Colloquium: \"AI-Optimized Advanced Packaging for Next-Generation Computing\"",
-      "source": "Northeastern",
-      "tag": "drones",
-      "desc": "Dr. Rabindra Das (MIT Lincoln Laboratory) Abstract: The rapid growth of artificial intelligence (AI), high-performance computing (HPC), and data-intensive sensing systems is creating unprecedented demands for computational capability, energy efficiency, and system integration. Applications such as a",
-      "link": "https://calendar.northeastern.edu/event/cos-coe-qmsi-special-joint-colloquium-ai-optimized-advanced-packaging-for-next-generation-computing",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-03",
-      "title": "JOINT SPECIAL COLLOQUIUM: AI-Optimized Advanced Packaging for Next-Generation Computing",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Joint Special Colloquium Speaker: Rabindra Das, MIT Lincoln Laboratory The post JOINT SPECIAL COLLOQUIUM: AI-Optimized Advanced Packaging for Next-Generation Computing appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/joint-special-colloquium-ai-optimized-advanced-packaging-for-next-generation-computing",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Chemical Engineering Spring Capstone Poster Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come join us in celebrating our students’ capstone projects! Explore our graduating seniors’ incredible posters and groundbreaking research. The post Chemical Engineering Spring Capstone Poster Session appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/chemical-engineering-spring-capstone-poster-session-5360",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Bridging Identity Literacy and Cultural Competency",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join Global Learner Support and Student Affairs in Seattle for this 5-week non-credit course which will explore the intersections of identity literacy and cultural competence. Participants will gain a deep understanding of how these aspects of identity intersect and impact individuals' experiences. ",
-      "link": "https://calendar.northeastern.edu/event/bridging-identity-literacy-and-cultural-competency",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Reckonings Community Network Series: Awakening the Dragon: Role Play Guides Workshop",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come engage with and learn more about Boston’s long tradition of dragon boat histories, rituals, and racing. This interactive participatory workshop will be co-designed and co-led by Lani Asunción and Joanna Tam, Reckonings Hidden Histories Artists-in-Residence.",
-      "link": "https://calendar.northeastern.edu/event/reckonings-community-network-series-awakening-the-dragon-role-play-guides-workshop",
-      "time": "TBD",
-      "location": "Snell Library at Northeastern University"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Agentic AI and Cybersecurity: Threats, Governance, and Strategy",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "The same capabilities that make AI valuable for cybersecurity, including autonomous operation, rapid decision-making at scale, and minimal human oversight, are also the ones most likely to cause harm. These risks are further complicated by gaps in existing legal and policy frameworks, making regulat",
-      "link": "https://events.seas.harvard.edu/event/agentic-ai-and-cybersecurity-threats-governance-and-strategy",
-      "time": "TBD",
-      "location": "Berkman Klein Center For Internet & Society"
-    },
-    {
-      "date": "2026-04-03",
-      "title": "Task Agnostic Control using Deep Learning for Wearable Lower-Limb Robotic Systems",
-      "source": "Harvard SEAS",
-      "tag": "robotics",
-      "desc": "Aaron Young (Associate Professor and Faculty Fellow at Georgia Tech) New end-to-end task agnostic AI systems have transformed the ability of wearable robotics to provide meaningful assistance to users across a diverse range of daily activities. This talk will present best practices for structuring r",
-      "link": "https://events.seas.harvard.edu/event/task-agnostic-control-using-deep-learning-for-wearable-lower-limb-robotic-systems",
-      "time": "TBD",
-      "location": "SEC"
-    },
     {
       "date": "2026-04-04",
       "title": "Women's Openweight Crew vs. Boston University (Lightweight)",
@@ -251,6 +51,16 @@
       "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-04-04",
+      "title": "Sri Ramotsava",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "A special cultural and spiritual celebration to glorify Lord Sri Ramachandra. The festivities would include Indian classical music, dance, festival lecture and dinner prasadam.",
+      "link": "https://calendar.mit.edu/event/sri-ramotsava",
+      "time": "TBD",
+      "location": "Building 32"
     },
     {
       "date": "2026-04-04",
@@ -317,6 +127,16 @@
       "tag": "talk",
       "desc": "Speaker: Fan Wei (Duke University) Title: Graph densities, matrices, positivity Abstract: A central theme in extremal combinatorics is determining when random constructions are optimal. Notable examples include problems in Ramsey theory, Sidorenko’s conjecture, and Lovász’s positivity conjecture. As",
       "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-8749",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-06",
+      "title": "Geometry & Topology Seminar ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Surena Hozoori (Brandeis University) Title: Strongly adapted contact geometry of Anosov 3-flows Abstract: We will discuss some recent developments in the contact geometric theory of Anosov 3-flows, whose roots go back to the works of Mitsumatsu and Eliashberg-Thurston in the mid 1990s. In p",
+      "link": "https://calendar.mit.edu/event/copy-of-geometry-topology-seminar",
       "time": "TBD",
       "location": "Building 2"
     },
@@ -680,6 +500,46 @@
     },
     {
       "date": "2026-04-07",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join our Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northeastern Un",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-8856",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Wonder Week: Mechanical and Industrial Engineering",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "During Wonder Week, you’ll have the chance to learn how the top-ranked Graduate School of Engineering at Northeastern University combines rigorous academics with experiential learning and convergent research. You’ll also […] The post Wonder Week: Mechanical and Industrial Engineering appeared first ",
+      "link": "https://calendar.northeastern.edu/event/wonder-week-mechanical-and-industrial-engineering",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-07",
+      "title": "CV/LinkedIn/Resume CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Graduate students, do you need to increase your on-line presence or update your CV or Resume? Join the CommLab’s LinkedIn, CV, and Resume drop-in hours any Tuesday from 11 am […] The post CV/LinkedIn/Resume CommLab Drop-In Hours appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/cvlinkedinresume-commlab-drop-in-hours-621",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Wonder Week: MS in Sustainability Engineering Leadership Overview with University College Dublin",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "During Wonder Week, you’ll have the chance to learn how the top-ranked Graduate School of Engineering at Northeastern University combined with the University College Dublin and the Department of Civil […] The post Wonder Week: MS in Sustainability Engineering Leadership Overview with University Coll",
+      "link": "https://calendar.northeastern.edu/event/wonder-week-ms-in-sustainability-engineering-leadership-overview-with-university-college-dublin",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-07",
       "title": "COS, COE & QMSI Special Joint Colloquium: \"Programming Light and Quantum Electrodynamic Interactions in Two-Dimensional Quantum Materials\"",
       "source": "Northeastern",
       "tag": "talk",
@@ -820,6 +680,16 @@
     },
     {
       "date": "2026-04-08",
+      "title": "ECS x AIChE Speaker Seminar: Marc Doyle",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "We’re excited to invite you to a seminar featuring Dr. Marc Doyle, who will share his career path from graduate school to industry leadership. Marc is a chemical industry executive who earned his PhD in electrochemical engineering from UC Berkeley in 1995, where he co-developed the well-known Doyle–",
+      "link": "https://calendar.mit.edu/event/ecs-x-aiche-speaker-seminar-marc-doyle",
+      "time": "TBD",
+      "location": "Building 66"
+    },
+    {
+      "date": "2026-04-08",
       "title": "INM Distinguished Speaker Series, April 8 COO Nike, Venky Alagirisamy",
       "source": "MIT",
       "tag": "manufacturing",
@@ -857,6 +727,66 @@
       "link": "https://calendar.mit.edu/event/copy-of-rle-2025-hermann-haus-lecture",
       "time": "TBD",
       "location": "Building 36"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "SCSB Colloquium Series with Dr. Catherine Lord: Trajectories in Autism from 2 to 34; What can we learn from them?",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Wednesday, April 8, 2026 Location: 46-3002 (Singleton Auditorium) Speaker: Catherine Lord, Ph.D. Affiliation: Distinguished Professor of Psychiatry and Education, David Geffen School of Medicine, University of California Los Angeles Host: Dr. Mriganka Sur Talk title: Trajectories in Autism fro",
+      "link": "https://calendar.mit.edu/event/scsb-colloquium-series-dr-catherine-lord",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Trading Goods for Lives: The Impact of NAFTA on Mortality",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Amy Finkelstein (MIT) joint with Matthew Notowidigdo and Steven Shi",
+      "link": "https://calendar.mit.edu/event/trading-goods-for-lives-the-impact-of-nafta-on-mortality",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Write for the World: The Art of the Blog Post: Workshop",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, this program is for you. With two hands-on workshops and one-on-one support from WCC writing instructors, you will go from idea to a polish",
+      "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-information-session",
+      "time": "TBD",
+      "location": "Building E17"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Olivier Bernardi (Brandeis) Title: Subgraphs versus Orientations: Infinite families of equidistributions Abstract: A classical enumerative result states that, given a graph G and a vertex u, the number of connected subgraphs of G is equal to the number of orientations of G such that every v",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-4321",
+      "time": "TBD",
+      "location": "Harvard Science Center Hall E"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Developing Charisma: A Science Based Workshop",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/developing-charisma-a-science-based-workshop",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-08",
+      "title": "MITEI Presents: Advancing the Energy Transition with Fatih Birol",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The outlook for global energy markets and implications for energy security, competitiveness, and sustainability Please join the MIT Energy Initiative as we welcome Fatih Birol, executive director of the International Energy Agency. Current global energy markets face rapid policy shifts, market volat",
+      "link": "https://calendar.mit.edu/event/mitei-presents-advancing-the-energy-transition-with-fatih-birol",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
     },
     {
       "date": "2026-04-08",
@@ -906,6 +836,16 @@
       "desc": "10th annual space event. MIT Media Lab, E14, 6th Floor.",
       "link": "https://www.media.mit.edu/events/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "11th Annual New Space Age Conference - NSAC 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Space as the Next Frontier - How Earth Industry is Preparing for Orbit and Beyond -- an MIT Sloan student-led event! The 11th Annual MIT Sloan New Space Age Conference (NSAC) aims to bring together industry professionals, students, and academics to address the key opportunities and challenges in dev",
+      "link": "https://calendar.mit.edu/event/11th-annual-new-space-age-conference-nsac-2026",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
     },
     {
       "date": "2026-04-09",
@@ -986,6 +926,16 @@
       "link": "https://events.seas.harvard.edu/event/agents-consciousness-and-the-future-of-ai",
       "time": "TBD",
       "location": "Berkman Klein Center for Internet & Society "
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Compositional Design of Society-Critical Systems: From Autonomy to Future Mobility",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Title: Compositional Design of Society-Critical Systems: From Autonomy to Future Mobility Speaker: Gioele Zardini, Assistant Professor, MIT Abstract: Complex engineered systems can no longer be designed by optimizing components in isolation. In domains such as autonomy, mobility, and other society-c",
+      "link": "https://events.seas.harvard.edu/event/compositional-design-of-society-critical-systems-from-autonomy-to-future-mobility",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-04-09",
@@ -5535,15 +5485,6 @@
     },
     {
       "date": "TBD",
-      "title": "Build Your Agentic Research Assistant",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "[Stripe Press] Boston Pop-up",
       "source": "Luma",
       "tag": "talk",
@@ -5688,7 +5629,7 @@
     },
     {
       "date": "TBD",
-      "title": "April Boston Marketing & Creative Meetup",
+      "title": "Pre-Earth Week Happy Hour! Raffling off 6 Pattie Gonia Tickets for Make Polluters Pay MA and BAGLY",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -5697,7 +5638,16 @@
     },
     {
       "date": "TBD",
-      "title": "Pre-Earth Week Happy Hour! Raffling off 6 Pattie Gonia Tickets for Make Polluters Pay MA and BAGLY",
+      "title": "Underscore VC Pitch Competition",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Stoic Arts Conference: Impermanence and Resiliency",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
