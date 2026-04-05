@@ -1,85 +1,16 @@
 {
-  "scraped_at": "2026-04-04T10:26:52.431467",
-  "event_count": 610,
+  "scraped_at": "2026-04-05T10:26:58.984584",
+  "event_count": 620,
   "events": [
     {
-      "date": "2026-04-04",
-      "title": "Women's Openweight Crew vs. Boston University (Lightweight)",
+      "date": "2026-04-05",
+      "title": "Men's Heavyweight Crew vs. Wesleyan University",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 9:15 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-04",
-      "title": "Men's Lightweight Crew vs. Bates College",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 9:30 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-04",
-      "title": "Women's Lightweight Crew vs. Bates, Simmons",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 9:40 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-04",
-      "title": "Men's Heavyweight Crew vs. Marist University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 9:50 AM Location: Cambridge, MA",
+      "desc": "Time: 8:30 AM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-04-04",
-      "title": "Sailing vs. Mystic Lake Team Race",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Medford, MA",
-      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-04",
-      "title": "Sri Ramotsava",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "A special cultural and spiritual celebration to glorify Lord Sri Ramachandra. The festivities would include Indian classical music, dance, festival lecture and dinner prasadam.",
-      "link": "https://calendar.mit.edu/event/sri-ramotsava",
-      "time": "TBD",
-      "location": "Building 32"
-    },
-    {
-      "date": "2026-04-04",
-      "title": "Ana Schon & the Reunion",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Special Live Concert with 21T.221 Lighting Design Join us for a live concert featuring Ana Schon & The Reunion, with lighting design created and operated by students in MIT’s 21T.221 Lighting Design class. This special performance brings together professional musicians and student designers in a dyn",
-      "link": "https://calendar.mit.edu/event/ana-schon-the-reunion",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-04-04",
-      "title": "National Robotics Week 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
-      "link": "https://www.massrobotics.org/event/national-robotics-week-2026/",
-      "time": "TBD"
     },
     {
       "date": "2026-04-05",
@@ -846,6 +777,176 @@
       "link": "https://calendar.mit.edu/event/11th-annual-new-space-age-conference-nsac-2026",
       "time": "TBD",
       "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "The Innovation Frontier: Insiders' Stories",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Session 1: The Discoveries and Decisions Leading to the Founding of Alnylam MIT HEALS invites you to the first session of a new seminar series, The Innovation Frontier: Insiders' Stories. This conversation will explore the discoveries and decisions that led to the founding of Alnylam Pharmaceuticals",
+      "link": "https://calendar.mit.edu/event/the-innovation-frontier-insiders-stories",
+      "time": "TBD",
+      "location": "McGovern Auditorium, Whitehead Institute"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "SMArchS Urbanism Lecture Series: GEO-MATTERS with Mae-ling Lokko",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Please join us for the Spring lecture series, co-hosted by the Leventhal Center for Advanced Urbanism (LCAU) and the SMArchS Urbanism Program. This series was organized by Rania Ghosn, Associate Professor in the Department of Architecture and Director of the SMArchS Urbanism Program. GEO–MATTERS ask",
+      "link": "https://calendar.mit.edu/event/smarchs-urbanism-lecture-series-geo-matters-with-mae-ling-lokko",
+      "time": "TBD",
+      "location": "Building 7"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "2026 Faculty Job Search Series (FJSS) STEM Research Statements Faculty Panel ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "What makes a STEM research statement successful? Hear from MIT faculty about their experiences writing research statements and/or evaluating them as members of a search committee. Get an expert perspective and insider take on mistakes to avoid, where to focus, and what you can leave out. Our esteeme",
+      "link": "https://calendar.mit.edu/event/2026-faculty-job-search-series-fjss-stem-research-statements-faculty-panel",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Thesis Defense - Travis Dillon",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Speaker: Travis Dillon Title: Adventures in Discrete Geometry Abstract: After outlining some of my contributions to Serious Mathematical Research (in spherical designs and quantitative combinatorial geometry), I'll spend most of the time on two of my papers that I think are the most fun. The first i",
+      "link": "https://calendar.mit.edu/event/thesis-defense-travis-dillon",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "INM Distinguished Speaker Series, April 9 President & CEO Siemens, Roland Busch",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "MIT’s Initiative for New Manufacturing (INM) is excited to invite you to our distinguished speaker event on Thursday, April 9th for a conversation with Siemens President & CEO Roland Busch, “How AI Is Transforming Manufacturing.” Register here: https://www.eventbrite.com/e/1985390777260?aff=oddtdtcr",
+      "link": "https://calendar.mit.edu/event/inm-distinguished-speaker-series-april-9-president-ceo-siemens-roland-busch",
+      "time": "TBD",
+      "location": "Building 10"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "The Future is Semi",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Explore how semiconductors power technologies such as artificial intelligence, data centers, immersive displays, and next generation computing. Hear from technical experts and MIT alumni about emerging research areas, real industry challenges, and the skills needed to build a career in one of the mo",
+      "link": "https://calendar.mit.edu/event/navigate-your-way-to-a-career-in-semiconductors",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Bundling against learning  (joint work with Frank Yang)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Agathe Pernoud (Chicago Booth)",
+      "link": "https://calendar.mit.edu/event/tba-2424",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Colloquium on the Brain and Cognition with  Jesse Goldberg",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Talk Title: A sparse neural code for acoustic targets enables speech-like vocal flexibility in parrots Abstract: English speech flexibly recombines 44 phonemes into more than 20,000 words and limitless phrases. Here we identify a novel neural code supporting combinatorial vocal control in budgerigar",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-jesse-goldberg",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Misspecification-Averse Estimation",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Isaiah Andrews (MIT)",
+      "link": "https://calendar.mit.edu/event/copy-of-semiparametric-learning-of-integral-functionals-on-submanifolds",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Organic Syntheses Inc. Lectures| Organic Chemistry Seminar Series |Sukbok Chang (Korea Advanced Institute of Science and Technology (KAIST)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "C-H Amidation via Nitrene Intermediacy: Reaction Development and Mechanistic Elucidation http://sbchang.kaist.ac.kr/",
+      "link": "https://calendar.mit.edu/event/mit-boehringer-ingelheim-organic-chemistry-seminar-series-sukbok-chang-korea-advanced-institute-of-science-and-technology-kaist",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Applied Math Colloquium",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Shayan Oveis Gharan (University of Washington) Title: Polynomial Paradigm and Applications Abstract: I will discuss the fruitful paradigm of encoding discrete phenomena in complex multivariate polynomials, and understanding them via the interplay of the coefficients, zeros, and function val",
+      "link": "https://calendar.mit.edu/event/applied-math-colloquium-5266",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Celebrating the Marble Center: A Decade of Cancer Nanomedicine at MIT",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Marble Center for Cancer Nanomedicine is turning 10! Since 2016, the Marble Center has been leveraging advances in miniaturization to tackle grand challenges in cancer detection, treatment and monitoring. Join us as we celebrate Center research, highlight successes, and preview developments guid",
+      "link": "https://calendar.mit.edu/event/celebrating-the-marble-center-a-decade-of-cancer-nanomedicine-at-mit",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Environmental and Energy Economics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "TBA | Eyal Frank (UChicago Harris School of Public Policy)",
+      "link": "https://calendar.mit.edu/event/copy-of-environmental-and-energy-economics-seminar-1745",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Symplectic Seminar  ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Oliver Edtmair (Eidgenössische Technische Hochschule Zürich) Title: On the topological invariance of helicity Abstract: Helicity is an invariant of divergence free vector fields on a three-manifold. One of its fundamental properties is invariance under volume preserving diffeomorphisms. Arn",
+      "link": "https://calendar.mit.edu/event/symplectic-seminar-9",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: TBD (MIT) Title: Torsors over a diagonal cubic surface Abstract: Reference: Colliot-Thélène, Kanevsky, Sansuc, Arithmétique des surfaces cubiques diagonales, Section 10(a)(b). (English translation)",
+      "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-758",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "Starr Forum: New World Disorder: What’s the Humanitarian Perspective?",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: David Miliband, president, International Rescue Committee (IRC), and former foreign secretary for the United Kingdom (2007-2010). He oversees the IRC’s operations in more than 40 crisis-affected countries and its refugee resettlement and assistance programs throughout Europe and the America",
+      "link": "https://calendar.mit.edu/event/starr-forum-new-world-disorder-whats-the-humanitarian-perspective",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-04-09",
+      "title": "The Green-Taylor Lectures: A Black Life and Letters Speakers Series presents, Tracy K. Smith",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tracy K. Smith is a Professor of English and of African and African American studies at Harvard University. She is the author of the memoirs To Free the Captives: A Plea for the American Soul (Knopf, 2023) and Ordinary Light (Knopf, 2015), as well as five poetry collections, including Life on Mars (",
+      "link": "https://calendar.mit.edu/event/the-green-taylor-lectures-a-black-life-and-letters-speakers-series-presents-tracy-k-smith",
+      "time": "TBD",
+      "location": "Building 7"
     },
     {
       "date": "2026-04-09",
@@ -1669,24 +1770,6 @@
     },
     {
       "date": "TBD",
-      "title": "Della Hendrickson Thesis Defense: \"Simpler hardness proofs via gadget frameworks\"",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "In this thesis, I consider the general notion of a `gadget framework', which is roughly a family of hard problems that are useful as sources of reductions, where such reductions consist of implementations of a set of `gadgets', and especially when there is a notion of `simulation' between gadgets. I",
-      "link": "https://www.csail.mit.edu/event/della-hendrickson-thesis-defense-simpler-hardness-proofs-gadget-frameworks",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "How to Classically Verify a Quantum Cat Without Killing It",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Existing protocols for classical verification of quantum computation (CVQC) consume the prover's witness state, requiring a new witness state for each invocation. Because QMA witnesses are not generally clonable, destroying the input witness means that amplifying soundness and completeness via repet",
-      "link": "https://www.csail.mit.edu/event/how-classically-verify-quantum-cat-without-killing-it",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "EECS Special Seminar: Jason Altschuler, \"Algorithmic Challenges in Optimization, Sampling, and Beyond\"",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1777,11 +1860,29 @@
     },
     {
       "date": "TBD",
+      "title": "[Thesis Defense] Controlling Generative Models via Representation Learning, Reasoning, and Reward Optimization",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Generative models have achieved remarkable success in synthesizing high-fidelity data across different domains. However, standard training paradigms often prioritize distribution matching over structural coherence and functional utility, leading to inefficient training and limited controllability. I",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-controlling-generative-models-representation-learning-reasoning-and-reward",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "PhD Defense: Foundations of Generative AI: Data Dependence in Diffusion Models (Chris Scarvelis, EECS)",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Title:&nbsp; Foundations of Generative AI: Data Dependence in Diffusion ModelsAbstract: &nbsp;Diffusion models are fundamental tools in generative AI, powering systems that synthesize data ranging from images to video to molecules. However, their empirical success has been accompanied by striking th",
       "link": "https://www.csail.mit.edu/event/phd-defense-foundations-generative-ai-data-dependence-diffusion-models-chris-scarvelis-eecs",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Bridging Efficiency and Scalability in Generative Modeling",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Diffusion and flow-based generative models achieve impressive results, but often at substantial training or inference cost. In this talk, I will discuss three works on bridging efficiency and scalability in generative modeling. I will first present Stable Target Field, which reduces target variance ",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-bridging-efficiency-and-scalability-generative-modeling",
       "time": "TBD"
     },
     {
@@ -5485,24 +5586,6 @@
     },
     {
       "date": "TBD",
-      "title": "[Stripe Press] Boston Pop-up",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Emerging Writers Summit",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Manoj Dias x HBS: Spirituality and Religion in the \"Temple of Capitalism\"",
       "source": "Luma",
       "tag": "talk",
@@ -5638,6 +5721,15 @@
     },
     {
       "date": "TBD",
+      "title": "Life Science Hikers - Boston Edition - April Hike",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Underscore VC Pitch Competition",
       "source": "Luma",
       "tag": "startup",
@@ -5648,6 +5740,15 @@
     {
       "date": "TBD",
       "title": "Stoic Arts Conference: Impermanence and Resiliency",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Neuroscience of Vitality and Aging (NOVA) Conference",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
