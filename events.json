@@ -1,36 +1,7 @@
 {
-  "scraped_at": "2026-04-05T10:26:58.984584",
-  "event_count": 620,
+  "scraped_at": "2026-04-06T10:50:50.387122",
+  "event_count": 618,
   "events": [
-    {
-      "date": "2026-04-05",
-      "title": "Men's Heavyweight Crew vs. Wesleyan University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 8:30 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-05",
-      "title": "Spring 2025 Biannual meeting",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Come enjoy Thai food and connect with the Thai students' society at MIT. Enjoy the game that we created inspired from the famous Thai gameshow, Davinci Code.",
-      "link": "https://calendar.mit.edu/event/spring-2025-biannual-meeting",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "RoboNexus",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "RoboNexus is an international robotics festival, hosted at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia. The event brings together global robotics teams, technology companies, solution providers, startups, […]",
-      "link": "https://www.massrobotics.org/event/robonexus/",
-      "time": "TBD"
-    },
     {
       "date": "2026-04-06",
       "title": "Thesis Defense: Juana De La O",
@@ -1058,6 +1029,16 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "AI leaders at MIT Media Lab — high-caliber networking"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "SDSCon 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "SDSCon is a celebration and community-building event for those interested in statistics and data science. Discussions will cover applications of statistics and data science across a wide range of fields and approaches. The event is organized by the Statistics and Data Science Center (SDSC), an MIT-w",
+      "link": "https://calendar.mit.edu/event/sdscon-2026",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
     },
     {
       "date": "2026-04-10",
@@ -5586,15 +5567,6 @@
     },
     {
       "date": "TBD",
-      "title": "Manoj Dias x HBS: Spirituality and Religion in the \"Temple of Capitalism\"",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Validated AI Conference",
       "source": "Luma",
       "tag": "ai",
@@ -5751,6 +5723,15 @@
       "title": "Neuroscience of Vitality and Aging (NOVA) Conference",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Women Applying AI Live",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
