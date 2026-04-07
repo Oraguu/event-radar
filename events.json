@@ -1,215 +1,7 @@
 {
-  "scraped_at": "2026-04-06T10:50:50.387122",
-  "event_count": 618,
+  "scraped_at": "2026-04-07T10:50:01.558003",
+  "event_count": 624,
   "events": [
-    {
-      "date": "2026-04-06",
-      "title": "Thesis Defense: Juana De La O",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Martin Lab I \"Tubes, Trips, and Tension: A Journey towards a mechanical understanding of mouse neural tube elevation\"",
-      "link": "https://calendar.mit.edu/event/thesis-defense-juana-de-la-o",
-      "time": "TBD",
-      "location": "McGovern Auditorium, Whitehead Institute"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Thesis Defense:  Allison Scott",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Lamason lab I \"Temporal Transcriptomic Analysis of Rickettsia Coupled with Investigation of an Anomalous Type IV Secretion System\"",
-      "link": "https://calendar.mit.edu/event/thesis-defense-allison-scott",
-      "time": "TBD",
-      "location": "Building 68"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Fan Wei (Duke University) Title: Graph densities, matrices, positivity Abstract: A central theme in extremal combinatorics is determining when random constructions are optimal. Notable examples include problems in Ramsey theory, Sidorenko’s conjecture, and Lovász’s positivity conjecture. As",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-8749",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Geometry & Topology Seminar ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Surena Hozoori (Brandeis University) Title: Strongly adapted contact geometry of Anosov 3-flows Abstract: We will discuss some recent developments in the contact geometric theory of Anosov 3-flows, whose roots go back to the works of Mitsumatsu and Eliashberg-Thurston in the mid 1990s. In p",
-      "link": "https://calendar.mit.edu/event/copy-of-geometry-topology-seminar",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Chemical Biology Seminar (Eric Streiter, UMass-Amherst)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/chemical-biology-seminar-eric-streiter-umass-amherst",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Cinema at the Nexus: She Runs the World ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Screening of She Runs the World (2025), directed by Perri Peltz and Matthew O'Neill. Introduction by Executive Producer, David Fialkow. Conversation to follow with Sandy Alexandre (Literature), Marzyeh Ghassemi (Electrical Engineering and Computer Science), and Angelica Castro-Salazar ('26 Mechanica",
-      "link": "https://calendar.mit.edu/event/cinema-at-the-nexus-she-runs-the-world",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "IO Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "\"Road Pricing under Heterogeneity\" | Shoshana Vasserman (Stanford GSB)",
-      "link": "https://calendar.mit.edu/event/io-seminar-5770",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Probability Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Shivam Dhama (Boston University) Title: Quantitative fluctuation analysis of stochastic gradient descent in continuous-time via Malliavin Calculus Abstract: We study a Quantitative Central Limit Theorem (QCLT) for the Stochastic Gradient Descent in Continuous Time (SGDCT) algorithm, which i",
-      "link": "https://calendar.mit.edu/event/probability-seminar-Shivam-Dhara",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Algebraic Topology Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Florian Riedel (University of Copenhagen) Title: On the K-theory of algebraic tori Abstract: I will speak about joint work with Bai, Carmeli and Juran. We show that the K-theory spectrum of a not-necessarily split algebraic torus T is computed by the Borel—Moore homology of its “topological",
-      "link": "https://calendar.mit.edu/event/algebraic-topology-seminar-7140",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "International/Trade Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Multinational Production and Trade Policy | Agustín Gutiérrez (UW - Madison)",
-      "link": "https://calendar.mit.edu/event/copy-of-internationaltrade-seminar-4120",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "2026 Vera List Prize for Writing on the Visual Arts",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The MIT List Visual Arts Center is pleased to sponsor the 2026 Vera List Prize for Writing on the Visual Arts. This writing contest is part of the 2026 Karmel Writing Prizes and is open to MIT undergraduate and graduate students. We are seeking submissions from students writing in an accessible foru",
-      "link": "https://calendar.mit.edu/event/2026-vera-list-prize-for-writing-on-the-visual-arts",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-06",
-      "title": "The Covid lab leak error and scientific integrity",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "An evening with Alina Chan (co-author of Viral: The Search for the Origin of Covid-19).",
-      "link": "https://calendar.mit.edu/event/the-covid-lab-leak-error-and-scientific-integrity",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Wonder Week: MS in Robotics Program Overview",
-      "source": "Northeastern",
-      "tag": "robotics",
-      "desc": "During Wonder Week, you’ll have the chance to learn how the top-ranked Graduate School of Engineering at Northeastern University combines rigorous academics with experiential learning and convergent research. You’ll also […] The post Wonder Week: MS in Robotics Program Overview appeared first on Nor",
-      "link": "https://calendar.northeastern.edu/event/wonder-week-ms-in-robotics-program-overview",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Wonder Week: Electrical and Computer Engineering",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "During Wonder Week, you’ll have the chance to learn how the top-ranked Graduate School of Engineering at Northeastern University combines rigorous academics with experiential learning and convergent research. You’ll also […] The post Wonder Week: Electrical and Computer Engineering appeared first on",
-      "link": "https://calendar.northeastern.edu/event/wonder-week-electrical-and-computer-engineering",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Wonder Week: Internet of Things and Wireless and Network",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "During Wonder Week, you’ll have the chance to learn how the top-ranked Graduate School of Engineering at Northeastern University combines rigorous academics with experiential learning and convergent research. You’ll also […] The post Wonder Week: Internet of Things and Wireless and Network appeared ",
-      "link": "https://calendar.northeastern.edu/event/wonder-week-internet-of-things-and-wireless-and-network",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Centering Humanity in Global Health: Ethics, Impact, and Accountability",
-      "source": "Northeastern",
-      "tag": "startup",
-      "desc": "The Social Impact Lab (SIL) invites you to join a day of learning and conversation with its 2026 Zameli Family Fellow and the president and co-founder of Global Smile Foundation (GSF), Dr. Usama Hamdan, MD, FICS. Drawing on nearly 40 years of experience advancing comprehensive and sustainable cleft ",
-      "link": "https://calendar.northeastern.edu/event/centering-humanity-in-global-health-ethics-impact-and-accountability",
-      "time": "TBD",
-      "location": "Renaissance_Park"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "COE Distinguished Lecture: Aerosol Reaction Engineering: Sustainable Synthesis of Advanced Materials",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "COE Distinguished Lecture Speaker: Pratim Biswas, University of Miami The post COE Distinguished Lecture: Aerosol Reaction Engineering: Sustainable Synthesis of Advanced Materials appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/coe-distinguished-lecture-aerosol-reaction-engineering-sustainable-synthesis-of-advanced-materials",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Global Topics for Global Learners",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Connect. Converse. Grow. Global Topics for Global Learners is your weekly space to connect across campuses and dive into meaningful global (and local!) conversations. Join students and staff online for engaging, facilitated discussions led by GLS Specialists — come curious, leave connected. Check ou",
-      "link": "https://calendar.northeastern.edu/event/global-topics-for-global-learners-6980",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Community Insights Launch Party",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Community Insights Launch Party April 6 | 12 -1 PM | SEC Room 2.122 With the SEAS Community Insights Survey, we want to understand how everyone feels at SEAS and what we can do to better support you. Stop by to fill out the survey and get free food and SEAS swag! This program is open to all members ",
-      "link": "https://events.seas.harvard.edu/event/community-insights-launch-party",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "National Robotics Week Stem Programming",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
-      "link": "https://www.massrobotics.org/event/national-robotics-week-stem-programming/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-04-06",
-      "title": "Automated with Brian Heater National Robotics Week Podcast Sessions",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Automated with Brian Heater National Robotics Week Podcast Session guest include: Professor Daniela Rus - Director, MIT/CSAIL - register here Rick Faulk - CEO, Locus Robotics (private) Clara Vu - […]",
-      "link": "https://www.massrobotics.org/event/automated-with-brian-heater-national-robotics-week-podcast-sessions/",
-      "time": "TBD"
-    },
     {
       "date": "2026-04-07",
       "title": "MIT AeroAstro SpaceTech Conference",
@@ -299,6 +91,16 @@
       "link": "https://calendar.mit.edu/event/developing-judgment-to-address-wicked-problems-in-engineering",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-04-07",
+      "title": "Harvard–MIT Algebraic Geometry Seminar",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Speaker: Hanlin Cai (Columbia University) Title: Perturbation of mixed characteristics test ideals Abstract: Given a normal integral scheme of finite type over a mixed characteristic complete DVR or a perfect field of characteristic p, one can define the notion of a test ideal. This sheaf is used to",
+      "link": "https://calendar.mit.edu/event/harvardmit-algebraic-geometry-seminar-Hanlin-Cai",
+      "time": "TBD",
+      "location": "Harvard Science Center"
     },
     {
       "date": "2026-04-07",
@@ -447,6 +249,26 @@
       "tag": "talk",
       "desc": "Speaker: Prof. Michael N. Leuenberger (University of Central Florida) Abstract: Modern quantum technologies depend on our ability to understand, predict, and ultimately engineer interactions between electrons, excitons, spins, and photons. In this colloquium, I will describe a research program aimed",
       "link": "https://calendar.northeastern.edu/event/cos-coe-qmsi-special-joint-colloquium-programming-light-and-quantum-electrodynamic-interactions-in-two-dimensional-quantum-materials",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-07",
+      "title": "ChE MS Thesis Defense: Richard Gyamfi Atta",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Name: Richard Gyamfi Atta Title: Understanding Mucus-Bile Salt/ Phospholipid Mixed Micelle Interactions Date: 04/07/2026 Time: 03:30:00 PM Committee Members: Prof. Steve Lustig (Advisor) Prof. Rebecca Carrier Prof. Srirupa Chakraborty Dennis […] The post ChE MS Thesis Defense: Richard Gyamfi Atta ap",
+      "link": "https://calendar.northeastern.edu/event/che-ms-thesis-defense-richard-gyamfi-atta",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-07",
+      "title": "MIE Seminar: Engineering Design as a Foundation for Innovation and Entrepreneurship",
+      "source": "Northeastern",
+      "tag": "startup",
+      "desc": "MIE Seminar Speaker: Sundar Krishnamurty, University of Massachusetts Amherst The post MIE Seminar: Engineering Design as a Foundation for Innovation and Entrepreneurship appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/mie-seminar-engineering-design-as-a-foundation-for-innovation-and-entrepreneurship",
       "time": "TBD",
       "location": ""
     },
@@ -692,6 +514,36 @@
     },
     {
       "date": "2026-04-08",
+      "title": "Buddhist Community Social",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dinner and discussion sponsored by Buddhist Students Club. Open to all MIT students! Wednesday, April 8, 2026 6-7:30pm, Picower Reading Terrace, Building 46",
+      "link": "https://calendar.mit.edu/event/buddhist-community-social",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Wonder Week: Information and Software Programs Co-op",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "During Wonder Week, you’ll have the chance to learn how the top-ranked Graduate School of Engineering at Northeastern University combines rigorous academics with experiential learning and convergent research. You’ll also […] The post Wonder Week: Information and Software Programs Co-op appeared firs",
+      "link": "https://calendar.northeastern.edu/event/wonder-week-information-and-software-programs-co-op",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-08",
+      "title": "Intro to Quantum Seminar for the Northeastern Community",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Spring 2026, West Village H Room 366, Fridays 10-11am, Weekly Gregory A. Fiete, Professor of Physics, College of Science, Northeastern University Purpose and Synopsis: Curious about quantum physics but not […] The post Intro to Quantum Seminar for the Northeastern Community appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/intro-to-quantum-seminar-for-the-northeastern-community-9829",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-08",
       "title": "Politics If You Dare: Political Activity by Emerging Market Tycoons",
       "source": "Northeastern",
       "tag": "talk",
@@ -894,7 +746,7 @@
       "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: TBD (MIT) Title: Torsors over a diagonal cubic surface Abstract: Reference: Colliot-Thélène, Kanevsky, Sansuc, Arithmétique des surfaces cubiques diagonales, Section 10(a)(b). (English translation)",
+      "desc": "Speaker: TBD (MIT) Title: Torsors over a diagonal cubic surface Abstract: Diagonal cubic surfaces are an interesting class of varieties in the context of the Hasse principle, since they have a very simple form and the Brauer-Manin obstruction is conjectured to be the only obstruction to the Hasse pr",
       "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-758",
       "time": "TBD",
       "location": "Building 2"
@@ -928,16 +780,6 @@
       "link": "https://calendar.northeastern.edu/event/american-indian-sovereignty-law-writing-and-self-determination-a-northeastern-university-colloquium",
       "time": "TBD",
       "location": "Snell Library (3rd floor)"
-    },
-    {
-      "date": "2026-04-09",
-      "title": "The Free and Open Indo-Pacific: Minilateralism and Security Cooperation in Northeast Asia",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "REGISTRATION LINK: https://luma.com/01y0sult From vision to action: this talk explores how flexible minilateral partnerships between the U.S., Japan, and South Korea are quietly reshaping the architecture of Indo-Pacific security. In this installment of Maritime Conversations, Matthew Fleming joins ",
-      "link": "https://calendar.northeastern.edu/event/the-free-and-open-indo-pacific-minilateralism-and-security-cooperation-in-northeast-asia",
-      "time": "TBD",
-      "location": "Renaissance_Park"
     },
     {
       "date": "2026-04-09",
@@ -1042,6 +884,106 @@
     },
     {
       "date": "2026-04-10",
+      "title": "9th MIT Global Humanities Forum on “Music Across Borders” on April 10 (online)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dear colleagues, students, and friends, Join us for the 2026 GHI 9th Forum! This session introduces the GHI Pillar Music Across Borders, and its two pilot projects: A project titled Reviving Music, Reframing Heritage and a project on developing a multicultural string method and publication inspired ",
+      "link": "https://calendar.mit.edu/event/9th-mit-global-humanities-forum-on-music-across-borders-on-april-10-online",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Chemistry Student Seminar (CSS) - Madelyn Scott (Schlau-Cohen)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
+      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Madelyn-Scott-Schlau-Cohen",
+      "time": "TBD",
+      "location": "4-370"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Robert R. Taylor Day",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Robert Robinson Taylor ‘92, MIT’s first Black graduate and the first trained Black architect in the US, was invited back to the MIT campus in 1911 to celebrate the Fiftieth Anniversary of the Institute’s 1861 charter. The celebration, and Taylor’s address, was on April 10, which would have coincided",
+      "link": "https://calendar.mit.edu/event/robert-r-taylor-day-1780",
+      "time": "TBD",
+      "location": "MIT Museum"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Quick & dirty data management: the 5 things you should absolutely be doing with your data now",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Do you have data? (Who doesn't?!?) Learn about the five basic things you can do now to manage your data for future happiness. These tools and techniques support practical data management and you can start using them immediately. Work with your personal data or research data, but start working now to",
+      "link": "https://calendar.mit.edu/event/quick-dirty-data-management-the-5-things-you-should-absolutely-be-doing-with-your-data-now-3950",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Thesis Defense - Zhenhao Li",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Zhenhao Li Title: Microlocal structures of internal waves in a 2D aquarium Abstract: We study a model of forced internal waves in an effectively two-dimensional aquarium. In bounded domains, we provide a precise microlocal description of the singular profile that forms during the long-time ",
+      "link": "https://calendar.mit.edu/event/thesis-defense-zhenhao-li",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Thesis Defense - Manan Bhatia",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Manan Bhatia Title: Geodesics in the directed landscape and Liouville quantum gravity: a comparative study Abstract: In recent years, random geometry has developed into a subject in its own right, with the directed landscape and Liouville quantum gravity serving as central examples. Despite",
+      "link": "https://calendar.mit.edu/event/thesis-defense-manan-bhatia",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Emily Hu '27, piano",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Emily Hu is a junior at MIT studying computational biology and physics. Originally from Kentucky, she started playing piano at age five and ",
+      "link": "https://calendar.mit.edu/event/emily-hu-27-piano",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Vasily Dolgushev (Temple University) Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-933",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Regenerative biomaterials and engineered tissue models",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Brendan Harley, Sc.D. Dept. of Chemical & Biomolecular Engineering Cancer Center at Illinois Carl R. Woese Institute for Genomic Biology University of Illinois at Urbana-Champaign bharley@illinois.edu | www.harleylab.org Abstract Advances in the fields of tissue engineering and regenerative medicine",
+      "link": "https://calendar.mit.edu/event/regenerative-biomaterials-and-engineered-tissue-models",
+      "time": "TBD",
+      "location": "Building 3"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Valerie Chen (G), cello",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall \"alone\" is a fully solo cello recital exploring the counterpoint to human connection: isolation. It adapts the dramatic arc from the genre of tragedy, guiding li",
+      "link": "https://calendar.mit.edu/event/valerie-chen-g-cello",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-04-10",
       "title": "2026 Pran and Shashi Nath Distinguished Lecture: John Martinis, PhD",
       "source": "Northeastern",
       "tag": "manufacturing",
@@ -1059,6 +1001,16 @@
       "link": "https://calendar.northeastern.edu/event/nu-choral-society-410-performance",
       "time": "TBD",
       "location": "Fenway Center"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Modeling and Analysis of Sustainable Power Networks",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Due to the evident climate change and environmental pressures, future energy systems will have to operate, sooner rather than later, in a net-zero environment. This will manifest in a mix of wide range of electricity generation, storage and demand technologies (increasingly power electronics interfa",
+      "link": "https://events.seas.harvard.edu/event/modeling-and-analysis-of-sustainable-power-networks",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-04-10",
@@ -1199,6 +1151,16 @@
       "link": "https://events.seas.harvard.edu/event/survivor-love-letter",
       "time": "TBD",
       "location": "SEAS SEC"
+    },
+    {
+      "date": "2026-04-13",
+      "title": "Genius at Scale: How Great Leaders Drive Innovation",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Professor Linda Hill discusses concepts from her new book, Genius at Scale, with co-authors Emily Tedards and Jason Wild. In a world where “business as usual” is no longer viable, how can leaders drive innovation at scale? Drawing on global research across industries and sectors, they explore what i",
+      "link": "https://events.seas.harvard.edu/event/genius-at-scale-how-great-leaders-drive-innovation",
+      "time": "TBD",
+      "location": "Harvard Business School "
     },
     {
       "date": "2026-04-13",
@@ -1363,6 +1325,16 @@
     },
     {
       "date": "2026-04-16",
+      "title": "Digital Identity Symposium: Towards User-Owned Identity",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "What if there were a better way to prove your identity online, one that gives you greater control over the information you share in a secure way, without sacrificing access or participation? Join the Applied Social Media Lab at the Berkman Klein Center for Internet & Society on Thursday, April 16 fo",
+      "link": "https://events.seas.harvard.edu/event/digital-identity-symposium-towards-user-owned-identity",
+      "time": "TBD",
+      "location": "Lewis Law Center"
+    },
+    {
+      "date": "2026-04-16",
       "title": "CS Colloquium Series - Sushant Sachdeva (U Toronto)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -1370,6 +1342,16 @@
       "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-sushant-sachdeva-u-toronto",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-16",
+      "title": "Artificial Intelligence in South Korea: An Interdisciplinary Study",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Graduate Research Fellows will give a presentation [Artificial Intelligence in South Korea: An Interdisciplinary Study] at the Korea Colloquium chaired by Nicholas Harkness, Modern Korean Economy and Society Professor of Anthropology; Director, Korea Institute, Harvard University. Korea Colloquium \"",
+      "link": "https://events.seas.harvard.edu/event/artificial-intelligence-in-south-korea-an-interdisciplinary-study",
+      "time": "TBD",
+      "location": "CGIS South"
     },
     {
       "date": "2026-04-16",
@@ -1524,6 +1506,16 @@
       "link": "https://calendar.northeastern.edu/event/game-design-showcase",
       "time": "TBD",
       "location": "Curry Student Center"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Atmospheric Composition and the Carbon Cycle: Physical Insights for a Changing Planet ",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Paul Palmer (Professor at the University of Edinburgh) Satellite observations reveal that Earth’s carbon cycle is shifting faster than expected, with abrupt declines in carbon uptake and surges in methane emissions across regions such as the Amazon and Eastern Africa. These changes, often linked to ",
+      "link": "https://events.seas.harvard.edu/event/atmospheric-composition-and-the-carbon-cycle-physical-insights-for-a-changing-planet",
+      "time": "TBD",
+      "location": "Cruft"
     },
     {
       "date": "2026-04-23",
@@ -1751,15 +1743,6 @@
     },
     {
       "date": "TBD",
-      "title": "EECS Special Seminar: Jason Altschuler, \"Algorithmic Challenges in Optimization, Sampling, and Beyond\"",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Star",
-      "link": "https://www.csail.mit.edu/event/eecs-special-seminar-jason-altschuler-algorithmic-challenges-optimization-sampling-and-beyond",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "ML Tea: Conformal Prediction for Generative Models via Adaptive Cluster-Based Density Estimation / On Local Policies for Graph-Structured Markov Decision Processes",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1778,20 +1761,20 @@
     },
     {
       "date": "TBD",
-      "title": "Visual Computing Seminar: Generative Re-Photography with Video Models",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract:I will introduce \"generative re-photography\" methods that use new generative video models to get more out of your photos—even the blurry ones. First, I will present a method for converting motion-blurred images to video. This method can even predict the \"past\" and \"future\" (right before and",
-      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-generative-re-photography-video-models",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CSAIL Forum with Vincent Sitzmann: The LLM Moment of Physical AI",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "virtual via Zoom",
       "link": "https://www.csail.mit.edu/event/csail-forum-vincent-sitzmann-llm-moment-physical-ai",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Visual Computing Seminar: Generative Re-Photography with Video Models",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:I will introduce \"generative re-photography\" methods that use new generative video models to get more out of your photos—even the blurry ones. First, I will present a method for converting motion-blurred images to video. This method can even predict the \"past\" and \"future\" (right before and",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-generative-re-photography-video-models",
       "time": "TBD"
     },
     {
@@ -1828,6 +1811,15 @@
       "tag": "ai",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/eecs-special-seminar-dylan-foster-understanding-foundation-model-pipeline-imitation",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "[NLP Seminar] Measuring Human-Agent Collaboration",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Automating work with AI agents is only half of the story. A more consequential question is where and how humans and agents can collaborate, which holds the promise of augmenting humans and generating greater economic value. This talk presents two contributions toward answering that question.&nbsp; F",
+      "link": "https://www.csail.mit.edu/event/nlp-seminar-measuring-human-agent-collaboration",
       "time": "TBD"
     },
     {
@@ -1940,6 +1932,15 @@
     },
     {
       "date": "TBD",
+      "title": "Toy Models of Combinatorial Interpretability",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Refreshments at 4:00 PM",
+      "link": "https://www.csail.mit.edu/event/toy-models-combinatorial-interpretability",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Machine Learning Seminar: Aditi Raghunathan, \"Principled Methods for Reliable AI at Scale\"",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1976,6 +1977,33 @@
     },
     {
       "date": "TBD",
+      "title": "[ML+Crypto] Consensus Sampling for Safer Generative AI",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Many approaches to AI safety rely on inspecting model outputs or activations, yet certain risks are inherently undetectable by inspection alone. We propose a complementary, architecture-agnostic approach that enhances safety through the aggregation of multiple generative models, with the aggregated ",
+      "link": "https://www.csail.mit.edu/event/mlcrypto-consensus-sampling-safer-generative-ai",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Probabilistically Checkable Proofs and Applications",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Probabilistically Checkable Proofs (PCPs) are proof systems that allow a verifier to check the correctness of a proof by reading only a few locations — sometimes as few as two. Since their introduction in the 1990s, PCPs have become a central tool in theoretical computer science, with applications t",
+      "link": "https://www.csail.mit.edu/event/probabilistically-checkable-proofs-and-applications",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Neekon Vafa",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Kiva/Patil",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-neekon-vafa",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Thesis Defense: Maxwell Fishelson",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1990,6 +2018,15 @@
       "tag": "ai",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/thesis-defense-rachel-y-zhang",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Dhruv Rohatgi",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-dhruv-rohatgi",
       "time": "TBD"
     },
     {
@@ -2034,7 +2071,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-03-30/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-03-30",
       "time": "TBD"
     },
     {
@@ -2097,7 +2134,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-03-30/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-03-30",
       "time": "TBD"
     },
     {
@@ -2106,7 +2143,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-03-30/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-03-30",
       "time": "TBD"
     },
     {
@@ -2142,7 +2179,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-03-31/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-03-31",
       "time": "TBD"
     },
     {
@@ -2151,7 +2188,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-03-31/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-03-31",
       "time": "TBD"
     },
     {
@@ -2160,7 +2197,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-01/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-01",
       "time": "TBD"
     },
     {
@@ -2169,7 +2206,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-01/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-01",
       "time": "TBD"
     },
     {
@@ -2178,7 +2215,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Kalman Filters are used in some of the world's most advanced guidance, navigation, and control systems, including aircraft and spacecraft, in order to provide the ground station with accurate information […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-02/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-02",
       "time": "TBD"
     },
     {
@@ -2187,7 +2224,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Kalman Filters are used in some of the world's most advanced guidance, navigation, and control systems, including aircraft and spacecraft, in order to provide the ground station with accurate information […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-02/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-02",
       "time": "TBD"
     },
     {
@@ -2205,7 +2242,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-04/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-04",
       "time": "TBD"
     },
     {
@@ -2214,7 +2251,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-04/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-04",
       "time": "TBD"
     },
     {
@@ -2232,7 +2269,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "RoboNexus is an international robotics festival, hosted at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia. The event brings together global robotics teams, technology companies, solution providers, startups, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-05/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-05",
       "time": "TBD"
     },
     {
@@ -2241,7 +2278,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "RoboNexus is an international robotics festival, hosted at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia. The event brings together global robotics teams, technology companies, solution providers, startups, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-05/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-05",
       "time": "TBD"
     },
     {
@@ -2259,7 +2296,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-06/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-06",
       "time": "TBD"
     },
     {
@@ -2268,7 +2305,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "The mission of National Robotics Week (RoboWeek) is simple yet powerful: to inspire students to pursue robotics and STEM-related fields while sharing the excitement of robotics with people of all […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-06/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-06",
       "time": "TBD"
     },
     {
@@ -2313,7 +2350,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "MassRobotics Residents Only Lunch: 12-1 PM Office hours: 1-3 PM",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-07/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-07",
       "time": "TBD"
     },
     {
@@ -2322,7 +2359,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "MassRobotics Residents Only Lunch: 12-1 PM Office hours: 1-3 PM",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-07/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-07",
       "time": "TBD"
     },
     {
@@ -2340,7 +2377,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Happy Hour with Brian Heater Date: Wednesday, April 8, 2026 Time: 4:30 - 6:00 PM Location: MassRobotics, Boston Register here *This event is intended for robotics startups and industry professionals* Registration required",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-08/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-08",
       "time": "TBD"
     },
     {
@@ -2349,7 +2386,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Happy Hour with Brian Heater Date: Wednesday, April 8, 2026 Time: 4:30 - 6:00 PM Location: MassRobotics, Boston Register here *This event is intended for robotics startups and industry professionals* Registration required",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-08/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-08",
       "time": "TBD"
     },
     {
@@ -2367,7 +2404,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "We are hosting our next Drone Working Group (DROWG) on April 9th, 4:00 - 5:30pm (EST), during National Robotics Week. Our topic for this meeting will be: Field Testing & […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-09/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-09",
       "time": "TBD"
     },
     {
@@ -2376,7 +2413,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "We are hosting our next Drone Working Group (DROWG) on April 9th, 4:00 - 5:30pm (EST), during National Robotics Week. Our topic for this meeting will be: Field Testing & […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-09/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-09",
       "time": "TBD"
     },
     {
@@ -2394,7 +2431,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-10/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-10",
       "time": "TBD"
     },
     {
@@ -2403,7 +2440,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-10/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-10",
       "time": "TBD"
     },
     {
@@ -2412,7 +2449,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-11/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-11",
       "time": "TBD"
     },
     {
@@ -2421,7 +2458,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-11/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-11",
       "time": "TBD"
     },
     {
@@ -2430,7 +2467,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-12/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-12",
       "time": "TBD"
     },
     {
@@ -2439,7 +2476,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-12/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-12",
       "time": "TBD"
     },
     {
@@ -2448,7 +2485,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This is a private event - Investors and MassRobotics Residents Only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-15/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-15",
       "time": "TBD"
     },
     {
@@ -2457,7 +2494,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This is a private event - Investors and MassRobotics Residents Only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-15/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-15",
       "time": "TBD"
     },
     {
@@ -2475,7 +2512,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This is a private event - MassRobotics Sponsors Only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-16/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-16",
       "time": "TBD"
     },
     {
@@ -2484,7 +2521,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This is a private event - MassRobotics Sponsors Only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-16/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-16",
       "time": "TBD"
     },
     {
@@ -2502,7 +2539,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This is a private event - MassRobotics Residents and Sponsors Only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-17/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-17",
       "time": "TBD"
     },
     {
@@ -2511,7 +2548,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "This is a private event - MassRobotics Residents and Sponsors Only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-17/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-17",
       "time": "TBD"
     },
     {
@@ -2529,7 +2566,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Something unprecedented is coming to Boston - the first professional robotics sports event in American history. Humanoid and quadruped robots will sprint on a spectator-lined 50-meter course in the Seaport District. You've […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-19/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-19",
       "time": "TBD"
     },
     {
@@ -2538,7 +2575,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Something unprecedented is coming to Boston - the first professional robotics sports event in American history. Humanoid and quadruped robots will sprint on a spectator-lined 50-meter course in the Seaport District. You've […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-19/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-19",
       "time": "TBD"
     },
     {
@@ -2556,7 +2593,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "At HANNOVER MESSE 2026, you can experience cutting-edge technologies live: from autonomous robots to generative AI. Discover how AI is transforming industry and setting new standards.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-20/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-20",
       "time": "TBD"
     },
     {
@@ -2565,7 +2602,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "At HANNOVER MESSE 2026, you can experience cutting-edge technologies live: from autonomous robots to generative AI. Discover how AI is transforming industry and setting new standards.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-20/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-20",
       "time": "TBD"
     },
     {
@@ -2592,7 +2629,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-21/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-21",
       "time": "TBD"
     },
     {
@@ -2601,7 +2638,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-21/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-21",
       "time": "TBD"
     },
     {
@@ -2610,7 +2647,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-22/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-22",
       "time": "TBD"
     },
     {
@@ -2619,7 +2656,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-22/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-22",
       "time": "TBD"
     },
     {
@@ -2628,7 +2665,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-23/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-23",
       "time": "TBD"
     },
     {
@@ -2637,7 +2674,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-23/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-23",
       "time": "TBD"
     },
     {
@@ -2646,7 +2683,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-24/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-24",
       "time": "TBD"
     },
     {
@@ -2655,7 +2692,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-24/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-24",
       "time": "TBD"
     },
     {
@@ -2664,7 +2701,7 @@
       "source": "MassRobotics",
       "tag": "ai",
       "desc": "​Get ready to deepen your expertise, forge powerful connections, and stay at the absolute forefront of artificial intelligence. ODSC AI East is returning to Boston, MA at the Hynes Convention […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-28/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-28",
       "time": "TBD"
     },
     {
@@ -2673,7 +2710,7 @@
       "source": "MassRobotics",
       "tag": "ai",
       "desc": "​Get ready to deepen your expertise, forge powerful connections, and stay at the absolute forefront of artificial intelligence. ODSC AI East is returning to Boston, MA at the Hynes Convention […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-28/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-28",
       "time": "TBD"
     },
     {
@@ -2691,7 +2728,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "We are excited to welcome Qualcomm as our newest sponsor! Qualcomm is expanding collaboration within the MassRobotics ecosystem and providing new resources to support its resident startups. ​Learn more about what Qualcomm Dragonwing™ […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-29/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-29",
       "time": "TBD"
     },
     {
@@ -2700,7 +2737,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "We are excited to welcome Qualcomm as our newest sponsor! Qualcomm is expanding collaboration within the MassRobotics ecosystem and providing new resources to support its resident startups. ​Learn more about what Qualcomm Dragonwing™ […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-29/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-29",
       "time": "TBD"
     },
     {
@@ -2718,7 +2755,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-30/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-30",
       "time": "TBD"
     },
     {
@@ -2727,7 +2764,7 @@
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-04-30/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/?post_type=tribe_events&eventDisplay=day&shortcode=f0b1cb7d&paged=19&eventDate=2026-04-30",
       "time": "TBD"
     },
     {
@@ -2759,11 +2796,11 @@
     },
     {
       "date": "TBD",
-      "title": "Retrofit USA 2026",
+      "title": "Carbon to Cup: CCUS Mixer – Featuring C2V’s Year 5 Cohort",
       "source": "Greentown Labs",
       "tag": "startup",
-      "desc": "A national event focused on accelerating retrofit implementation and policy coordination across the United States!",
-      "link": "https://greentownlabs.com/event/retrofit-usa-2026/",
+      "desc": "Meet this year's cohort of cutting-edge carbon capture, utilization, and sequestration, startups!",
+      "link": "https://greentownlabs.com/event/carbon-to-cup-ccus-mixer-featuring-c2vs-year-5-cohort/",
       "time": "TBD"
     },
     {
@@ -2782,6 +2819,24 @@
       "tag": "ai",
       "desc": "Spotlighting startups powering the AI boom or using AI to create a more resilient energy future.",
       "link": "https://greentownlabs.com/event/ai-energy-sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Power, Molecules, and Capital: Shaping the Next Energy and Low-Carbon Cycle",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
+      "link": "https://greentownlabs.com/event/power-molecules-and-capital-shaping-the-next-energy-and-low-carbon-cycle/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Retrofit USA 2026",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "A national event focused on accelerating retrofit implementation and policy coordination across the United States!",
+      "link": "https://greentownlabs.com/event/retrofit-usa-2026/",
       "time": "TBD"
     },
     {
