@@ -1,216 +1,7 @@
 {
-  "scraped_at": "2026-04-16T10:56:49.467633",
-  "event_count": 569,
+  "scraped_at": "2026-04-17T10:48:52.650769",
+  "event_count": 559,
   "events": [
-    {
-      "date": "2026-04-16",
-      "title": "Distinguished Seminar in Computational Science and Engineering",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Distinguished Seminar in Computational Science and Engineering April 16, 2026, 12-1PM 45-432 in Building 45 and Zoom Webinar Lightweight, geometrically flexible fast algorithms for the evaluation of elliptic and parabolic layer potentials Leslie Greengard Silver Professor of Mathematics and Computer",
-      "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-6226",
-      "time": "TBD",
-      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Infinite Careers: Lunch with Col. Pamela Melroy, NASA",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us for lunch with Col. Pamela Melroy! Come meet Pamela in person and enjoy a meal while learning about her extraordinary career spanning military service, space exploration, and national science leadership. Pamela is a retired U.S. Air Force Colonel, NASA astronaut, and former Deputy Administra",
-      "link": "https://calendar.mit.edu/event/infinite-careers-lunch-with-col-pamela-melroy-nasa",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "*Note: unusual time and location Speaker: Xuhua He (University of Hong Kong) Title: Total Positivity in Twisted Flag Varieties Abstract: Lusztig's theory of total positivity has led to remarkable connections between geometry, combinatorics, and representation theory. In this talk, I will discuss how",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-4296",
-      "time": "TBD",
-      "location": "Harvard Science Center Room 232"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Colloquium on the Brain and Cognition with SueYeon Chung (Teuber Lecture) and Teaching Awards ",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Before this talk, Teaching awards will be presented to the award winners. Talk Title: Computing with Neural Manifolds: A Multi-Scale Framework for Understanding Biological and Artificial Neural Networks Abstract: Recent breakthroughs in experimental neuroscience and machine learning have opened new ",
-      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-sueYeon-chung-teuber-lecture",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Environmental and Energy Economics Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "“Paving the Swamp: Consequences of Land Use Regulation Under the Clean Water Act” (with Hannah Druckenmiller; Charles Taylor) | Joe Shapiro (UC Berkeley)",
-      "link": "https://calendar.mit.edu/event/copy-of-environmental-and-energy-economics-seminar-3694",
-      "time": "TBD",
-      "location": "Harvard Kennedy School, Land Hall (Belfer Building, Room 400)"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Investigating Fraud, Arrogance, and Tragedy in Alzheimer's Research A Talk and Discussion With Investigative Reporter Charles Piller",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join Charles Piller, a correspondent for Science and investigative reporter, as he discusses his book \"Doctored,\" an examination into how unscrupulous researchers, government enablers, and Pharma executives hijacked Alzheimer's research for prestige and profit, sacrificing patients in the process. P",
-      "link": "https://calendar.mit.edu/event/investigating-fraud-arrogance-and-tragedy-in-alzheimers-research-a-talk-and-discussion-with-investigative-reporter-charles-piller",
-      "time": "TBD",
-      "location": "Building E38 (MIT Welcome Center)"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "How Should We Die? (Lecture + Conversation)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Should assisted dying be legal? How should physicians, policymakers, and ordinary families approach the end of life? These questions have philosophical and ethical weight, and they’re also enormously practical: Every one of us is going to die. Dr. Lydia Dugdale will be lecturing on both the policy a",
-      "link": "https://calendar.mit.edu/event/how-should-we-die-lecture-conversation",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Xinyu Fang (Harvard) Title: Descent varieties and Brauer-Manin obstruction on diagonal cubic surfaces Abstract: Diagonal cubic surfaces are an interesting class of varieties in the context of the Hasse principle, since they have a very simple form and the Brauer-Manin obstruction is conject",
-      "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-359",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "\"MIT in 3:00\" Film Screening",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "RSVP Requested A screening of the finalists in the MIT in 3:00 competition! A reception starts at 5:30pm, with screenings beginning at 6pm. The Jury and Audience prizes will be awarded. Inspired by Antje Ehmann’s and Harun Farocki’s world-wide video project “Labour in a Single Shot,” which explored ",
-      "link": "https://calendar.mit.edu/event/mit-in-300-film-screening",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Spring 2026 Architecture Lecture Series: Ali Mangera",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Ali Mangera, MEng Dip Arch RIBA, Practice Director and Principal \"Reflecting Culture and Projecting Identity through Architecture\" Part of the Spring 2026 MIT Architecture Lecture Series. Presented with The Aga Khan Program for Islamic Architecture at the Massachusetts Institute of Technology. Archi",
-      "link": "https://calendar.mit.edu/event/spring-2026-architecture-lecture-series-ali-mangera",
-      "time": "TBD",
-      "location": "Building 7"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Oral Presentations: CommLab Drop-In Workshops",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The NU CommLab is hosting a weekly hybrid Oral Presentation Drop-in practice for graduate students. Drop-in virtually or in-person any week to practice for your upcoming presentations whether it is […] The post Oral Presentations: CommLab Drop-In Workshops appeared first on Northeastern University C",
-      "link": "https://calendar.northeastern.edu/event/oral-presentations-commlab-drop-in-workshops-5031",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Keeping the USS Constitution Afloat: Maritime Conservation and Public History",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "REGISTRATION LINK: https://luma.com/tgd78wqe?tk=2pyqsJ Over 200 years ago, \"Old Ironsides\" was built and launched from Boston Harbor as one of the six original frigates which began the U.S. Navy. Today, Boston remains the permanent home for the iconic wooden vessel. But what does it actually take to",
-      "link": "https://calendar.northeastern.edu/event/keeping-the-uss-constitution-afloat-maritime-conservation-and-public-history",
-      "time": "TBD",
-      "location": "Renaissance_Park"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Academic Honors Convocation",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Each year, we celebrate Northeastern students and faculty who have demonstrated excellence in scholarship, research, or teaching. These honorees reflect Northeastern’s mission and highest ideals: a global university powered by experience, innovation, and partnership.",
-      "link": "https://calendar.northeastern.edu/event/academic-honors-convocation",
-      "time": "TBD",
-      "location": "Blackman Theater"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Blues/Rock, Rock and Fusion Ensembles",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Prof. Junauro Landgrebe will direct the Blues/Rock, Rock and Fusion Ensembles at the Fenway Center.",
-      "link": "https://calendar.northeastern.edu/event/bluesrock-rock-and-fusion-ensembles-6046",
-      "time": "TBD",
-      "location": "Fenway Center"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Digital Identity Symposium",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Logging into social media platforms and other apps increasingly requires revealing sensitive information, like your birthday and full legal name. That data is collected, processed and shared in ways that can be opaque to the user. It’s no wonder six-in-ten U.S. adults say they do not think it is pos",
-      "link": "https://events.seas.harvard.edu/event/digital-identity-symposium",
-      "time": "TBD",
-      "location": "Berkman Klein Center for Internet & Society"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Digital Identity Symposium: Towards User-Owned Identity",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "What if there were a better way to prove your identity online, one that gives you greater control over the information you share in a secure way, without sacrificing access or participation? Join the Applied Social Media Lab at the Berkman Klein Center for Internet & Society on Thursday, April 16 fo",
-      "link": "https://events.seas.harvard.edu/event/digital-identity-symposium-towards-user-owned-identity",
-      "time": "TBD",
-      "location": "Lewis Law Center"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Almost Linear Time Algorithms For All Flows, Even Dynamic",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Title: Almost linear time algorithms for all flows, even dynamic Speaker: Sushant Sachdeva, Associate Professor, University of Toronto Department of Computer Science Abstract: Over the last decade or so, combining methods from continuous optimization and analysis with graph theoretic-insights has le",
-      "link": "https://events.seas.harvard.edu/event/cs-colloquium-series-sushant-sachdeva-u-toronto",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Engine Ventures x Harvard CNS",
-      "source": "Harvard SEAS",
-      "tag": "robotics",
-      "desc": "Join us for an exclusive event hosted by Engine Ventures in collaboration with Harvard’s Center for Nanoscale Systems (CNS), focused on translating cutting-edge research into real-world impact. The program will feature insights from Madeleine Laitz, Principal at Engine Ventures, who will share her p",
-      "link": "https://events.seas.harvard.edu/event/engine-ventures-x-harvard-cns",
-      "time": "TBD",
-      "location": "Haller Hall"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Artificial Intelligence in South Korea: An Interdisciplinary Study",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "Graduate Research Fellows will give a presentation [Artificial Intelligence in South Korea: An Interdisciplinary Study] at the Korea Colloquium chaired by Nicholas Harkness, Modern Korean Economy and Society Professor of Anthropology; Director, Korea Institute, Harvard University. Korea Colloquium \"",
-      "link": "https://events.seas.harvard.edu/event/artificial-intelligence-in-south-korea-an-interdisciplinary-study",
-      "time": "TBD",
-      "location": "CGIS South"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "Harvard Grid | Meet the VCs Series: Underscore Venture Capital",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "*Applications close on April 13th This session will be a small group dinner and discussion rather than a formal talk. The goal is open conversation. Attendees will meet investors and founders working in AI and healthcare and learn how venture investors evaluate early teams, research-driven ideas, an",
-      "link": "https://events.seas.harvard.edu/event/harvard-grid-meet-the-vcs-series-underscore-venture-capital",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-04-16",
-      "title": "MassRobotics Sponsor Celebration",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/massrobotics-sponsor-celebration-2/",
-      "time": "TBD"
-    },
     {
       "date": "2026-04-17",
       "title": "Chemistry Student Seminar (CSS) - Hyunsoo Kim (Suess)",
@@ -402,31 +193,21 @@
     },
     {
       "date": "2026-04-18",
-      "title": "Men's Lightweight Crew vs. Harvard, Navy",
+      "title": "Women's Lightweight Crew vs. No. 1 Harvard-Radcliffe, No. 4 Boston University, No. 8 Sacred Heart, Gordon",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: TBA Location: Annapolis, Md. / Severn River",
-      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-18",
-      "title": "Women's Lightweight Crew vs. Harvard-Radcliffe, Boston University, Sacred Heart, Gordon",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Cambridge, MA",
+      "desc": "Time: 7:50 AM Location: Cambridge, MA / Charles River",
       "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
       "time": "TBD",
       "location": ""
     },
     {
       "date": "2026-04-18",
-      "title": "Women's Openweight Crew vs. Boston College, Holy Cross, Sacred Heart, UConn, UMass",
+      "title": "Men's Lightweight Crew vs. Harvard, Navy",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: TBA Location: Worcester, MA / Lake Quinsigamond",
-      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
+      "desc": "Time: 8:00 AM Location: Annapolis, Md. / Severn River",
+      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
       "time": "TBD",
       "location": ""
     },
@@ -439,6 +220,16 @@
       "link": "https://calendar.mit.edu/event/wids-cambridge-datathon-workshop",
       "time": "TBD",
       "location": "Microsoft New England"
+    },
+    {
+      "date": "2026-04-18",
+      "title": "Women's Openweight Crew vs. Boston College, Holy Cross, Sacred Heart, UConn, UMass",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 8:30 AM Location: Worcester, MA / Lake Quinsigamond",
+      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-04-18",
@@ -471,16 +262,6 @@
     },
     {
       "date": "2026-04-20",
-      "title": "[Cancelled] NeuroLunch: Karen Pang (Anikeeva Lab）& Yibei Chen (Ghosh Lab)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/neurolunch-karen-pang-anikeeva-lab-yibei-chen-ghosh-lab",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-04-20",
       "title": "From Lab to Launch: Commercializing AI Research",
       "source": "MIT",
       "tag": "ai",
@@ -488,6 +269,16 @@
       "link": "https://calendar.mit.edu/event/commercializing-ai-research",
       "time": "TBD",
       "location": "MIT Museum"
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Fireside Chat with Mr. Samaila Zubairu",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Join us for an engaging fireside chat with Mr. Samaila Zubairu, President and CEO of the Africa Finance Corporation, a multilateral development finance institution supporting infrastructure and industrial development across Africa. Lunch will be provided. Space is limited and registration is require",
+      "link": "https://events.seas.harvard.edu/event/fireside-chat-with-mr-samaila-zubairu",
+      "time": "TBD",
+      "location": "Harvard Faculty Club"
     },
     {
       "date": "2026-04-20",
@@ -572,7 +363,7 @@
       "title": "Organizational Economics Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "\"Supply chain resilience via partial integration\" | Aroon Narayanan (MIT) & Vishan Nigam (MIT)",
+      "desc": "\"Supply chain resilience via partial integration\" | Aroon Narayanan (MIT)",
       "link": "https://calendar.mit.edu/event/narayanan_nigam_oesem",
       "time": "TBD",
       "location": "Building E62"
@@ -636,16 +427,6 @@
       "link": "https://calendar.mit.edu/event/physical-chemistry-seminar-mona-minkara-northeastern-university",
       "time": "TBD",
       "location": "Room 6-120"
-    },
-    {
-      "date": "2026-04-21",
-      "title": "Algebraic Topology Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "👉Special Seminar👈 Speaker: Sadok Kallel (American University of Sharjah, UAE) Title: Combinatorial Invariants of Stratified Spaces Abstract: We construct a Grothendieck ring for poset-stratified spaces and use it to compute the topological Euler characteristic of a number of constructions in topolog",
-      "link": "https://calendar.mit.edu/event/copy-of-algebraic-topology-seminar-2868",
-      "time": "TBD",
-      "location": "Building 2"
     },
     {
       "date": "2026-04-21",
@@ -759,6 +540,86 @@
     },
     {
       "date": "2026-04-22",
+      "title": "Jing Yan (Yale University) - Single-cell Imaging of Microbial Communities across Different Spatial and Temporal Scales",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Please join us on Wednesday, April 22, 2026 for the Pierce Seminar at 4 PM in Room 1-131 with Prof. Jing Yan (Yale University). Abstract Title: Single-cell Imaging of Microbial Communities across Different Spatial and Temporal Scales Abstract: Biofilm is an important lifestyle of bacteria where bact",
+      "link": "https://calendar.mit.edu/event/jing-yan-yale-university",
+      "time": "TBD",
+      "location": "Building 1"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Do Kien Hoang (Northeastern University) Title: Affine Springer fibers and Slodowy varieties Abstract: We realize a natural subvariety of the affine Springer fiber as an affine bundle over a Lagrangian subvariety of a Slodowy variety. In special cases, this yields a description of a fundamen",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Special Seminar in Inorganic Chemistry - Professor Raúl Hernández Sánchez (Rice University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "\"Macrocyclic templates facilitating strong and weak interactions\" Raúl joined the Chemistry faculty at Rice in the summer of 2022 and is the Norman Hackerman Welch Young Investigator Junior Chair. Prior to joining Rice, Raúl was an Assistant Professor from 2018 to 2022 in the Department of Chemistry",
+      "link": "https://calendar.mit.edu/event/special-seminar-in-inorganic-chemistry-professor-raul-hernandez-sanchez-rice-university",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Global France Seminar presents, Felwine Sarr \"The Restitution of African Cultural Heritage by France: Where Are We Now?\"",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Abstract: Restitution of African heritage (cultural artifacts) by former colonial powers is an entangled issue. The questions it raises are not limited to those of legitimate ownership of objects. Its implications are political, symbolic, philosophical and relational. It opens up a reflection on his",
+      "link": "https://calendar.mit.edu/event/GFS-presents-felwine-sarr-the-restitution-of-african-cultural-heritage-by-france-where-are-we-now",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Collaborative Piano Studio Recital",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the MIT Chamber Music Society Recital Series Collaborative Piano Studio Recital Mi-Eun Kim, coach Wednesday, April 22, 2026 6 pm Killian Hall The Collaborative Piano Studio Recital will feature Schumann’s Frauenliebe und Le Ben, Franck’s Violin Sonata, Orbán’s Bassoon Sonata, and Mozart",
+      "link": "https://calendar.mit.edu/event/collaborative-piano-studio-recital-8256",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "The Battle for Justice in Palestine",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "As a continuation of our Centering Palestine Speaker Series, Palestine@MIT and C4P would love to invite you to a conversation with Ali Abunimah, a Palestinian-American journalist, author, and co-founder of The Electronic Intifada. The conversation, titled “The Battle for Justice in Palestine,” will ",
+      "link": "https://calendar.mit.edu/event/the-battle-for-justice-in-palestine",
+      "time": "TBD",
+      "location": "45-230"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "What Trees Tell Us About Time",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "What can trees tell us about history, climate, and our shared future? In this interdisciplinary presentation, artist Heather Bird Harris and dendrochronologist Clay Tucker, joined in conversation by ecologist Neil Pederson, invite audiences to read tree rings as living archives—primary sources that ",
+      "link": "https://calendar.mit.edu/event/what-trees-tell-us-about-time",
+      "time": "TBD",
+      "location": "MIT Museum"
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Jazz AMP Spring Recital",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come enjoy a fun evening with the MIT Jazz AMP Ensemble. The band will be performing music arranged by members of the ensemble. LIVESTREAM LINK",
+      "link": "https://calendar.mit.edu/event/jazz-amp-fall-recital-124877523",
+      "time": "TBD",
+      "location": "Building W18"
+    },
+    {
+      "date": "2026-04-22",
       "title": "Intro to Quantum Seminar for the Northeastern Community",
       "source": "Northeastern",
       "tag": "talk",
@@ -805,6 +666,16 @@
       "desc": "Entrepreneurship, innovation ecosystems, ethical tech.",
       "link": "https://mitsloan.mit.edu/ksc/annual-conference",
       "time": "All Day"
+    },
+    {
+      "date": "2026-04-23",
+      "title": "2026-27 Teaching Development Fellowship Network ONLINE INFO SESSION",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "2026-27 Teaching Development Fellowship ONLINE INFO SESSION The MIT Teaching + Learning Lab will hold an information session on Zoom for the 2026-27 Teaching Development Fellowship Network (TDFN). Applications are open from now through May 3. Teaching Development Fellows work within an interdiscipli",
+      "link": "https://calendar.mit.edu/event/2026-27-teaching-development-fellowship-network-online-info-session",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-04-23",
@@ -928,6 +799,16 @@
     },
     {
       "date": "2026-04-29",
+      "title": "Daven Henze, University of Colorado Boulder",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/daven-henze-university-of-colorado-boulder",
+      "time": "TBD",
+      "location": "Cruft"
+    },
+    {
+      "date": "2026-04-29",
       "title": "Harvard College FounderCrush 2026",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -955,6 +836,16 @@
       "link": "https://events.seas.harvard.edu/event/seas-design-and-project-fair",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Randall Martin, Washington University",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/randall-martin-washington-university",
+      "time": "TBD",
+      "location": "Cruft"
     },
     {
       "date": "2026-05-01",
@@ -2210,11 +2101,11 @@
     },
     {
       "date": "TBD",
-      "title": "Carbon to Cup: CCUS Mixer – Featuring C2V’s Year 5 Cohort",
+      "title": "Power, Molecules, and Capital: Shaping the Next Energy and Low-Carbon Cycle",
       "source": "Greentown Labs",
-      "tag": "startup",
-      "desc": "Meet this year's cohort of cutting-edge carbon capture, utilization, and sequestration, startups!",
-      "link": "https://greentownlabs.com/event/carbon-to-cup-ccus-mixer-featuring-c2vs-year-5-cohort/",
+      "tag": "manufacturing",
+      "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
+      "link": "https://greentownlabs.com/event/power-molecules-and-capital-shaping-the-next-energy-and-low-carbon-cycle/",
       "time": "TBD"
     },
     {
@@ -2246,11 +2137,11 @@
     },
     {
       "date": "TBD",
-      "title": "Power, Molecules, and Capital: Shaping the Next Energy and Low-Carbon Cycle",
+      "title": "Catalyst x Energy Tech Innovations with Shell & Technip Energies",
       "source": "Greentown Labs",
       "tag": "manufacturing",
-      "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
-      "link": "https://greentownlabs.com/event/power-molecules-and-capital-shaping-the-next-energy-and-low-carbon-cycle/",
+      "desc": "Kick off Go Make 2026, an open-innovation program with Shell and Technip Energies focused on catalytic solutions for industrial decarbonization and the energy transition!",
+      "link": "https://greentownlabs.com/event/catalyst-x-energy-tech-innovations-with-shell-technip-energies/",
       "time": "TBD"
     },
     {
@@ -2287,6 +2178,15 @@
       "tag": "manufacturing",
       "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
       "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Carbon to Cup: CCUS Mixer – Featuring C2V’s Year 5 Cohort",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Meet this year's cohort of cutting-edge carbon capture, utilization, and sequestration, startups!",
+      "link": "https://greentownlabs.com/event/carbon-to-cup-ccus-mixer-featuring-c2vs-year-5-cohort/",
       "time": "TBD"
     },
     {
@@ -5072,24 +4972,6 @@
     },
     {
       "date": "TBD",
-      "title": "From Ideas to Reality: Build with Agentic AI",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "rev launch spring 2026",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Life Science Hikers - Boston Edition - April Hike",
       "source": "Luma",
       "tag": "talk",
@@ -5153,6 +5035,15 @@
     },
     {
       "date": "TBD",
+      "title": "Building an AI Research Copilot with Hybrid Search and Knowledge Graphs",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Women Applying AI Live",
       "source": "Luma",
       "tag": "ai",
@@ -5181,6 +5072,15 @@
     {
       "date": "TBD",
       "title": "Future of Higher Ed (Boston): Lunch Discussion with Kathleen deLaski",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Ramp @ MIT: What It Means to Build Now",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
