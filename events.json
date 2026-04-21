@@ -1,45 +1,7 @@
 {
-  "scraped_at": "2026-04-20T11:15:53.241100",
-  "event_count": 565,
+  "scraped_at": "2026-04-21T11:00:32.161926",
+  "event_count": 567,
   "events": [
-    {
-      "date": "2026-04-20",
-      "title": "From Lab to Launch: Commercializing AI Research",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Join us at the MIT Museum for an evening focused on AI research and entrepreneurship, bringing together researchers, students, founders, and local investors for a conversation on how breakthrough technical work becomes real companies. ​Why attend ​Hear from researchers and investors shaping the MIT ",
-      "link": "https://calendar.mit.edu/event/commercializing-ai-research",
-      "time": "TBD",
-      "location": "MIT Museum"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "Fireside Chat with Mr. Samaila Zubairu",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Join us for an engaging fireside chat with Mr. Samaila Zubairu, President and CEO of the Africa Finance Corporation, a multilateral development finance institution supporting infrastructure and industrial development across Africa. Lunch will be provided. Space is limited and registration is require",
-      "link": "https://events.seas.harvard.edu/event/fireside-chat-with-mr-samaila-zubairu",
-      "time": "TBD",
-      "location": "Harvard Faculty Club"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "HANNOVER MESSE",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "At HANNOVER MESSE 2026, you can experience cutting-edge technologies live: from autonomous robots to generative AI. Discover how AI is transforming industry and setting new standards.",
-      "link": "https://www.massrobotics.org/event/hannover-messe-2/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-04-20",
-      "title": "BOOST 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "BOOST (Boys Optimizing Opportunities in STEM and Technology) is an intensive one-week program designed for high school boys interested in STEM, robotics and manufacturing. Participants will dive into hands-on fabrication, […]",
-      "link": "https://www.massrobotics.org/event/boost-2026/",
-      "time": "TBD"
-    },
     {
       "date": "2026-04-21",
       "title": "Climate Robotics Summit",
@@ -65,7 +27,7 @@
       "title": "Cog Lunch: Lynn Soerensen (DiCarlo Lab)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Cog Lunch: Lynn Soerensen April 21, 2026 12pm Location: 46-3189 Zoom: TBD Speaker: Lynn Soerensen Affiliation: Dicarlo Lab Title: TBD Abstract: TBD",
+      "desc": "Cog Lunch: Lynn Soerensen April 21, 2026 12pm Location: 46-3189 Zoom: https://mit.zoom.us/j/94317202535 Speaker: Lynn Soerensen Affiliation: Dicarlo Lab Title: Hierarchical Optimization predicts Plasticity in the Macaque Inferior Temporal Cortex following Object Trainin Abstract: How does the primat",
       "link": "https://calendar.mit.edu/event/cog-lunch-lynn-soerensen-dicarlo-lab",
       "time": "TBD",
       "location": "Building 46"
@@ -202,20 +164,10 @@
     },
     {
       "date": "2026-04-21",
-      "title": "MAD in Dialoge + Expo",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us for MAD in Dialogue, a conversation with leading faculty on the future of design at MIT and beyond. Through short talks and discussion, speakers will share their perspectives on the role of design in research, teaching, and cross-disciplinary collaboration. The event will also celebrate new ",
-      "link": "https://calendar.mit.edu/event/mad-in-dialoge-expo-2026",
-      "time": "TBD",
-      "location": "Building E38 (MIT Welcome Center)"
-    },
-    {
-      "date": "2026-04-21",
       "title": "MAD in Dialogue",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Join us for MAD in Dialogue highlighting design at MIT and beyond. The event will introduce the 2026 cohort of MAD Design Fellows and showcase previous cohorts' projects made possible by MAD's support. A light reception will follow. A light reception will follow.",
+      "desc": "Join us for MAD in Dialogue highlighting design at MIT and beyond. The event will introduce the 2026 cohort of MAD Design Fellows and showcase previous cohorts' projects made possible by MAD's support. A light reception will follow.",
       "link": "https://calendar.mit.edu/event/mad-in-dialogue-7188",
       "time": "TBD",
       "location": "Building E38 (MIT Welcome Center)"
@@ -325,7 +277,7 @@
       "title": "Richard P. Stanley Seminar in Combinatorics",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Alexander Laza (Université Libre de Bruxelles) Title: Shuffle Theorems, Sandpiles, and Lattice Paths Abstract: The shuffle theorem of Carlsson and Mellit proved a long-conejctured combinatorial formula for the coefficients of the symmetric function \\nabla e_n in terms of statistics of latti",
+      "desc": "Speaker: Alexander Laza (University of Miami) Title: Shuffle Theorems, Sandpiles, and Lattice Paths Abstract: The shuffle theorem of Carlsson and Mellit proved a long-conejctured combinatorial formula for the coefficients of the symmetric function \\nabla e_n in terms of statistics of lattice paths. ",
       "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-3473",
       "time": "TBD",
       "location": "Building 2"
@@ -704,8 +656,8 @@
       "title": "Infinite-Dimensional Algebra Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: TBA Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
-      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-1916",
+      "desc": "Speaker: Milen Yakimov (Northeastern University) Title: Short star products for quantum symmetric pairs and applications Abstract: The goal of the talk is to describe a bridge between two directions in representation theory. The first is the theory of quantum symmetric pairs of Letzter-Kolb based on",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-5728",
       "time": "TBD",
       "location": "Building 2"
     },
@@ -741,6 +693,36 @@
     },
     {
       "date": "2026-04-24",
+      "title": "Symposium: \"The Environment and Ecological Crises: Buddhist Perspectives in Dialogue\" Sponsored by: MIT's T.T. and W.F. Chao Distinguished Buddhist Lecture Series",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Symposium: \"The Environment and Ecological Crises: Buddhist Perspectives in Dialogue\"Co-sponored by the The T.T. and W.F. Chao Distinguished Buddhist Lecture Series at MIT and the Fo Guang Shan Institute of Humanistic Buddhism. Friday, April 24, 04:00 PM - 05:30 PM Saturday, April 25, 08:30 AM - 05:",
+      "link": "https://calendar.mit.edu/event/symposium-the-environment-and-ecological-crises-buddhist-perspectives-in-dialogue-sponsored-by-mits-tt-and-wf-chao-distinguished-buddhist-lecture-series",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Lani Lee (G), mezzo-soprano",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Lani Lee is a PhD student in Mechanical Engineering researching cell mechanics in the group of Prof. Ming Guo. She has studied with Dr. Kerr",
+      "link": "https://calendar.mit.edu/event/lani-lee-g-mezzo-soprano",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "MIT Symphony Orchestra & MIT Concert Choir: A Child of Our Time",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The MIT Symphony Orchestra and Concert Choir join forces for an evening of unforgettable musical artistry! April 24, 2026 8:00pm | Kresge Auditorium Watch the livestream here. Repertoire Victor Yaneng Wang:The World Resonates, Concerto for Piano and OrchestraVictor Yaneng Wang, pianoAdam Boyles, con",
+      "link": "https://calendar.mit.edu/event/mit-symphony-orchestra-concert-choir",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-04-24",
       "title": "Wireless Federated Learning",
       "source": "Harvard SEAS",
       "tag": "ai",
@@ -758,6 +740,16 @@
       "link": "https://events.seas.harvard.edu/event/ju-li-ai-and-the-future-of-scientific-research",
       "time": "TBD",
       "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-04-25",
+      "title": "Men's Heavyweight Crew vs. Bates College",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: TBA Location: Lewiston, ME / Androscoggin River",
+      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-04-25",
@@ -821,11 +813,11 @@
     },
     {
       "date": "2026-04-29",
-      "title": "Daven Henze, University of Colorado Boulder",
+      "title": "Probing air pollution from a distance: Remote sensing-based estimates of atmospheric composition, pollution exposure, and policy impacts on air quality. ",
       "source": "Harvard SEAS",
       "tag": "talk",
-      "desc": "",
-      "link": "https://events.seas.harvard.edu/event/daven-henze-university-of-colorado-boulder",
+      "desc": "Daven Henze (Professor at the University of Colorado Boulder) Remote sensing data, be it from satellites in space to field-deployable open-path spectrometers, can help us better understand the composition and sources of atmospheric contaminants. My research group at CU Boulder specializes in exploit",
+      "link": "https://events.seas.harvard.edu/event/probing-air-pollution-from-a-distance-remote-sensing-based-estimates-of-atmospheric-composition-pollution-exposure-and-policy-impacts-on-air-quality",
       "time": "TBD",
       "location": "Cruft"
     },
@@ -858,6 +850,16 @@
       "link": "https://events.seas.harvard.edu/event/seas-design-and-project-fair",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Advancing Application of Satellite Remote Sensing and Atmospheric Chemistry Modeling for Air Quality and Health",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Randall V. Martin, (Professor at Washington University) The chemistry and composition of our atmosphere have broad environmental and societal implications, driven by complex interconnections across scales. Human exposure to atmospheric air pollution, especially to fine particulate matter (PM2.5), is",
+      "link": "https://events.seas.harvard.edu/event/advancing-application-of-satellite-remote-sensing-and-atmospheric-chemistry-modeling-for-air-quality-and-health",
+      "time": "TBD",
+      "location": "Cruft"
     },
     {
       "date": "2026-04-30",
@@ -1143,6 +1145,15 @@
     },
     {
       "date": "TBD",
+      "title": "Data for training and evaluating agents: OpenThoughts and Terminal-Bench",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "45-792",
+      "link": "https://www.csail.mit.edu/event/data-training-and-evaluating-agents-openthoughts-and-terminal-bench",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Lower bounds for Learning Hamiltonians from Time Evolution",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1265,6 +1276,15 @@
       "tag": "ai",
       "desc": "MIT Stata Center (Building 32) 32 Vassar Street",
       "link": "https://www.csail.mit.edu/event/thesis-defense-multimodal-multilingual-audio-understanding",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Adaptivity Does Not Help: Nearly Tight Lower Bounds for Boolean Monotonicity Testing",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Refreshments at 4:00 PM",
+      "link": "https://www.csail.mit.edu/event/adaptivity-does-not-help-nearly-tight-lower-bounds-boolean-monotonicity-testing",
       "time": "TBD"
     },
     {
@@ -5031,6 +5051,15 @@
     },
     {
       "date": "TBD",
+      "title": "The Ten: Alex Drexler",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "PHYSICAL AI HAPPY HOUR, BOSTON",
       "source": "Luma",
       "tag": "ai",
@@ -5187,15 +5216,6 @@
       "title": "The legends Of Venture Capital",
       "source": "Luma",
       "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climate Networking Breakfast",
-      "source": "Luma",
-      "tag": "networking",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
