@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-04-26T10:39:14.195997",
-  "event_count": 561,
+  "scraped_at": "2026-04-27T11:40:21.724238",
+  "event_count": 563,
   "events": [
-    {
-      "date": "2026-04-26",
-      "title": "Sailing vs. Women’s Team Race National Championship",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: New Orleans, LA",
-      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-04-26",
-      "title": "MIT Open Ballroom Dance Competition",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Biggest collegiate ballroom dance competition in the US right here at MIT!",
-      "link": "https://calendar.mit.edu/event/copy-of-mit-open-ballroom-dance-competition-5231",
-      "time": "TBD",
-      "location": "Building W33"
-    },
-    {
-      "date": "2026-04-26",
-      "title": "Warehouse Talent Brunch",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Warehouse is hosting its annual Talent Brunch, where students can showcase musical performances, standup, and other performances with free brunch from Cafe Luna and Bakey! We also need performers showcasing whatever talent they have -- if you can do music, comedy, juggling, or anything else, sign up",
-      "link": "https://calendar.mit.edu/event/talent-brunch-2026",
-      "time": "TBD",
-      "location": "Building NW30"
-    },
-    {
-      "date": "2026-04-26",
-      "title": "Emerson/Harris Voice Group Recital",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Emerson/Harris Voice Group Recital Livestream: https://mta.mit.edu/viewlisten/live-killian-hall Support for private musical study is available for students through the Emerson/Harris Program (E/HP), which offers merit-based financial awards for outstanding achievement on instruments or voice in clas",
-      "link": "https://calendar.mit.edu/event/emersonharris-voice-group-recital",
-      "time": "TBD",
-      "location": "Building 14"
-    },
     {
       "date": "2026-04-27",
       "title": "NeuroLunch: Ke Chen (Wang Lab) & Miranda Dawson (Fan Lab)",
@@ -713,6 +673,16 @@
     },
     {
       "date": "2026-04-30",
+      "title": "Deliberative Faith and Deliberative Listening Faith",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Talk presenting recent reserach in deliberative faith and deliberative listening faith as crucial elements of democratic deliberation, including multifaceted quantitative measures and findings from a nationally representative survey.",
+      "link": "https://calendar.mit.edu/event/deliberative-faith-and-deliberative-listening-faith",
+      "time": "TBD",
+      "location": "Building 16"
+    },
+    {
+      "date": "2026-04-30",
       "title": "Symplectic Seminar  ",
       "source": "MIT",
       "tag": "talk",
@@ -730,6 +700,36 @@
       "link": "https://calendar.mit.edu/event/fireside-chat-with-astronaut-chris-birch-mit-phd-15",
       "time": "TBD",
       "location": "Building 34"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "MIT Arts Startup Incubator: Student Pitch Competition",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Five teams pitch their arts-focused ventures to a panel of judges to win $15K. Join us for an evening of creative entrepreneurship featuring live pitches, inspirational speakers and DJ & VJ performances. Watch teams of MIT students present their arts-focused ventures to a panel of expert judges to c",
+      "link": "https://calendar.mit.edu/event/mit-arts-startup-incubator-student-pitch-competition",
+      "time": "TBD",
+      "location": "Building E38 (MIT Welcome Center)"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Spring 2026 Architecture Lecture Series: David Chipperfield",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "David Chipperfield The 31st Pietro Belluschi Lecture Part of the Spring 2026 MIT Architecture Lecture Series. David Chipperfield studied architecture at the Kingston School of Art and the Architectural Association School of Architecture in London. He worked for Douglas Stephen, Richard Rogers and No",
+      "link": "https://calendar.mit.edu/event/spring-2026-architecture-lecture-series-david-chipperfield",
+      "time": "TBD",
+      "location": "Building 10"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "CMS Jazz Combos",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Thursday, April 30, 7:30pm CMS Jazz Combos Concert, Keala Kaumeheiwa, Director Killian Hall, MIT",
+      "link": "https://calendar.mit.edu/event/cms-jazz-combos",
+      "time": "TBD",
+      "location": "Building 14"
     },
     {
       "date": "2026-04-30",
@@ -1083,11 +1083,11 @@
     },
     {
       "date": "TBD",
-      "title": "Visual Computing Seminar: TBA",
+      "title": "Visual Computing Seminar: Geometry and Mechanics of Fluid Surfaces",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Abstract:TBA",
-      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-tba-7",
+      "desc": "Abstract:This talk focuses on the computational and geometric modeling of dissipative fluid mechanics on general surfaces, motivated by applications in biophysics. Drawing on differential-geometric continuum mechanics and variational principles, I present a unified framework for describing fluid dyn",
+      "link": "https://www.csail.mit.edu/event/visual-computing-seminar-geometry-and-mechanics-fluid-surfaces",
       "time": "TBD"
     },
     {
@@ -1173,11 +1173,29 @@
     },
     {
       "date": "TBD",
+      "title": "Towards reliable co-inventors through search and rigorous verification",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "RSVP here: https://forms.gle/yVC5KNRSodSYuEQU7AI agents are quickly taking on increasingly complex, long-horizon engineering tasks. However, achieving high-quality, trusted results at scale remains an open challenge. Here, we’ll present two projects that use search and verification to improve fronti",
+      "link": "https://www.csail.mit.edu/event/towards-reliable-co-inventors-through-search-and-rigorous-verification",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "[THESIS DEFENSE] Workload-Driven Network Optimization for Distributed Machine Learning",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Building 45",
       "link": "https://www.csail.mit.edu/event/thesis-defense-workload-driven-network-optimization-distributed-machine-learning",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Learning Possibilities: Stochastic Models for Vision",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "AbstractWhen asking a question about visual data, there is often no single right answer. Input images can be blurry, low contrast, or otherwise difficult to interpret. Different users hold different priors and biases. The desired output frequently depends on the downstream task. However, most machin",
+      "link": "https://www.csail.mit.edu/event/learning-possibilities-stochastic-models-vision",
       "time": "TBD"
     },
     {
@@ -4980,15 +4998,6 @@
     },
     {
       "date": "TBD",
-      "title": "\"Our Favorite Things\": Vivaldi, Bach, Händel, & Others",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Building an AI Research Copilot with Hybrid Search and Knowledge Graphs",
       "source": "Luma",
       "tag": "ai",
@@ -5154,6 +5163,15 @@
       "title": "The New Fundraising Playbook for the AI Age",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Social Conversations - May Event",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
