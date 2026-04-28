@@ -1,147 +1,7 @@
 {
-  "scraped_at": "2026-04-27T11:40:21.724238",
-  "event_count": 563,
+  "scraped_at": "2026-04-28T11:41:20.848431",
+  "event_count": 565,
   "events": [
-    {
-      "date": "2026-04-27",
-      "title": "NeuroLunch: Ke Chen (Wang Lab) & Miranda Dawson (Fan Lab)",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Title: Dopamine signatures of excessive and compulsive cocaine and fentanyl use Speaker: Ke Chen (Wang Lab) Abstract: Excessive and compulsive drug use despite adverse consequences is a hallmark of addiction, yet individuals differ markedly in their vulnerability. Drugs of abuse alter endogenous dop",
-      "link": "https://calendar.mit.edu/event/neurolunch-ke-chen-wang-lab-miranda-dawson-fan-lab",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Progress vs. Security: Dual-Use Technology Development",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Emerging technologies hold immense potential to advance science, health, security, and economic growth. Yet the same tools that enable scientific breakthroughs and commercial applications may also be used in military or harmful contexts. This dual-use potential raises important questions about resea",
-      "link": "https://calendar.mit.edu/event/grps-mit-science-policy-review",
-      "time": "TBD",
-      "location": "Building E40"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "The Future Is Peace - lunch discussion with authors Aziz Abu Sarah & Maoz Inon",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The 3rd Space at MIT and MIT-MEET are inviting you to join this special event. We are honoured to be joined by Aziz Abu Sarah and Maoz Inon for a discussion on the theme of their new book - The Future Is Peace. For more information, here is a review from the NY Times, here is the publisher’s page, h",
-      "link": "https://calendar.mit.edu/event/the-future-is-peace-lunch-discussion-with-authors-aziz-abu-sarah-maoz-inon",
-      "time": "TBD",
-      "location": "Building 37"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Thesis Defense:  Katya Khalizeva",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Cheeseman lab I \"Global stabilization of the transcriptome in mitotic cells\"",
-      "link": "https://calendar.mit.edu/event/thesis-defense-katya-khalizeva",
-      "time": "TBD",
-      "location": "McGovern Auditorium, Whitehead Institute"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Sadie Zacharek Thesis Defense: Neural and Neurochemical Mechanisms of Social Anxiety Disorder: Multimodal Neuroimaging Investigations of Pathophysiology and Cognitive Behavioral Therapy Response",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Date & time: Monday, April 27th at 2pm Location (building/room for in-person): Singleton Auditorium Zoom link (hybrid): https://mit.zoom.us/j/93995148181 Talk title: Neural and Neurochemical Mechanisms of Social Anxiety Disorder: Multimodal Neuroimaging Investigations of Pathophysiology and Cognitiv",
-      "link": "https://calendar.mit.edu/event/sadie-zacharek-thesis-defense-neural-and-neurochemical-mechanisms-of-social-anxiety-disorder-multimodal-neuroimaging-investigations-of-pathophysiology-and-cognitive-behavioral-therapy-response",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Luke Postle (University of Waterloo) Title: A New Proof of the Existence Conjecture and its Applications to Extremal and Probabilistic Design Theory Abstract: We discuss the recently developed method of refined absorption and how it is used to provide a new proof of the Existence Conjecture",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-7050",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Geometry & Topology Seminar ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Eugene Gorskiy (UC Davis) Title: Operations in HOMFLY homology Abstract: I will review the action of some interesting operators in triply graded Khovanov-Rozansky homology of knots and links, including the so-called tautological classes. For (n,n+1) torus knots, the action of tautological c",
-      "link": "https://calendar.mit.edu/event/copy-of-geometry-topology-seminar-8539",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "2026 Simons Lectures: Raymond Goldstein",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The MIT Department of Mathematics welcomes Raymond Goldstein, Professor at the University of Cambridge, as the speaker for the annual Simons Lecture Series. Professor Goldstein will present a sequence of three lectures from April 27 - 29 on the theme: Evolution of Biological Complexity Lecture 1: St",
-      "link": "https://calendar.mit.edu/event/2026-simons-lectures-raymond-goldstein",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Broad-MIT Seminar (Samira Musah, Duke University)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Developing and Harnessing Stem Cell-Derived Models to Uncover the Genetic Drivers of Multi-Organ Functional Anomalies",
-      "link": "https://calendar.mit.edu/event/copy-of-chemical-biology-seminar-series-neel-h-shah-columbia-university",
-      "time": "TBD",
-      "location": "Broad Institute Auditorium"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Elderly Health and Longevity in the US: Evidence and Implications (joint with IO)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Liran Einav (Stanford University) joint with Amy Finkelstein",
-      "link": "https://calendar.mit.edu/event/tbd-7880",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Algebraic Topology Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Natalia Pacheco-Tallaj (MIT)",
-      "link": "https://calendar.mit.edu/event/algebraic-topology-seminar-2860",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Thesis Defense - Natalia Pacheco-Tallaj",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Natalia Pacheco-Tallaj Title: Twisted string bordism in 7 dimensions with applications to anomaly cancellation Abstract: In this defense, I will first give a brief overview of anomalies in quantum field theories and how they are studied with techniques from algebraic topology via the Dai-Fr",
-      "link": "https://calendar.mit.edu/event/thesis-defense-natalia-pacheco-tallaj",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Department of Music Graduation Celebration",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "We are delighted to share that we will be hosting a Department of Music Graduation Celebration on Monday, April 27, 2:00pm–4:00pm! It will be in The Theatre Lab, Ryder 334. RSVP now!",
-      "link": "https://calendar.northeastern.edu/event/department-of-music-graduation-celebration",
-      "time": "TBD",
-      "location": "Ryder"
-    },
-    {
-      "date": "2026-04-27",
-      "title": "Green Transportation: Co-benefits for Climate, Air Quality, and the Economy",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "RSVP HERE A Harvard-China Project Research Seminar with WU Ye, Professor, School of Environment, Tsinghua University, Beijing, China; Executive Deputy Director, Beijing Laboratory of Environment Frontier, China **Important: To access the seminar, please enter through the lobby doors of Maxwell Dwork",
-      "link": "https://events.seas.harvard.edu/event/green-transportation-co-benefits-for-climate-air-quality-and-the-economy",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
     {
       "date": "2026-04-28",
       "title": "Thought Leader Lecture: Willy Walker, Chairman and CEO of Walker & Dunlop",
@@ -164,10 +24,10 @@
     },
     {
       "date": "2026-04-28",
-      "title": "Cog Lunch: India Pinhorn (Sharot Lab) & Annesya Banerjee (McDermott Lab) ",
+      "title": "Cog Lunch: India Pinhorn (Sharot Lab)",
       "source": "MIT",
-      "tag": "talk",
-      "desc": "Cog Lunch: India Pinhorn & Annesya Banerjee April 28, 2026 12pm Location: 46-3189 Zoom: TBD Speaker: India Pinhorn Affiliation: Sharot Lab Title: TBD Abstract: TBD Speaker: Annesya Banerjee Affiliation: McDermott Lab Title: TBD Abstract: TBD",
+      "tag": "ai",
+      "desc": "Cog Lunch: India Pinhorn April 28, 2026 12pm Location: 46-3189 Zoom: https://mit.zoom.us/j/96374544734 Speaker: India Pinhorn Affiliation: Sharot Lab Title: Two currencies of value in the human brain: intrinsic and extrinsic Abstract: A central hypothesis in decision neuroscience is the ‘neural comm",
       "link": "https://calendar.mit.edu/event/cog-lunch-india-pinhorn-sharot-lab-annesya-banerjee-mcdermott-lab",
       "time": "TBD",
       "location": "Building 46"
@@ -713,6 +573,16 @@
     },
     {
       "date": "2026-04-30",
+      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Kenta Suzuki (Princeton) Title: Finite descent on curves II Abstract: We prove that the descent obstruction by finite abelian covers matches the Brauer-Manin obstruction. Reference: Stoll, Finite descent obstructions and rational points on curves, Sections 7-9 (note the erratum)",
+      "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-8476",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-04-30",
       "title": "Spring 2026 Architecture Lecture Series: David Chipperfield",
       "source": "MIT",
       "tag": "talk",
@@ -730,6 +600,26 @@
       "link": "https://calendar.mit.edu/event/cms-jazz-combos",
       "time": "TBD",
       "location": "Building 14"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "SCHREIBSTÜCK",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "SCHREIBSTÜCK by Thomas Lehmen-MIT Theater Arts 2026 Spring Production directed by Dan Safer 21T.100 39 one minute scenes, dances, stories, and actions performed in musical canon by three different groups per night about working, dying, falling in love, and pretty much everything in between. Conceive",
+      "link": "https://calendar.mit.edu/event/copy-of-schreibstuck",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Radius Ensemble | FACETS",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Thursday, April 30, 2026 at 8 pm Thomas Tull Concert Hall at MIT KEERIL MAKAN - Madrigal for solo violin (2024) GABRIELA ORTIZ - Puzzle-Tocas for wind quintet (2000) SHAWN OKPEBHOLO - Wunlit for solo horn (2020) ROBERT SCHUMANN - Piano Quartet, Op. 47 (1842) Our season concludes back at MIT’s Tull C",
+      "link": "https://calendar.mit.edu/event/radius-ensemble-facets",
+      "time": "TBD",
+      "location": "Building W18"
     },
     {
       "date": "2026-04-30",
@@ -783,6 +673,86 @@
     },
     {
       "date": "2026-05-01",
+      "title": "Chemistry Student Seminar (CSS) - Ephraem Tan (Surendranath)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
+      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Ephraem-Tan-Surendranath",
+      "time": "TBD",
+      "location": "4-370"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Speaker: Edgar Dobriban (University of Pennsylvania, Wharton) Title: How to Use Synthetic Data for Improved Statistical Inference? Abstract: The rapid proliferation of high-quality synthetic data — generated by advanced AI models or collected as auxiliary data from related tasks — presents both oppo",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar-9788",
+      "time": "TBD",
+      "location": "Building E18"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Olivia Beniston (G), piano",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Olivia Beniston is a graduate student earning her Masters in Chemical Engineering Practice. She previously obtained her B.S. in Chemical-Bio",
+      "link": "https://calendar.mit.edu/event/olivia-beniston-g-piano",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "You're Not Listening: Workshop & Lunch!",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Most of us think we’re good listeners—this is your chance to train that muscle for real. Through a series of short, high-energy exercises, you’ll see what you actually hear (vs. what you think you hear) and practice a more effective, evidence-based way of listening. Come if you want less miscommunic",
+      "link": "https://calendar.mit.edu/event/youre-not-listening-lunch",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "2026 MIT AI Student Forum – Poster and Demo Showcase",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join us for the 2026 MIT AI Student Forum Poster and Demo Showcase, an engaging showcase of student research, and creative work from across the Institute. We invite you to stop by, connect with our presenters, and experience firsthand the curiosity and ingenuity shaping the future at MIT. A professi",
+      "link": "https://calendar.mit.edu/event/2026-mit-ai-student-forum-poster-and-demo-showcase",
+      "time": "TBD",
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Seminar on Environmental and Agricultural History (SEAH) ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Seminar on Environmental and Agricultural History (SEAH) presents The Economics of Non-Human Animals: Providing Historical Context Introducing The Economics of Non-Human Animals: Revaluing Life for a Liveable Planet edited by Nicoletta Batini Friday, May 1,2026 2:30 PM MIT Campus, Building E51 Room ",
+      "link": "https://calendar.mit.edu/event/seminar-on-environmental-and-agricultural-history-seah",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 3:00 - 4:00 PM Speaker: Alexandra Utiralova (U. of Oregon) Title: Representations of the general linear group in the Verlinde category Abstract: Verlinde categories are defined as the semisimplification of the category of representations of Z/pZ in characteristic p. As shown by Coulembier, Eti",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-3998",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Sophia Cai '26, flute",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Sophia Cai is a senior at MIT majoring in computer science and molecular biology and minoring in music. She started flute at the age of ten ",
+      "link": "https://calendar.mit.edu/event/sophia-cai-26-flute",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-05-01",
       "title": "NULab Spring Conference 2026",
       "source": "Northeastern",
       "tag": "talk",
@@ -793,6 +763,26 @@
     },
     {
       "date": "2026-05-01",
+      "title": "Harvard Climate Entrepreneurs Circle Info Session",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Learn more about our virtual Climate Circle accelerator, open to Harvard students, faculty, staff, and alumni building climate startups. Calling all Harvard climate founders! Join a community of climate innovators and gain access to expert mentorship, tailored resources, and a global network. Harvar",
+      "link": "https://events.seas.harvard.edu/event/harvard-climate-entrepreneurs-circle-info-session",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Harvard Electrical Engineering & the Power and AI Initiative Seminar",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "AI-Driven Stability and Control of Converter-Dominated Energy Systems Modern power systems are rapidly evolving into converter-dominated energy systems driven by distributed energy resources, electrified transport, and emerging large-scale loads such as data centers. This transformation fundamentall",
+      "link": "https://events.seas.harvard.edu/event/harvard-electrical-engineering-the-power-and-ai-initiative-seminar",
+      "time": "TBD",
+      "location": "Harvard Science and Engineering Complex"
+    },
+    {
+      "date": "2026-05-01",
       "title": "Using atmospheric observations to study direct and indirect human impacts on atmospheric composition  ",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -800,6 +790,16 @@
       "link": "https://events.seas.harvard.edu/event/using-atmospheric-observations-to-study-direct-and-indirect-human-impacts-on-atmospheric-composition",
       "time": "TBD",
       "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-05-01",
+      "title": "Survivor Love Letter Gallery",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Everyone in the Harvard Community is welcome to stop by our open house and gallery viewing of the letters of healing and support that were created at 16 different Survivor Love Letter events during Sexual Assault Awareness Month. Many Harvard community members have given consent to display their inc",
+      "link": "https://events.seas.harvard.edu/event/survivor-love-letter-gallery",
+      "time": "TBD",
+      "location": "Smith Campus Center"
     },
     {
       "date": "2026-05-06",
@@ -822,6 +822,16 @@
       "location": "Klarman Hall Soldiers Field Road, Boston, MA 02163"
     },
     {
+      "date": "2026-05-07",
+      "title": "Ceramics Program Spring Show & Sale",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Come shop this annual four-day exhibition and sale featuring thousands of pieces of original ceramic artwork by instructors, staff, and participants in classes at the Ceramics Program, Office for the Arts at Harvard. You'll find a dazzling array of pottery, sculpture, items for the home and garden, ",
+      "link": "https://events.seas.harvard.edu/event/ceramics-program-spring-show-sale",
+      "time": "TBD",
+      "location": "Ceramics Program, Office for the Arts at Harvard"
+    },
+    {
       "date": "2026-05-11",
       "title": "AUVSI XPONENTIAL 2026",
       "source": "AUVSI",
@@ -839,6 +849,16 @@
       "tag": "startup",
       "desc": "Launch Lab X is for pre-seed and seed-stage ventures founded by Harvard alumni. Ventures may be for-profit or nonprofit, in any industry, and from anywhere in the world. We're now accepting applications for the 2026-27 cohort. Attend an upcoming online information session to learn more and apply by ",
       "link": "https://events.seas.harvard.edu/event/application-deadline-launch-lab-x-alumni-accelerator",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Harvard Climate Entrepreneurs Circle – Spring 2026 Cohort",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "The Climate Circle offers world-class coaching, legal counsel, warm connections to industry leaders, and a peer group of Harvard founders who are all working on innovative solutions to tackle climate change. Attend an upcoming online information session to learn more and apply by May 12, 2026.",
+      "link": "https://events.seas.harvard.edu/event/harvard-climate-entrepreneurs-circle-spring-2026-cohort",
       "time": "TBD",
       "location": ""
     },
@@ -932,6 +952,16 @@
       "link": "https://calendar.northeastern.edu/event/digital-twins-for-mems-manufacturing",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-06-02",
+      "title": "OpenDP Workshop on Differential Privacy for Health and Genomics",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "This workshop aims to bring together researchers and practitioners across disciplines — including privacy and security, systems development, health informatics and bioinformatics, biomedical practice, and policy and ethics — to discuss key opportunities and challenges in applying differential privac",
+      "link": "https://events.seas.harvard.edu/event/opendp-workshop-on-differential-privacy-for-health-and-genomics",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-06-03",
@@ -1044,42 +1074,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "[CSL seminar] Physical Intelligence for Physical Care: Towards Stakeholder-Informed Caregiving Robots in the Real World",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Date: April 27th, 2026Time: 1:45pm-3pmLocation: 32-D463Abstract: How can we build robots that meaningfully assist people with mobility limitations in their daily lives? To support complex caregiving tasks such as robot-assisted feeding, bathing, transferring, and meal preparation, robots must physic",
-      "link": "https://www.csail.mit.edu/event/csl-seminar-physical-intelligence-physical-care-towards-stakeholder-informed-caregiving",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "[Thesis Defense] Marrying Worst-Case Analysis and Machine Learning",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Worst-case analysis, the de-facto standard in the analysis of algorithms, certifies that an algorithm is correct and efficient on any possible input. While this lens lends itself to the design of algorithms that are dependable, its rigidity outlaws techniques that rely on nebulous properties of the ",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-marrying-worst-case-analysis-and-machine-learning",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Thesis Defense - Justin Chen: Marrying Worst-Case Analysis and Machine Learning",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract:Worst-case analysis, the de-facto standard in the analysis of algorithms, certifies that an algorithm is correct and efficient on any possible input. While this lens lends itself to the design of algorithms that are dependable, its rigidity outlaws techniques that rely on nebulous propertie",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-justin-chen-marrying-worst-case-analysis-and-machine-learning",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "From IDEs to AAgents: How we are Building the Next Generation of PyTorch Compilers",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Virtual",
-      "link": "https://www.csail.mit.edu/event/ides-aagents-how-we-are-building-next-generation-pytorch-compilers",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -1308,10 +1302,19 @@
     },
     {
       "date": "TBD",
+      "title": "Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation",
+      "source": "MIT CSAIL",
+      "tag": "robotics",
+      "desc": "Stata Center",
+      "link": "https://www.csail.mit.edu/event/tactile-sensing-contact-rich-dexterous-robotic-manipulation",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Hot Topics in Computing with Stephen Wolfram",
       "source": "MIT CSAIL",
-      "tag": "startup",
-      "desc": "Join us for the next CSAIL Hot Topics in Computing: Computation in the Wild, an Adventure with Stephen Wolfram.Bio: Stephen Wolfram is the Founder &amp; CEO of Wolfram Research, the creator of Mathematica, Wolfram|Alpha &amp; Wolfram Language, the author of A New Kind of Science and other books, and",
+      "tag": "ai",
+      "desc": "Hewlett Room",
       "link": "https://www.csail.mit.edu/event/hot-topics-computing-stephen-wolfram",
       "time": "TBD"
     },
@@ -1322,6 +1325,15 @@
       "tag": "ai",
       "desc": "Post-quantum cryptography currently rests on a small number of hardness assumptions, posing significant risks should any one of them be compromised. This vulnerability motivates the search for new and cryptographically versatile assumptions that make a convincing case for quantum hardness. In this w",
       "link": "https://www.csail.mit.edu/event/post-quantum-cryptography-quantum-stabilizer-decoding",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CSAIL Entrepreneurship Day",
+      "source": "MIT CSAIL",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://www.csail.mit.edu/event/csail-entrepreneurship-day",
       "time": "TBD"
     },
     {
@@ -2100,20 +2112,29 @@
     },
     {
       "date": "TBD",
+      "title": "June EnergyBar",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Kick off the summer and celebrate cross-border collaboration with the Consulate of Canada!",
+      "link": "https://greentownlabs.com/event/june-energybar-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI & Energy Sector Pitch Day",
+      "source": "Greentown Labs",
+      "tag": "ai",
+      "desc": "Spotlighting startups powering the AI boom or using AI to create a more resilient energy future.",
+      "link": "https://greentownlabs.com/event/ai-energy-sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Greentown Labs x TEDxHarvard Square Climate AI Hackathon",
       "source": "Greentown Labs",
       "tag": "ai",
       "desc": "A full-day hackathon at Greentown Labs, to collaborate and build at the intersection of climatech and AI!",
       "link": "https://greentownlabs.com/event/greentown-labs-x-tedxharvard-square-climate-ai-hackathon/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "June EnergyBar",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Celebrate cross-border climatech collaboration with Greentown Labs and the Consulate of Canada!",
-      "link": "https://greentownlabs.com/event/june-energybar-2026/",
       "time": "TBD"
     },
     {
@@ -2127,11 +2148,11 @@
     },
     {
       "date": "TBD",
-      "title": "AI & Energy Sector Pitch Day",
+      "title": "Startup Science Fair @ Boston Tech Week",
       "source": "Greentown Labs",
-      "tag": "ai",
-      "desc": "Spotlighting startups powering the AI boom or using AI to create a more resilient energy future.",
-      "link": "https://greentownlabs.com/event/ai-energy-sector-pitch-day/",
+      "tag": "startup",
+      "desc": "No panels, no pitches: just live demos and showcasing to meet climate and energy startups during Boston Tech Week!",
+      "link": "https://greentownlabs.com/event/startup-science-fair-boston-tech-week/",
       "time": "TBD"
     },
     {
@@ -4998,24 +5019,6 @@
     },
     {
       "date": "TBD",
-      "title": "Building an AI Research Copilot with Hybrid Search and Knowledge Graphs",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Women Applying AI Live",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Investor Breakfast: Tips for Successfully Transitioning Along the Pathway from Angel to VC to PE",
       "source": "Luma",
       "tag": "talk",
@@ -5170,6 +5173,24 @@
     {
       "date": "TBD",
       "title": "Boston Social Conversations - May Event",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Coffee, Carbs & Scaling Climatetech with Next Rung and FORGE",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Simulating the Future: Exploring Climate Risk & Opportunities with En-ROADS",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
