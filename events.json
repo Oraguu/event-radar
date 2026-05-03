@@ -1,77 +1,7 @@
 {
-  "scraped_at": "2026-05-02T10:44:06.509279",
-  "event_count": 499,
+  "scraped_at": "2026-05-03T10:48:42.077715",
+  "event_count": 503,
   "events": [
-    {
-      "date": "2026-05-02",
-      "title": "Men's Lightweight Crew vs. Cornell University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 8:20 AM Location: Ithaca, NY / Cayuga Inlet",
-      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-02",
-      "title": "Geo@MIT Spring Showcase",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Buildings are one of the top emitting sectors, contributing to 40% of greenhouse gas emissions. Clusters of buildings like universities can be the top emitters in a community. Universities and cities across the US are working hard to decarbonize, and are looking into technologies like Thermal Energy",
-      "link": "https://calendar.mit.edu/event/geomit-spring-showcase",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "Emerson/Harris Winds Group Recital",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Emerson/Harris Winds Group Recital Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Program (E/HP), which offers merit-based financial awards for outs",
-      "link": "https://calendar.mit.edu/event/emersonharris-winds-group-recital",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "Emerson/Harris Strings Group Recital",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Emerson/Harris Strings Group Recital Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Program (E/HP), which offers merit-based financial awards for ou",
-      "link": "https://calendar.mit.edu/event/emersonharris-strings-group-recital-8010",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "SCHREIBSTÜCK",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "SCHREIBSTÜCK by Thomas Lehmen-MIT Theater Arts 2026 Spring Production directed by Dan Safer 21T.100 39 one minute scenes, dances, stories, and actions performed in musical canon by three different groups per night about working, dying, falling in love, and pretty much everything in between. Conceive",
-      "link": "https://calendar.mit.edu/event/copy-of-schreibstuck-4530",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "SABAR NGOON: A Senegalese Drum & Dance Party",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Rambax MIT is an ensemble dedicated to learning the art of sabar. Founded in 2001 and directed by master drummer Lamine Touré, Rambax MIT consists of MIT students, alums, and members of the MIT community. In Senegal, the sabar ngoon is an afternoon dance party that brings together members of the com",
-      "link": "https://calendar.mit.edu/event/rambax-spring-concert-5846",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-05-02",
-      "title": "MIT Logarhythms Presents: Logatouille — Free Acapella Concert",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Come see the MIT Logarhythms’ FREE acapella concert “Logatouille” in Kresge Auditorium on May 2nd! RSVP at https://partiful.com/e/tBn7KInZ15rIMdnAW9ez. Doors open at 4 PM.",
-      "link": "https://calendar.mit.edu/event/mit-logarhythms-spring-2026-concert",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
     {
       "date": "2026-05-03",
       "title": "Women's Lightweight Crew vs. Women's Sprints",
@@ -346,8 +276,8 @@
       "date": "2026-05-05",
       "title": "Organizational Economics Seminar [joint with IWER]",
       "source": "MIT",
-      "tag": "talk",
-      "desc": "\"Unwilling to Reskill? Experimental Evidence from Real-world Jobseekers\" | Raffaella Sadun (Harvard)",
+      "tag": "ai",
+      "desc": "\"Hiring Under Technological Change: AI Disclosure and Pre-Screening Sorting in the Applicant Pool\" | Raffaella Sadun (Harvard)",
       "link": "https://calendar.mit.edu/event/sadun_oesem_s26",
       "time": "TBD",
       "location": "Building E62"
@@ -593,6 +523,56 @@
     },
     {
       "date": "2026-05-07",
+      "title": "Colloquium on the Brain & Cognition with Larry Zipursky, PhD, \"Strategies and Molecular Mechanisms Regulating Brain Wiring\"",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Colloquium on the Brain & Cognition with Larry Zipursky, PhD, UCLA Date: Thursday, May 7, 2026Time: 4:00pmLocation: Singleton Auditorium (46-3002, Third Fl of MIT Building 46)Faculty Host: Troy LittletonReception to Follow Talk Title: Strategies and Molecular Mechanisms Regulating Brain Wiring Abstr",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-cognition-with-larry-zipursky-phd-ucla",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Karmel Writing Prizes Reception",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us as we celebrate the winners of this year’s Ilona Karmel Writing Prizes — with food! Register at cmsw.mit.edu.",
+      "link": "https://calendar.mit.edu/event/karmel-writing-prizes-reception",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Bill McKibben, Here Comes the Sun Book Talk",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Bill McKibben, Here Comes the Sun Book Talk Thursday, May 7, 2026 /5:00–6:00pm MIT Killian Hall (14W-111) 160 Memorial Dr, Cambridge, MA Acclaimed environmentalist and Solar Return for Change guest author and environmentalist Bill McKibben discusses his new book Here Comes the Sun—A Last Chance for ",
+      "link": "https://calendar.mit.edu/event/bill-mckibben-here-comes-the-sun-book-talk",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Ben Monder Improvisation Masterclass",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Emerson/Harris Masterclass Series Thursday, May 7, 2026 / 7:00–8:30pm MIT Killian Hall (14W-111) 160 Memorial Dr, Cambridge, MA Renowned jazz guitarist and Solar Return for Change guest artist Ben Monder has enjoyed an illustrious career as a soloist and sideman for over thirty years. Currently a me",
+      "link": "https://calendar.mit.edu/event/ben-monder-improvisation-masterclass-with-mit-festival-jazz-ensemble",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "MIT D-Lab Spring Student Showcase",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for an end-of-semester presentation by MIT D-Lab students featuring posters and prototypes by each team from eight D-Lab classes. Final presentations, posters, and prototypes from students in from 9 Spring 2025 MIT D-Lab classes: Introduction to Engineering Design for International Developme",
+      "link": "https://calendar.mit.edu/event/mit-d-lab-spring-student-showcase",
+      "time": "TBD",
+      "location": "Building N51"
+    },
+    {
+      "date": "2026-05-07",
       "title": "Ceramics Program Spring Show & Sale",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -609,6 +589,66 @@
       "desc": "",
       "link": "https://www.massrobotics.org/event/pier71-spc-2026-roadshow-boston-ma/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Men's Heavyweight Crew vs. Jefferson Dad Vail Regatta",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: TBA Location: Pennsauken, NJ / Cooper River",
+      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-08",
+      "title": "10th MIT Global Humanities Forum on “Medicine and the Healing Arts” on May 8 (online)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dear colleagues, students, and friends, Join us for the 2026 GHI 10th Forum! This session introduces the GHI Pillar Medicine & the Healing Arts, and its projects. 10th GHI Forum Title: Rethinking healing—from ancient wisdom to modern medicineDate: May 8, 2026, 10:00–11:30 AM ESTWhere: Online (Zoom R",
+      "link": "https://calendar.mit.edu/event/10th-mit-global-humanities-forum-on-medicine-and-the-healing-arts-on-may-8-online",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-08",
+      "title": "2026 NSE Research Expo",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The MIT Department of Nuclear Science and Engineering will hold its annual Research Expo on Friday, May 8, 2026. The event features groundbreaking research from NSE’s various labs and features research posters presented by current undergraduate and graduate students as well as signature oral present",
+      "link": "https://calendar.mit.edu/event/2026-nse-research-expo-3367",
+      "time": "TBD",
+      "location": "Building 76, First floor Main Corridor and Galleries and Auditorium 76-156"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Chemistry Student Seminar (CSS) - Hsuan-Min Hung (Pentelute & Buchwald)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
+      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Hsuan-Min-Hung-Pentelute-Buchwald",
+      "time": "TBD",
+      "location": "4-370"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Jon Kleinberg (Cornell University) Title: Formal Models of Language Generation Abstract: The emergence of large language models has prompted a surge of interest into theoretical models that might give us insight into both their successes and their shortcomings. We’ll give an overview of rec",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar-7111",
+      "time": "TBD",
+      "location": "Building E18"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "SCSB Lunch Series with Dr. Gloria Choi: Proprioception and Social Behavior",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Friday, May 8, 2026 Time: 12:00pm – 1:00pm Location: Simons Center Conference room 46-6011. Please note this event is in person only and will not be recorded or streamed. Speaker: Gloria Choi, Ph.D. Affiliation: Associate Professor, Department of Brain and Cognitive Sciences, Picower Institute",
+      "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-gloria-choi-proprioception-and-social-behavior",
+      "time": "TBD",
+      "location": "Simons Center Conference room, 46-6011"
     },
     {
       "date": "2026-05-08",
@@ -1485,7 +1525,7 @@
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Greentown Labs prides itself on being a convener of the climatetech ecosystem, both within and across the cities we call home.",
-      "link": "#primary",
+      "link": "https://greentownlabs.com/climatetech-summit-2026/",
       "time": "TBD"
     },
     {
@@ -4406,24 +4446,6 @@
     },
     {
       "date": "TBD",
-      "title": "ALO BOSTON SEAPORT: WELLNESS WALK",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "中国AI生态：竞争新理论的试验场",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Climate & Energy Ventures Happy Hour",
       "source": "Luma",
       "tag": "startup",
@@ -4578,6 +4600,24 @@
     {
       "date": "TBD",
       "title": "Built // Different Dinner: Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RESOLVE: The MassChallenge Annual Gathering",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cursor Boston/PyData Data Science Hack",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
