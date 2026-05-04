@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-05-03T10:48:42.077715",
-  "event_count": 503,
+  "scraped_at": "2026-05-04T11:43:28.585743",
+  "event_count": 507,
   "events": [
-    {
-      "date": "2026-05-03",
-      "title": "Women's Lightweight Crew vs. Women's Sprints",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Worcester, MA / Lake Quinsigamond",
-      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-03",
-      "title": "Emerson/Harris Piano Group Recital",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Emerson/Harris Piano Group Recital Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Program (E/HP), which offers merit-based financial awards for outs",
-      "link": "https://calendar.mit.edu/event/emersonharris-piano-group-recital-4938",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-03",
-      "title": "SCHREIBSTÜCK",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "SCHREIBSTÜCK by Thomas Lehmen-MIT Theater Arts 2026 Spring Production directed by Dan Safer 21T.100 39 one minute scenes, dances, stories, and actions performed in musical canon by three different groups per night about working, dying, falling in love, and pretty much everything in between. Conceive",
-      "link": "https://calendar.mit.edu/event/copy-of-schreibstuck-2970",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-05-03",
-      "title": "MIT Chamber Music Society Concert",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by the MIT Chamber Music Society Recital Series Program TBD Please note that this event is in-person only and will not be livestreamed.",
-      "link": "https://calendar.mit.edu/event/mit-chamber-music-society-concert-7985234",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-03",
-      "title": "May Concert by MIT Concert Band",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Experience an evening with the MIT Concert Band as they showcase seasonal favorites and modern compositions in their May program. Open to MIT community and the public, the concert provides an accessible cultural event on campus for all. Program notes and pre-concert announcements will offer context ",
-      "link": "https://calendar.mit.edu/event/may-concert-by-mit-concert-band",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-05-03",
-      "title": "MIrahTangi Gamelan Spring Concert",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Gamelan MIrahTangi Spring Concert 2026 Featuring MIT Balinese Gamelan Class & Community Group, directed by Gusti Komin. We have a new name. Why MIrah Tangi? It means \"Purple Diamonds.\" Purple diamonds are beautiful and special, and we are this as a group. Seating Policy Your registration through Eve",
-      "link": "https://calendar.mit.edu/event/gamelan-spring-concert-7167",
-      "time": "TBD",
-      "location": "Building W18"
-    },
     {
       "date": "2026-05-04",
       "title": "Spring Ceramics Sale",
@@ -523,6 +463,16 @@
     },
     {
       "date": "2026-05-07",
+      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Mohit Hulse (MIT) Title: Finite descent obstruction on curves and modularity Abstract: Reference: Helm, Voloch, Finite descent obstruction on curves and modularity.",
+      "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-5703",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-07",
       "title": "Colloquium on the Brain & Cognition with Larry Zipursky, PhD, \"Strategies and Molecular Mechanisms Regulating Brain Wiring\"",
       "source": "MIT",
       "tag": "ai",
@@ -602,6 +552,16 @@
     },
     {
       "date": "2026-05-08",
+      "title": "Women's Lightweight Crew vs. Jefferson Dad Vail Regatta",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: TBA Location: Pennsauken, NJ / Cooper River",
+      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-08",
       "title": "10th MIT Global Humanities Forum on “Medicine and the Healing Arts” on May 8 (online)",
       "source": "MIT",
       "tag": "talk",
@@ -649,6 +609,76 @@
       "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-gloria-choi-proprioception-and-social-behavior",
       "time": "TBD",
       "location": "Simons Center Conference room, 46-6011"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Zachary Chin (G), piano",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Pr",
+      "link": "https://calendar.mit.edu/event/zachary-chin-g-piano",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Chemistry Department UROP Symposium",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "1:00-4:00pm: Presentations in 32-155 4:00-5:00pm Poster Session and Refreshments in Building 18 Lobby",
+      "link": "https://calendar.mit.edu/event/chemistry-department-urop-symposium",
+      "time": "TBD",
+      "location": "Building 32"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Solar Return for Change Climate Poster Research Session ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Solar Return for Change Climate Poster Research Session Friday, May 8, 2026 / 2:00–3:30pm MIT Kresge Auditorium Lobby, W16 48 Massachusetts Avenue, Cambridge, MA MIT students and faculty present their current climate research with short talks and Q&A opportunities. Solar Return for Change guest auth",
+      "link": "https://calendar.mit.edu/event/solar-return-for-change-climate-poster-research-session",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Catherine Kung '26, violin",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Catherine Kung is a senior at MIT majoring in biological engineering and computation & cognition. Originally from Birmingham, Alabama, she b",
+      "link": "https://calendar.mit.edu/event/catherine-kung-26-violin",
+      "time": "TBD",
+      "location": "Building 14"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Roman Bezrukavnikov (MIT) Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-1711",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "MechE Colloquium: Targeting solute-solute selectivity in membrane separation",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Razi Epsztein, Associate Professor Faculty of Civil and Environmental Engineering Technion – Israel Institute of Technology Abstract: Synthetic dense membranes with pores at the sub-nanometre scale are at the core of processes for separating solutes from water, such as water purification and desalin",
+      "link": "https://calendar.mit.edu/event/meche-colloquium-targeting-solute-solute-selectivity-in-membrane-separation",
+      "time": "TBD",
+      "location": "Building 3"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "MTL Hackathon: AI for Microelectronics",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "Join us for the first MTL Hackathon - May 8-10, 2026 Build the future of AI-powered chip design. Pushing the boundaries of semiconductor innovation through artificial intelligence. Join leading researchers, engineers, and students in advancing chip design and manufacturing. Tracks & Challenges Explo",
+      "link": "https://calendar.mit.edu/event/mtl-hackathon-ai-for-microelectronics",
+      "time": "TBD",
+      "location": "Building 32"
     },
     {
       "date": "2026-05-08",
@@ -963,33 +993,6 @@
     },
     {
       "date": "TBD",
-      "title": "Thesis Defense - Maxwell Fishelson: Reliable Learning for Adaptive Environments",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "As artificial intelligence becomes ubiquitous in complex, interactive systems, we need models that perform reliably under dynamic conditions. AI systems are moving beyond passive perception to active participation: controlling autonomous vehicles in mixed traffic, participating in markets, and repre",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-maxwell-fishelson-reliable-learning-adaptive-environments",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Aspen Hopkins Thesis Defense: Latent Levers: Representation-Guided Control For Supply Chains",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Stata, 32 Vasser St., D-463 (Star)",
-      "link": "https://www.csail.mit.edu/event/aspen-hopkins-thesis-defense-latent-levers-representation-guided-control-supply-chains",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Thesis Defense: Hannes Stark - Generative Models for Biomolecular Structures and Design",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva/Patil room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-hannes-stark-generative-models-biomolecular-structures-and-design",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Explicit Lossless Expanders and Interactive Codes",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1013,6 +1016,15 @@
       "tag": "ai",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/computational-landscape-sequential-learning-and-inference",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ML Tea: Sources of overconfidence in language model performance: contamination, adaptivity, and beyond / Modeling mouse development using flows on trees",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Kiva Room",
+      "link": "https://www.csail.mit.edu/event/ml-tea-sources-overconfidence-language-model-performance-contamination-adaptivity-and-beyond",
       "time": "TBD"
     },
     {
@@ -1125,6 +1137,15 @@
     },
     {
       "date": "TBD",
+      "title": "Doctoral thesis: Generalization in Language Models: Mechanism, Evaluation, and Adaptation",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Kiva",
+      "link": "https://www.csail.mit.edu/event/doctoral-thesis-generalization-language-models-mechanism-evaluation-and-adaptation",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "CSAIL Entrepreneurship Day",
       "source": "MIT CSAIL",
       "tag": "startup",
@@ -1148,6 +1169,24 @@
       "tag": "ai",
       "desc": "Kirsch Auditorium, Stata Center",
       "link": "https://www.csail.mit.edu/event/dertouzos-distinguished-lecture-oak-architecture-vision-superintelligence-experience",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Hannah Lawrence",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Kiva/Patil",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-hannah-lawrence",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Reed-Solomon (RS) codes were recently shown to exhibit an intriguing proximity gap phenomenon. Specifically, given a collection of strings with some algebraic structure (such as belonging to a line or affine space), either all of them are $\\delta$-close to RS codewords, or most of them are $\\delta$-",
+      "link": "https://www.csail.mit.edu/event/optimal-proximity-gaps-subspace-design-codes-and-random-reed-solomon-codes",
       "time": "TBD"
     },
     {
@@ -4473,6 +4512,15 @@
     },
     {
       "date": "TBD",
+      "title": "Atn: Bio-Based Materials: Petting Zoo Happy Hour",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "The legends Of Venture Capital",
       "source": "Luma",
       "tag": "startup",
@@ -4609,15 +4657,6 @@
     {
       "date": "TBD",
       "title": "RESOLVE: The MassChallenge Annual Gathering",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Cursor Boston/PyData Data Science Hack",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
