@@ -1,147 +1,7 @@
 {
-  "scraped_at": "2026-05-06T11:44:31.245477",
-  "event_count": 509,
+  "scraped_at": "2026-05-07T11:43:40.871486",
+  "event_count": 508,
   "events": [
-    {
-      "date": "2026-05-06",
-      "title": "Food Truck Wednesdays ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Enjoy a selection of local food trucks every Wednesday in the Kendall/MIT Open Space, with plenty of outdoor seating options available! Please check this page for an up-to-date lineup each week.",
-      "link": "https://calendar.mit.edu/event/food-truck-wednesdays",
-      "time": "TBD",
-      "location": "Building E23"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Medical School Application and Credential Service Group Advising Session | Cohort 2027",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Are you applying to medical school and you are starting to fill out your AMCAS application? This group advising session will address questions about the 2026 Medical School Application (i.e. AMCAS) including how to enter and designate coursework, organizing your school list, requesting a transcript,",
-      "link": "https://calendar.mit.edu/event/medical-school-application-and-credential-service-group-advising-session-cohort-2027",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-06",
-      "title": "PGSA MIT Polymer Day Keynote Presentation,  Prof. Rachel A. Segalman, Department of Chemical Engineering University of California/Santa Barbara",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/prof-rachel-a-segalman-department-of-chemical-engineering-university-of-californiasanta-barbara",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-06",
-      "title": "“Using bioinspired polypeptoids to understand how chain shape influences self-assembly and to design new photoresists”  Professor Rachel Segalman, UC Santa Barbara",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "MIT POLYMER DAY SEMINARS NOTE SPECIAL ROOM: 10-250 ABSTRACT: Polypeptoids are non-natural, sequence specific polymers that offer the opportunity to probe the effect of monomer sequence, charge, chirality, and chain shape on self-assembly and surface properties. Although examples of hierarchical poly",
-      "link": "https://calendar.mit.edu/event/MIT-Polymer-Day--seminar-mse-professor-rachel-segalman-uc-santa-barbara",
-      "time": "TBD",
-      "location": "Building 10"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Lie Groups Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Iva Halacheva (Northeastern University) Title: Categorified braid group actions and perverse equivalences Abstract: In the setting of quantum group representations, two natural braid group actions arise: Lusztig’s ‘internal’ action, in which the braid group type matches the underlying Lie a",
-      "link": "https://calendar.mit.edu/event/lie-groups-seminar-73",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "The Innovation Frontier: Insiders' Stories - A Fireside Chat with Dr. Robert Langer",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The next session in the MIT HEALS seminar series will feature a fireside chat with MIT Institute Professor Dr. Robert Langer. Dr. Langer is one of only 9 Institute Professors at MIT. His research has achieved extraordinary impact, with over 472,000 article citations and an h-index of 336, the highes",
-      "link": "https://calendar.mit.edu/event/the-innovation-frontier-insiders-stories-a-fireside-chat-with-dr-robert-langer",
-      "time": "TBD",
-      "location": "Merkin Building"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Probability Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Matthew Nicoletti (Stanford University) Title: Fluctuations for the Toda lattice Abstract: The Toda lattice is a system of classical mechanics discovered by Toda in 1967, which describes interacting particles on a line. Due to its integrability, the Toda lattice with N particles possesses N",
-      "link": "https://calendar.mit.edu/event/probability-seminar-9981",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Richard P. Stanley Seminar in Combinatorics ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: David Speyer (University of Michigan) Title: L-log-concavity and a proof of the conjecture of Lam, Postnikov and Pylyavskyy Abstract: Let lambda, mu, lambda', mu' be partitions. The conjecture of Lam, Postnikov and Pylyavskyy states that, if (lambda, mu, lambda', mu') obey certain natural i",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-7777",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-05-06",
-      "title": " Refusing Generative AI: A Critique of Rhetorical Commonplaces about “AI” in Education",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "With support from the MIT Human Insight Collaborative (MITHIC) Join us for a conversation with the scholars who created Refusing Generative AI in Writing Studies. The speakers will share how and why they decided to create Refusing GenAI in Writing Studies as well as its impact as a rhetorical interv",
-      "link": "https://calendar.mit.edu/event/refusing-generative-ai",
-      "time": "TBD",
-      "location": "Building 32"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Jazz AMP Spring Recital - W18 Thomas Tull Concert Hall",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Thomas Tull Concert Hall, W18 Come enjoy a fun evening with the MIT Jazz AMP Ensemble. The band will be performing music arranged by members of the ensemble. LIVESTREAM LINK",
-      "link": "https://calendar.mit.edu/event/jazz-amp-spring-recital-92376",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "What are the origins of Life? ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Religion meets Science Series What are the origins of life? A question that has inspired scientists, philosophers, and spiritual seekers for centuries. Join us for an engaging evening where ancient wisdom from Srimad Bhagavatam meets modern inquiry—exploring life’s deepest questions through both sci",
-      "link": "https://calendar.mit.edu/event/what-are-the-origins-of-life",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Bioengineering Student WIP Seminar – Summer ’26",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Work in Progress (WIP) seminars with Bioengineering PhD students. Weekly in 121 Snell Library from 12-1pm on Wednesdays during Summer 1. All are welcome! PhD Candidate Faculty Advisor MAY 5/6 […] The post Bioengineering Student WIP Seminar – Summer ’26 appeared first on Northeastern University Colle",
-      "link": "https://calendar.northeastern.edu/event/bioengineering-student-wip-seminar-summer-26",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-06",
-      "title": "Electric Vehicle–Power System Interactions: Potential, Impacts, and Economics",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "RSVP HERE A Harvard-China Project Research Seminar with ZHAO Yang, Postdoctoral Fellow, Harvard Paulson School of Engineering and Applied Sciences **Important: To access the seminar, please enter through the lobby doors of Maxwell Dworkin (33 Oxford Street). From there, take the stairs to the second",
-      "link": "https://events.seas.harvard.edu/event/electric-vehiclepower-system-interactions-potential-impacts-and-economics",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
-    {
-      "date": "2026-05-06",
-      "title": "2026 Harvard President's Innovation Challenge Awards Ceremony",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Join us to see 25 Harvard student and alumni startups pitch live at the finale of our global venture competition. Join the Harvard Innovation Labs for our annual celebration of innovation, community, and entrepreneurship at Harvard. Tickets are now available to the Harvard community. Registration wi",
-      "link": "https://events.seas.harvard.edu/event/2026-harvard-presidents-innovation-challenge-awards-ceremony",
-      "time": "TBD",
-      "location": "Klarman Hall Soldiers Field Road, Boston, MA 02163"
-    },
     {
       "date": "2026-05-07",
       "title": "Distinguished Seminar in Computational Science and Engineering",
@@ -161,6 +21,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-5703",
       "time": "TBD",
       "location": "Building 2"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "AHA Seminar Series: Krzysztof Gajos | Exploring the Design Space of Success Criteria for AI-powered Decision Support Technologies",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join us for our online seminar series event hosted by MIT Media Lab's Advancing Humans with AI (AHA) research program. This event features Krzysztof Gajos, the Yahn W. Bernier and N. Elizabeth McCaw professor of Computer Science at the Harvard Paulson School of Engineering and Applied Sciences. Talk",
+      "link": "https://calendar.mit.edu/event/aha-seminar-series-krzysztof-gajos-exploring-the-design-space-of-success-criteria-for-ai-powered-decision-support-technologies",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-05-07",
@@ -191,6 +61,16 @@
       "link": "https://calendar.mit.edu/event/bill-mckibben-here-comes-the-sun-book-talk",
       "time": "TBD",
       "location": "Building 14"
+    },
+    {
+      "date": "2026-05-07",
+      "title": "Talk: Ian Kumekawa on \"Visualizing State Capture: Networks and Scale in Historical Argument\" (\"Humanities + Data\" Series)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "\"Visualizing State Capture: Networks and Scale in Historical Argument\" Ian Kumekawa MIT History [RSVP] How can network mapping and visualization help make historical arguments? This talk will explore how networks can be both valuable tools for research and rhetorical tools for making arguments throu",
+      "link": "https://calendar.mit.edu/event/kumekawa-viz-state-capture",
+      "time": "TBD",
+      "location": "Building 56"
     },
     {
       "date": "2026-05-07",
@@ -356,8 +236,8 @@
       "title": "Infinite-Dimensional Algebra Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Roman Bezrukavnikov (MIT) Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
-      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-1711",
+      "desc": "Speaker: Thibault Décoppet (Harvard) Title: The Planar Delannoy Category Abstract: The Delannoy category is a semisimple symmetric tensor category. It has many remarkable properties as discussed by Harman-Snowden-Snyder. Moreover, Khovanov-Snyder and Kritz have obtained diagrammatic descriptions of ",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-6715",
       "time": "TBD",
       "location": "Building 2"
     },
@@ -473,16 +353,6 @@
     },
     {
       "date": "2026-05-10",
-      "title": "MIT Gala 2026",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "On the first Monday of May, celebrities and fashionistas gather each year in New York City for the MET Gala. And on a Sunday evening each spring in Cambridge, MIT students now gather for their own fashion event: The MIT Gala. Where fashion meets fabrication, the MIT Gala returns as a one-of-a-kind c",
-      "link": "https://calendar.mit.edu/event/mit-gala-2026",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-10",
       "title": "MIT Chamber Music Society Concert",
       "source": "MIT",
       "tag": "talk",
@@ -500,6 +370,26 @@
       "link": "https://calendar.mit.edu/event/mithas-presents-ramakrishnan-murthy",
       "time": "TBD",
       "location": "Building W18"
+    },
+    {
+      "date": "2026-05-10",
+      "title": "MIT Gala 2026",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "On the first Monday of May, celebrities and fashionistas gather each year in New York City for the MET Gala. And on a Sunday evening each spring in Cambridge, MIT students now gather for their own fashion event: The MIT Gala. Where fashion meets fabrication, the MIT Gala returns as a one-of-a-kind c",
+      "link": "https://calendar.mit.edu/event/mit-gala-2026",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
+    },
+    {
+      "date": "2026-05-11",
+      "title": "XtalPi AI for Science Fellowship Symposium",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Please join us for a virtual symposium featuring our XtalPi AI for Science Fellows: Peter Miedaner Peter Miedaner, 2025–2026 XtalPi AI for Science Fellow “Bridging Machine Learning and Nonlinear Optics with Equivariant Neutral Networks” Anh Nguyen Anh Nguyen, 2025–2026 XtalPi AI for Science Fellow “",
+      "link": "https://calendar.mit.edu/event/xtalpi-ai-for-science-fellowship-symposium",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-05-11",
@@ -553,6 +443,16 @@
     },
     {
       "date": "2026-05-11",
+      "title": " Probability Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Ron Nissim (MIT) Title: Area Law and Mass Gap for Lattice Yang-Mills at Strong Coupling Abstract: This talk is based on three recent papers, including two with Scott Sheffield and Sky Cao, on lattice Yang-Mills theory. These papers extend the regime of parameter for which two properties of ",
+      "link": "https://calendar.mit.edu/event/probability-seminar-Ron-Nissim2448",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-11",
       "title": "Algebraic Topology Seminar",
       "source": "MIT",
       "tag": "talk",
@@ -590,6 +490,16 @@
       "link": "https://calendar.northeastern.edu/event/nexus-connecting-learning-advancing-a-staff-conference",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-05-11",
+      "title": "Harvard Post-Baccalaureate Research Capstone Presentations",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Join us for an afternoon of research presentations by scholars completing the Post-Baccalaureate programs of the: - Harvard Quantum Initiative - Kempner Institute for the Study of Natural & Artificial Intelligence - Harvard John A. Paulson School of Engineering and Applied Sciences Date & Time: Mond",
+      "link": "https://events.seas.harvard.edu/event/harvard-post-baccalaureate-research-capstone-presentations",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-05-11",
@@ -634,6 +544,96 @@
     },
     {
       "date": "2026-05-12",
+      "title": "Stay Cool Through Finals\t\t\t\t\t\t",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Hosted by the MIT Alumni Association, this event serves multiple purposes. It provides students with an opportunity to establish positive connections with MITAA during their time on campus. Additionally, it extends a formal welcome to graduating student leaders into the MIT Alumni Association prior ",
+      "link": "https://calendar.mit.edu/event/stay-cool-through-finals-641",
+      "time": "TBD",
+      "location": "W20 Plaza\t\t\t\t\t\t"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "McGovern Institute Special Seminar with Peter Scheiffele ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Tuesday, May 12, 2026 Time: 2:00 – 3:00 pm Location: Building 46, Seminar Room 3189 Talk Title: Early Spontaneous Activity and Post-Transcriptional Regulation in Neocortical Circuit Assembly Abstract: Our laboratory investigates the molecular and cellular mechanisms that govern the formation a",
+      "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-peter-scheiffele",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "AI and Society Forum",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join us as we bring together leading researchers and thinkers to examine critical questions about AI's impact on employment, democracy, and society. This forum brings together MIT experts to address these questions through research presentations and panel discussions, along with a musical interlude ",
+      "link": "https://calendar.mit.edu/event/ai-and-society-forum",
+      "time": "TBD",
+      "location": "Building W18"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Food for Thought: MIT Libraries Study Break",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join the MIT Libraries for a study break May 12 and 13. Have a snack, leave some kind words on our Wall of Encouragement, and grab a self-care gift bag (one per person, while supplies last). No registration necessary. Tuesday, May 12, 2:30-4pm Rotch Library (7-238)Dewey Library (E53-100) Wednesday, ",
+      "link": "https://calendar.mit.edu/event/food-for-thought",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-12",
+      "title": "MExpo 2026: MIT Mechanical Engineering Exposition",
+      "source": "MIT",
+      "tag": "robotics",
+      "desc": "See real engineering in action! Join MIT for an afternoon and evening celebrating mechanical engineering innovation, competition, and hands on learning. This year, we're featuring a MechE Petting Zoo, Car Paddock, the de Florez Competition, MIT Sea Grant aquatic engineering, live acapella entertainm",
+      "link": "https://calendar.mit.edu/event/mexpo-2026-mit-mechanical-engineering-showcase",
+      "time": "TBD",
+      "location": "Building W34: Johnson Athletics Center"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "PDE/Analysis Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Vedran Sohinger (University of Warwick) Title: Gibbs measures as local equilibrium Kubo-Martin-Schwinger states for focusing nonlinear Schrödinger equations Abstract: Gibbs measures for nonlinear dispersive PDEs have been used as a fundamental tool in the study of low-regularity almost sure",
+      "link": "https://calendar.mit.edu/event/pdeanalysis-seminar5",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "MIT John Waugh Lecture | Chris Jaroniec (Ohio State University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/mit-john-waugh-lecture-chris-jaroniec-ohio-state-university",
+      "time": "TBD",
+      "location": "Room 6-120"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "The Commoditization of Labor",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Emi Nakamura (UC Berkeley)",
+      "link": "https://calendar.mit.edu/event/tba-4087",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Number Theory Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: David Urbanik (IAS) Title: Galois Orbit Bounds for Surface Degenerations Abstract: Given a family g : X -> S of smooth projective algebraic varieties over a number field K, one often wants to constrain the points s in S where the fibre X_s acquires \"extra\" algebraic structure. A basic sort ",
+      "link": "https://calendar.mit.edu/event/number-theory-seminar-5413",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-12",
       "title": "CBH Institute Day",
       "source": "Northeastern",
       "tag": "talk",
@@ -673,13 +673,14 @@
       "location": ""
     },
     {
-      "date": "2026-05-12",
-      "title": "MExpo 2026: MIT Mechanical Engineering Exposition",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/mexpo-2026-mit-mechanical-engineering-exposition/",
-      "time": "TBD"
+      "date": "2026-05-13",
+      "title": "Midday Music: Jazz World Trio",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for a lunchtime concert with Jazz World Trio, featuring Guillermo Nojechowicz and Ron Mahdi, incorporating original works from leader Guillermo Nojechowicz's Argentinean tango roots as well as pieces from the deep roots of jazz in Black American culture.",
+      "link": "https://calendar.mit.edu/event/midday-music-jazz-world-trio-5602",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-05-13",
@@ -870,6 +871,16 @@
       "location": ""
     },
     {
+      "date": "2026-06-03",
+      "title": "Bioengineering Student WIP Seminar – Summer ’26",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Work in Progress (WIP) seminars with Bioengineering PhD students. Weekly in 121 Snell Library from 12-1pm on Wednesdays during Summer 1. All are welcome! PhD Candidate Faculty Advisor MAY 5/6 […] The post Bioengineering Student WIP Seminar – Summer ’26 appeared first on Northeastern University Colle",
+      "link": "https://calendar.northeastern.edu/event/bioengineering-student-wip-seminar-summer-26-7096",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-06-04",
       "title": "COE Research Expo",
       "source": "Northeastern",
@@ -983,51 +994,6 @@
     },
     {
       "date": "TBD",
-      "title": "Thesis Defense: Making Robust AI Safeguards Run Deep",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "The Kiva room (the one with a million holes in the walls)",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-making-robust-ai-safeguards-run-deep",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "turbopuffer: an object-storage native database for search",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "For the Zoom passcode, please contact markakis@mit.edu&nbsp;---Abstract: turbopuffer is an object storage-native search engine. It puffs data into a tiered NVMe SSD and RAM cache to achieve sub-10ms warm query latency. The storage engine minimizes roundtrips to object storage to limit cold latency a",
-      "link": "https://www.csail.mit.edu/event/turbopuffer-object-storage-native-database-search",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Modern SNARGitecture: New Constructions of Succinct Non-interactive Arguments",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva/Patil",
-      "link": "https://www.csail.mit.edu/event/modern-snargitecture-new-constructions-succinct-non-interactive-arguments",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Static Retrieval Revisited: To Optimality and Beyond",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "In this talk, we settle a classic open question in space-efficient data structures: the number of bits required to encode a key-value retrieval function that supports efficient queries. Along the way, we uncover a surprising phenomenon: the existence of two completely independent problems A and B su",
-      "link": "https://www.csail.mit.edu/event/static-retrieval-revisited-optimality-and-beyond",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Understanding Modern Machine Learning: Architecture Based Complexity",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Refreshments at 4:00pm",
-      "link": "https://www.csail.mit.edu/event/understanding-modern-machine-learning-architecture-based-complexity",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "[THESIS DEFENSE] Practical DB-OS Co-Design for Modern, High-Performance Database Engines",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1060,6 +1026,15 @@
       "tag": "ai",
       "desc": "Virtual",
       "link": "https://www.csail.mit.edu/event/toward-energy-optimal-ai",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Domain-Informed AI: Bridging Applied Engineering and Computer Sciences",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Several works have been published applying general-purpose AI architectures to engineering problems, and a consistent pattern has emerged: predictions that can violate conservation laws, extrapolation that is not easily guaranteed beyond the training distribution, and models that offer little mechan",
+      "link": "https://www.csail.mit.edu/event/domain-informed-ai-bridging-applied-engineering-and-computer-sciences",
       "time": "TBD"
     },
     {
@@ -1127,6 +1102,15 @@
     },
     {
       "date": "TBD",
+      "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "45-792",
+      "link": "https://www.csail.mit.edu/event/large-language-models-generate-harmful-content-using-distinct-unified-mechanism",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "HCI Seminar - Zana Bucinca - Worker-Centric AI",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1186,6 +1170,15 @@
       "tag": "ai",
       "desc": "Reed-Solomon (RS) codes were recently shown to exhibit an intriguing proximity gap phenomenon. Specifically, given a collection of strings with some algebraic structure (such as belonging to a line or affine space), either all of them are $\\delta$-close to RS codewords, or most of them are $\\delta$-",
       "link": "https://www.csail.mit.edu/event/optimal-proximity-gaps-subspace-design-codes-and-random-reed-solomon-codes",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Liquid Machine: A 15-year Journey Towards Software-Defined Everything",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Computer Engineering is undergoing significant transformations, driven by escalating demands in artificial intelligence, cybersecurity, energy efficiency, and fundamental shifts in technology scaling. For decades, the fundamental computing stack—the abstractions and interfaces that define our hardwa",
+      "link": "https://www.csail.mit.edu/event/liquid-machine-15-year-journey-towards-software-defined-everything",
       "time": "TBD"
     },
     {
@@ -4511,60 +4504,6 @@
     },
     {
       "date": "TBD",
-      "title": "Climate Networking Breakfast",
-      "source": "Luma",
-      "tag": "networking",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climate Salon @ Boston Climate Week",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climatetech Pitch Party",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "EnergyBar: The Place to Build—Why Climate Innovators Choose Massachusetts",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The New Fundraising Playbook for the AI Age",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Social Conversations - May Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CEV Connect: Run + Refuel 🌿🏃‍♂️",
       "source": "Luma",
       "tag": "talk",
@@ -4655,6 +4594,15 @@
     },
     {
       "date": "TBD",
+      "title": "May Boston Marketing & Creative Meetup",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "RESOLVE: The MassChallenge Annual Gathering",
       "source": "Luma",
       "tag": "talk",
@@ -4676,6 +4624,51 @@
       "title": "The Blueprint Showcase",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Book Launch: Andy Woodruff on \"Boston in 50 Maps\"",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Girls Night Out: Let’s Dance 💃🏽🪩",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The End. of clinical trials as we knew them",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Five Kilo Meals x Rubato Fun Run",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "IIA AI Showcase @ WHOOP",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
