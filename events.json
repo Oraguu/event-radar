@@ -1,142 +1,13 @@
 {
-  "scraped_at": "2026-05-07T11:43:40.871486",
-  "event_count": 508,
+  "scraped_at": "2026-05-08T11:05:53.871173",
+  "event_count": 503,
   "events": [
-    {
-      "date": "2026-05-07",
-      "title": "Distinguished Seminar in Computational Science and Engineering",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Distinguished Seminar in Computational Science and Engineering May 7, 2026, 12-1PM 45-432 in Building 45 and Zoom Webinar How computing is changing critical mineral exploration Jef Caers Professor of Earth and Planetary Sciences and Geophysics, Stanford University Abstract: The energy transition thr",
-      "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-839",
-      "time": "TBD",
-      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Seminar on Arithmetic Geometry, etc. (STAGE)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Mohit Hulse (MIT) Title: Finite descent obstruction on curves and modularity Abstract: We review some facts about modular curves and Galois representations. Then, following Helm and Voloch, we show that the only obstruction to the existence of integral points on (integral models of twists o",
-      "link": "https://calendar.mit.edu/event/copy-of-seminar-on-arithmetic-geometry-etc-stage-5703",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "AHA Seminar Series: Krzysztof Gajos | Exploring the Design Space of Success Criteria for AI-powered Decision Support Technologies",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Join us for our online seminar series event hosted by MIT Media Lab's Advancing Humans with AI (AHA) research program. This event features Krzysztof Gajos, the Yahn W. Bernier and N. Elizabeth McCaw professor of Computer Science at the Harvard Paulson School of Engineering and Applied Sciences. Talk",
-      "link": "https://calendar.mit.edu/event/aha-seminar-series-krzysztof-gajos-exploring-the-design-space-of-success-criteria-for-ai-powered-decision-support-technologies",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Colloquium on the Brain & Cognition with Larry Zipursky, PhD, \"Strategies and Molecular Mechanisms Regulating Brain Wiring\"",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Colloquium on the Brain & Cognition with Larry Zipursky, PhD, UCLA Date: Thursday, May 7, 2026Time: 4:00pmLocation: Singleton Auditorium (46-3002, Third Fl of MIT Building 46)Faculty Host: Troy LittletonReception to Follow Talk Title: Strategies and Molecular Mechanisms Regulating Brain Wiring Abstr",
-      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-cognition-with-larry-zipursky-phd-ucla",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Karmel Writing Prizes Reception",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us as we celebrate the winners of this year’s Ilona Karmel Writing Prizes — with food! Register at cmsw.mit.edu.",
-      "link": "https://calendar.mit.edu/event/karmel-writing-prizes-reception",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Bill McKibben, Here Comes the Sun Book Talk",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Bill McKibben, Here Comes the Sun Book Talk Thursday, May 7, 2026 /5:00–6:00pm MIT Killian Hall (14W-111) 160 Memorial Dr, Cambridge, MA Acclaimed environmentalist and Solar Return for Change guest author and environmentalist Bill McKibben discusses his new book Here Comes the Sun—A Last Chance for ",
-      "link": "https://calendar.mit.edu/event/bill-mckibben-here-comes-the-sun-book-talk",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Talk: Ian Kumekawa on \"Visualizing State Capture: Networks and Scale in Historical Argument\" (\"Humanities + Data\" Series)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "\"Visualizing State Capture: Networks and Scale in Historical Argument\" Ian Kumekawa MIT History [RSVP] How can network mapping and visualization help make historical arguments? This talk will explore how networks can be both valuable tools for research and rhetorical tools for making arguments throu",
-      "link": "https://calendar.mit.edu/event/kumekawa-viz-state-capture",
-      "time": "TBD",
-      "location": "Building 56"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Graduate Student Talk: Léa Miranda",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join Léa Miranda, a PhD student in the MIT History, Theory + Criticism of Art and Architecture program for a conversation around Performing Conditions: Artistic Labor and Dependency as Form. In this talk, Léa Miranda will discuss the relationships between property, labor, capital, and artistic produ",
-      "link": "https://calendar.mit.edu/event/graduate-student-talk-lea-miranda",
-      "time": "TBD",
-      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Ben Monder Improvisation Masterclass",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Emerson/Harris Masterclass Series Thursday, May 7, 2026 / 7:00–8:30pm MIT Killian Hall (14W-111) 160 Memorial Dr, Cambridge, MA Renowned jazz guitarist and Solar Return for Change guest artist Ben Monder has enjoyed an illustrious career as a soloist and sideman for over thirty years. Currently a me",
-      "link": "https://calendar.mit.edu/event/ben-monder-improvisation-masterclass-with-mit-festival-jazz-ensemble",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "MIT D-Lab Spring Student Showcase",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us for an end-of-semester presentation by MIT D-Lab students featuring posters and prototypes by each team from eight D-Lab classes. Final presentations, posters, and prototypes from students in from 9 Spring 2025 MIT D-Lab classes: Introduction to Engineering Design for International Developme",
-      "link": "https://calendar.mit.edu/event/mit-d-lab-spring-student-showcase",
-      "time": "TBD",
-      "location": "Building N51"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Ceramics Program Spring Show & Sale",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Come shop this annual four-day exhibition and sale featuring thousands of pieces of original ceramic artwork by instructors, staff, and participants in classes at the Ceramics Program, Office for the Arts at Harvard. You'll find a dazzling array of pottery, sculpture, items for the home and garden, ",
-      "link": "https://events.seas.harvard.edu/event/ceramics-program-spring-show-sale",
-      "time": "TBD",
-      "location": "Ceramics Program, Office for the Arts at Harvard"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "Boston-Singapore Tech Synergy: Digitalizing, Decarbonizing and Automating the Future of Maritime",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/pier71-spc-2026-roadshow-boston-ma/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Men's Heavyweight Crew vs. Jefferson Dad Vail Regatta",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Pennsauken, NJ / Cooper River",
-      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-05-08",
       "title": "Women's Lightweight Crew vs. Jefferson Dad Vail Regatta",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: TBA Location: Pennsauken, NJ / Cooper River",
+      "desc": "Time: 8:10 AM Location: Pennsauken, NJ / Cooper River",
       "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
       "time": "TBD",
       "location": ""
@@ -170,6 +41,16 @@
       "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Hsuan-Min-Hung-Pentelute-Buchwald",
       "time": "TBD",
       "location": "4-370"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Men's Heavyweight Crew vs. Jefferson Dad Vail Regatta",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 9:40 AM Location: Pennsauken, NJ / Cooper River",
+      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-05-08",
@@ -279,7 +160,7 @@
       "desc": "Join the MIT Outing Club for the 11th annual No Man's Land Film Festival! Founded in 2015, No Man’s Land Film Festival is a nonprofit arts and advocacy organization that elevates women, trans, and genderqueer voices in adventure, sport, conservation, and film through an annual Flagship Festival and ",
       "link": "https://calendar.mit.edu/event/movie-night-no-mans-land-film-festival",
       "time": "TBD",
-      "location": "Kendall/MIT Open Space"
+      "location": "Building E38 (MIT Welcome Center)"
     },
     {
       "date": "2026-05-08",
@@ -423,6 +304,16 @@
     },
     {
       "date": "2026-05-11",
+      "title": "Geometry & Topology Seminar ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Saman Habibi Esfahani (Harvard University / CMSA) Title: Gauge theory in higher dimensions, Fueter sections, and Z2-harmonic 1-forms Abstract: After a brief introduction to Calabi-Yau and G2 geometry, I will discuss higher-dimensional gauge and Floer theory, the role of Fueter sections and ",
+      "link": "https://calendar.mit.edu/event/copy-of-geometry-topology-seminar-1781",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-11",
       "title": "Creating High-Opportunity Neighborhoods: Evidence from the HOPE VI Program (joint with Raj Chetty, Thomas B. Foster, Lawrence Katz, Sonya R. Porter, Matthew Staiger and Laura Tach)",
       "source": "MIT",
       "tag": "talk",
@@ -493,6 +384,16 @@
     },
     {
       "date": "2026-05-11",
+      "title": "Digital Accessibility Trainings at Harvard",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Digital Accessibility Services (DAS) offers extensive training opportunities for the Harvard community on topics such as content creation, development, documents, and testing digital content for accessibility. If you are interested in learning more about digital accessibility at Harvard, you are inv",
+      "link": "https://events.seas.harvard.edu/event/digital-accessibility-trainings-at-harvard",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-11",
       "title": "Harvard Post-Baccalaureate Research Capstone Presentations",
       "source": "Harvard SEAS",
       "tag": "ai",
@@ -511,6 +412,16 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "World's largest unmanned systems conf. Worth the trip"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Midday Music and Bike Tune Ups",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Join us for free bike tune ups by Casa Bikes from 12-2pm alongside music from Boston-based Guatemalan singer-songwriter Mercedes Escobar from 12:15-1pm. Music curated by Passim.\" Free safety checks with a bicycle technician will take place on a first come, first served basis, r",
+      "link": "https://calendar.mit.edu/event/midday-music-and-bike-tune-ups-5-12-26",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-05-12",
@@ -684,6 +595,46 @@
     },
     {
       "date": "2026-05-13",
+      "title": "Fulbright: Preparing for the MIT Internal Deadline",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Interested in applying to Fulbright? Learn what you need to do this summer to prepare for MIT’s internal deadline in August. MIT’s Fulbright Program Advisor, Julia Mongo, will explain the process and the requirements and answer your questions. (If you did not previously attend one of our Fulbright I",
+      "link": "https://calendar.mit.edu/event/fulbright-preparing-for-the-mit-internal-deadline",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-13",
+      "title": "SCSB Colloquium Series with Dr. Nenad Sestan: Development and Evolution of Human Cognitive Networks",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Wednesday, May 13, 2026 Location: 46-3002 (Singleton Auditorium) Speaker: Nenad Sestan , Ph.D. Affiliation: Harvey and Kate Cushing Professor of Neuroscience, Yale University Host: Dr. Myriam Heiman Talk title: Development and Evolution of Human Cognitive Networks Abstract: The extraordinary c",
+      "link": "https://calendar.mit.edu/event/scsb-colloquium-series-with-dr-nenad-sestan-development-and-evolution-of-human-cognitive-networks",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "Dertouzos Distinguished Lecture: The Oak Architecture: A Vision of Superintelligence from Experience",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Prof. Richard Sutton, ACM Turing Awardee, Univ. of Alberta The Oak Architecture: A Vision of Superintelligence from Experience Abstract: As AI has become a huge industry, to an extent it has lost its way. What is needed to get us back on track to true intelligence? Most of all we need agents that le",
+      "link": "https://calendar.mit.edu/event/dertouzos-distinguished-lecture-the-oak-architecture-a-vision-of-superintelligence-from-experience",
+      "time": "TBD",
+      "location": "Building 32"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "MIT Music Technology Research Showcase",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "MIT’s Music Technology and Computation Graduate Program is a multidisciplinary fusion of art and engineering, with faculty, labs, curricula, and students coming from Music and Theater Arts (MTA) in the School of Humanities Arts and Social Sciences (SHASS), and Electrical Engineering and Computer Sci",
+      "link": "https://calendar.mit.edu/event/mit-music-technology-research-showcase",
+      "time": "TBD",
+      "location": "Building W18"
+    },
+    {
+      "date": "2026-05-13",
       "title": "Bioengineering Student WIP Seminar – Summer ’26",
       "source": "Northeastern",
       "tag": "talk",
@@ -711,6 +662,16 @@
       "link": "https://events.seas.harvard.edu/event/the-nature-of-adolescence-a-chimpanzee-perspective",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-05-14",
+      "title": "From Science to Life: Transforming Human Reproduction",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Spain@MIT x WHRH x MIT-Spain Professional Seminar with Dr. Carlos Simon. Please join us on Thursday, May 14th from 10-12pm in MIT E40 Room 496. Coffee and snacks provided. Dr. Carlos Simon is a Professor of Obstetrics and Gynecology at the University of Valencia (Spain), Senior Lecturer at Harvard U",
+      "link": "https://calendar.mit.edu/event/from-science-to-life-transforming-human-reproduction",
+      "time": "TBD",
+      "location": "Building E40"
     },
     {
       "date": "2026-05-14",
@@ -994,33 +955,6 @@
     },
     {
       "date": "TBD",
-      "title": "[THESIS DEFENSE] Practical DB-OS Co-Design for Modern, High-Performance Database Engines",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Modern database systems run on hardware that is orders of magnitude faster than a decade ago and serve workloads that now span OLTP, analytics, and vector search. Yet the boundary between databases and the operating system is still defined by general OS abstractions that now consume the majority of ",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-practical-db-os-co-design-modern-high-performance-database-engines",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Tactile Sensing for Contact-Rich Dexterous Robotic Manipulation",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Stata Center",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-tactile-sensing-contact-rich-dexterous-robotic-manipulation",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Hot Topics in Computing: Making the World Computable: from Foundations to Technology (for Humans and AIs)",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Patil/Kiva Seminar Room",
-      "link": "https://www.csail.mit.edu/event/hot-topics-computing-making-world-computable-foundations-technology-humans-and-ais",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Toward Energy-Optimal AI",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1120,6 +1054,15 @@
     },
     {
       "date": "TBD",
+      "title": "List Decoding Expander-Based Codes (up to capacity, in near-linear time)",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Refreshments at 4:00 PM",
+      "link": "https://www.csail.mit.edu/event/list-decoding-expander-based-codes-capacity-near-linear-time",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "CSAIL Open Studios: Performing arts",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1165,20 +1108,29 @@
     },
     {
       "date": "TBD",
-      "title": "Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes",
+      "title": "[CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Reed-Solomon (RS) codes were recently shown to exhibit an intriguing proximity gap phenomenon. Specifically, given a collection of strings with some algebraic structure (such as belonging to a line or affine space), either all of them are $\\delta$-close to RS codewords, or most of them are $\\delta$-",
-      "link": "https://www.csail.mit.edu/event/optimal-proximity-gaps-subspace-design-codes-and-random-reed-solomon-codes",
+      "link": "https://www.csail.mit.edu/event/cis-seminar-optimal-proximity-gaps-subspace-design-codes-and-random-reed-solomon-codes",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Liquid Machine: A 15-year Journey Towards Software-Defined Everything",
+      "title": "[ARCH Seminar] Liquid Machine: A 15-year Journey Towards Software-Defined Everything",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Computer Engineering is undergoing significant transformations, driven by escalating demands in artificial intelligence, cybersecurity, energy efficiency, and fundamental shifts in technology scaling. For decades, the fundamental computing stack—the abstractions and interfaces that define our hardwa",
-      "link": "https://www.csail.mit.edu/event/liquid-machine-15-year-journey-towards-software-defined-everything",
+      "link": "https://www.csail.mit.edu/event/arch-seminar-liquid-machine-15-year-journey-towards-software-defined-everything",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "How to Encode World Knowledge?",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Foundation models are a key platform which implicitly encodes world knowledge. In this talk we first focus on vision-language models, such as CLIP, and investigate their geometric behavior and logic behind the high-dimensional feature encoding. For instance, we find that as image or text become more",
+      "link": "https://www.csail.mit.edu/event/how-encode-world-knowledge",
       "time": "TBD"
     },
     {
@@ -1588,15 +1540,6 @@
     },
     {
       "date": "TBD",
-      "title": "Boston Climate Week at Greentown Boston",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Celebrate the inaugural Boston Climate Week on Wednesday, May 6 and Thursday, May 7 at Greentown Boston!",
-      "link": "https://greentownlabs.com/event/boston-climate-week-at-greentown/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "June EnergyBar",
       "source": "Greentown Labs",
       "tag": "manufacturing",
@@ -1611,6 +1554,15 @@
       "tag": "ai",
       "desc": "Spotlighting startups powering the AI boom or using AI to create a more resilient energy future.",
       "link": "https://greentownlabs.com/event/ai-energy-sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Catalyst x Energy Tech Innovations with Shell & Technip Energies",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Kick off Go Make 2026, an open-innovation program with Shell and Technip Energies focused on catalytic solutions for industrial decarbonization and the energy transition!",
+      "link": "https://greentownlabs.com/event/catalyst-x-energy-tech-innovations-with-shell-technip-energies/",
       "time": "TBD"
     },
     {
@@ -1642,15 +1594,6 @@
     },
     {
       "date": "TBD",
-      "title": "Catalyst x Energy Tech Innovations with Shell & Technip Energies",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Kick off Go Make 2026, an open-innovation program with Shell and Technip Energies focused on catalytic solutions for industrial decarbonization and the energy transition!",
-      "link": "https://greentownlabs.com/event/catalyst-x-energy-tech-innovations-with-shell-technip-energies/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Retrofit USA 2026",
       "source": "Greentown Labs",
       "tag": "startup",
@@ -1665,6 +1608,15 @@
       "tag": "manufacturing",
       "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
       "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Climate Week at Greentown Boston",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Celebrate the inaugural Boston Climate Week on Wednesday, May 6 and Thursday, May 7 at Greentown Boston!",
+      "link": "https://greentownlabs.com/event/boston-climate-week-at-greentown/",
       "time": "TBD"
     },
     {
@@ -4504,51 +4456,6 @@
     },
     {
       "date": "TBD",
-      "title": "CEV Connect: Run + Refuel 🌿🏃‍♂️",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Coffee, Carbs & Scaling Climatetech with Next Rung and FORGE",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Simulating the Future: Exploring Climate Risk & Opportunities with En-ROADS",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI Systems: From Copilots to Autonomous Operators",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climate & Cocktails",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Startup Resilience in Climate Tech: Everyone has a plan until they get punched in the face",
       "source": "Luma",
       "tag": "startup",
@@ -4669,6 +4576,51 @@
       "title": "IIA AI Showcase @ WHOOP",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Demo Is Not the Product: What Robotics Companies Learn Too Late",
+      "source": "Luma",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics & Hard Tech Demo Night at RISE Robotics",
+      "source": "Luma",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Life Sciences Showcase: In Conversation with Mohan S. Iyer: From Genentech to IndieBio",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Social Conversations - June Event",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Independence, Engineered: Hardware for Aging Well",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
