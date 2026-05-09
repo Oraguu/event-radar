@@ -1,196 +1,26 @@
 {
-  "scraped_at": "2026-05-08T11:05:53.871173",
-  "event_count": 503,
+  "scraped_at": "2026-05-09T10:51:26.287026",
+  "event_count": 600,
   "events": [
     {
-      "date": "2026-05-08",
-      "title": "Women's Lightweight Crew vs. Jefferson Dad Vail Regatta",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 8:10 AM Location: Pennsauken, NJ / Cooper River",
-      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-08",
-      "title": "10th MIT Global Humanities Forum on “Rethinking healing—from ancient wisdom to modern medicine” on May 8 (online)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Dear colleagues, students, and friends, Join us for the 2026 GHI 10th Forum! This session introduces the GHI Pillar Medicine & the Healing Arts, and its projects. 10th GHI Forum Title: Rethinking healing—from ancient wisdom to modern medicineDate: May 8, 2026, 10:00–11:30 AM ESTWhere: Online (Zoom R",
-      "link": "https://calendar.mit.edu/event/10th-mit-global-humanities-forum-on-medicine-and-the-healing-arts-on-may-8-online",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-08",
-      "title": "2026 NSE Research Expo",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The MIT Department of Nuclear Science and Engineering will hold its annual Research Expo on Friday, May 8, 2026. The event features groundbreaking research from NSE’s various labs and features research posters presented by current undergraduate and graduate students as well as signature oral present",
-      "link": "https://calendar.mit.edu/event/2026-nse-research-expo-3367",
-      "time": "TBD",
-      "location": "Building 76, First floor Main Corridor and Galleries and Auditorium 76-156"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Chemistry Student Seminar (CSS) - Hsuan-Min Hung (Pentelute & Buchwald)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Chemistry Student Seminar (CSS) is a student-organized seminar series that host graduate students and postdocs to share their research in a friendly and informal environment. Free donuts and coffee are provided.",
-      "link": "https://calendar.mit.edu/event/chemistry-student-seminar-css-Hsuan-Min-Hung-Pentelute-Buchwald",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "title": "Men's Heavyweight Crew vs. Jefferson Dad Vail Regatta",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 9:40 AM Location: Pennsauken, NJ / Cooper River",
+      "desc": "Time: TBA Location: Pennsauken, NJ / Cooper River",
       "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
       "time": "TBD",
       "location": ""
     },
     {
-      "date": "2026-05-08",
-      "title": "Statistics and Data Science Seminar",
+      "date": "2026-05-09",
+      "title": "Women's Lightweight Crew vs. Jefferson Dad Vail Regatta",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Jon Kleinberg (Cornell University) Title: Formal Models of Language Generation Abstract: The emergence of large language models has prompted a surge of interest into theoretical models that might give us insight into both their successes and their shortcomings. We’ll give an overview of rec",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar-7111",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "SCSB Lunch Series with Dr. Gloria Choi: Proprioception and Social Behavior",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Friday, May 8, 2026 Time: 12:00pm – 1:00pm Location: Simons Center Conference room 46-6011. Please note this event is in person only and will not be recorded or streamed. Speaker: Gloria Choi, Ph.D. Affiliation: Associate Professor, Department of Brain and Cognitive Sciences, Picower Institute",
-      "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-gloria-choi-proprioception-and-social-behavior",
-      "time": "TBD",
-      "location": "Simons Center Conference room, 46-6011"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Zachary Chin (G), piano",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Pr",
-      "link": "https://calendar.mit.edu/event/zachary-chin-g-piano",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Chemistry Department UROP Symposium",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "1:00-4:00pm: Presentations in 32-155 4:00-5:00pm Poster Session and Refreshments in Building 18 Lobby",
-      "link": "https://calendar.mit.edu/event/chemistry-department-urop-symposium",
-      "time": "TBD",
-      "location": "Building 32"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Solar Return for Change Climate Poster Research Session ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Solar Return for Change Climate Poster Research Session Friday, May 8, 2026 / 2:00–3:30pm MIT Kresge Auditorium Lobby, W16 48 Massachusetts Avenue, Cambridge, MA MIT students and faculty present their current climate research with short talks and Q&A opportunities. Solar Return for Change guest auth",
-      "link": "https://calendar.mit.edu/event/solar-return-for-change-climate-poster-research-session",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Catherine Kung '26, violin",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers Catherine Kung is a senior at MIT majoring in biological engineering and computation & cognition. Originally from Birmingham, Alabama, she b",
-      "link": "https://calendar.mit.edu/event/catherine-kung-26-violin",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Infinite-Dimensional Algebra Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Thibault Décoppet (Harvard) Title: The Planar Delannoy Category Abstract: The Delannoy category is a semisimple symmetric tensor category. It has many remarkable properties as discussed by Harman-Snowden-Snyder. Moreover, Khovanov-Snyder and Kritz have obtained diagrammatic descriptions of ",
-      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-6715",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "MechE Colloquium: Targeting solute-solute selectivity in membrane separation",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Razi Epsztein, Associate Professor Faculty of Civil and Environmental Engineering Technion – Israel Institute of Technology Abstract: Synthetic dense membranes with pores at the sub-nanometre scale are at the core of processes for separating solutes from water, such as water purification and desalin",
-      "link": "https://calendar.mit.edu/event/meche-colloquium-targeting-solute-solute-selectivity-in-membrane-separation",
-      "time": "TBD",
-      "location": "Building 3"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "MTL Hackathon: AI for Microelectronics",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "Join us for the first MTL Hackathon - May 8-10, 2026 Build the future of AI-powered chip design. Pushing the boundaries of semiconductor innovation through artificial intelligence. Join leading researchers, engineers, and students in advancing chip design and manufacturing. Tracks & Challenges Explo",
-      "link": "https://calendar.mit.edu/event/mtl-hackathon-ai-for-microelectronics",
-      "time": "TBD",
-      "location": "Building 32"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Tristian Yang (G), piano",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by the Emerson/Harris Program for Private Study Solo Recital Series Livestream: https://mta.mit.edu/viewlisten/live-killian-hall About the Performers About the Emerson/Harris Program for Private Study Support for private musical study is available for students through the Emerson/Harris Pr",
-      "link": "https://calendar.mit.edu/event/tristian-yang-g-piano",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Movie Night: No Man's Land Film Festival",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Join the MIT Outing Club for the 11th annual No Man's Land Film Festival! Founded in 2015, No Man’s Land Film Festival is a nonprofit arts and advocacy organization that elevates women, trans, and genderqueer voices in adventure, sport, conservation, and film through an annual Flagship Festival and ",
-      "link": "https://calendar.mit.edu/event/movie-night-no-mans-land-film-festival",
-      "time": "TBD",
-      "location": "Building E38 (MIT Welcome Center)"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "Solar Return for Change",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Solar Return for Change Friday, May 8, 2026 / 8:00pm MIT Kresge Auditorium, MIT Building W16 48 Massachusetts Avenue, Cambridge, MA Presented by MIT Music and Theater Arts (MTA) and the MIT Center for Art, Science & Technology (CAST) With generous support from the MIT-GE Vernova Energy and Climate A",
-      "link": "https://calendar.mit.edu/event/mitwe-spring-2-concert",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-05-08",
-      "title": "ChE PhD Dissertation Defense: Kevin Yang",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Name: Kevin Yang Title: Structural Investigation of Single-Atom Catalysts in HCl Electrolysis, CO₂ Reduction, and Li-S Batteries Date: 05/08/2026 Time: 01:00:00 PM Committee Members: Prof. Sanjeev Mukerjee (Advisor) Prof. Joshua […] The post ChE PhD Dissertation Defense: Kevin Yang appeared first on",
-      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-kevin-yang",
+      "desc": "Time: TBA Location: Pennsauken, NJ / Cooper River",
+      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-05-08",
-      "title": "In Celebration of Professor L. Mahadevan's 60th Birthday: Soft Math Symposium",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://events.seas.harvard.edu/event/in-celebration-of-professor-l-mahadevans-60th-birthday-soft-math-symposium",
-      "time": "TBD",
-      "location": "Mallinckrodt-Hoffman Link Chemistry Building"
     },
     {
       "date": "2026-05-09",
@@ -200,7 +30,7 @@
       "desc": "Enjoy a live cooking show, packed with interactive experiments and demonstrations, about the science of marshmallow. Presented in collaboration with graduate students in MIT’s Department of Materials Science & Engineering (DMSE).",
       "link": "https://calendar.mit.edu/event/leap-lab-the-science-of-marshmallow",
       "time": "TBD",
-      "location": "Kendall/MIT Open Space"
+      "location": "Building E38 (MIT Welcome Center)"
     },
     {
       "date": "2026-05-09",
@@ -277,7 +107,7 @@
       "title": "NeuroLunch: Kohleman Swift (Fan Lab) & Yibei Chen (Ghosh Lab)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "",
+      "desc": "Speaker: Yibei Chen (Ghosh Lab) Title: Behavior and Autonomic Physiology Characterize Brain State Dynamics During Naturalistic Gameplay Abstract: How does the brain organize continuous, goal-directed behavior? Most brain state research relies on resting-state or passive paradigms where behavior is a",
       "link": "https://calendar.mit.edu/event/neurolunch-kohleman-swift-fan-lab-yibei-chen-ghosh-lab",
       "time": "TBD",
       "location": "Building 46"
@@ -675,6 +505,76 @@
     },
     {
       "date": "2026-05-14",
+      "title": "Thesis Defense:  Elena Slobodyanyuk",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Bartel lab I \"The E3 ubiquitin ligase mechanism specifying target-directed microRNA degradation\"",
+      "link": "https://calendar.mit.edu/event/thesis-defense-elena-slobodyanyuk",
+      "time": "TBD",
+      "location": "McGovern Auditorium, Whitehead Institute"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "MIT HEALS event joint with math",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join MIT HEALS for a special cross-disciplinary primer on May 14 from 2–4 PM in Room 2-449, organized in collaboration with Iain Cheeseman and Adityanarayanan Radhakrishnan. This event is designed to connect health and life sciences researchers with faculty, postdocs, and graduate students from comp",
+      "link": "https://calendar.mit.edu/event/mit-heals-event-joint-with-math",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "Build a career development timeline (MIT postdocs only)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Jumpstart your summer! Do you need to prepare faculty application materials this fall? Do you have papers to publish this summer? Have you been meaning to explore different career opportunities? Attend this workshop to help you plan clear, achievable career milestones for the summer and upcoming fal",
+      "link": "https://calendar.mit.edu/event/build-a-career-development-timeline-mit-postdocs-only",
+      "time": "TBD",
+      "location": "Building E19"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "CMS/W Undergraduate Thesis Day 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "In-person and on Zoom, we’ll feature the writing of Ariel McGee, Alor Sahoo, and Daniel Figgis Gonzalez.",
+      "link": "https://calendar.mit.edu/event/cmsw-undergraduate-thesis-day-2026",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "Organic Chemistry Seminar Series | Eric Jacobsen (Harvard University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Uncovering Cooperative Pathways in Selective Catalysis",
+      "link": "https://calendar.mit.edu/event/organic-chemistry-seminar-series-eric-jacobsen-harvard-university",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "Applied Math Colloquium",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Speaker: Lu Lu (Yale University) Title: Foundation neural operators and diffusion models over function spaces Abstract: Deep neural operators have emerged as a powerful paradigm in scientific machine learning (SciML) for learning nonlinear mappings between function spaces arising in complex dynamica",
+      "link": "https://calendar.mit.edu/event/applied-math-colloquium-57",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-14",
+      "title": "The Lumpen and the Miscreant: Mary Walling Blackburn presents Cream Psychosis, in conversation with David Levine",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "“When an empire is lurching to a halt at its very end, it might be the moment when it begins, or is forced, to re-imagine its relationship to a national insanity.” —Mary Walling Blackburn “XOXO, Insanity, Institution” (2011) The Carpenter Center for the Visual Arts and MIT List Visual Arts Center co",
+      "link": "https://calendar.mit.edu/event/the-lumpen-and-the-miscreant-mary-walling-blackburn-presents-cream-psychosis-in-conversation-with-david-levine",
+      "time": "TBD",
+      "location": "Carpenter Center for the Visual Arts, Theater, Lower Level 24 Quincy St, Cambridge, MA 02138"
+    },
+    {
+      "date": "2026-05-14",
       "title": "Now You Know: Honoring the Life and Legacy of Kitty Dukakis",
       "source": "Northeastern",
       "tag": "talk",
@@ -685,6 +585,46 @@
     },
     {
       "date": "2026-05-15",
+      "title": "Wargaming 4 All",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Description: Build and train AI agents to compete in an e-sports–style video game that simulates a realistic and complex military operation. Participants use a game simulation and a reinforcement-learning environment to develop their own agents and compete head-to-head. The top teams are eligible fo",
+      "link": "https://calendar.mit.edu/event/wargaming-4-all-2026",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Graduate Program in Science Writing Thesis Day 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Presentations will begin at 10am on Zoom. Featuring presentations from the ’26 graduate students: Julia Ribeiro VazZoe BeketovaAshley D’SouzaAna GoergescuJamie JiangLaura Martin AgudeloLucie McCormickAlex Megerle",
+      "link": "https://calendar.mit.edu/event/graduate-program-in-science-writing-thesis-day-2026",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Sailing vs. Women's Fleet Race National Championship",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Tampa, FL",
+      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Infinite-Dimensional Algebra Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Roman Bezrukavnikov (MIT) Title: Abstract: Zoom: https://mit.zoom.us/j/91800438944. For the Passcode, please contact Pavel Etingof at etingof@math.mit.edu.",
+      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-1711",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-05-15",
       "title": "Harvard I-Corps Spark: Innovators Jumpstart | Healthcare Delivery",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -692,6 +632,35 @@
       "link": "https://events.seas.harvard.edu/event/harvard-i-corps-spark-innovators-jumpstart-healthcare-delivery",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-05-15",
+      "title": "Resident Brunch at MassRobotics",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/resident-brunch-at-massrobotics-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "MIT Women's Chorale Spring Concert",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join the MIT Women’s Chorale for their spring concert, “Our Home, Our Haven: Music of Shelter, Courage, and Homecoming,” directed by Nhung Truong. Featuring the exquisite Requiem of Gabriel Fauré and his Cantique de Jean Racine, both with string quartet, the concert will also include music of Grace ",
+      "link": "https://calendar.mit.edu/event/mit-womens-chorale-spring-concert-308",
+      "time": "TBD",
+      "location": "Harvard-Epworth United Methodist Church"
+    },
+    {
+      "date": "2026-05-16",
+      "title": "MITHAS presents: Uday Bhawalakar (Hindustani Vocal)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Immerse in the Melodies of Uday Bhawalakar Prepare to be captivated by the enchanting rhythms of classical music as MITHAS presents: Uday Bhawalakar (Hindustani Vocal). This mesmerizing event, steeped in Tamil classical music, will unfold on the 16th of May, 2026. As the evening unravels, the Thomas",
+      "link": "https://calendar.mit.edu/event/mithas-presents-uday-bhawalakar",
+      "time": "TBD",
+      "location": "Building W18"
     },
     {
       "date": "2026-05-17",
@@ -761,6 +730,15 @@
       "location": ""
     },
     {
+      "date": "2026-05-26",
+      "title": "The Robotics Summit and Expo Speaker Reception",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/the-robotics-summit-and-expo-speaker-reception/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-05-27",
       "title": "Bioengineering Student WIP Seminar – Summer ’26",
       "source": "Northeastern",
@@ -800,6 +778,15 @@
       "time": "8:00 AM",
       "pick": true,
       "pickNote": "Career fair + continued expo. Don't skip day 2"
+    },
+    {
+      "date": "2026-05-29",
+      "title": "Inside MassRobotics: Open House for Startups – #BOSTechWeek",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/inside-massrobotics-open-house-for-startups-bostechweek/",
+      "time": "TBD"
     },
     {
       "date": "2026-05-31",
@@ -955,65 +942,20 @@
     },
     {
       "date": "TBD",
-      "title": "Toward Energy-Optimal AI",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Virtual",
-      "link": "https://www.csail.mit.edu/event/toward-energy-optimal-ai",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Domain-Informed AI: Bridging Applied Engineering and Computer Sciences",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Several works have been published applying general-purpose AI architectures to engineering problems, and a consistent pattern has emerged: predictions that can violate conservation laws, extrapolation that is not easily guaranteed beyond the training distribution, and models that offer little mechan",
-      "link": "https://www.csail.mit.edu/event/domain-informed-ai-bridging-applied-engineering-and-computer-sciences",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "(CIS Seminar-TIME CHANGE) Post-Quantum Cryptography from Quantum Stabilizer Decoding",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Post-quantum cryptography currently rests on a small number of hardness assumptions, posing significant risks should any one of them be compromised. This vulnerability motivates the search for new and cryptographically versatile assumptions that make a convincing case for quantum hardness. In this w",
-      "link": "https://www.csail.mit.edu/event/cis-seminar-time-change-post-quantum-cryptography-quantum-stabilizer-decoding",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Liane Makatura Thesis Defense, Title: Unified Representation, Design, and Exploration of High-Performance Metamaterials",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "The exceptional mechanical properties of metamaterials, such as programmable deformation and extreme strength-to-weight ratios, are derived from geometry rather than chemical composition alone. Despite their promise, metamaterials' full potential remains untapped: the structure–property mapping is n",
-      "link": "https://www.csail.mit.edu/event/liane-makatura-thesis-defense-title-unified-representation-design-and-exploration-high",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Doctoral thesis: Generalization in Language Models: Mechanism, Evaluation, and Adaptation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva",
-      "link": "https://www.csail.mit.edu/event/doctoral-thesis-generalization-language-models-mechanism-evaluation-and-adaptation",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CSAIL Entrepreneurship Day",
       "source": "MIT CSAIL",
       "tag": "startup",
-      "desc": "",
+      "desc": "CSAIL Entrepreneurship DayFrom Lab Breakthroughs to Venture‑Backed CompaniesMonday, May 11, 2026CSAIL / MIT, Stata Center32-G449, 32 Vassar Street, Cambridge, MA 021399:00–9:30 – Check in at registration desk9:30–9:45 – Opening remarks&nbsp;Daniel Huttenlocher, Dean, Schwarzman College of Computing,",
       "link": "https://www.csail.mit.edu/event/csail-entrepreneurship-day",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World",
+      "title": "TIME CHANGED TO 10:30-12:00pm Yifei Li Thesis Defense: Title: From Visual Computing to Physical AI: Simulation, Optimization, and Learning for Physical World",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Hewlett G-882 / Zoom",
-      "link": "https://www.csail.mit.edu/event/yifei-li-thesis-defense-title-visual-computing-physical-ai-simulation-optimization-and",
+      "link": "https://www.csail.mit.edu/event/time-changed-1030-1200pm-yifei-li-thesis-defense-title-visual-computing-physical-ai",
       "time": "TBD"
     },
     {
@@ -1405,6 +1347,33 @@
     },
     {
       "date": "TBD",
+      "title": "1 event 15",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Resident Brunch at MassRobotics – MassRobotics Resident Only",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-05-15/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 15",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Resident Brunch at MassRobotics – MassRobotics Resident Only",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-05-15/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Resident Brunch at MassRobotics",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Resident Brunch at MassRobotics – MassRobotics Resident Only",
+      "link": "https://www.massrobotics.org/event/resident-brunch-at-massrobotics-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "1 event 17",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -1477,6 +1446,33 @@
     },
     {
       "date": "TBD",
+      "title": "1 event 26",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The Robotics Summit and Expo Speaker Reception - private An exclusive networking reception at MassRobotics for the Robotics Summit & Expo. ​We invite you to join us at MassRobotics to […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-05-26/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 26",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The Robotics Summit and Expo Speaker Reception - private An exclusive networking reception at MassRobotics for the Robotics Summit & Expo. ​We invite you to join us at MassRobotics to […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-05-26/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Robotics Summit and Expo Speaker Reception",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The Robotics Summit and Expo Speaker Reception - private An exclusive networking reception at MassRobotics for the Robotics Summit & Expo. ​We invite you to join us at MassRobotics to […]",
+      "link": "https://www.massrobotics.org/event/the-robotics-summit-and-expo-speaker-reception/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "1 event 27",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -1504,7 +1500,7 @@
     },
     {
       "date": "TBD",
-      "title": "2 events 28",
+      "title": "4 events 28",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "MassRobotics is hosting a Technical Career Fair on May 28, 2026, taking place at the conclusion of the Robotics Summit & Expo. This event will connect robotics and AI talent with leading companies actively […]",
@@ -1513,7 +1509,7 @@
     },
     {
       "date": "TBD",
-      "title": "2 events, 28",
+      "title": "4 events, 28",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "MassRobotics is hosting a Technical Career Fair on May 28, 2026, taking place at the conclusion of the Robotics Summit & Expo. This event will connect robotics and AI talent with leading companies actively […]",
@@ -1531,11 +1527,56 @@
     },
     {
       "date": "TBD",
+      "title": "Boston Tech Week: Seaport Block Party #BosTechWeek",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "APPROVAL REQUIRED Join Foley Hoag, MassRobotics, MA AI Hub, Aethos, The Outpost and Outpost Ventures for an unforgettable evening celebrating the vibrant communities shaping Boston's technology landscape. As robotics and […]",
+      "link": "https://www.massrobotics.org/event/boston-tech-week-seaport-block-party-bostechweek/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Physical AI Fellowship Happy Hour",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Physical AI Fellowship Happy Hour - Private ​Join us for an evening of cold beers and warm conversations at Harpoon Brewery in Boston's Seaport. We're bringing together VCs, promising robotics […]",
+      "link": "https://www.massrobotics.org/event/physical-ai-fellowship-happy-hour/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 29",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "APPROVAL REQUIRED Join us at MassRobotics during Boston Tech Week for an exclusive information session on Friday, May 29th from 10:00 - noon. Whether you're building your first prototype or […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-05-29/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 29",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "APPROVAL REQUIRED Join us at MassRobotics during Boston Tech Week for an exclusive information session on Friday, May 29th from 10:00 - noon. Whether you're building your first prototype or […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-05-29/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Inside MassRobotics: Open House for Startups – #BOSTechWeek",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "APPROVAL REQUIRED Join us at MassRobotics during Boston Tech Week for an exclusive information session on Friday, May 29th from 10:00 - noon. Whether you're building your first prototype or […]",
+      "link": "https://www.massrobotics.org/event/inside-massrobotics-open-house-for-startups-bostechweek/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Greentown Labs",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Greentown Labs prides itself on being a convener of the climatetech ecosystem, both within and across the cities we call home.",
-      "link": "https://greentownlabs.com/climatetech-summit-2026/",
+      "link": "#primary",
       "time": "TBD"
     },
     {
@@ -4438,6 +4479,843 @@
     },
     {
       "date": "TBD",
+      "title": "UX Design Hackathon with UX Woman",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/ux-design-hackathon-with-ux-woman-tickets-1980891134708?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "DreamVenture Hackathon",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/dreamventure-hackathon-tickets-1984933793409?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Second Axis Hackathon Boston #3",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/second-axis-hackathon-boston-3-tickets-1988250609094?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Second Axis Hackathon NYC #2",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/second-axis-hackathon-nyc-2-tickets-1988250880907?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Find a Cofounder, Help or Join a Startup",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/find-a-cofounder-help-or-join-a-startup-tickets-1988800189905?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "VibeCode Victory Games #2",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/vibecode-victory-games-2-tickets-1987314030763?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Master the Art of Buying, Selling & Scaling Startups Successfully!",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/master-the-art-of-buying-selling-scaling-startups-successfully-tickets-1979663439639?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Music Theory Pedagogies Reimagined, July 6-9",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/music-theory-pedagogies-reimagined-july-6-9-registration-1983998025502?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Build Your First Successful AI SaaS Startup Today! - Workshop",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/build-your-first-successful-ai-saas-startup-today-workshop-tickets-887031724767?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Meet Your Co-Founder in Boston | Startup Networking Event",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/meet-your-co-founder-in-boston-startup-networking-event-tickets-1988216145011?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Ocean Conservation Hackathon",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/ocean-conservation-hackathon-tickets-1287367834849?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup Founder Night: Where Ideas Meet | Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/startup-founder-night-where-ideas-meet-boston-tickets-1986578253032?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Founders Pitch & Networking Night in Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/founders-pitch-networking-night-in-boston-tickets-1987670496963?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Breaking the Ice: Rootless Social Tech Founders Mixer",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/breaking-the-ice-rootless-social-tech-founders-mixer-tickets-1988801290196?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Copy of Startup Pitch & Networking in Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/copy-of-startup-pitch-networking-in-boston-tickets-1988304555449?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Investor Connect: Pitch & Networking — Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/investor-connect-pitch-networking-boston-tickets-1987772215205?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup Pitch & Networking in Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/startup-pitch-networking-in-boston-tickets-1986913865859?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tavern Crawl",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/tavern-crawl-tickets-1980900287083?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ChatGPT at Work: 1 Day Beginner to Intermediate Course in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.sg/e/chatgpt-at-work-1-day-beginner-to-intermediate-course-in-boston-ma-tickets-1977587728130?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "SWB: Kink is Resistance",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/swb-kink-is-resistance-tickets-1985616694986?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1. Comedy shows",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2. Concert",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3. Mothers day",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "5. Job fair",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "6. Live music",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "7. Kentucky derby",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "8. April",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "9. Drag",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "10. Cinco de mayo party",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "11. Wellness",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "12. Rave party",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/d/ma--boston/hackathon/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Navigate the Tech Job Market & Get Hired Faster",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Wed, May 27, 7:00 PM PDT",
+      "link": "https://www.eventbrite.com/e/navigate-the-tech-job-market-get-hired-faster-tickets-1988592116552?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Global Summit on Tech-Facilitated Gender-Based Violence",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Tue, Jun 9, 9:00 AM GMT+1",
+      "link": "https://www.eventbrite.com/e/the-global-summit-on-tech-facilitated-gender-based-violence-tickets-1987691643212?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Marketing for Long Sales Cycles - The CMO Scoop (episode 13)",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/marketing-for-long-sales-cycles-the-cmo-scoop-episode-13-tickets-1989009867055?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Ai Tech Mixer Boston 2026",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Thu, Jun 25, 6:00 PM",
+      "link": "https://www.eventbrite.com/e/ai-tech-mixer-boston-2026-tickets-1988112558180?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tech Essentials for Teens: 1 Day Learning Course in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Wed, May 27, 9:00 AM + 1 more",
+      "link": "https://www.eventbrite.sg/e/tech-essentials-for-teens-1-day-learning-course-in-boston-ma-tickets-1978369461315?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Tech & Finance Networking Event",
+      "source": "Eventbrite",
+      "tag": "networking",
+      "desc": "Fri, May 29, 7:00 PM",
+      "link": "https://www.eventbrite.ca/e/boston-tech-finance-networking-event-tickets-1985449126785?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Tech Mixer and Social (Tech / AI / Data / IT) ✨",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Fri, May 15, 5:30 PM + 32 more",
+      "link": "https://www.eventbrite.com/e/boston-tech-mixer-and-social-tech-ai-data-it-tickets-1986016319273?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "OutGeek Women in Tech - Boston Team Ticket",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Thu, Sep 24, 6:00 PM",
+      "link": "https://www.eventbrite.com/e/outgeek-women-in-tech-boston-team-ticket-tickets-1983113172884?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BVS' Summer Biotech Community Celebration at Tech Square, Cambridge",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Thu, Jun 4, 4:00 PM",
+      "link": "https://www.eventbrite.com/e/bvs-summer-biotech-community-celebration-at-tech-square-cambridge-tickets-1987542066825?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "IoT Innovation Days",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/iot-innovation-days-tickets-1988840901675?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tech Networking Event by Ascent Valley in Boston",
+      "source": "Eventbrite",
+      "tag": "networking",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/tech-networking-event-by-ascent-valley-in-boston-tickets-1986578256041?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Health Innovation Night on LongevityTech",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Thu, May 28, 5:30 PM",
+      "link": "https://www.eventbrite.com/e/boston-health-innovation-night-on-longevitytech-registration-1981977740776?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "TECHSPO Boston 2026 Technology Expo (Internet ~ AdTech ~ MarTech)",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/techspo-boston-2026-technology-expo-internet-adtech-martech-tickets-1653535903399?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Tech Week: Networking Event by Ascent Valley",
+      "source": "Eventbrite",
+      "tag": "networking",
+      "desc": "Wed, May 27, 7:00 PM",
+      "link": "https://www.eventbrite.com/e/boston-tech-week-networking-event-by-ascent-valley-tickets-1986579593040?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tech Creators Brunch Club - #BOSTechWeek",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Wed, May 27, 11:00 AM",
+      "link": "https://www.eventbrite.ch/e/tech-creators-brunch-club-bostechweek-tickets-1988019722506?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tech and Business Networking | Elevating Your Potential - Boston",
+      "source": "Eventbrite",
+      "tag": "networking",
+      "desc": "Wed, Jun 3, 6:00 PM",
+      "link": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-boston-tickets-1987100508111?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Technical Writing for Non-Technical Roles – 1 Day Course in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Mon, May 18, 9:00 AM + 1 more",
+      "link": "https://www.eventbrite.sg/e/technical-writing-for-non-technical-roles-1-day-course-in-boston-ma-tickets-1980068975608?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Dorchester - Tech with James",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/dorchester-tech-with-james-tickets-1988863938579?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AWS Basics for Tech Professionals: 1 Day Training in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Fri, May 15, 9:00 AM + 1 more",
+      "link": "https://www.eventbrite.sg/e/aws-basics-for-tech-professionals-1-day-training-in-boston-ma-tickets-1975262674833?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "TechSpecialists TechConnect: Accelerate Your Career with Online Networking - Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/techspecialists-techconnect-accelerate-your-career-with-online-networking-boston-tickets-1988827401295?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Philosophy of Brain-Computer Interfaces",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Going fast",
+      "link": "https://www.eventbrite.com/e/the-philosophy-of-brain-computer-interfaces-tickets-1983422685645?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Redesign vs Refresh: How to Make the Right Call Before Committing Budget",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/redesign-vs-refresh-how-to-make-the-right-call-before-committing-budget-tickets-1988983724863?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "How to Communicate Up, Down, and Across an Organization.",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.ca/e/how-to-communicate-up-down-and-across-an-organization-tickets-1988939487548?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Women in Tech Global Conference 2026",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Tuesday at 9:00 AM EDT",
+      "link": "https://www.eventbrite.com/e/women-in-tech-global-conference-2026-tickets-966259296567?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startups Demos & Networking Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/startups-demos-networking-boston-tickets-1987670493954?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startups & Investors Pitch Night Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/startups-investors-pitch-night-boston-tickets-1987670490945?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup & Business Networking in Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/startup-business-networking-in-boston-tickets-1988216143005?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup Networking Boston: Founders, Investors & Talent Mixer",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/startup-networking-boston-founders-investors-talent-mixer-tickets-1987624000892?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Idea-to-Launch Startup Accelerator: 1 Day Workshop in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Thursday at 9:00 AM + 1 more",
+      "link": "https://www.eventbrite.sg/e/idea-to-launch-startup-accelerator-1-day-workshop-in-boston-ma-tickets-1977688243775?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup Pitch Event Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/startup-pitch-event-boston-tickets-1249093896469?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MIT $100K Entrepreneurship Competition 2026: Launch (Promo: LAUNCH26)",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/mit-100k-entrepreneurship-competition-2026-launch-promo-launch26-tickets-1985142484610?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup Skills That Matter: 1 Day Training in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Thu, Jun 4, 9:00 AM",
+      "link": "https://www.eventbrite.sg/e/startup-skills-that-matter-1-day-training-in-boston-ma-tickets-1980367686059?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Mastery of Networking Monthly - Everyday AI for Entrepreneurs",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Going fast",
+      "link": "https://www.eventbrite.ca/e/mastery-of-networking-monthly-everyday-ai-for-entrepreneurs-tickets-1987997715683?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building AI Robots with NVIDIA Isaac and Groot (Cohort 2)",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Going fast",
+      "link": "https://www.eventbrite.co.uk/e/building-ai-robots-with-nvidia-isaac-and-groot-cohort-2-tickets-1983235574992?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Leveraging Robotics for Success | Boston",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Wed, May 20, 1:00 PM + 11 more",
+      "link": "https://www.eventbrite.com/e/leveraging-robotics-for-success-boston-tickets-1047742846057?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Melrose Kitchen & Sustainability Tour",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Sun, May 17, 1:00 PM",
+      "link": "https://www.eventbrite.com/e/melrose-kitchen-sustainability-tour-tickets-1981897783622?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building Bots Building Futures",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/building-bots-building-futures-tickets-1989096967575?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Robot Hackers Monthly Meeting",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Thu, Jun 11, 7:00 PM + 2 more",
+      "link": "https://www.eventbrite.com/e/boston-robot-hackers-monthly-meeting-tickets-1489641520889?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Artificial Intelligence & Automation 1 Day Workshop |Lowell, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/artificial-intelligence-automation-1-day-workshop-lowell-ma-tickets-1980247528665?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Teen STEM Accelerator: 1 Day Skill Workshop in Boston",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Wed, Jun 10, 9:00 AM",
+      "link": "https://www.eventbrite.sg/e/teen-stem-accelerator-1-day-skill-workshop-in-boston-tickets-1978364133379?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cambridge Robotics & Coding STEM Hub FREE Pass!",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Today at 1:00 PM + 22 more",
+      "link": "https://www.eventbrite.com/e/cambridge-robotics-coding-stem-hub-free-pass-tickets-1680533714579?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Bridging the Gap: AI Robotics & the Future of Clinical Deployment in U.S.",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Fri, May 29, 5:30 PM",
+      "link": "https://www.eventbrite.co.uk/e/bridging-the-gap-ai-robotics-the-future-of-clinical-deployment-in-us-tickets-1987570230062?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Summer Camp Gan Israel Shaloh House",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Mon, Jun 29, 9:00 AM",
+      "link": "https://www.eventbrite.com/e/summer-camp-gan-israel-shaloh-house-tickets-1984326615323?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Klinikum Series+/ Intro to Digital Health (For Startups)",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Tue, Jun 30, 7:00 PM",
+      "link": "https://www.eventbrite.com/e/klinikum-series-intro-to-digital-health-for-startups-tickets-1988895569187?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2026 Summer AI+X Meetup @ The Engine",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/2026-summer-aix-meetup-the-engine-tickets-1988887211188?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Hands On Basic Electronics",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Tue, Jun 2, 7:00 PM",
+      "link": "https://www.eventbrite.com/e/hands-on-basic-electronics-tickets-692018053627?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "iMotions Technology Open House",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Thu, May 28, 4:30 PM",
+      "link": "https://www.eventbrite.com/e/imotions-technology-open-house-tickets-1987839677988?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The #1 Ice Cream Workshop in Boston & Cambridge (Limited Spots!)",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sales Ended",
+      "link": "https://www.eventbrite.com/e/the-1-ice-cream-workshop-in-boston-cambridge-limited-spots-tickets-1986687344327?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Psychological & Financial Impact of Scams and How to Recover + GIVEAWAY",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Thu, May 28, 7:00 PM EDT",
+      "link": "https://www.eventbrite.ca/e/the-psychological-financial-impact-of-scams-and-how-to-recover-giveaway-tickets-1988791280256?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Rest to Rise: Where Recovery Becomes Your Competitive Advantage",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Tue, May 19, 7:00 AM CDT",
+      "link": "https://www.eventbrite.com/e/rest-to-rise-where-recovery-becomes-your-competitive-advantage-tickets-1988959487368?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Integrating Blockchain and AI (Artificial Intelligence) | Boston",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/integrating-blockchain-and-ai-artificial-intelligence-boston-tickets-1969969181853?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Implementation in Business | Boston",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Wed, May 27, 1:00 PM + 11 more",
+      "link": "https://www.eventbrite.com/e/ai-implementation-in-business-boston-tickets-1026632865537?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Harnessing AI for Marketing Innovation | Boston",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/harnessing-ai-for-marketing-innovation-boston-tickets-1048458185657?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Advanced AI & Machine Learning – 2 Day Training in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/advanced-ai-machine-learning-2-day-training-in-boston-ma-tickets-1987589373320?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Launch Your Own Successful AI App | AI Startup | Workshop 2026",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/launch-your-own-successful-ai-app-ai-startup-workshop-2026-tickets-892926205317?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Tools for Modern Education: 1 Day Training in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Fri, May 15, 9:00 AM + 1 more",
+      "link": "https://www.eventbrite.sg/e/ai-tools-for-modern-education-1-day-training-in-boston-ma-tickets-1979841011762?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Leadership in the Age of AI: 1 Day Training in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Wed, Jun 3, 9:00 AM",
+      "link": "https://www.eventbrite.sg/e/leadership-in-the-age-of-ai-1-day-training-in-boston-ma-tickets-1978370587684?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Skills for Healthcare: 1 Day Beginner to Intermediate Course, Boston, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Mon, Jun 1, 9:00 AM + 2 more",
+      "link": "https://www.eventbrite.sg/e/ai-skills-for-healthcare-1-day-beginner-to-intermediate-course-boston-ma-tickets-1978776213923?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Money In Focus - Intelligence, Innovation & Investments Summit",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sales end soon",
+      "link": "https://www.eventbrite.com/e/money-in-focus-intelligence-innovation-investments-summit-tickets-1985595892766?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Become AI Project Ready – PMI-CPMAI Training Program in Arlington, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Tuesday at 9:00 AM + 1 more",
+      "link": "https://www.eventbrite.com/e/become-ai-project-ready-pmi-cpmai-training-program-in-arlington-ma-tickets-1985727305826?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "PMI-CPMAI® Weekend Training – Project in AI Certification in Arlington, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sat, May 16, 9:00 AM + 1 more",
+      "link": "https://www.eventbrite.com/e/pmi-cpmai-weekend-training-project-in-ai-certification-in-arlington-ma-tickets-1986054910701?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Empowering Modern HR Teams with AI | Boston",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Wed, May 20, 1:00 PM + 17 more",
+      "link": "https://www.eventbrite.com/e/empowering-modern-hr-teams-with-ai-boston-tickets-1978872988378?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Boston",
       "source": "Luma",
       "tag": "talk",
@@ -4448,24 +5326,6 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Startup Resilience in Climate Tech: Everyone has a plan until they get punched in the face",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Understanding the Carbon Market: A Simulation with Creative Carbon Innovations",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4619,6 +5479,15 @@
     {
       "date": "TBD",
       "title": "Independence, Engineered: Hardware for Aging Well",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Harvard Alumni in Tech Alumni Day Meetup in Cambridge, MA",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
