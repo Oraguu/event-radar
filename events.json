@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-05-10T10:56:35.938022",
+  "scraped_at": "2026-05-11T12:35:49.649011",
   "event_count": 504,
   "events": [
-    {
-      "date": "2026-05-10",
-      "title": "MIT Chamber Music Society Concert",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by the MIT Chamber Music Society Recital Series Program TBD Please note that this event is in-person only and will not be livestreamed.",
-      "link": "https://calendar.mit.edu/event/mit-chamber-music-society-concert-54397s",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "MITHAS presents: Ramakrishnan Murthy (Carnatic Vocal)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "An Exquisite Evening of Carnatic Music Mark your calendars for 10th May, 2026, as MITHAS presents the renowned Carnatic vocalist, Ramakrishnan Murthy, in a mesmerizing performance. Set to take stage at 4 p.m., this event promises to be a unique blend of classical Tamil music, promising an unforgetta",
-      "link": "https://calendar.mit.edu/event/mithas-presents-ramakrishnan-murthy",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-05-10",
-      "title": "MIT Gala 2026",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "On the first Monday of May, celebrities and fashionistas gather each year in New York City for the MET Gala. And on a Sunday evening each spring in Cambridge, MIT students now gather for their own fashion event: The MIT Gala. Where fashion meets fabrication, the MIT Gala returns as a one-of-a-kind c",
-      "link": "https://calendar.mit.edu/event/mit-gala-2026",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
     {
       "date": "2026-05-11",
       "title": "XtalPi AI for Science Fellowship Symposium",
@@ -46,8 +16,8 @@
       "date": "2026-05-11",
       "title": "NeuroLunch: Kohleman Swift (Fan Lab) & Yibei Chen (Ghosh Lab)",
       "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Yibei Chen (Ghosh Lab) Title: Behavior and Autonomic Physiology Characterize Brain State Dynamics During Naturalistic Gameplay Abstract: How does the brain organize continuous, goal-directed behavior? Most brain state research relies on resting-state or passive paradigms where behavior is a",
+      "tag": "ai",
+      "desc": "Speaker: Yibei Chen (Ghosh Lab) Title: Behavior and event history predict brain-state dynamics during continuous gameplay Abstract: Spontaneous behavior and recent event history explain a substantial fraction of neural variance in animal systems neuroscience. Whether human brain dynamics under conti",
       "link": "https://calendar.mit.edu/event/neurolunch-kohleman-swift-fan-lab-yibei-chen-ghosh-lab",
       "time": "TBD",
       "location": "Building 46"
@@ -205,16 +175,6 @@
     },
     {
       "date": "2026-05-12",
-      "title": "Eric Wang (Seethapathi Lab) ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Cog Lunch: Eric Wang May 12, 2026 12pm Location: 46-3189 Zoom: TBD Speaker: Eric Wang Affiliation: Seethapathi Lab Title: TBD Abstract: TBD",
-      "link": "https://calendar.mit.edu/event/eric-wang-seethapathi-lab",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-05-12",
       "title": "Fulbright Spain Webinar",
       "source": "MIT",
       "tag": "talk",
@@ -232,6 +192,16 @@
       "link": "https://calendar.mit.edu/event/stay-cool-through-finals-641",
       "time": "TBD",
       "location": "W20 Plaza\t\t\t\t\t\t"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Wei-Chen (Eric) Wang (Seethapathi Lab) & Jeonghwan (Jay) Lee (Seethapathi Lab)",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Cog Lunch: Wei-Chen (Eric) Wang (Seethapathi Lab) & Jeonghwan (Jay) Lee (Seethapathi Lab) May 12, 2026 12pm Location: 46-3189 Zoom: https://mit.zoom.us/j/94900932731 Speaker: Jeonghwan (Jay) Lee Affiliation: Seethapathi Lab Title: How Human-Like is Generative AI for Human Movement? Abstract: Motor b",
+      "link": "https://calendar.mit.edu/event/eric-wang-seethapathi-lab",
+      "time": "TBD",
+      "location": "Building 46"
     },
     {
       "date": "2026-05-12",
@@ -392,6 +362,16 @@
       "link": "https://calendar.mit.edu/event/dertouzos-distinguished-lecture-the-oak-architecture-a-vision-of-superintelligence-from-experience",
       "time": "TBD",
       "location": "Building 32"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "HSA Farewell",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "This is our annual review of this year's activities and elections of the new board for the next academic year.",
+      "link": "https://calendar.mit.edu/event/hsa-farewell-3810",
+      "time": "TBD",
+      "location": "Building 2"
     },
     {
       "date": "2026-05-13",
@@ -649,6 +629,26 @@
       "desc": "Designed for Chief Automation Officers, Heads of Enterprise AI and Transformation Leaders scaling automation across the organisation. From cognitive systems to Physical AI, discover how global enterprises are redesigning operations […]",
       "link": "https://www.massrobotics.org/event/intelligent-automation-and-physical-ai-summit/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "Neuroscience of Democracy Symposium",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Neuroscience of Democracy Symposium The Picower Institute's Biennial Spring Symposium, in conjunction with the Freedom Together Foundation Date: Tuesday, May 19, 2026Time: 9:00am - 5:00pmLocation: Singleton Auditorium (46-3002), Third Floor of MIT Building 46Event is free and open to all but registr",
+      "link": "https://calendar.mit.edu/event/neuroscience-of-democracy-symposium",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-05-19",
+      "title": "SWAP: Plants & Seeds",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Embrace springtime with a plant, seed, and planting-related supplies swap! Feel free to drop off plants, seeds, ceramic plant pots, or lightly used items like trowels or gardening gloves. No need to bring items to participate. No chemicals or fertilizers, please. This event is presented in collabora",
+      "link": "https://calendar.mit.edu/event/swap-plants-seeds",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-05-19",
@@ -4476,6 +4476,15 @@
     },
     {
       "date": "TBD",
+      "title": "FigMatcha: Latte Lab x Figma @ MIT x UA",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "May Boston Marketing & Creative Meetup",
       "source": "Luma",
       "tag": "talk",
@@ -4495,6 +4504,15 @@
     {
       "date": "TBD",
       "title": "Boston Alt Cloud Meetup (May 2026)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Mindful Makers Hack #11 - Gratitude",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4603,24 +4621,6 @@
     {
       "date": "TBD",
       "title": "Harvard Alumni in Tech Alumni Day Meetup in Cambridge, MA",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "New to Boston Party",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "MAUM Market at Boston Seaport",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
