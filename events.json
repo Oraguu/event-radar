@@ -1,57 +1,7 @@
 {
-  "scraped_at": "2026-05-19T12:35:15.692841",
-  "event_count": 476,
+  "scraped_at": "2026-05-20T12:17:07.180785",
+  "event_count": 479,
   "events": [
-    {
-      "date": "2026-05-19",
-      "title": "Neuroscience of Democracy Symposium",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Neuroscience of Democracy Symposium The Picower Institute's Biennial Spring Symposium, in conjunction with the Freedom Together Foundation Date: Tuesday, May 19, 2026Time: 8:45am - 5:00pmLocation: Singleton Auditorium (46-3002), Third Floor of MIT Building 46Registration is closed. Lincoln’s famous ",
-      "link": "https://calendar.mit.edu/event/neuroscience-of-democracy-symposium",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "Sailing vs. Open Fleet Race National Championship",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Tampa, FL",
-      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-19",
-      "title": "SWAP: Plants & Seeds",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Embrace springtime with a plant, seed, and planting-related supplies swap! Feel free to drop off plants, seeds, ceramic plant pots, or lightly used items like trowels or gardening gloves. No need to bring items to participate. No chemicals or fertilizers, please. This event is presented in collabora",
-      "link": "https://calendar.mit.edu/event/swap-plants-seeds",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "Author Talk: Conjuring the Void",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Inescapable and mysterious, black holes have long captured the imagination of visual artists, even before their existence was first confirmed in 1971. In Conjuring the Void, Gamwell explores this fascinating intersection of art and science Join us for an engaging evening with author Lynn Gamwell as ",
-      "link": "https://calendar.mit.edu/event/author-talk-conjuring-the-void",
-      "time": "TBD",
-      "location": "MIT Museum"
-    },
-    {
-      "date": "2026-05-19",
-      "title": "CommLab Workshop Series: Automating Your Data Visualization Process with Python",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to boost your skills in showcasing data? Join the CommLab’s Python Data Visualization workshop this coming May to expand your data visualization toolkit and streamline your illustration process with […] The post CommLab Workshop Series: Automating Your Data Visualization Process with Python ",
-      "link": "https://calendar.northeastern.edu/event/commlab-workshop-series-automating-your-data-visualization-process-with-python-4138",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-05-20",
       "title": "Bioengineering Student WIP Seminar – Summer ’26",
@@ -71,6 +21,16 @@
       "link": "https://calendar.mit.edu/event/the-k-lisa-yang-integrative-computational-neuroscience-icon-centers-symposium-self-organization-and-emergence-in-development",
       "time": "TBD",
       "location": "Building 46"
+    },
+    {
+      "date": "2026-05-21",
+      "title": "Sailing vs. Open Fleet Race National Championship",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Tampa, FL",
+      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-05-21",
@@ -150,6 +110,16 @@
       "link": "https://calendar.mit.edu/event/mithas-presents-abhishek-raghuram-and-shashank",
       "time": "TBD",
       "location": "Building W18"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "Art/Science lunch with Felice Frankel (5/26 @12:30p in 68-121) hosted by the MIT Biology Artists Resource Collective",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "MIT Research Scientist and Author/Photographer Felice Frankel will share her experience crafting stunning figures for science communication and lead a discussion addressing AI in imaging and graphic design. Please feel free to bring family and friends but let us know in advance for food/building acc",
+      "link": "https://calendar.mit.edu/event/artscience-lunch-with-felice-frankel-526-1230p-in-68-121-hosted-by-the-mit-biology-artists-resource-collective",
+      "time": "TBD",
+      "location": "Building 68"
     },
     {
       "date": "2026-05-26",
@@ -412,6 +382,16 @@
     },
     {
       "date": "2026-06-05",
+      "title": "This Place Doesn’t Exist",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "A play about love in the valley of gold... MIT Theater Arts and TEATRA present THIS PLACE DOESN'T EXIST by Alejandra Vieira translated by Lizzie Fox directed by Monica Risi Julia and Ernesto meet each other in a brothel deep in one of the most dangerous valleys of the Amazon, the Valley of VRAEM (Va",
+      "link": "https://calendar.mit.edu/event/this-place-doesnt-exist",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
+      "date": "2026-06-05",
       "title": "AI in Action 2026: Business Summit",
       "source": "Northeastern",
       "tag": "ai",
@@ -419,6 +399,16 @@
       "link": "https://calendar.northeastern.edu/event/ai-in-action-2026-business-summit",
       "time": "TBD",
       "location": "Roux Institute"
+    },
+    {
+      "date": "2026-06-06",
+      "title": "This Place Doesn’t Exist",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "A play about love in the valley of gold... MIT Theater Arts and TEATRA present THIS PLACE DOESN'T EXIST by Alejandra Vieira translated by Lizzie Fox directed by Monica Risi Julia and Ernesto meet each other in a brothel deep in one of the most dangerous valleys of the Amazon, the Valley of VRAEM (Va",
+      "link": "https://calendar.mit.edu/event/copy-of-this-place-doesnt-exist",
+      "time": "TBD",
+      "location": "Building W97"
     },
     {
       "date": "2026-06-09",
@@ -531,6 +521,16 @@
       "location": "Kendall/MIT Open Space"
     },
     {
+      "date": "2026-06-13",
+      "title": "Cambridge Youth Gamelan & Special Guests",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Cambridge Youth Gamelan celebrates their eighth concert season together with special guest, Putu and Ayu, as well as Gamelan Sleeping Fox. Cambridge Youth Gamelan celebrates their eighth concert season with a special featuring our dear friends - Putu Tangkas Adi Hiranmayena & Dewa Ayu Eka Putri - as",
+      "link": "https://calendar.mit.edu/event/cambridge-youth-gamelan",
+      "time": "TBD",
+      "location": "Building W18"
+    },
+    {
       "date": "2026-06-16",
       "title": "2026 Edward M. Scolnick Prize Lecture in Neuroscience with Liqun Luo ",
       "source": "MIT",
@@ -638,6 +638,26 @@
       "tag": "talk",
       "desc": "Learn how to craft a compelling community or service statement. Get an expert perspective on how to approach the statement and strategies to participate in authentic experiences that showcase your contributions.",
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-community-and-service-statements",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Faculty Job Search Series: Teaching Statements",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "How can you communicate your commitment to quality teaching that facilitates learning? How should you describe your pedagogical philosophy? If you’re writing a teaching statement for your faculty job applications, you might be asking yourself questions like these. Join Ben Hansberry from MIT’s Teach",
+      "link": "https://calendar.mit.edu/event/faculty-job-search-series-teaching-statements-4817",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-20",
+      "title": "FAB26 - Volunteer opportunity",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "The Fab Foundation is inviting students from Boston and Cambridge universities to volunteer at FAB26 Boston: the International Fab Lab Conference & Symposium, taking place July 27–31, 2026, sponsored by MIT's Center for Bits and Atoms. FAB26 will bring together 1,000+ makers, innovators, educators, ",
+      "link": "https://calendar.mit.edu/event/fab26-volunteer-opportunity",
       "time": "TBD",
       "location": ""
     },
@@ -1265,7 +1285,7 @@
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Greentown Labs prides itself on being a convener of the climatetech ecosystem, both within and across the cities we call home.",
-      "link": "#primary",
+      "link": "https://greentownlabs.com/battery-lab/",
       "time": "TBD"
     },
     {
@@ -4186,15 +4206,6 @@
     },
     {
       "date": "TBD",
-      "title": "Genspark Claw World Tour - Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Bio + ML Coworking",
       "source": "Luma",
       "tag": "talk",
@@ -4267,6 +4278,15 @@
     },
     {
       "date": "TBD",
+      "title": "Generative Human",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Infra Happy Hour @ Boston Tech Week",
       "source": "Luma",
       "tag": "talk",
@@ -4297,6 +4317,15 @@
       "title": "Robotics & Hard Tech Demo Night at RISE Robotics",
       "source": "Luma",
       "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Life Sciences AI on Tap - #BOSTechWeek",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4348,11 +4377,11 @@
     },
     {
       "date": "TBD",
-      "title": "Meet the Accelerators & Incubators of Boston's Startup Scene",
+      "title": "Boston Hardware Meetup Happy Hour",
       "source": "Luma",
-      "tag": "startup",
+      "tag": "manufacturing",
       "desc": "",
-      "link": "https://lu.ma/boston",
+      "link": "https://lu.ma/bos-hardware-meetup",
       "time": "TBD"
     }
   ],
