@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-05-20T12:17:07.180785",
-  "event_count": 479,
+  "scraped_at": "2026-05-21T12:39:28.751121",
+  "event_count": 481,
   "events": [
-    {
-      "date": "2026-05-20",
-      "title": "Bioengineering Student WIP Seminar – Summer ’26",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Work in Progress (WIP) seminars with Bioengineering PhD students. Weekly in 121 Snell Library from 12-1pm on Wednesdays during Summer 1. All are welcome! PhD Candidate Faculty Advisor MAY 5/6 […] The post Bioengineering Student WIP Seminar – Summer ’26 appeared first on Northeastern University Colle",
-      "link": "https://calendar.northeastern.edu/event/bioengineering-student-wip-seminar-summer-26-6097",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-05-21",
       "title": "2026 Yang ICoN Center Symposium: Self-Organization and Emergence in Development",
@@ -120,6 +110,16 @@
       "link": "https://calendar.mit.edu/event/artscience-lunch-with-felice-frankel-526-1230p-in-68-121-hosted-by-the-mit-biology-artists-resource-collective",
       "time": "TBD",
       "location": "Building 68"
+    },
+    {
+      "date": "2026-05-26",
+      "title": "30 Years Since the Telecommunications Act: A Summit on Promise, Progress, and the Work Ahead",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Please join us for a conversation with Massachusetts Senator Ed Markey on \"Thirty Years Since the Telecommunications Act: A Summit on Promise, Progress, and the Work Ahead.\" Senator Markey was co-author of the Telecommunications Act, a law that helped usher in the transformation of communications te",
+      "link": "https://calendar.mit.edu/event/30-years-since-the-telecommunications-act-a-summit-on-promise-progress-and-the-work-ahead",
+      "time": "TBD",
+      "location": "Building E14: Media Lab"
     },
     {
       "date": "2026-05-26",
@@ -409,6 +409,26 @@
       "link": "https://calendar.mit.edu/event/copy-of-this-place-doesnt-exist",
       "time": "TBD",
       "location": "Building W97"
+    },
+    {
+      "date": "2026-06-07",
+      "title": "End of Academic Year Paella 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "We invite you to celebrate the end of the academic year and graduation with Spain@MIT. We will cook a large paella and provide other homemade typical Spanish food. Come enjoy the start of the summer with us! Please RSVP to secure a spot. When: Sunday June 7th, starting at 1:30pm Where: Tang Hall BBQ",
+      "link": "https://calendar.mit.edu/event/end-of-academic-year-paella-2026",
+      "time": "TBD",
+      "location": "Tang Hall BBQ Pits (550 Memorial Dr, Cambridge, MA)"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Finding Balance in Academia 2026: Navigating Uncertainty and Cultivating Joy",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "We are thrilled to invite you to our third annual mini-conference, \"Finding Balance in Academia: Navigating Uncertainty and Cultivating Joy\" This event is a departmental and school collaborative effort between Aeronautics and Astronautics, Electrical Engineering and Computer Science, Chemical Engine",
+      "link": "https://calendar.mit.edu/event/finding-balance-in-academia-2026-navigating-uncertainty-and-cultivating-joy",
+      "time": "TBD",
+      "location": "Koch Institute Conference Room"
     },
     {
       "date": "2026-06-09",
@@ -714,19 +734,10 @@
     },
     {
       "date": "TBD",
-      "title": "[CSL Seminar] David Held - Precise and Generalizable Robot Manipulation",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Title:Precise and Generalizable Robot ManipulationAbstract:Robots in factories are still largely limited to structured environments with known object models. How can we bring robots into the more diverse, unstructured settings of our daily lives, where objects may vary widely in shape and appearance",
-      "link": "https://www.csail.mit.edu/event/csl-seminar-david-held-precise-and-generalizable-robot-manipulation",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "This talk was rescheduled to May 21.Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear. The past few years have seen a flurry of activity around private aggregation: practical c",
+      "desc": "Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear. The past few years have seen a flurry of activity around private aggregation: practical constructions, draft IETF standards, ",
       "link": "https://www.csail.mit.edu/event/lets-aggregate-towards-making-private-telemetry-ubiquitous-tls",
       "time": "TBD"
     },
@@ -737,6 +748,15 @@
       "tag": "ai",
       "desc": "Computer Engineering is undergoing significant transformations, driven by escalating demands in artificial intelligence, cybersecurity, energy efficiency, and fundamental shifts in technology scaling. For decades, the fundamental computing stack—the abstractions and interfaces that define our hardwa",
       "link": "https://www.csail.mit.edu/event/arch-seminar-liquid-machine-15-year-journey-towards-software-defined-everything",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Testing, Credible Compilation, and Verification in the Axon Verified Compiler in Lean and Claude Code",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Virtual",
+      "link": "https://www.csail.mit.edu/event/testing-credible-compilation-and-verification-axon-verified-compiler-lean-and-claude-code",
       "time": "TBD"
     },
     {
@@ -1285,7 +1305,7 @@
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Greentown Labs prides itself on being a convener of the climatetech ecosystem, both within and across the cities we call home.",
-      "link": "https://greentownlabs.com/battery-lab/",
+      "link": "#primary",
       "time": "TBD"
     },
     {
@@ -4206,42 +4226,6 @@
     },
     {
       "date": "TBD",
-      "title": "Bio + ML Coworking",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The Blueprint Showcase",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Founders, This Room Is Yours",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Book Launch: Andy Woodruff on \"Boston in 50 Maps\"",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Girls Night Out: Let’s Dance 💃🏽🪩",
       "source": "Luma",
       "tag": "talk",
@@ -4296,6 +4280,15 @@
     },
     {
       "date": "TBD",
+      "title": "Plus-One Party™: Boston [admits 2]",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "IIA AI Showcase @ WHOOP",
       "source": "Luma",
       "tag": "ai",
@@ -4317,6 +4310,15 @@
       "title": "Robotics & Hard Tech Demo Night at RISE Robotics",
       "source": "Luma",
       "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tech Week - Agentic AI in production: retrieval, drift, and what actually works",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4350,6 +4352,15 @@
     },
     {
       "date": "TBD",
+      "title": "Climate Picnic",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Boston Social Conversations - June Event",
       "source": "Luma",
       "tag": "talk",
@@ -4371,6 +4382,15 @@
       "title": "Harvard Alumni in Tech Alumni Day Meetup in Cambridge, MA",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Meet the Accelerators & Incubators of Boston's Startup Scene",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
