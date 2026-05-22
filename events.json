@@ -1,57 +1,7 @@
 {
-  "scraped_at": "2026-05-21T12:39:28.751121",
-  "event_count": 481,
+  "scraped_at": "2026-05-22T12:13:52.458688",
+  "event_count": 478,
   "events": [
-    {
-      "date": "2026-05-21",
-      "title": "2026 Yang ICoN Center Symposium: Self-Organization and Emergence in Development",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "2026 Yang ICoN Center Symposium: Self-Organization and Emergence in Development Date: Thursday, May 21, 2026Time: 8:45am - 5:00pm with poster session & reception to follow Location: Singleton Auditorium (46-3002, Third Floor of MIT Building 46) This is an in-person event Event is free and open to th",
-      "link": "https://calendar.mit.edu/event/the-k-lisa-yang-integrative-computational-neuroscience-icon-centers-symposium-self-organization-and-emergence-in-development",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "Sailing vs. Open Fleet Race National Championship",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Tampa, FL",
-      "link": "https://calendar.mit.edu/event/sailing-vs-womens-team-race",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-21",
-      "title": "Africa Day Celebration 2026",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Africa Day 2026 | Celebrating Unity, Resilience & Culture The African, Black American, Caribbean Employee Resource Group (ABAC ERG) is proud to present the second annual Africa Day on May 21st, 2026! Join us for an educational and celebratory experience that highlights the African continent—its iden",
-      "link": "https://calendar.mit.edu/event/africa-day-celebration-2026",
-      "time": "TBD",
-      "location": "Building 62"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "MITdesignX Demo + Pitch Day 2026",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "12 new startups emerge from MITdesignX this year. We start off Pitch and Demo Day at 1pm, giving the live audience a chance to meet with the teams and see their new products and services. A lunch buffet will be served. At 2pm, we begin our presentations with a recap of the year at MITdesignX and pit",
-      "link": "https://calendar.mit.edu/event/mitdesignx-demo-pitch-day-2026",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-05-21",
-      "title": "MITdesignX Pitch Day",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "12 new startups emerge from MITdesignX this year. Come see their venture demos and pitches in an afternoon filled with MITdesignX faces old and new. We start off Pitch and Demo Day at 1pm, giving the live audience a chance to meet with the teams and see their new products and services. A lunch buffe",
-      "link": "https://calendar.mit.edu/event/mitdesignx-pitch-day",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
     {
       "date": "2026-05-22",
       "title": "Graduate Student Lunch w/ Chemistry Graduate Officer",
@@ -531,6 +481,16 @@
       "location": "Center for Design"
     },
     {
+      "date": "2026-06-12",
+      "title": "Existential Risk, Emerging Technology, and Democracy: The Cambridge Recombinant DNA Debate, 50 Years On",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for a day of conversation and reflection on how societies govern world-changing technologies. Marking fifty years since the 1976 Cambridge recombinant DNA debate, this symposium convenes historians, scientists, policymakers, and journalists. Together, they will examine how emerging technolog",
+      "link": "https://calendar.mit.edu/event/existential-risk-emerging-technology-and-democracy-the-cambridge-recombinant-dna-debate-50-years-on",
+      "time": "TBD",
+      "location": "MIT Museum"
+    },
+    {
       "date": "2026-06-13",
       "title": "LEAP Lab: Get Your Spark",
       "source": "MIT",
@@ -680,6 +640,26 @@
       "link": "https://calendar.mit.edu/event/fab26-volunteer-opportunity",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-07-22",
+      "title": "Special Inorganic Chemistry Seminar with Professor Swadhin Mandal (",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Abstract: TBA",
+      "link": "https://calendar.mit.edu/event/special-inorganic-chemistry-seminar-with-professor-swadhin-mandal",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-30",
+      "title": "McGovern Institute Special Seminar with Joshua A. Gordon",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Thursday, July 30, 2026 Time: 12:00 – 1:00 pm Location: Building 46, Singleton Auditorium Talk Title: mPFC interneurons in spatial working memory function and dysfunction Abstract: Working memory is a core cognitive ability that is disrupted in schizophrenia and other mental illnesses. In rode",
+      "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-josh-gordon",
+      "time": "TBD",
+      "location": "Building 46"
     },
     {
       "date": "2026-09-01",
@@ -1274,29 +1254,20 @@
     },
     {
       "date": "TBD",
-      "title": "1 event 29",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "APPROVAL REQUIRED Join us at MassRobotics during Boston Tech Week for an exclusive information session on Friday, May 29th from 10:00 - noon. Whether you're building your first prototype or […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-05-29/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 29",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "APPROVAL REQUIRED Join us at MassRobotics during Boston Tech Week for an exclusive information session on Friday, May 29th from 10:00 - noon. Whether you're building your first prototype or […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-05-29/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Inside MassRobotics: Open House for Startups – #BOSTechWeek",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "APPROVAL REQUIRED Join us at MassRobotics during Boston Tech Week for an exclusive information session on Friday, May 29th from 10:00 - noon. Whether you're building your first prototype or […]",
       "link": "https://www.massrobotics.org/event/inside-massrobotics-open-house-for-startups-bostechweek/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "SOLIDWORKS Hard-Tech Mixer – #BosTechWeek",
+      "source": "MassRobotics",
+      "tag": "startup",
+      "desc": "​The SOLIDWORKS for Startups program and the 3DEXPERIENCE Lab are hosting a hard-tech mixer during Boston Tech Week! ​📢 Join us on Friday, May 29, from 6:00–9:00 PM for an […]",
+      "link": "https://www.massrobotics.org/event/solidworks-hard-tech-mixer-bostechweek/",
       "time": "TBD"
     },
     {
@@ -1319,29 +1290,11 @@
     },
     {
       "date": "TBD",
-      "title": "AI & Energy Sector Pitch Day",
-      "source": "Greentown Labs",
-      "tag": "ai",
-      "desc": "Spotlighting startups powering the AI boom or using AI to create a more resilient energy future.",
-      "link": "https://greentownlabs.com/event/ai-energy-sector-pitch-day/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Catalyst x Energy Tech Innovations with Shell & Technip Energies",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Kick off Go Make 2026, an open-innovation program with Shell and Technip Energies focused on catalytic solutions for industrial decarbonization and the energy transition!",
       "link": "https://greentownlabs.com/event/catalyst-x-energy-tech-innovations-with-shell-technip-energies/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "SAFT IoT Innovation Day",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Join us for a full day dedicated to exploring the technologies powering the next generation of connected devices!",
-      "link": "https://greentownlabs.com/event/saft-iot-innovation-day/",
       "time": "TBD"
     },
     {
@@ -1355,20 +1308,38 @@
     },
     {
       "date": "TBD",
-      "title": "Retrofit USA 2026",
-      "source": "Greentown Labs",
-      "tag": "startup",
-      "desc": "A national event focused on accelerating retrofit implementation and policy coordination across the United States!",
-      "link": "https://greentownlabs.com/event/retrofit-usa-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CATALYZE 2026",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
       "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI & Energy Sector Pitch Day",
+      "source": "Greentown Labs",
+      "tag": "ai",
+      "desc": "Spotlighting startups powering the AI boom or using AI to create a more resilient energy future.",
+      "link": "https://greentownlabs.com/event/ai-energy-sector-pitch-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "SAFT IoT Innovation Day",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join us for a full day dedicated to exploring the technologies powering the next generation of connected devices!",
+      "link": "https://greentownlabs.com/event/saft-iot-innovation-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Retrofit USA 2026",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "A national event focused on accelerating retrofit implementation and policy coordination across the United States!",
+      "link": "https://greentownlabs.com/event/retrofit-usa-2026/",
       "time": "TBD"
     },
     {
@@ -4226,15 +4197,6 @@
     },
     {
       "date": "TBD",
-      "title": "Girls Night Out: Let’s Dance 💃🏽🪩",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The End. of clinical trials as we knew them",
       "source": "Luma",
       "tag": "talk",
@@ -4391,6 +4353,15 @@
       "title": "Meet the Accelerators & Incubators of Boston's Startup Scene",
       "source": "Luma",
       "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "New to Boston Party",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
