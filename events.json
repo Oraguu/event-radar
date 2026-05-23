@@ -1,36 +1,7 @@
 {
-  "scraped_at": "2026-05-22T12:13:52.458688",
-  "event_count": 478,
+  "scraped_at": "2026-05-23T11:04:40.398506",
+  "event_count": 475,
   "events": [
-    {
-      "date": "2026-05-22",
-      "title": "Graduate Student Lunch w/ Chemistry Graduate Officer",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Come share your feedback about the chemistry graduate student experience at MIT chemistry with Professor Robert Gilliard. Pizza will be served from 12-1:30PM in the Moore Room (6-321)",
-      "link": "https://calendar.mit.edu/event/graduate-student-lunch-w-chemistry-graduate-officer",
-      "time": "TBD",
-      "location": "6-321"
-    },
-    {
-      "date": "2026-05-22",
-      "title": "WIP Dissertation Talk: Roshny Roy",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Work-In-Progress Dissertation Talk of English PhD candidate Roshny Roy, currently entitled \"Malayalis on the Map: Transnational Language, Literacy, and Third Space Practices in the Malayali Immigrant Experience\"",
-      "link": "https://calendar.northeastern.edu/event/wip-dissertation-talk-roshny-roy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-22",
-      "title": "DroneArt Show Boston",
-      "source": "Event",
-      "tag": "drones",
-      "desc": "Candlelit concert + drone show. Ohiri Field, 95 N Harvard St.",
-      "link": "https://thedroneartshow.com/boston/",
-      "time": "Evening"
-    },
     {
       "date": "2026-05-23",
       "title": "Critical Historiography as Method: A Symposium in Honor of Professor Nasser Rabbat",
@@ -714,24 +685,6 @@
     },
     {
       "date": "TBD",
-      "title": "Let’s Aggregate? Towards making private telemetry as ubiquitous as TLS",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Private-aggregation systems allow a company to collect valuable telemetry data from their users without ever having to collect sensitive disaggregated user data in the clear. The past few years have seen a flurry of activity around private aggregation: practical constructions, draft IETF standards, ",
-      "link": "https://www.csail.mit.edu/event/lets-aggregate-towards-making-private-telemetry-ubiquitous-tls",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "[ARCH Seminar] Liquid Machine: A 15-year Journey Towards Software-Defined Everything",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Computer Engineering is undergoing significant transformations, driven by escalating demands in artificial intelligence, cybersecurity, energy efficiency, and fundamental shifts in technology scaling. For decades, the fundamental computing stack—the abstractions and interfaces that define our hardwa",
-      "link": "https://www.csail.mit.edu/event/arch-seminar-liquid-machine-15-year-journey-towards-software-defined-everything",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Testing, Credible Compilation, and Verification in the Axon Verified Compiler in Lean and Claude Code",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -782,6 +735,24 @@
       "tag": "ai",
       "desc": "Foundation models are a key platform which implicitly encodes world knowledge. In this talk we first focus on vision-language models, such as CLIP, and investigate their geometric behavior and logic behind the high-dimensional feature encoding. For instance, we find that as image or text become more",
       "link": "https://www.csail.mit.edu/event/how-encode-world-knowledge",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "High-accuracy and dimension-free sampling with diffusions",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Diffusion models have shown remarkable empirical success in sampling from rich multi-modal distributions. Their inference relies on numerically solving a certain differential equation. This differential equation cannot be solved in closed form, and its resolution via discretization typically require",
+      "link": "https://www.csail.mit.edu/event/high-accuracy-and-dimension-free-sampling-diffusions",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Kevin Murphy Seminar: Agentic AI systems: from scruffy to neat",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "In this talk I will outline various ways to build LLM-poweredagents which use increasing degrees of formal reasoning,ranging from maximally \"scruffy\" or informal language-based methods up tomaximally \"neat\" symbolic / probabilistic model-based methods.I will then give some examples of each kind of a",
+      "link": "https://www.csail.mit.edu/event/kevin-murphy-seminar-agentic-ai-systems-scruffy-neat",
       "time": "TBD"
     },
     {
@@ -4197,24 +4168,6 @@
     },
     {
       "date": "TBD",
-      "title": "The End. of clinical trials as we knew them",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Bitcoin Pizza Day w Boston DAO & Pizza DAO",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Five Kilo Meals x Rubato Fun Run",
       "source": "Luma",
       "tag": "talk",
@@ -4360,6 +4313,24 @@
     {
       "date": "TBD",
       "title": "New to Boston Party",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MAUM Market at Boston Seaport",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Laracon After Party",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
