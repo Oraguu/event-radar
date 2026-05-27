@@ -1,56 +1,7 @@
 {
-  "scraped_at": "2026-05-25T12:56:57.952497",
-  "event_count": 473,
+  "scraped_at": "2026-05-27T12:48:25.082151",
+  "event_count": 470,
   "events": [
-    {
-      "date": "2026-05-26",
-      "title": "Art/Science lunch with Felice Frankel (5/26 @12:30p in 68-121) hosted by the MIT Biology Artists Resource Collective",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "MIT Research Scientist and Author/Photographer Felice Frankel will share her experience crafting stunning figures for science communication and lead a discussion addressing AI in imaging and graphic design. Please feel free to bring family and friends but let us know in advance for food/building acc",
-      "link": "https://calendar.mit.edu/event/artscience-lunch-with-felice-frankel-526-1230p-in-68-121-hosted-by-the-mit-biology-artists-resource-collective",
-      "time": "TBD",
-      "location": "Building 68"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "30 Years Since the Telecommunications Act: A Summit on Promise, Progress, and the Work Ahead",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Please join us for a conversation with Massachusetts Senator Ed Markey on \"Thirty Years Since the Telecommunications Act: A Summit on Promise, Progress, and the Work Ahead.\" Senator Markey was co-author of the Telecommunications Act, a law that helped usher in the transformation of communications te",
-      "link": "https://calendar.mit.edu/event/30-years-since-the-telecommunications-act-a-summit-on-promise-progress-and-the-work-ahead",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "IMES Distinguished Speaker Series: Judith Richter Lecture",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Prof. Geoffrey Hinton, 2024 Nobel Prize recipient, delivers lecture: Are We Creating Alien Beings?",
-      "link": "https://calendar.mit.edu/event/imes-distinguished-speaker-series-judith-richter-lecture",
-      "time": "TBD",
-      "location": "Building 32"
-    },
-    {
-      "date": "2026-05-26",
-      "title": "AI in Education: A Conversation for Beginners",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "Artificial Intelligence is becoming part of everyday academic and professional life, but many people are still unsure how it works or how it should be used. This discussion-based workshop invites participants who are curious about AI to explore what it is, how it is being used, and what it might mea",
-      "link": "https://calendar.northeastern.edu/event/ai-in-education-a-conversation-for-beginners",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-26",
-      "title": "The Robotics Summit and Expo Speaker Reception",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/the-robotics-summit-and-expo-speaker-reception/",
-      "time": "TBD"
-    },
     {
       "date": "2026-05-27",
       "title": "Thesis Defense - Skylar Kim",
@@ -172,6 +123,26 @@
       "location": ""
     },
     {
+      "date": "2026-06-01",
+      "title": "Writing Together Online: Keep Your Writing Momentum This Summer",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Summer provides an amazing opportunity for academic writers, but without structure, those long open days slip past. Writing Together Online helps you turn summer into a productive writing season. Join a vibrant community of MIT scholars for daily 90-minute writing sessions where you set realistic go",
+      "link": "https://calendar.mit.edu/event/copy-of-writing-together-online-with-the-wcc-get-it-done-in-june",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-01",
+      "title": "Global Topics for Global Learners",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Global Topics for Global Learners is your weekly opportunity to invest in your professional and personal development. Every Monday, we come together online to discuss a new topic in a welcoming, guided setting. Discussions are faciliated by a Global Learner Support Specialist. Joining Global Topics ",
+      "link": "https://calendar.northeastern.edu/event/global-topics-for-global-learners-6649",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-06-02",
       "title": "2026 IT Partners Conference",
       "source": "MIT",
@@ -180,6 +151,16 @@
       "link": "https://calendar.mit.edu/event/2026-it-partners-conference",
       "time": "TBD",
       "location": "Building E51"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Writing Together Online: Keep Your Writing Momentum This Summer",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Summer provides an amazing opportunity for academic writers, but without structure, those long open days slip past. Writing Together Online helps you turn summer into a productive writing season. Join a vibrant community of MIT scholars for daily 90-minute writing sessions where you set realistic go",
+      "link": "https://calendar.mit.edu/event/copy-of-writing-together-online-keep-your-writing-momentum-this-summer",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-06-03",
@@ -228,6 +209,36 @@
       "tag": "talk",
       "desc": "How do we engage with the news we read? From social media to published and reviewed articles, news we consume can carry bias, leave out critical parts of stories, or need additional factchecking. In this non-credit course, we will cover 5 different contemporary issues in international news. Students",
       "link": "https://calendar.northeastern.edu/event/critically-engaging-with-the-news",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-03",
+      "title": "OpenDP Workshop on Differential Privacy for Health and Genomics",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "This workshop aims to bring together researchers and practitioners across disciplines — including privacy and security, systems development, health informatics and bioinformatics, biomedical practice, and policy and ethics — to discuss key opportunities and challenges in applying differential privac",
+      "link": "https://events.seas.harvard.edu/event/opendp-workshop-on-differential-privacy-for-health-and-genomics",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-06-03",
+      "title": "Abilities: Amplified",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Join a one-of-a-kind, free event at the Hatch Memorial Shell on the Charles River Esplanade celebrating people with disabilities, music, and assistive technology! “Abilities: Amplified” takes place on June 3 from 6-8 PM, blending cutting-edge innovation with community connection. Enjoy a vibrant mai",
+      "link": "https://events.seas.harvard.edu/event/abilities-amplified",
+      "time": "TBD",
+      "location": "Hatch Memorial Shell 47 David G Mugar Way Boston"
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Write for the World: The Art of the Blog Post: Workshop",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, this program is for you. With two hands-on workshops and one-on-one support from WCC writing instructors, you will go from idea to a polish",
+      "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-workshop",
       "time": "TBD",
       "location": ""
     },
@@ -561,46 +572,6 @@
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-community-and-service-statements",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-07-15",
-      "title": "Faculty Job Search Series: Teaching Statements",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "How can you communicate your commitment to quality teaching that facilitates learning? How should you describe your pedagogical philosophy? If you’re writing a teaching statement for your faculty job applications, you might be asking yourself questions like these. Join Ben Hansberry from MIT’s Teach",
-      "link": "https://calendar.mit.edu/event/faculty-job-search-series-teaching-statements-4817",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-20",
-      "title": "FAB26 - Volunteer opportunity",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "The Fab Foundation is inviting students from Boston and Cambridge universities to volunteer at FAB26 Boston: the International Fab Lab Conference & Symposium, taking place July 27–31, 2026, sponsored by MIT's Center for Bits and Atoms. FAB26 will bring together 1,000+ makers, innovators, educators, ",
-      "link": "https://calendar.mit.edu/event/fab26-volunteer-opportunity",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Special Inorganic Chemistry Seminar with Professor Swadhin Mandal (",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Abstract: TBA",
-      "link": "https://calendar.mit.edu/event/special-inorganic-chemistry-seminar-with-professor-swadhin-mandal",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-30",
-      "title": "McGovern Institute Special Seminar with Joshua A. Gordon",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Thursday, July 30, 2026 Time: 12:00 – 1:00 pm Location: Building 46, Singleton Auditorium Talk Title: mPFC interneurons in spatial working memory function and dysfunction Abstract: Working memory is a core cognitive ability that is disrupted in schizophrenia and other mental illnesses. In rode",
-      "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-josh-gordon",
-      "time": "TBD",
-      "location": "Building 46"
     },
     {
       "date": "2026-08-21",
@@ -1250,20 +1221,20 @@
     },
     {
       "date": "TBD",
-      "title": "Startup Science Fair @ Boston Tech Week",
-      "source": "Greentown Labs",
-      "tag": "startup",
-      "desc": "No panels, no pitches: just live demos and showcasing to meet climate and energy startups during Boston Tech Week!",
-      "link": "https://greentownlabs.com/event/startup-science-fair-boston-tech-week/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CATALYZE 2026",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
       "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Startup Science Fair @ Boston Tech Week",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "No panels, no pitches: just live demos and showcasing to meet climate and energy startups during Boston Tech Week!",
+      "link": "https://greentownlabs.com/event/startup-science-fair-boston-tech-week/",
       "time": "TBD"
     },
     {
@@ -4148,24 +4119,6 @@
     },
     {
       "date": "TBD",
-      "title": "Infra Happy Hour @ Boston Tech Week",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Plus-One Party™: Boston [admits 2]",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "IIA AI Showcase @ WHOOP",
       "source": "Luma",
       "tag": "ai",
@@ -4301,6 +4254,15 @@
     },
     {
       "date": "TBD",
+      "title": "Glasswing x Xoogler Spring Rooftop Mixer",
+      "source": "Luma",
+      "tag": "networking",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "MAUM Market at Boston Seaport",
       "source": "Luma",
       "tag": "talk",
@@ -4311,6 +4273,15 @@
     {
       "date": "TBD",
       "title": "Laracon After Party",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Climatetech Summit 2026",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
