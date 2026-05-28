@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-05-27T12:48:25.082151",
+  "scraped_at": "2026-05-28T13:42:51.054673",
   "event_count": 470,
   "events": [
-    {
-      "date": "2026-05-27",
-      "title": "Thesis Defense - Skylar Kim",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Calo lab I \"Reading frame fidelity as both a lever and target for protein synthesis control\"",
-      "link": "https://calendar.mit.edu/event/thesis-defense-skylar-kim",
-      "time": "TBD",
-      "location": "Building 37"
-    },
-    {
-      "date": "2026-05-27",
-      "title": "Bioengineering Student WIP Seminar – Summer ’26",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Work in Progress (WIP) seminars with Bioengineering PhD students. Weekly in 121 Snell Library from 12-1pm on Wednesdays during Summer 1. All are welcome! PhD Candidate Faculty Advisor MAY 5/6 […] The post Bioengineering Student WIP Seminar – Summer ’26 appeared first on Northeastern University Colle",
-      "link": "https://calendar.northeastern.edu/event/bioengineering-student-wip-seminar-summer-26-6523",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-27",
-      "title": "Robotics Summit and Expo 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Robotics Summit brings together 6,000+ developers who are building robots for aerospace and defense, healthcare, logistics, manufacturing and other markets. Attendees will gain insights into the latest enabling technologies, engineering […]",
-      "link": "https://www.massrobotics.org/event/robotics-summit-and-expo-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-05-27",
-      "title": "Robotics Summit & Expo — Day 1",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "6,000+ devs, 50+ sessions, 250+ exhibitors. Boston Convention Center.",
-      "link": "https://www.roboticssummit.com/",
-      "time": "9:00 AM",
-      "pick": true,
-      "pickNote": "THE MUST-ATTEND. Block these dates NOW"
-    },
     {
       "date": "2026-05-28",
       "title": "Graduate Admitted Student Webinar",
@@ -153,6 +113,16 @@
       "location": "Building E51"
     },
     {
+      "date": "2026-06-02",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-4817",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-06-03",
       "title": "Writing Together Online: Keep Your Writing Momentum This Summer",
       "source": "MIT",
@@ -204,6 +174,16 @@
     },
     {
       "date": "2026-06-03",
+      "title": "Chemical Engineering GSC CV/Resume Workshop",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Chemical Engineering Graduate Student Council is inviting fellow students to attend an upcoming CV/Resume Workshop designed to help you strengthen your academic and professional applications. Please RSVP This workshop […] The post Chemical Engineering GSC CV/Resume Workshop appeared first on Nor",
+      "link": "https://calendar.northeastern.edu/event/chemical-engineering-gsc-cvresume-workshop",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-03",
       "title": "Critically Engaging with the News",
       "source": "Northeastern",
       "tag": "talk",
@@ -241,6 +221,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-workshop",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-06-04",
+      "title": "Tango Summer Series",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us Thursday nights this summer for Dance Conditioning & Tango classes starting on June 4th! MIT Tango Summer Class Series is open to participants of all levels. No matter what your dance or level of experience, these sessions will hone your balance, stability, posture, groundedness and more! No",
+      "link": "https://calendar.mit.edu/event/tango-summer-series",
+      "time": "TBD",
+      "location": "Building W20: Stratton Student Center"
     },
     {
       "date": "2026-06-04",
@@ -359,6 +349,16 @@
       "tag": "talk",
       "desc": "How can anyone summarize their entire academic experience in just a few pages of text? Do you really need to include that terrible summer research internship you had in 2022? You might have more than a few questions like this, and CAPD is here to help you think through some answers. Join this worksh",
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-refining-the-academic-cv-4948",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-3651",
       "time": "TBD",
       "location": ""
     },
@@ -489,6 +489,16 @@
       "tag": "talk",
       "desc": "Work in Progress (WIP) seminars with Bioengineering PhD students. Weekly in 121 Snell Library from 12-1pm on Wednesdays during Summer 1. All are welcome! PhD Candidate Faculty Advisor MAY 5/6 […] The post Bioengineering Student WIP Seminar – Summer ’26 appeared first on Northeastern University Colle",
       "link": "https://calendar.northeastern.edu/event/bioengineering-student-wip-seminar-summer-26-3784",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Sources of Miscommunication in the Workplace: Communication Strategies for Graduate Students and Early-Career Professionals",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Miscommunication at work doesn't always stem from vocabulary and grammar. Sometimes it's about differences in norms, expectations, and hidden assumptions about how language is used across cultures. In this workshop, esplore the key sources of workplace miscommunication and develop practical strategi",
+      "link": "https://calendar.northeastern.edu/event/sources-of-miscommunication-in-the-workplace-communication-strategies-for-graduate-students-and-early-career-professionals",
       "time": "TBD",
       "location": ""
     },
@@ -4119,24 +4129,6 @@
     },
     {
       "date": "TBD",
-      "title": "IIA AI Showcase @ WHOOP",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The Demo Is Not the Product: What Robotics Companies Learn Too Late",
-      "source": "Luma",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Robotics & Hard Tech Demo Night at RISE Robotics",
       "source": "Luma",
       "tag": "robotics",
@@ -4230,6 +4222,15 @@
       "title": "Meet the Accelerators & Incubators of Boston's Startup Scene",
       "source": "Luma",
       "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI // Bio Night",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
