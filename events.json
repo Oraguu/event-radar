@@ -1,38 +1,7 @@
 {
-  "scraped_at": "2026-05-28T13:42:51.054673",
-  "event_count": 470,
+  "scraped_at": "2026-05-29T12:44:15.086872",
+  "event_count": 466,
   "events": [
-    {
-      "date": "2026-05-28",
-      "title": "Graduate Admitted Student Webinar",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join us for Northeastern’s Admitted Student Webinar An exclusive invite only (via email) event to the Graduate School of Engineering Admitted Student Information Session with Kelly Egorova, assistant dean of graduate […] The post Graduate Admitted Student Webinar appeared first on Northeastern Unive",
-      "link": "https://calendar.northeastern.edu/event/graduate-admitted-student-webinar",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-28",
-      "title": "Closing the Loop: AI-Driven Predictive Modeling for Printed Electronics",
-      "source": "Northeastern",
-      "tag": "manufacturing",
-      "desc": "Northeastern University College of Engineering faculty are bringing cutting-edge advances in AI-powered manufacturing to a national audience through the NextFlex AI Webinar Series, a leading Flexible and Hybrid Electronics initiative […] The post Closing the Loop: AI-Driven Predictive Modeling for P",
-      "link": "https://calendar.northeastern.edu/event/closing-the-loop-ai-driven-predictive-modeling-for-printed-electronics",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-28",
-      "title": "Robotics Summit & Expo — Day 2",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Women in Robotics Breakfast 8am. Career fair, networking.",
-      "link": "https://www.roboticssummit.com/",
-      "time": "8:00 AM",
-      "pick": true,
-      "pickNote": "Career fair + continued expo. Don't skip day 2"
-    },
     {
       "date": "2026-05-29",
       "title": "Men's Heavyweight Crew vs. IRA National Championship",
@@ -471,6 +440,16 @@
       "link": "https://calendar.mit.edu/event/2026-edward-m-scolnick-prize-lecture-in-neuroscience-with-liqun-luo",
       "time": "TBD",
       "location": "Building 46"
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-2244",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-06-17",
@@ -4129,33 +4108,6 @@
     },
     {
       "date": "TBD",
-      "title": "Robotics & Hard Tech Demo Night at RISE Robotics",
-      "source": "Luma",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Tech Week - Agentic AI in production: retrieval, drift, and what actually works",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Life Sciences AI on Tap - #BOSTechWeek",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Boston Life Sciences Showcase: In Conversation with Mohan S. Iyer: From Genentech to IndieBio",
       "source": "Luma",
       "tag": "talk",
@@ -4184,6 +4136,15 @@
     {
       "date": "TBD",
       "title": "走向国际的中国重水墨",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Build Your MVP: The Decisions Nobody Tells You About",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4291,7 +4252,7 @@
     },
     {
       "date": "TBD",
-      "title": "Boston Hardware Meetup Happy Hour",
+      "title": "63rd Boston Hardware Meetup @ PTC",
       "source": "Luma",
       "tag": "manufacturing",
       "desc": "",
