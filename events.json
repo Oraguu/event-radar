@@ -1,45 +1,36 @@
 {
-  "scraped_at": "2026-05-29T12:44:15.086872",
-  "event_count": 466,
+  "scraped_at": "2026-05-30T11:15:24.244848",
+  "event_count": 461,
   "events": [
     {
-      "date": "2026-05-29",
-      "title": "Men's Heavyweight Crew vs. IRA National Championship",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Gold River, CA / Lake Natoma",
-      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-29",
-      "title": "Men's Lightweight Crew vs. IRA National Championship",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Gold River, CA / Lake Natoma",
-      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "title": "Women's Lightweight Crew vs. IRA National Championship",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: TBA Location: Gold River, CA / Lake Natoma",
+      "desc": "Time: 11:00 AM EDT Location: Gold River, CA / Lake Natoma",
       "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
       "time": "TBD",
       "location": ""
     },
     {
-      "date": "2026-05-29",
-      "title": "Inside MassRobotics: Open House for Startups – #BOSTechWeek",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/inside-massrobotics-open-house-for-startups-bostechweek/",
-      "time": "TBD"
+      "date": "2026-05-30",
+      "title": "Men's Heavyweight Crew vs. IRA National Championship",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 12:44 PM EDT Location: Gold River, CA / Lake Natoma",
+      "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-05-31",
+      "title": "Men's Lightweight Crew vs. IRA National Championship",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 1:04 PM EDT Location: Gold River, CA / Lake Natoma",
+      "link": "https://calendar.mit.edu/event/mens-lightweight-crew-vs-national-collegiate-lightweight-invitational",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-05-31",
@@ -332,6 +323,16 @@
       "location": ""
     },
     {
+      "date": "2026-06-09",
+      "title": "Learning Dynamical Functionalities in Physical Systems",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Widely Applied Mathematics Seminar Tuesday, June 9 | 3 - 4pm Maxwell Dworkin 119 \"Learning Dynamical Functionalities in Physical Systems Speaker: Professor Vincenzo Vitelli Professor of Physics, The University of Chicago Abstract: Dynamical functionalities, from directed self-assembly to cellular di",
+      "link": "https://events.seas.harvard.edu/event/learning-dynamical-functionalities-in-physical-systems",
+      "time": "TBD",
+      "location": "Maxwell Dworkin"
+    },
+    {
       "date": "2026-06-10",
       "title": "Midday Music: Jazz World Trio",
       "source": "MIT",
@@ -410,6 +411,16 @@
       "link": "https://calendar.mit.edu/event/existential-risk-emerging-technology-and-democracy-the-cambridge-recombinant-dna-debate-50-years-on",
       "time": "TBD",
       "location": "MIT Museum"
+    },
+    {
+      "date": "2026-06-12",
+      "title": "East Campus Public Art Tour",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join MIT List Visual Arts Center on a public art walking tour showcasing the MIT Public Art Collection across the east side of campus. View select artworks and consider how art and architecture have enhanced MIT's campus design, featuring artworks by renowned artists such as Pablo Picasso, Alicja Kw",
+      "link": "https://calendar.mit.edu/event/east-campus-public-art-tour-9290",
+      "time": "TBD",
+      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
     },
     {
       "date": "2026-06-13",
@@ -533,6 +544,16 @@
       "location": "Kendall/MIT Open Space"
     },
     {
+      "date": "2026-06-25",
+      "title": "East Campus Public Art Tour",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join MIT List Visual Arts Center on a public art walking tour showcasing the MIT Public Art Collection across the east side of campus. View select artworks and consider how art and architecture have enhanced MIT's campus design, featuring artworks by renowned artists such as Pablo Picasso, Alicja Kw",
+      "link": "https://calendar.mit.edu/event/east-campus-public-art-tour-2554",
+      "time": "TBD",
+      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
+    },
+    {
       "date": "2026-07-01",
       "title": "Navigating the IELTS Speaking Test: Strategies for Success",
       "source": "Northeastern",
@@ -559,6 +580,16 @@
       "tag": "talk",
       "desc": "Learn how to craft a compelling community or service statement. Get an expert perspective on how to approach the statement and strategies to participate in authentic experiences that showcase your contributions.",
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-community-and-service-statements",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Faculty Job Search Series: Teaching Statements",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "How can you communicate your commitment to quality teaching that facilitates learning? How should you describe your pedagogical philosophy? If you’re writing a teaching statement for your faculty job applications, you might be asking yourself questions like these. Join Ben Hansberry from MIT’s Teach",
+      "link": "https://calendar.mit.edu/event/faculty-job-search-series-teaching-statements-4817",
       "time": "TBD",
       "location": ""
     },
@@ -622,69 +653,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "Testing, Credible Compilation, and Verification in the Axon Verified Compiler in Lean and Claude Code",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Virtual",
-      "link": "https://www.csail.mit.edu/event/testing-credible-compilation-and-verification-axon-verified-compiler-lean-and-claude-code",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Specification and Formal Verification of Hardware-Software Contracts for High-Assurance Computer Architectures",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "The complexity of modern computer systems gives rise to two critical computer architecture challenges: traditional instruction set architectures lack the detail needed to capture how hardware may undermine software assurance—correctness, security, reliability; and verification is a major and growing",
-      "link": "https://www.csail.mit.edu/event/specification-and-formal-verification-hardware-software-contracts-high-assurance-computer",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Cryptography at Scale: The Design of a Private Web Search Engine",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva",
-      "link": "https://www.csail.mit.edu/event/cryptography-scale-design-private-web-search-engine",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Josep Torrellas: Toward Accelerator-Centric Computing",
-      "source": "MIT CSAIL",
-      "tag": "startup",
-      "desc": "Hewlett 32-G882",
-      "link": "https://www.csail.mit.edu/event/josep-torrellas-toward-accelerator-centric-computing",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Scaling Parallel Algorithms to Massive Datasets using Multi-SSD Machines",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Virtual",
-      "link": "https://www.csail.mit.edu/event/scaling-parallel-algorithms-massive-datasets-using-multi-ssd-machines",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "How to Encode World Knowledge?",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Foundation models are a key platform which implicitly encodes world knowledge. In this talk we first focus on vision-language models, such as CLIP, and investigate their geometric behavior and logic behind the high-dimensional feature encoding. For instance, we find that as image or text become more",
-      "link": "https://www.csail.mit.edu/event/how-encode-world-knowledge",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "High-accuracy and dimension-free sampling with diffusions",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Diffusion models have shown remarkable empirical success in sampling from rich multi-modal distributions. Their inference relies on numerically solving a certain differential equation. This differential equation cannot be solved in closed form, and its resolution via discretization typically require",
-      "link": "https://www.csail.mit.edu/event/high-accuracy-and-dimension-free-sampling-diffusions",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -4100,15 +4068,6 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Life Sciences Showcase: In Conversation with Mohan S. Iyer: From Genentech to IndieBio",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
