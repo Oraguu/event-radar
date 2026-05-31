@@ -1,23 +1,23 @@
 {
-  "scraped_at": "2026-05-30T11:15:24.244848",
-  "event_count": 461,
+  "scraped_at": "2026-05-31T11:39:07.805462",
+  "event_count": 460,
   "events": [
     {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "title": "Women's Lightweight Crew vs. IRA National Championship",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 11:00 AM EDT Location: Gold River, CA / Lake Natoma",
+      "desc": "Time: 11:08 AM EDT Location: Gold River, CA / Lake Natoma",
       "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
       "time": "TBD",
       "location": ""
     },
     {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "title": "Men's Heavyweight Crew vs. IRA National Championship",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 12:44 PM EDT Location: Gold River, CA / Lake Natoma",
+      "desc": "Time: 12:06 PM EDT Location: Gold River, CA / Lake Natoma",
       "link": "https://calendar.mit.edu/event/mens-heavyweight-crew-vs-united-states-coast-guard-academy",
       "time": "TBD",
       "location": ""
@@ -590,6 +590,16 @@
       "tag": "talk",
       "desc": "How can you communicate your commitment to quality teaching that facilitates learning? How should you describe your pedagogical philosophy? If you’re writing a teaching statement for your faculty job applications, you might be asking yourself questions like these. Join Ben Hansberry from MIT’s Teach",
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-teaching-statements-4817",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-20",
+      "title": "FAB26 - Volunteer opportunity",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "The Fab Foundation is inviting students from Boston and Cambridge universities to volunteer at FAB26 Boston: the International Fab Lab Conference & Symposium, taking place July 27–31, 2026, sponsored by MIT's Center for Bits and Atoms. FAB26 will bring together 1,000+ makers, innovators, educators, ",
+      "link": "https://calendar.mit.edu/event/fab26-volunteer-opportunity",
       "time": "TBD",
       "location": ""
     },
@@ -4068,24 +4078,6 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Pilates & Perreo",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climate Picnic",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
