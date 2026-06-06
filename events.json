@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-06-05T12:32:10.995450",
-  "event_count": 487,
+  "scraped_at": "2026-06-06T11:19:28.283166",
+  "event_count": 483,
   "events": [
-    {
-      "date": "2026-06-05",
-      "title": "This Place Doesn’t Exist",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "A play about love in the valley of gold... MIT Theater Arts and TEATRA present THIS PLACE DOESN'T EXIST by Alejandra Vieira translated by Lizzie Fox directed by Monica Risi Julia and Ernesto meet each other in a brothel deep in one of the most dangerous valleys of the Amazon, the Valley of VRAEM (Va",
-      "link": "https://calendar.mit.edu/event/this-place-doesnt-exist",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "AI in Action 2026: Business Summit",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "AI in Action 2026 brings together business leaders, innovators, and practitioners from across Northern New England and beyond, for a full day of applied learning, real-world case studies, and meaningful connection. Whether you're just beginning your AI journey or scaling what's already working, this",
-      "link": "https://calendar.northeastern.edu/event/ai-in-action-2026-business-summit",
-      "time": "TBD",
-      "location": "Roux Institute"
-    },
-    {
-      "date": "2026-06-05",
-      "title": "QMSI Seminar – “Probing correlated states with excitons in van der Waals heterostructures” – Prof. Andrew Y. Joe",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Quantum Materials and Sensing Institute (QMSI) Speaker: Andrew Y. Joe, University of California, Riverside The post QMSI Seminar – “Probing correlated states with excitons in van der Waals heterostructures” – Prof. Andrew Y. Joe appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/qmsi-seminar-probing-correlated-states-with-excitons-in-van-der-waals-heterostructures-prof-andrew-y-joe",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-06-06",
       "title": "This Place Doesn’t Exist",
@@ -100,6 +70,16 @@
       "link": "https://calendar.mit.edu/event/rarenet-2026-accelerating-discovery-to-treatment-in-rare-brain-disorders",
       "time": "TBD",
       "location": "Building 46"
+    },
+    {
+      "date": "2026-06-09",
+      "title": "MIT VMS Boot Camp: AI-Enabled Startup Marketing",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Join VMS for AI-Enabled Startup Marketing AI has moved startup marketing tools into an entirely new realm, yet the fundamentals of marketing never change (understand your customer and solve their problems). In this boot camp, VMS mentor Louis Gudema -- who's worked with and mentored dozens of startu",
+      "link": "https://calendar.mit.edu/event/ai-enabled-startup-marketing-from-mit-vms",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-06-09",
@@ -411,8 +391,8 @@
       "title": "The Gordon Institute: Virtual Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership as a stand-alone certificate or in combination with one of over 25 Master of Science degrees offered through Northeastern’s […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University",
-      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-1727",
+      "desc": "Earn a Graduate Certificate in Engineering Leadership with the Gordon Institute at Northeastern. Join an information session to learn how. The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-9520",
       "time": "TBD",
       "location": ""
     },
@@ -1434,20 +1414,20 @@
     },
     {
       "date": "TBD",
-      "title": "Powering the AI Edge: Scaling Infrastructure in Rural Hubs and Megacities",
-      "source": "Greentown Labs",
-      "tag": "ai",
-      "desc": "Discover how the AI race is moving beyond data centers into telecommunications infrastructure with an NVIDIA Featured Panel Session.",
-      "link": "https://greentownlabs.com/event/powering-the-ai-edge-scaling-infrastructure-in-rural-hubs-and-megacities/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CATALYZE 2026",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
       "link": "https://greentownlabs.com/event/catalyze-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Powering the AI Edge: Scaling Infrastructure in Rural Hubs and Megacities",
+      "source": "Greentown Labs",
+      "tag": "ai",
+      "desc": "Discover how the AI race is moving beyond data centers into telecommunications infrastructure with an NVIDIA Featured Panel Session.",
+      "link": "https://greentownlabs.com/event/powering-the-ai-edge-scaling-infrastructure-in-rural-hubs-and-megacities/",
       "time": "TBD"
     },
     {
@@ -4332,25 +4312,7 @@
     },
     {
       "date": "TBD",
-      "title": "Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Harvard Alumni in Tech Alumni Day Meetup in Cambridge, MA",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
