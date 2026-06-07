@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-06-06T11:19:28.283166",
-  "event_count": 483,
+  "scraped_at": "2026-06-07T11:44:03.749245",
+  "event_count": 487,
   "events": [
-    {
-      "date": "2026-06-06",
-      "title": "This Place Doesn’t Exist",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "A play about love in the valley of gold... MIT Theater Arts and TEATRA present THIS PLACE DOESN'T EXIST by Alejandra Vieira translated by Lizzie Fox directed by Monica Risi Julia and Ernesto meet each other in a brothel deep in one of the most dangerous valleys of the Amazon, the Valley of VRAEM (Va",
-      "link": "https://calendar.mit.edu/event/copy-of-this-place-doesnt-exist",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-06-06",
-      "title": "Cambridge Robotics Day at Harvard Square",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/cambridge-robotics-day-at-harvard-square/",
-      "time": "TBD"
-    },
     {
       "date": "2026-06-07",
       "title": "End of Academic Year Paella 2026",
@@ -561,6 +542,26 @@
       "time": "TBD"
     },
     {
+      "date": "2026-07-03",
+      "title": "Pico Opera presents Lucia di Lammermoor, a bel canto opera in three acts by Gaetano Donizetti",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "One of the most stunningly beautiful and beloved bel canto operas of all time, Lucia di Lammermoor is the tragic story of Lucia Ashton, who is trapped in a deadly feud between her family and the Ravenswoods. While her brother, Enrico, plots to save his failing fortune by forcing her to marry his wea",
+      "link": "https://calendar.mit.edu/event/pico-opera-lucia-di-lammermoor",
+      "time": "TBD",
+      "location": "Multicultural Arts Center: 41 2nd Street, Cambridge, Massachusetts 02141"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Pico Opera presents Lucia di Lammermoor, a bel canto opera in three acts by Gaetano Donizetti",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "One of the most stunningly beautiful and beloved bel canto operas of all time, Lucia di Lammermoor is the tragic story of Lucia Ashton, who is trapped in a deadly feud between her family and the Ravenswoods. While her brother, Enrico, plots to save his failing fortune by forcing her to marry his wea",
+      "link": "https://calendar.mit.edu/event/pico-opera-lucia-di-lammermoor-sunday",
+      "time": "TBD",
+      "location": "Multicultural Arts Center: 41 2nd Street, Cambridge, Massachusetts 02141"
+    },
+    {
       "date": "2026-07-08",
       "title": "BCS STIRR Virtual Workshop: Data Management and Sharing",
       "source": "MIT",
@@ -703,11 +704,20 @@
     },
     {
       "date": "TBD",
-      "title": "Kevin Murphy Seminar: Agentic AI systems: from scruffy to neat",
+      "title": "The HOdyASsey: Contextual Embeddings: Implementing Bound Variables through Instance Resolution",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "In this talk I will outline various ways to build LLM-poweredagents which use increasing degrees of formal reasoning,ranging from maximally \"scruffy\" or informal language-based methods up tomaximally \"neat\" symbolic / probabilistic model-based methods.I will then give some examples of each kind of a",
-      "link": "https://www.csail.mit.edu/event/kevin-murphy-seminar-agentic-ai-systems-scruffy-neat",
+      "desc": "Representing bound variables in embedded languages is a challenging problem, often requiring painful trade-offs between expressivity and usability. On the one hand, first-order representations using de Bruijn indices have many nice properties, but quickly become difficult to read and write. On the o",
+      "link": "https://www.csail.mit.edu/event/hodyassey-contextual-embeddings-implementing-bound-variables-through-instance-resolution",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Agentic AI systems: from scruffy to neat",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Contact lpk@csail.mit.edu for Zoom password",
+      "link": "https://www.csail.mit.edu/event/agentic-ai-systems-scruffy-neat",
       "time": "TBD"
     },
     {
@@ -717,6 +727,15 @@
       "tag": "ai",
       "desc": "Kiva Conference Room",
       "link": "https://www.csail.mit.edu/event/power-term-polynomial-algebra-boolean-logic",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "FAST CODE Seminar - Making Room for Algorithm Innovation “At the Top” -- The UpDown Graph Supercomputer",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "VIRTUAL",
+      "link": "https://www.csail.mit.edu/event/fast-code-seminar-making-room-algorithm-innovation-top-updown-graph-supercomputer",
       "time": "TBD"
     },
     {
@@ -4312,6 +4331,15 @@
     },
     {
       "date": "TBD",
+      "title": "Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "EventsSubmit Event",
       "source": "Luma",
       "tag": "talk",
@@ -4331,6 +4359,15 @@
     {
       "date": "TBD",
       "title": "Local Meetup in Boston, MA!",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "How to Find, Close & Keep Your First Customers",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
