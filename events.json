@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-06-07T11:44:03.749245",
-  "event_count": 487,
+  "scraped_at": "2026-06-08T14:01:22.552379",
+  "event_count": 492,
   "events": [
-    {
-      "date": "2026-06-07",
-      "title": "End of Academic Year Paella 2026",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "We invite you to celebrate the end of the academic year and graduation with Spain@MIT. We will cook a large paella and provide other homemade typical Spanish food. Come enjoy the start of the summer with us! Please RSVP to secure a spot. When: Sunday June 7th, starting at 1:30pm Where: Tang Hall BBQ",
-      "link": "https://calendar.mit.edu/event/end-of-academic-year-paella-2026",
-      "time": "TBD",
-      "location": "Tang Hall BBQ Pits (550 Memorial Dr, Cambridge, MA)"
-    },
     {
       "date": "2026-06-08",
       "title": "Adam Eisen Thesis Defense: Stability and Control: Signatures of the Conscious Brain",
@@ -89,6 +79,16 @@
       "tag": "talk",
       "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-3651",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-09",
+      "title": "Classroom Culture: How to Navigate the Norms and Expectations of North American Colleges",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Understanding the norms of U.S. or Canadian college classrooms can help you feel more confident and connected. This session explores common expectations around participation, attendance, academic integrity, and communication with instructors. You’ll also learn how to make the most of office hours an",
+      "link": "https://calendar.northeastern.edu/event/classroom-culture-how-to-navigate-the-norms-and-expectations-of-north-american-colleges-7796",
       "time": "TBD",
       "location": ""
     },
@@ -359,6 +359,16 @@
     },
     {
       "date": "2026-06-17",
+      "title": "Professional Emails: How to Communicate with Confidence and Clarity in English",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Whether you’re reaching out to a professor, supervisor, or colleague, professional emails can open doors and build relationships. In this workshop, you’ll learn how to structure your messages, use appropriate tone, and respond effectively. Gain tools to write emails that are clear, respectful, and a",
+      "link": "https://calendar.northeastern.edu/event/professional-emails-how-to-communicate-with-confidence-and-clarity-in-english-4878",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-17",
       "title": "Sources of Miscommunication in the Workplace: Communication Strategies for Graduate Students and Early-Career Professionals",
       "source": "Northeastern",
       "tag": "talk",
@@ -451,6 +461,16 @@
       "tag": "talk",
       "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-7357",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Small Talk & Conversation: How to Make Friends and Find Events",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Bring your curiosity and global perspective to this session on small talk and everyday conversation. You’ll practice ways to connect authentically in academic, professional, and social settings. Learn how to start and sustain conversations with confidence while honoring your communication style and ",
+      "link": "https://calendar.northeastern.edu/event/small-talk-conversation-how-to-make-friends-and-find-events-3712",
       "time": "TBD",
       "location": ""
     },
@@ -638,6 +658,36 @@
       "tag": "manufacturing",
       "desc": "The Fab Foundation is inviting students from Boston and Cambridge universities to volunteer at FAB26 Boston: the International Fab Lab Conference & Symposium, taking place July 27–31, 2026, sponsored by MIT's Center for Bits and Atoms. FAB26 will bring together 1,000+ makers, innovators, educators, ",
       "link": "https://calendar.mit.edu/event/fab26-volunteer-opportunity",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Reading: How to Analyze Articles, Data, and More",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Build on your existing reading strategies and learn new ways to engage deeply with texts, visuals, and data. This workshop offers tools to help you read with purpose, ask critical questions, and make meaning from complex material in academic and professional settings. Presented by Cameron Sheehy, ME",
+      "link": "https://calendar.northeastern.edu/event/reading-how-to-analyze-articles-data-and-more-4196",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Writing: From Understanding Assignments to Impactful Revision",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "You already have strong ideas—this workshop helps you bring them to life by first understanding what’s expected, figuring out what to include, then refining your writing for impact. Learn how to break down prompts, rubrics, and genre conventions so you know exactly what your instructors are asking f",
+      "link": "https://calendar.northeastern.edu/event/writing-from-understanding-assignments-to-impactful-revision",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Teamwork & Collaboration: How to Work Effectively in Groups",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Group projects don’t have to be stressful! This workshop explores strategies for effective teamwork, from setting shared goals to managing group dynamics and planning meetings. Learn how to contribute meaningfully, navigate challenges, and build collaboration skills that will serve you in school and",
+      "link": "https://calendar.northeastern.edu/event/teamwork-collaboration-how-to-work-effectively-in-groups-3273",
       "time": "TBD",
       "location": ""
     },
