@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-06-08T14:01:22.552379",
-  "event_count": 492,
+  "scraped_at": "2026-06-09T12:31:31.111001",
+  "event_count": 493,
   "events": [
-    {
-      "date": "2026-06-08",
-      "title": "Adam Eisen Thesis Defense: Stability and Control: Signatures of the Conscious Brain",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Title: Stability and Control: Signatures of the Conscious Brain Abstract: The brain is composed of interconnected cortical areas that dynamically coordinate to support conscious functioning. Consciousness is reliably disrupted by general anesthetics, providing a means through which the signatures of",
-      "link": "https://calendar.mit.edu/event/adam-eisen-thesis-defense-stability-and-control-signatures-of-the-conscious-brain",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-06-08",
-      "title": "Finding Balance in Academia 2026: Navigating Uncertainty and Cultivating Joy",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "We are thrilled to invite you to our third annual mini-conference, \"Finding Balance in Academia: Navigating Uncertainty and Cultivating Joy\" This event is a departmental and school collaborative effort between Aeronautics and Astronautics, Electrical Engineering and Computer Science, Chemical Engine",
-      "link": "https://calendar.mit.edu/event/finding-balance-in-academia-2026-navigating-uncertainty-and-cultivating-joy",
-      "time": "TBD",
-      "location": "Koch Institute Conference Room"
-    },
-    {
-      "date": "2026-06-08",
-      "title": "Sihan Chen Thesis Defense: How communicative and cultural pressures shape natural language",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Title: How communicative and cultural pressures shape natural language Abstract: How do languages become the way they are today? This thesis investigates two factors shaping linguistic variation: communication and culture. The first study examines cross-linguistic variation in spatial demonstrative ",
-      "link": "https://calendar.mit.edu/event/sihan-chen-thesis-defense-how-communicative-and-cultural-pressures-shape-natural-language",
-      "time": "TBD",
-      "location": "Building 46"
-    },
     {
       "date": "2026-06-09",
       "title": "RareNet 2026: Accelerating Discovery to Treatment in Rare Brain Disorders",
@@ -49,6 +19,16 @@
       "tag": "ai",
       "desc": "Join VMS for AI-Enabled Startup Marketing AI has moved startup marketing tools into an entirely new realm, yet the fundamentals of marketing never change (understand your customer and solve their problems). In this boot camp, VMS mentor Louis Gudema -- who's worked with and mentored dozens of startu",
       "link": "https://calendar.mit.edu/event/ai-enabled-startup-marketing-from-mit-vms",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-09",
+      "title": "LL Technology Office Seminar: Engineering Novel Interconnections with Metamaterials",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Engineering Novel Interconnections with Metamaterials and Nanotechnology for RF to Submillimeter Wave Applications Description As wireless systems advance toward higher frequencies, tighter integration, and greater performance demands, the “invisible” layers of engineering—materials, interfaces, and",
+      "link": "https://calendar.mit.edu/event/ll-technology-office-seminar-novel-interconnects",
       "time": "TBD",
       "location": ""
     },
@@ -476,6 +456,16 @@
     },
     {
       "date": "2026-06-23",
+      "title": "Meet the VC's | Glasswing Ventures",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "*Applications close on Friday 19 June, @5pm Glasswing Ventures is a first-capital-in venture firm based in Boston, investing in AI-first, frontier technology, and cybersecurity companies shaping the future of enterprise and security, and they want to talk with YOU. This session is a small group dinn",
+      "link": "https://events.seas.harvard.edu/event/meet-the-vcs-glasswing-ventures",
+      "time": "TBD",
+      "location": "TBD (Sent to Selected Applicants)"
+    },
+    {
+      "date": "2026-06-23",
       "title": "Humanoid Robot Forum at Automate Show",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -492,6 +482,16 @@
       "link": "https://calendar.mit.edu/event/summer-party",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Women's League Lunch Club: MIT Open Space",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for the MIT Women's League Lunch Club, a casual gathering on campus to enjoy good food and great company. We're back at the Kendall/MIT Open Space! This event is open to MIT Community members. Feel free to bring colleagues looking to escape their desk! Let's enjoy good food and great company",
+      "link": "https://calendar.mit.edu/event/womens-league-lunch-club-mit-open-space",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-06-24",
@@ -583,6 +583,16 @@
     },
     {
       "date": "2026-07-08",
+      "title": "Women's League Lunch Club: Killian Court",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for a BYO lunch event to gather with colleagues and enjoy the best of MIT's campus in the summer. All in the MIT Community are welcome to attend, and feel free to bring colleagues looking to escape their desk! Let's enjoy good food and great company together. RSVP for a reminder and instruct",
+      "link": "https://calendar.mit.edu/event/copy-of-womens-league-lunch-club-killian-court-2499",
+      "time": "TBD",
+      "location": "Building 10"
+    },
+    {
+      "date": "2026-07-08",
       "title": "BCS STIRR Virtual Workshop: Data Management and Sharing",
       "source": "MIT",
       "tag": "talk",
@@ -610,6 +620,16 @@
       "link": "https://calendar.mit.edu/event/outdoor-movie-fantastic-mr-fox",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Personal Storytelling Workshop",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Good storytelling is a skill you can learn, and this is the place to so it! In this workshop you'll learn storytelling techniques and skills so you can talk about the life experiences that matter to you, and say a bit about who you are as a person. You'll hear stories, learn how to brainstorm and st",
+      "link": "https://calendar.mit.edu/event/personal-storytelling-workshop",
+      "time": "TBD",
+      "location": "Building 10"
     },
     {
       "date": "2026-07-15",
@@ -1474,20 +1494,20 @@
     },
     {
       "date": "TBD",
+      "title": "Climatetech Summit 2026",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Step into our incubators for a day of hands-on exploration of climatetech solutions from 200+ startups, insightful keynotes and discussions with industry leaders, and unparalleled networking opportunities!",
+      "link": "https://greentownlabs.com/event/climatetech-summit-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Catalyst x Energy Tech Innovations with Shell & Technip Energies",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Kick off Go Make 2026, an open-innovation program with Shell and Technip Energies focused on catalytic solutions for industrial decarbonization and the energy transition!",
       "link": "https://greentownlabs.com/event/catalyst-x-energy-tech-innovations-with-shell-technip-energies/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "CATALYZE 2026",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "A new summit focused on scaling sustainable energy and industrial solutions!",
-      "link": "https://greentownlabs.com/event/catalyze-2026/",
       "time": "TBD"
     },
     {
@@ -4393,15 +4413,6 @@
       "title": "EventsSubmit Event",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Meet the Accelerators & Incubators of Boston's Startup Scene",
-      "source": "Luma",
-      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
