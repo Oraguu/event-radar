@@ -1,46 +1,7 @@
 {
-  "scraped_at": "2026-06-11T13:53:51.906471",
-  "event_count": 487,
+  "scraped_at": "2026-06-12T12:50:47.195170",
+  "event_count": 484,
   "events": [
-    {
-      "date": "2026-06-11",
-      "title": "2026 IEEE International Conference on AI and Data Analytics",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "This conference and exhibition will emphasize the applications of AI and key AI verticals that impact technology applications and innovations. ICAD aims to provides an opportunity to learn about new research and breakthroughs in AI, gain valuable insights, grow your network, and get inspired by the ",
-      "link": "https://calendar.mit.edu/event/2026-ieee-international-conference-on-ai-and-data-analytics",
-      "time": "TBD",
-      "location": "Boston College"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "After Dark: Let's Talk",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us this June as we travel back to the debate that helped shape Kendall Square into the most innovative square mile on the planet, 50 years ago this month. Then step away from the chatter and take part in hands-on activities inspired by the joy and occasional chaos of conversation. Featured acti",
-      "link": "https://calendar.mit.edu/event/after-dark-lets-talk",
-      "time": "TBD",
-      "location": "MIT Museum"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "Actuated Experience with Ken Nakagaki",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Actuated Experience: Interactive ‘Actuated’ Interfaces that Actuate People The Actuated Experience Lab (AxLab) at the University of Chicago asks, “How would actuated technologies actuate people? What happens when the physical world becomes as dynamic and adaptive as the digital one? And in turn, mor",
-      "link": "https://calendar.northeastern.edu/event/actuated-experience-with-ken-nakagaki",
-      "time": "TBD",
-      "location": "Center for Design"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "Boston Robot Hackers – Power Management in Robots",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/boston-robot-hackers-power-management-in-robots/",
-      "time": "TBD"
-    },
     {
       "date": "2026-06-12",
       "title": "Existential Risk, Emerging Technology, and Democracy: The Cambridge Recombinant DNA Debate, 50 Years On",
@@ -288,6 +249,16 @@
     },
     {
       "date": "2026-06-23",
+      "title": "Caribbean Heritage Month: The Jamaican Diaspora in Massachusetts",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "There are some 60,000 Jamaicans in New England, largely concentrated around Boston. This is one of the largest groups in the area. Jennifer James, President of the Jamaican Association of Massachusetts, will present \"The Jamaican Diaspora in Massachusetts,\" an exploration of the Jamaican community a",
+      "link": "https://calendar.mit.edu/event/caribbean-heritage-month-the-jamaican-diaspora-in-massachusetts",
+      "time": "TBD",
+      "location": "Building E62"
+    },
+    {
+      "date": "2026-06-23",
       "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
       "source": "Northeastern",
       "tag": "talk",
@@ -362,6 +333,16 @@
       "tag": "talk",
       "desc": "Name: Natesan Mani Title: A Tale of Two Fcs: Investigating Furin cleavage in the SARS-CoV-2 Spike Protein and Glycan Effects in IgG Fcs Date: 06/24/2026 Time: 12:30:00 PM Committee Members: […] The post ChE PhD Dissertation Defense: Natesan Mani appeared first on Northeastern University College of E",
       "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-natesan-mani",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Protect your Intellectual Property",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Discover The Inventor's Patent Academy: a free resource for inventors and innovators Join us for this event co-hosted by the Sawyer Business School’s Center for Innovation and Change Leadership (CICL) at Suffolk University and the Lemelson-MIT Program. We will be exploring The Inventor’s Patent Acad",
+      "link": "https://calendar.mit.edu/event/protect-your-intellectual-property-6569",
       "time": "TBD",
       "location": ""
     },
@@ -706,15 +687,6 @@
     },
     {
       "date": "TBD",
-      "title": "Power Term Polynomial Algebra for Boolean Logic",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva Conference Room",
-      "link": "https://www.csail.mit.edu/event/power-term-polynomial-algebra-boolean-logic",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "[THESIS DEFENSE] AI-Driven Modeling and Optimization of Networks",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -760,11 +732,20 @@
     },
     {
       "date": "TBD",
-      "title": "Events",
+      "title": "RoboBoston: September 26, 2026 – register here",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Events help us connect our community of entrepreneurs & startups, enterprise companies, government and academia. MassRobotics hosts a variety of informational, educational and networking events focused on robotics, artificial intelligence, drones, autonomous vehicles and more. We are regularly addin",
       "link": "https://www.massrobotics.org",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Events",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The 2026 IEEE International Conference on Robotics and Automation (ICRA 2026) is the IEEE Robotics and Automation Society’s flagship conference. The conference is from 1 to 5 June 2026, in […]",
+      "link": "https://www.massrobotics.org/eventscalendar/month/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -4361,15 +4342,6 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "New to Boston Party",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
