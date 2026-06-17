@@ -1,75 +1,7 @@
 {
-  "scraped_at": "2026-06-16T14:54:45.918138",
-  "event_count": 490,
+  "scraped_at": "2026-06-17T13:37:12.633970",
+  "event_count": 484,
   "events": [
-    {
-      "date": "2026-06-16",
-      "title": "Summer Seminar Series on Super Pollutants",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Methane, nitrous oxide, ozone, and fluorinated gases, collectively known as “super pollutants”, account for nearly half of all anthropogenic warming to date. Super pollutant abatement therefore represents an important component of climate mitigation, but poses a range of technical and implementation",
-      "link": "https://calendar.mit.edu/event/summer-seminar-series-on-super-pollutants",
-      "time": "TBD",
-      "location": "Building 55-110"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "2026 Edward M. Scolnick Prize Lecture in Neuroscience with Liqun Luo ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Scolnick Award: The Scolnick Prize is awarded annually by the McGovern Institute to recognize outstanding advances in the field of neuroscience. The prize is named in honor of Edward M. Scolnick, who stepped down as president of Merck Research Laboratories in December 2002 after holding Merck’s top ",
-      "link": "https://calendar.mit.edu/event/2026-edward-m-scolnick-prize-lecture-in-neuroscience-with-liqun-luo",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-2244",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Developing Intercultural Communication Skills",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Understanding intercultural communication is key to communicating effectively accross cultural boundaries. It is important in today's globalised world and in organizational efficiency. Join GLS to develop your intercultural communication skills in this workshop, where we will work together to broade",
-      "link": "https://calendar.northeastern.edu/event/developing-intercultural-communication-skills",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-16",
-      "title": "GLS Conversation Series: A Global Network Panel on Pride",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "In celebration of Pride Month, Global Learner Support is honoured to host the GLS Conversation Series: A Global Network Panel on Pride. Join us as we discuss topics on intersectional identity, allyship, and creating safe spaces with our panelists from the Seattle, Oakland, and Toronto campuses. We l",
-      "link": "https://calendar.northeastern.edu/event/gls-conversation-series-a-global-network-panel-on-pride",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-16",
-      "title": "New England Manipulation Symposium (NEMS) 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "The New England Manipulation Symposium (NEMS) is an annual research symposium in the Northeast focused on robot manipulation research of all kinds, including mechanics, mechanisms, control, learning, perception, and planning. […]",
-      "link": "https://www.massrobotics.org/event/new-england-manipulation-symposium-nems-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "EMEA Humanoid Robot Summit",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "EMEA Humanoid Robot Summit 2026 is in Germany. This event brings together leading research institutions, global corporations, investors, and policymakers to explore the theme “Coexisting with Intelligence: The Future of […]",
-      "link": "https://www.massrobotics.org/event/emea-humanoid-robot-summit/",
-      "time": "TBD"
-    },
     {
       "date": "2026-06-17",
       "title": "Midday Music: Sol y Canto",
@@ -645,6 +577,26 @@
       "location": "Building 46"
     },
     {
+      "date": "2026-07-31",
+      "title": "Outdoor Movie: It Happened One Night",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Join us for a summer screening of It Happened One Night (PG). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
+      "link": "https://calendar.mit.edu/event/outdoor-movie-it-happened-one-night",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Outdoor Movie: Chicken Run",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. This event is first come, first served regardless of registration. Join us for a summer screening of Chicken Run (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
+      "link": "https://calendar.mit.edu/event/outdoor-movie-chicken-run",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
       "date": "2026-08-11",
       "title": "Teamwork & Collaboration: How to Work Effectively in Groups",
       "source": "Northeastern",
@@ -714,15 +666,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "Towards Understanding and Improving Multimodal Models using Interpretability Tools",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "45-792",
-      "link": "https://www.csail.mit.edu/event/towards-understanding-and-improving-multimodal-models-using-interpretability-tools",
-      "time": "TBD"
     },
     {
       "date": "TBD",
