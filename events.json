@@ -1,57 +1,7 @@
 {
-  "scraped_at": "2026-06-17T13:37:12.633970",
+  "scraped_at": "2026-06-18T12:46:56.493858",
   "event_count": 484,
   "events": [
-    {
-      "date": "2026-06-17",
-      "title": "Midday Music: Sol y Canto",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Spend your lunch break with Sol y Canto, an award winning award-winning Latin husband and wife duo featuring Puerto Rican/Argentine Rosi Amador’s crystalline voice and New Mexican Brian Amador’s lush Spanish guitar and inventive compositions. Sol y Canto’s original songs and fiery Latin classics tou",
-      "link": "https://calendar.mit.edu/event/midday-music-sol-y-canto",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Bioengineering Student WIP Seminar – Summer ’26",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Work in Progress (WIP) seminars with Bioengineering PhD students. Weekly in 121 Snell Library from 12-1pm on Wednesdays during Summer 1. All are welcome! PhD Candidate Faculty Advisor MAY 5/6 […] The post Bioengineering Student WIP Seminar – Summer ’26 appeared first on Northeastern University Colle",
-      "link": "https://calendar.northeastern.edu/event/bioengineering-student-wip-seminar-summer-26-3784",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Professional Emails: How to Communicate with Confidence and Clarity in English",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Whether you’re reaching out to a professor, supervisor, or colleague, professional emails can open doors and build relationships. In this workshop, you’ll learn how to structure your messages, use appropriate tone, and respond effectively. Gain tools to write emails that are clear, respectful, and a",
-      "link": "https://calendar.northeastern.edu/event/professional-emails-how-to-communicate-with-confidence-and-clarity-in-english-4878",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Sources of Miscommunication in the Workplace: Communication Strategies for Graduate Students and Early-Career Professionals",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Miscommunication at work doesn't always stem from vocabulary and grammar. Sometimes it's about differences in norms, expectations, and hidden assumptions about how language is used across cultures. In this workshop, esplore the key sources of workplace miscommunication and develop practical strategi",
-      "link": "https://calendar.northeastern.edu/event/sources-of-miscommunication-in-the-workplace-communication-strategies-for-graduate-students-and-early-career-professionals",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-17",
-      "title": "The Gordon Institute: Virtual Information Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Earn a Graduate Certificate in Engineering Leadership with the Gordon Institute at Northeastern. Join an information session to learn how. The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-9520",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-06-18",
       "title": "KI Annual Symposium 2026",
@@ -207,6 +157,16 @@
       "link": "https://calendar.mit.edu/event/Effects-of-Conscious-Experience-Differ-from-AI",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-06-24",
+      "title": "HSA Therino Cinema",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us on Wednesday, June 24th for a classic comedy about a family where absolutely no one minds their own business. We said black-and-white, the movie said όχι. Full colour film, full-colour chaos. We won’t name names yet, but English subtitles will be included.",
+      "link": "https://calendar.mit.edu/event/hsa-therino-cinema",
+      "time": "TBD",
+      "location": "Sidney Pacific"
     },
     {
       "date": "2026-06-24",
@@ -538,6 +498,16 @@
     },
     {
       "date": "2026-07-28",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-5734",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-28",
       "title": "Writing: From Understanding Assignments to Impactful Revision",
       "source": "Northeastern",
       "tag": "talk",
@@ -587,6 +557,26 @@
       "location": "Kendall/MIT Open Space"
     },
     {
+      "date": "2026-08-04",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-1147",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Lab-2-Market Office Hours",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Office hours with serial entrepreneur/angel investor/business builders from the i-lab and Harvard Grid - bring your venturing challenges, and we'll bring the pizza.",
+      "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-1300",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-08-07",
       "title": "Outdoor Movie: Chicken Run",
       "source": "MIT",
@@ -597,6 +587,16 @@
       "location": "Kendall/MIT Open Space"
     },
     {
+      "date": "2026-08-08",
+      "title": "LEAP Lab: Creative Dance for Kids",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. This workshop-style event introduces young children to the art of dance using patterns, movement, words, music, and storytelling. Haitian Folkloric rhythms (played by Jean Appolon Expressions’ Master Drummers) and movements are woven into the class in a child-friendly fashion. ",
+      "link": "https://calendar.mit.edu/event/leap-lab-creative-dance-for-kids-4715",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-08-11",
       "title": "Teamwork & Collaboration: How to Work Effectively in Groups",
       "source": "Northeastern",
@@ -605,6 +605,26 @@
       "link": "https://calendar.northeastern.edu/event/teamwork-collaboration-how-to-work-effectively-in-groups-3273",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Midday Music: Lumanyano Mzi Quartet",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Lumanyano Mzi presents Ithemba Elitsha (A New Hope), a unique sonic tapestry blending the rich heritage of South African jazz with global contemporary influences. This upbeat project transcends geographical boundaries to celebrate a shared bond of humanity and renewed hope. Thi",
+      "link": "https://calendar.mit.edu/event/midday-music-lumanyano-mzi-quartet",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Outdoor Movie: The Straight Story",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Join us for a summer screening of The Straight Story (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
+      "link": "https://calendar.mit.edu/event/outdoor-movie-the-straight-story",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-08-21",
@@ -637,6 +657,16 @@
       "pickNote": "MIT's flagship hackathon. Apply early — competitive admission"
     },
     {
+      "date": "2026-09-03",
+      "title": "Lab-2-Market Office Hours",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Office hours with serial entrepreneur/angel investor/business builders from the i-lab and Harvard Grid - bring your venturing challenges, and we'll bring the pizza.",
+      "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-7065",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-09-22",
       "title": "BioProcess International",
       "source": "Conference",
@@ -666,15 +696,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "Securing Agentic AI: Contextual Security and Beyond",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "AI agents-the newest class of systems embraced by the tech industry-introduce incredible security and privacy risks. Without the proper defenses, an adversary can exfiltrate or corrupt any data or system state available to an agent system using attacks like direct or indirect prompt injection (injec",
-      "link": "https://www.csail.mit.edu/event/securing-agentic-ai-contextual-security-and-beyond",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -4308,24 +4329,6 @@
       "title": "EventsSubmit Event",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "VC Panel: What Kills Deals and What Excites Investors",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI After Hours - Boston",
-      "source": "Luma",
-      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
