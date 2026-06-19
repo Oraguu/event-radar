@@ -1,46 +1,7 @@
 {
-  "scraped_at": "2026-06-18T12:46:56.493858",
-  "event_count": 484,
+  "scraped_at": "2026-06-19T13:30:19.685977",
+  "event_count": 486,
   "events": [
-    {
-      "date": "2026-06-18",
-      "title": "KI Annual Symposium 2026",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The goal of this symposium is to explore how nutritional and metabolic factors influence cancer development and therapy, as well as foster interdisciplinary discussions and highlight insights that can advance cancer prevention and treatment. There will be four sessions during the full-day event feat",
-      "link": "https://calendar.mit.edu/event/ki-annual-symposium-2026",
-      "time": "TBD",
-      "location": "Huntington Hall (10-250)"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Celebrate Juneteenth!",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Celebrate Juneteenth (a day early!) with live music, delicious food truck options, lawn games, and more. Presented in collaboration with MIT Sloan School of Management and MIT's African, Black, American, Caribbean (ABAC) Employee Resource Group",
-      "link": "https://calendar.mit.edu/event/celebrate-juneteenth",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Bioengineering PhD Research Symposium 2026",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "8:45am-9:20am CSC Ballroom Breakfast 9:20am-10:00am CSC Ballroom Introductions and Keynote Speaker with Lee Makowski, Professor of Bioengineering and Chemistry and Chemical Biology 10:00am-11:05am CSC Ballroom Oral Presentations with Bioengineering PhD Students Harry Akligoh, PhD Candidate Andrew Se",
-      "link": "https://calendar.northeastern.edu/event/bioengineering-phd-research-symposium-2026",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Robots in Public: Panel Discussion",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/robots-in-public-panel-discussion/",
-      "time": "TBD"
-    },
     {
       "date": "2026-06-19",
       "title": "Women's Lightweight Crew vs. Henley Women's Regatta",
@@ -567,6 +528,16 @@
       "location": ""
     },
     {
+      "date": "2026-08-05",
+      "title": "Northeast Regional Neurodiversity Coalition Conference",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The 3rd Annual Northeast Regional Neurodiversity Coalition Conference advances the mission of the Northeastern Regional Neurodiversity Coalition (NRNC) through expanded programming and regional collaboration. In partnership with Northeastern University, University […] The post Northeast Regional Neu",
+      "link": "https://calendar.northeastern.edu/event/northeast-regional-neurodiversity-coalition-conference",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-08-06",
       "title": "Lab-2-Market Office Hours",
       "source": "Harvard SEAS",
@@ -637,6 +608,26 @@
       "location": ""
     },
     {
+      "date": "2026-08-28",
+      "title": "4th MIT Global Humanities Forum on “Recovering Agency through Visual Arts amid Political Uncertainty and Exile” on August 28 (online)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dear colleagues, students, and friends, Join us for the 2026 GHI 4th Forum, rescheduled to August 28! This session introduces the GHI Pillar Heritage, Memory & Identity, and its project: Relocating Agency amid Political Uncertainty and Exile 4th GHI Forum Title: Recovering Agency through Visual Arts",
+      "link": "https://calendar.mit.edu/event/4th-mit-global-humanities-forum-on-recovering-agency-through-visual-arts-amid-political-uncertainty-and-exile-on-august-28-online",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Outdoor Movie: The Wiz",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Join us for a summer screening of The Wiz (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
+      "link": "https://calendar.mit.edu/event/outdoor-movie-the-wiz",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
       "date": "2026-09-01",
       "title": "Commercial UAV Expo",
       "source": "Conference",
@@ -699,20 +690,29 @@
     },
     {
       "date": "TBD",
-      "title": "FAST CODE Seminar - Making Room for Algorithm Innovation “At the Top” -- The UpDown Graph Supercomputer",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "VIRTUAL",
-      "link": "https://www.csail.mit.edu/event/fast-code-seminar-making-room-algorithm-innovation-top-updown-graph-supercomputer",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "THESIS DEFENSE: Three Lessons from Evaluating Language Models on Reasoning Tasks",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Kiva Conference Room",
       "link": "https://www.csail.mit.edu/event/thesis-defense-three-lessons-evaluating-language-models-reasoning-tasks",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Old Habits and Hard Choices: How LLMs Navigate Management Decision-Making and Earlier Interactions",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:We will start our talk on evaluating what happens in LLM decision-making in realistic, human-validated managerial scenarios via ManagerBench (ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs). Indicating that frontier LLMs perform poorly when navigating the safety",
+      "link": "https://www.csail.mit.edu/event/old-habits-and-hard-choices-how-llms-navigate-management-decision-making-and-earlier",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Training and Evaluating Foundation Models for Neuroscience",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "We investigate how recent advances in machine learning can be translated into advances in the field of neuroscience, particularly in the study of language processing in the brain. We demonstrate that this can be accomplished at every layer of the modern deep learning pipeline: dataset construction, ",
+      "link": "https://www.csail.mit.edu/event/training-and-evaluating-foundation-models-neuroscience",
       "time": "TBD"
     },
     {
@@ -1230,20 +1230,29 @@
     },
     {
       "date": "TBD",
-      "title": "1 event 25",
+      "title": "2 events 25",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "",
+      "desc": "As robotics systems evolve from traditional automation to intelligent, perception-driven platforms, new architectural considerations are emerging around real-time sensing, data processing, and system design. Lattice will host a LinkedIn Live […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-06-25/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "1 event, 25",
+      "title": "2 events, 25",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "",
+      "desc": "As robotics systems evolve from traditional automation to intelligent, perception-driven platforms, new architectural considerations are emerging around real-time sensing, data processing, and system design. Lattice will host a LinkedIn Live […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-06-25/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Future of Robotics: Real-Time Perception, Edge AI, & the Role of FPGAs",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "As robotics systems evolve from traditional automation to intelligent, perception-driven platforms, new architectural considerations are emerging around real-time sensing, data processing, and system design. Lattice will host a LinkedIn Live […]",
+      "link": "https://www.massrobotics.org/event/the-future-of-robotics-real-time-perception-edge-ai-the-role-of-fpgas/",
       "time": "TBD"
     },
     {
@@ -4381,6 +4390,15 @@
     {
       "date": "TBD",
       "title": "Korrfocus Studio: Studio Signal - Session 3",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tipsy Tuesday: Dockside ⛵️",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
