@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-06-19T13:30:19.685977",
+  "scraped_at": "2026-06-20T11:52:15.969110",
   "event_count": 486,
   "events": [
-    {
-      "date": "2026-06-19",
-      "title": "Women's Lightweight Crew vs. Henley Women's Regatta",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: TBA Location: Henley-on-Thames, England",
-      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-simmons-university-9789",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-06-22",
       "title": "STEM Pride Table at Snell Library Lobby, Boston",
@@ -4401,6 +4391,15 @@
       "title": "Tipsy Tuesday: Dockside ⛵️",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Mass AI Coalition Summer Startup Block Party: America's 250th in Seaport",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
