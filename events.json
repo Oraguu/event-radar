@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-20T11:52:15.969110",
-  "event_count": 486,
+  "scraped_at": "2026-06-21T12:07:52.641958",
+  "event_count": 485,
   "events": [
     {
       "date": "2026-06-22",
@@ -4326,15 +4326,6 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Mindful Makers Hack - `touch ./GRASS`",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
