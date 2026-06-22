@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T12:07:52.641958",
-  "event_count": 485,
+  "scraped_at": "2026-06-22T15:15:35.713858",
+  "event_count": 486,
   "events": [
     {
       "date": "2026-06-22",
@@ -4364,6 +4364,15 @@
       "title": "Glasswing x Xoogler Spring Rooftop Mixer",
       "source": "Luma",
       "tag": "networking",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Singles Run Boston (Women)",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
