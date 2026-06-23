@@ -1,35 +1,7 @@
 {
-  "scraped_at": "2026-06-22T15:15:35.713858",
+  "scraped_at": "2026-06-23T12:28:47.613322",
   "event_count": 486,
   "events": [
-    {
-      "date": "2026-06-22",
-      "title": "STEM Pride Table at Snell Library Lobby, Boston",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join the Northeastern University Library in promotion of STEM resources about LGBTQIA+ topics. The table will be staffed from 11-1pm but you are welcome to visit any time. You can […] The post STEM Pride Table at Snell Library Lobby, Boston appeared first on Northeastern University College of Engine",
-      "link": "https://calendar.northeastern.edu/event/stem-pride-table-at-snell-library-lobby-boston",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Automate 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "As the leading robotics and automation event in North America, this is the place for anyone working with or curious about automation. Join us in discovering what’s next — for […]",
-      "link": "https://www.massrobotics.org/event/automate-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "2026-06-22",
-      "title": "Drone Energy and Robotics Summit",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "The 10th Annual Energy Drone & Robotics Summit is back and in 2026, it’s going bigger, bolder, and more action-packed than ever as part of InnovateEnergy Week, a first-of-its-kind mega-event happening June 22–24, 2026 in Houston, TX […]",
-      "link": "https://www.massrobotics.org/event/drone-energy-and-robotics-summit/",
-      "time": "TBD"
-    },
     {
       "date": "2026-06-23",
       "title": "Caribbean Heritage Month: The Jamaican Diaspora in Massachusetts",
@@ -169,6 +141,16 @@
       "time": "TBD"
     },
     {
+      "date": "2026-06-29",
+      "title": "Engineering Business Certificate | Galante Info Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
+      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-06-30",
       "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
       "source": "Northeastern",
@@ -236,6 +218,16 @@
       "link": "https://calendar.mit.edu/event/pico-opera-lucia-di-lammermoor-sunday",
       "time": "TBD",
       "location": "Multicultural Arts Center: 41 2nd Street, Cambridge, Massachusetts 02141"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Engineering Business Certificate | Galante Info Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
+      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-2054",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-07-07",
@@ -306,6 +298,16 @@
       "link": "https://calendar.mit.edu/event/outdoor-movie-fantastic-mr-fox",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Engineering Business Certificate | Galante Info Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
+      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-8671",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-07-14",
@@ -394,6 +396,16 @@
       "tag": "manufacturing",
       "desc": "The Fab Foundation is inviting students from Boston and Cambridge universities to volunteer at FAB26 Boston: the International Fab Lab Conference & Symposium, taking place July 27–31, 2026, sponsored by MIT's Center for Bits and Atoms. FAB26 will bring together 1,000+ makers, innovators, educators, ",
       "link": "https://calendar.mit.edu/event/fab26-volunteer-opportunity",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Engineering Business Certificate | Galante Info Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
+      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-6484",
       "time": "TBD",
       "location": ""
     },
@@ -646,6 +658,16 @@
       "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-7065",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Faculty Job Search Series: Crafting the Academic Cover Letter",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Academic cover letters for faculty job applications are a little bit different than your typical industry cover letter. Join us to learn more about this specific document, what it should include, and how you can use it to make an impact. In this workshop, we will go over the document and its typical",
+      "link": "https://calendar.mit.edu/event/faculty-job-search-series-crafting-the-academic-cover-letter",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-22",
@@ -4334,15 +4356,6 @@
     },
     {
       "date": "TBD",
-      "title": "Conversations on Community Banking: An Evening with EY and Fintech Sandbox",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Board Game Night @ Pickle Robot Company",
       "source": "Luma",
       "tag": "robotics",
@@ -4380,15 +4393,6 @@
     {
       "date": "TBD",
       "title": "Korrfocus Studio: Studio Signal - Session 3",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Tipsy Tuesday: Dockside ⛵️",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
