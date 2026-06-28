@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27T11:23:10.725716",
+  "scraped_at": "2026-06-28T11:43:45.751316",
   "event_count": 493,
   "events": [
     {
@@ -4387,15 +4387,6 @@
     },
     {
       "date": "TBD",
-      "title": "Singles Run Boston (Men)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Singles Run Boston (Women)",
       "source": "Luma",
       "tag": "talk",
@@ -4433,6 +4424,15 @@
     {
       "date": "TBD",
       "title": "MAUM Market Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Retail Uncorked [By Evie + Ashley] Boston",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
