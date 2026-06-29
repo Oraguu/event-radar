@@ -1,16 +1,7 @@
 {
-  "scraped_at": "2026-06-28T11:43:45.751316",
-  "event_count": 493,
+  "scraped_at": "2026-06-29T13:59:29.912713",
+  "event_count": 490,
   "events": [
-    {
-      "date": "2026-06-28",
-      "title": "SEGA Robo-Explorers",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Nurturing minds is recruiting 5+ volunteers to join our SEGA Robo-Explorers Program inaugural launch in 2026! This is your chance to support SEGA Students as they gain hands-on experience in […]",
-      "link": "https://www.massrobotics.org/event/sega-robo-explorers/",
-      "time": "TBD"
-    },
     {
       "date": "2026-06-29",
       "title": "Engineering Business Certificate | Galante Info Session",
@@ -4379,24 +4370,6 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Singles Run Boston (Women)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Korrfocus Studio: Studio Signal - Session 3",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
