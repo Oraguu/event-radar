@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-06-30T12:05:03.210723",
-  "event_count": 578,
+  "scraped_at": "2026-07-01T12:30:15.855135",
+  "event_count": 563,
   "events": [
-    {
-      "date": "2026-06-30",
-      "title": "LL Technology Office Seminar: From 3 Configurations to 300: Rapid Trades for Advanced Aircraft Design",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "From 3 Configurations to 300: Rapid Trades for Advanced Aircraft Design Description Aircraft development timelines have collapsed from 7 years to 18 months, but design tools still assume you have years to iterate. The result: teams freeze architecture in week 2, before they understand the design spa",
-      "link": "https://calendar.mit.edu/event/ll-technology-office-seminar-nTop-Bradley-Rothenberg",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-5159",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Economics PhD Dissertation Defense - Tianyi Tao",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "On Tuesday, June 30, at 11:00 a.m. in 316 Lake Hall, Tianyi Tao will defend her dissertation titled “Competition Under Pressure: Demand Elasticity, Policy Interventions, and Merger Effects.”",
-      "link": "https://calendar.northeastern.edu/event/economics-phd-dissertation-defense-tianyi-tao",
-      "time": "TBD",
-      "location": "Lake Hall"
-    },
     {
       "date": "2026-07-01",
       "title": "Men's Lightweight Crew vs. Henley Royal Regatta",
@@ -132,6 +102,15 @@
       "location": ""
     },
     {
+      "date": "2026-07-06",
+      "title": "Drone Academy 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics Drone Academy collaboration began in 2019 with our first pilot program run at the Dearborn STEM academy. See details in this blog post. As the curriculum became more refined, we ran our […]",
+      "link": "https://www.massrobotics.org/event/drone-academy-2026/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-07-07",
       "title": "LL Technology Office Seminar: From Concept to Mission Impact: Lessons from Rickover, Grove, and Accelerating Real Change",
       "source": "MIT",
@@ -162,6 +141,15 @@
       "location": ""
     },
     {
+      "date": "2026-07-07",
+      "title": "Machina Summit",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Where intelligence meets the physical world The summit dedicated to humanoids, robotics, industrial autonomy, and next-generation human–machine interfaces.",
+      "link": "https://www.massrobotics.org/event/machina-summit/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-07-08",
       "title": "Women's League Lunch Club: Killian Court",
       "source": "MIT",
@@ -182,6 +170,16 @@
       "location": ""
     },
     {
+      "date": "2026-07-08",
+      "title": "SPUR / RSI 2026 Lecture Series",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Larry Guth (MIT) Title: Perspectives on the unit distance problem Abstract: Erdos posed the unit distance problem in the 1940s. The problem is easy to state but remains far from fully understood. It was one of the first problems in an area of combinatorics called incidence geometry. Inciden",
+      "link": "https://calendar.mit.edu/event/spur-rsi-2026-lecture-series-6666",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
       "date": "2026-07-09",
       "title": "Faculty Job Search Series: Community and Service Statements",
       "source": "MIT",
@@ -190,6 +188,16 @@
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-community-and-service-statements",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-07-10",
+      "title": "Graphene thin film technology for neural interfaces",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "Abstract: Establishing a reliable bidirectional communication interface between the nervous system and electronic devices is critical for exploiting the full potential of neurotechnology. Despite recent advancements, current technologies evidence important shortcomings, e.g. lack of focal stimulatio",
+      "link": "https://calendar.mit.edu/event/graphene-thin-film-technology-for-neural-interfaces",
+      "time": "TBD",
+      "location": "Building NE49"
     },
     {
       "date": "2026-07-10",
@@ -220,6 +228,15 @@
       "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-8671",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Robotics: Science and Systems",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the University of Technology Sydney, Sydney, Australia from July 13-17, 2026. […]",
+      "link": "https://www.massrobotics.org/event/robotics-science-and-systems-3/",
+      "time": "TBD"
     },
     {
       "date": "2026-07-14",
@@ -260,6 +277,15 @@
       "link": "https://calendar.mit.edu/event/midday-music-grooversity",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "AUTONOMOUS",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "AUTONOMOUS is a one-day conference for the robotics and physical AI industry, at The Midway in San Francisco on July 16, 2026. It brings together 500+ founders, engineers, investors, and […]",
+      "link": "https://www.massrobotics.org/event/autonomous/",
+      "time": "TBD"
     },
     {
       "date": "2026-07-17",
@@ -360,6 +386,15 @@
       "link": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-9979",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-07-22",
+      "title": "AMD Advancing AI",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "San Francisco Moscone West • July 22-23: Join hands-on workshops, connect with fellow AI developers, meet the builders behind leading AI projects, and leave with practical skills and tools you […]",
+      "link": "https://www.massrobotics.org/event/amd-advancing-ai/",
+      "time": "TBD"
     },
     {
       "date": "2026-07-23",
@@ -724,15 +759,6 @@
     },
     {
       "date": "TBD",
-      "title": "A Framework for Modular Metatheory and Verified Compilation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "As the complexity of both software systems and mathematics grows, developers and researchers alike increasingly lean on proof to safeguard software and justify new discoveries. Compilers are one of the most critical components of the software stack to verify since the correctness of any source progr",
-      "link": "https://www.csail.mit.edu/event/framework-modular-metatheory-and-verified-compilation",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "RoboBoston: September 26, 2026 – register here",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -745,7 +771,7 @@
       "title": "Events",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "The 2026 IEEE International Conference on Robotics and Automation (ICRA 2026) is the IEEE Robotics and Automation Society’s flagship conference. The conference is from 1 to 5 June 2026, in […]",
+      "desc": "Nurturing minds is recruiting 5+ volunteers to join our SEGA Robo-Explorers Program inaugural launch in 2026! This is your chance to support SEGA Students as they gain hands-on experience in […]",
       "link": "https://www.massrobotics.org/eventscalendar/month/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
@@ -772,8 +798,8 @@
       "title": "M Monday",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "The 2026 IEEE International Conference on Robotics and Automation (ICRA 2026) is the IEEE Robotics and Automation Society’s flagship conference. The conference is from 1 to 5 June 2026, in […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-01/?shortcode=f0b1cb7d",
+      "desc": "Nurturing minds is recruiting 5+ volunteers to join our SEGA Robo-Explorers Program inaugural launch in 2026! This is your chance to support SEGA Students as they gain hands-on experience in […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-06-29/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -832,470 +858,20 @@
     },
     {
       "date": "TBD",
-      "title": "2 events 1",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "The 2026 IEEE International Conference on Robotics and Automation (ICRA 2026) is the IEEE Robotics and Automation Society’s flagship conference. The conference is from 1 to 5 June 2026, in […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-01/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 1",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "The 2026 IEEE International Conference on Robotics and Automation (ICRA 2026) is the IEEE Robotics and Automation Society’s flagship conference. The conference is from 1 to 5 June 2026, in […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-01/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2026 IEEE International Conference on Robotics & Automation",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2nd What Bimanuals Can Do (WBCD 2026) Competition",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "3 events 2",
-      "source": "MassRobotics",
-      "tag": "manufacturing",
-      "desc": "Manufacturing Your Future “Power of Change” Manufacturing Your Future returns on June 2, 2026, and this year promises to be our most dynamic yet. As we celebrate the 5th anniversary of […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-02/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "3 events, 2",
-      "source": "MassRobotics",
-      "tag": "manufacturing",
-      "desc": "Manufacturing Your Future “Power of Change” Manufacturing Your Future returns on June 2, 2026, and this year promises to be our most dynamic yet. As we celebrate the 5th anniversary of […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-02/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Manufacturing Your Future “Power of Change”",
-      "source": "MassRobotics",
-      "tag": "manufacturing",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "3 events 3",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "ABILITIES: AMPLIFIED inclusive music and tech event on June 3 from 6-8 PM at the Hatch Shell.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-03/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "3 events, 3",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "ABILITIES: AMPLIFIED inclusive music and tech event on June 3 from 6-8 PM at the Hatch Shell.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-03/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Abilities: Amplified",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "ABILITIES: AMPLIFIED inclusive music and tech event on June 3 from 6-8 PM at the Hatch Shell.",
-      "link": "https://www.massrobotics.org/event/abilities-amplified/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "4 events 4",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "​What if getting older felt like an upgrade? ​A long walk with friends. A meal enjoyed at your own pace. Moving through your home, on your own, even at 2am […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-04/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "4 events, 4",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "​What if getting older felt like an upgrade? ​A long walk with friends. A meal enjoyed at your own pace. Moving through your home, on your own, even at 2am […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-04/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Independence, Engineered: Hardware for Aging Well",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "​What if getting older felt like an upgrade? ​A long walk with friends. A meal enjoyed at your own pace. Moving through your home, on your own, even at 2am […]",
-      "link": "https://www.massrobotics.org/event/independence-engineered-hardware-for-aging-well/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "German American Lightweight & Additive Manufacturing Evening Reception Boston",
-      "source": "MassRobotics",
-      "tag": "manufacturing",
-      "desc": "Join us for an evening reception showcasing ten selected German companies from the Lightweight and Additive Manufacturing Industry as they explore opportunities in the U.S. market. The program features a keynote presentation, company […]",
-      "link": "https://www.massrobotics.org/event/german-american-lightweight-additive-manufacturing-evening-reception-boston/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events 5",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-05/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 5",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-05/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 6",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join us on June 6th from 1PM-5PM at 27 Brattle St. in Cambridge for an afternoon celebrating robotics, innovation, and STEM education. The event will include robot showcases, live demonstrations, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-06/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 6",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join us on June 6th from 1PM-5PM at 27 Brattle St. in Cambridge for an afternoon celebrating robotics, innovation, and STEM education. The event will include robot showcases, live demonstrations, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-06/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Cambridge Robotics Day at Harvard Square",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join us on June 6th from 1PM-5PM at 27 Brattle St. in Cambridge for an afternoon celebrating robotics, innovation, and STEM education. The event will include robot showcases, live demonstrations, […]",
-      "link": "https://www.massrobotics.org/event/cambridge-robotics-day-at-harvard-square/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 9",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Benji Barash of Roboto will talk about how to deal with multimodal data generated during operation by robotic systems. Please reach out to info@massrobotics.org if you would like us to […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-09/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 9",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Benji Barash of Roboto will talk about how to deal with multimodal data generated during operation by robotic systems. Please reach out to info@massrobotics.org if you would like us to […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-09/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Physical AI Working Group with Roboto AI",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Benji Barash of Roboto will talk about how to deal with multimodal data generated during operation by robotic systems. Please reach out to info@massrobotics.org if you would like us to […]",
-      "link": "https://www.massrobotics.org/event/physical-ai-working-group-with-roboto-ai/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 10",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "​A private gathering of founders and funders shaping the future of robotics for a candid look at today’s investment landscape. Featuring market insights from JP Morgan, a panel of robotics […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-10/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 10",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "​A private gathering of founders and funders shaping the future of robotics for a candid look at today’s investment landscape. Featuring market insights from JP Morgan, a panel of robotics […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-10/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Robotics Founders & Funders Capital Forum",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "​A private gathering of founders and funders shaping the future of robotics for a candid look at today’s investment landscape. Featuring market insights from JP Morgan, a panel of robotics […]",
-      "link": "https://www.massrobotics.org/event/robotics-founders-funders-capital-forum/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 11",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "In his talk, Alan will explain the core elements of robot power systems by covering battery chemistries, physical formats, charge and discharge behavior, and the safety and environmental limits that […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-11/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 11",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "In his talk, Alan will explain the core elements of robot power systems by covering battery chemistries, physical formats, charge and discharge behavior, and the safety and environmental limits that […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-11/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Robot Hackers – Power Management in Robots",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "In his talk, Alan will explain the core elements of robot power systems by covering battery chemistries, physical formats, charge and discharge behavior, and the safety and environmental limits that […]",
-      "link": "https://www.massrobotics.org/event/boston-robot-hackers-power-management-in-robots/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events 16",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "EMEA Humanoid Robot Summit 2026 is in Germany. This event brings together leading research institutions, global corporations, investors, and policymakers to explore the theme “Coexisting with Intelligence: The Future of […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-16/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 16",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "EMEA Humanoid Robot Summit 2026 is in Germany. This event brings together leading research institutions, global corporations, investors, and policymakers to explore the theme “Coexisting with Intelligence: The Future of […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-16/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "EMEA Humanoid Robot Summit",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "New England Manipulation Symposium (NEMS) 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events 17",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-17/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 17",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-17/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 18",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join our interactive Q&A with the authors of \"Robots in Public: Building the Governance Framework for Shared Human-Robot Spaces\" and special guest Andrew Glass Hastings, Executive Director of the OMF.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-18/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 18",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join our interactive Q&A with the authors of \"Robots in Public: Building the Governance Framework for Shared Human-Robot Spaces\" and special guest Andrew Glass Hastings, Executive Director of the OMF.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-18/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Robots in Public: Panel Discussion",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join our interactive Q&A with the authors of \"Robots in Public: Building the Governance Framework for Shared Human-Robot Spaces\" and special guest Andrew Glass Hastings, Executive Director of the OMF.",
-      "link": "https://www.massrobotics.org/event/robots-in-public-panel-discussion/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events 22",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "As the leading robotics and automation event in North America, this is the place for anyone working with or curious about automation. Join us in discovering what’s next — for […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-22/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 22",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "As the leading robotics and automation event in North America, this is the place for anyone working with or curious about automation. Join us in discovering what’s next — for […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-22/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Automate 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Drone Energy and Robotics Summit",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "4 events 23",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "From Concept to Reality Hosted as part of Automate 2026, this two-day forum brings together robotics leaders, engineers, and researchers to examine the real-world development, deployment, and commercialization of humanoid […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-23/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "4 events, 23",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "From Concept to Reality Hosted as part of Automate 2026, this two-day forum brings together robotics leaders, engineers, and researchers to examine the real-world development, deployment, and commercialization of humanoid […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-23/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Humanoid Robot Forum at Automate Show",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "How Early Safety Accelerates Product Lunch and Learn",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics residents only Learn more about MassRobotics Residents here",
-      "link": "https://www.massrobotics.org/event/how-early-safety-accelerates-product-lunch-and-learn/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "3 events 24",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-24/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "3 events, 24",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-24/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events 25",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "As robotics systems evolve from traditional automation to intelligent, perception-driven platforms, new architectural considerations are emerging around real-time sensing, data processing, and system design. Lattice will host a LinkedIn Live […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-25/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 25",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "As robotics systems evolve from traditional automation to intelligent, perception-driven platforms, new architectural considerations are emerging around real-time sensing, data processing, and system design. Lattice will host a LinkedIn Live […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-25/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The Future of Robotics: Real-Time Perception, Edge AI, & the Role of FPGAs",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "As robotics systems evolve from traditional automation to intelligent, perception-driven platforms, new architectural considerations are emerging around real-time sensing, data processing, and system design. Lattice will host a LinkedIn Live […]",
-      "link": "https://www.massrobotics.org/event/the-future-of-robotics-real-time-perception-edge-ai-the-role-of-fpgas/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 28",
+      "title": "1 event 29",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Nurturing minds is recruiting 5+ volunteers to join our SEGA Robo-Explorers Program inaugural launch in 2026! This is your chance to support SEGA Students as they gain hands-on experience in […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-28/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-06-29/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "1 event, 28",
+      "title": "1 event, 29",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Nurturing minds is recruiting 5+ volunteers to join our SEGA Robo-Explorers Program inaugural launch in 2026! This is your chance to support SEGA Students as they gain hands-on experience in […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-28/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-06-29/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -1305,24 +881,6 @@
       "tag": "robotics",
       "desc": "",
       "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 29",
-      "source": "MassRobotics",
-      "tag": "ai",
-      "desc": "Artificial intelligence (AI) and machine learning (ML) have the potential to become core components in safety-critical systems. However, traditional functional safety standards, like IEC 61508, are not currently designed to […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-29/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 29",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-06-29/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -1350,6 +908,24 @@
       "tag": "ai",
       "desc": "Artificial intelligence (AI) and machine learning (ML) have the potential to become core components in safety-critical systems. However, traditional functional safety standards, like IEC 61508, are not currently designed to […]",
       "link": "https://www.massrobotics.org/event/iso-iec-ts-22440-inside-the-standard-certifying-ai-for-safety-critical-systems/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 1",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "A new platform on robotics, physical AI and real-world deployment. With the conference and the Robot City, Davos becomes a living laboratory for the near future. Robot City Over 30 Humanoids, quadrupeds, drones, and other intelligent […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-01/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 1",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "A new platform on robotics, physical AI and real-world deployment. With the conference and the Robot City, Davos becomes a living laboratory for the near future. Robot City Over 30 Humanoids, quadrupeds, drones, and other intelligent […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-01/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -1431,6 +1007,267 @@
       "tag": "robotics",
       "desc": "",
       "link": "https://www.massrobotics.org/eventscalendar/2026-07-05/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 6",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics Drone Academy collaboration began in 2019 with our first pilot program run at the Dearborn STEM academy. See details in this blog post. As the curriculum became more refined, we ran our […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-06/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 6",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics Drone Academy collaboration began in 2019 with our first pilot program run at the Dearborn STEM academy. See details in this blog post. As the curriculum became more refined, we ran our […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-06/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Drone Academy 2026",
+      "source": "MassRobotics",
+      "tag": "drones",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events 7",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Where intelligence meets the physical world The summit dedicated to humanoids, robotics, industrial autonomy, and next-generation human–machine interfaces.",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-07/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events, 7",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Where intelligence meets the physical world The summit dedicated to humanoids, robotics, industrial autonomy, and next-generation human–machine interfaces.",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-07/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Machina Summit",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 8",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-08/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 8",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-08/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 9",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-09/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 9",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-09/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 10",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-10/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 10",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-10/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 13",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the University of Technology Sydney, Sydney, Australia from July 13-17, 2026. […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-13/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 13",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the University of Technology Sydney, Sydney, Australia from July 13-17, 2026. […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-13/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics: Science and Systems",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 14",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-14/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 14",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-14/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 15",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-15/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 15",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-15/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 16",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "AUTONOMOUS is a one-day conference for the robotics and physical AI industry, at The Midway in San Francisco on July 16, 2026. It brings together 500+ founders, engineers, investors, and […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-16/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 16",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "AUTONOMOUS is a one-day conference for the robotics and physical AI industry, at The Midway in San Francisco on July 16, 2026. It brings together 500+ founders, engineers, investors, and […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-16/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AUTONOMOUS",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 17",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-17/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 17",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-17/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 22",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "San Francisco Moscone West • July 22-23: Join hands-on workshops, connect with fellow AI developers, meet the builders behind leading AI projects, and leave with practical skills and tools you […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-22/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 22",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "San Francisco Moscone West • July 22-23: Join hands-on workshops, connect with fellow AI developers, meet the builders behind leading AI projects, and leave with practical skills and tools you […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-22/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AMD Advancing AI",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 23",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-23/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 23",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-23/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -4414,15 +4251,6 @@
     },
     {
       "date": "TBD",
-      "title": "Investor Connect: AI TECH STARTUP Pitch & Networking â Boston",
-      "source": "Eventbrite",
-      "tag": "startup",
-      "desc": "Hackathon in Boston area.",
-      "link": "https://www.eventbrite.com/e/investor-connect-ai-tech-startup-pitch-networking-boston-tickets-1991290253753?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Founders Pitch & Networking Night in Boston",
       "source": "Eventbrite",
       "tag": "startup",
@@ -4459,15 +4287,6 @@
     },
     {
       "date": "TBD",
-      "title": "Startup Pitch & Networking in Boston",
-      "source": "Eventbrite",
-      "tag": "startup",
-      "desc": "Hackathon in Boston area.",
-      "link": "https://www.eventbrite.com/e/startup-pitch-networking-in-boston-tickets-1989239945225?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Tavern Crawl",
       "source": "Eventbrite",
       "tag": "startup",
@@ -4477,11 +4296,11 @@
     },
     {
       "date": "TBD",
-      "title": "Investor Connect: Pitch & Networking â Boston",
+      "title": "Startup Pitch & Networking in Boston",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
-      "link": "https://www.eventbrite.com/e/investor-connect-pitch-networking-boston-tickets-1992166486589?aff=ebdssbdestsearch",
+      "link": "https://www.eventbrite.com/e/startup-pitch-networking-in-boston-tickets-1989239945225?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -4513,6 +4332,15 @@
     },
     {
       "date": "TBD",
+      "title": "Joe Devito Hypnotist",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/joe-devito-hypnotist-tickets-1985831374097?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Ethical Hacking Essentials in Boston, MA",
       "source": "Eventbrite",
       "tag": "startup",
@@ -4522,20 +4350,29 @@
     },
     {
       "date": "TBD",
-      "title": "Side Quest Book Club: \"Idolfire\"",
+      "title": "Innovation Trail Walking Tour (Special Boston Harborfest Edition)",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
-      "link": "https://www.eventbrite.com/e/side-quest-book-club-idolfire-tickets-1989628165402?aff=ebdssbdestsearch",
+      "link": "https://www.eventbrite.com/e/innovation-trail-walking-tour-special-boston-harborfest-edition-tickets-1985603588785?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Joe Devito Hypnotist",
+      "title": "Launch Your Own Successful AI App | AI Startup | Workshop 2026",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Hackathon in Boston area.",
-      "link": "https://www.eventbrite.com/e/joe-devito-hypnotist-tickets-1985831374097?aff=ebdssbdestsearch",
+      "link": "https://www.eventbrite.com/e/launch-your-own-successful-ai-app-ai-startup-workshop-2026-tickets-892926205317?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Jon McBride's Big Easy Feat Ali McGuirk",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Hackathon in Boston area.",
+      "link": "https://www.eventbrite.com/e/jon-mcbrides-big-easy-feat-ali-mcguirk-tickets-1989153944996?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -4639,29 +4476,29 @@
     },
     {
       "date": "TBD",
-      "title": "From Tech Chaos to Control: 90-min Masterclass",
+      "title": "Mastering Video Calls: Stay Face-to-Face with the People You Love",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Almost full",
-      "link": "https://www.eventbrite.com/e/from-tech-chaos-to-control-90-min-masterclass-tickets-1992703556981?aff=ebdssbdestsearch",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.com/e/mastering-video-calls-stay-face-to-face-with-the-people-you-love-tickets-1992834832630?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Create AI-Powered Online Course Curriculums That People Want to Buy",
+      "title": "How Smart People Are Earning from Home with A.I. & Zero Tech Skills",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Today at 10:00 AM PDT",
-      "link": "https://www.eventbrite.com/e/create-ai-powered-online-course-curriculums-that-people-want-to-buy-tickets-1991290534593?aff=ebdssbdestsearch",
+      "desc": "Just added",
+      "link": "https://www.eventbrite.co.uk/e/how-smart-people-are-earning-from-home-with-ai-zero-tech-skills-tickets-1992768260511?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "Data Integrity & Fraud Prevention",
+      "title": "Tech Reset: Habits for Maintaining Digital Wellbeing",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Wed, Sep 16, 12:00 PM EDT",
-      "link": "https://www.eventbrite.com/e/data-integrity-fraud-prevention-tickets-1992489511766?aff=ebdssbdestsearch",
+      "desc": "Tue, Jul 21, 12:30 PM EDT",
+      "link": "https://www.eventbrite.com/e/tech-reset-habits-for-maintaining-digital-wellbeing-tickets-1980911798514?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -4671,15 +4508,6 @@
       "tag": "ai",
       "desc": "Sales end soon",
       "link": "https://www.eventbrite.com/e/boston-tech-mixer-and-social-tech-ai-data-it-tickets-1986016319273?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Ai Tech Founders, Investors & Pitch Night by AstraTech I Boston",
-      "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Today at 6:00 PM",
-      "link": "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-night-by-astratech-i-boston-tickets-1991290361074?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -4723,7 +4551,7 @@
       "title": "Work Smarter with AI: 1 Day Non-Tech Workshop in Boston",
       "source": "Eventbrite",
       "tag": "tech",
-      "desc": "Thursday at 9:00 AM + 5 more",
+      "desc": "Tomorrow at 9:00 AM + 5 more",
       "link": "https://www.eventbrite.sg/e/work-smarter-with-ai-1-day-non-tech-workshop-in-boston-tickets-1989971438140?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -4752,15 +4580,6 @@
       "tag": "ai",
       "desc": "Tue, Jul 7, 7:00 PM",
       "link": "https://www.eventbrite.com/e/ai-tech-networking-event-in-boston-by-ascent-valley-tickets-1990455145923?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Klinikum Series+/ Intro to Digital Health (For Startups)",
-      "source": "Eventbrite",
-      "tag": "startup",
-      "desc": "Today at 7:00 PM",
-      "link": "https://www.eventbrite.com/e/klinikum-series-intro-to-digital-health-for-startups-tickets-1988895569187?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -4813,8 +4632,35 @@
       "title": "Advanced AI & Machine Learning â 2 Day Training in Boston, MA",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Today at 9:00 AM + 12 more",
+      "desc": "Sat, Jul 18, 9:00 AM + 11 more",
       "link": "https://www.eventbrite.com/e/advanced-ai-machine-learning-2-day-training-in-boston-ma-tickets-1987589373320?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Leadership & Transformation 1 Day Training â Boston, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Tue, Jul 14, 9:00 AM + 23 more",
+      "link": "https://www.eventbrite.com/e/ai-leadership-transformation-1-day-training-boston-ma-tickets-1990111065770?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "General Business Networking | Elevating Your Potential - Boston",
+      "source": "Eventbrite",
+      "tag": "networking",
+      "desc": "Wed, Jul 15, 6:00 PM",
+      "link": "https://www.eventbrite.com/e/general-business-networking-elevating-your-potential-boston-tickets-1987100457961?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Technical Project Success: 1 Day Workshop in Boston, MA",
+      "source": "Eventbrite",
+      "tag": "tech",
+      "desc": "Mon, Jul 20, 9:00 AM + 5 more",
+      "link": "https://www.eventbrite.sg/e/technical-project-success-1-day-workshop-in-boston-ma-tickets-1990758486222?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -4822,7 +4668,7 @@
       "title": "Entrepreneur Exclusive Power Hour w/Global Business Strategist Bill Walsh",
       "source": "Eventbrite",
       "tag": "startup",
-      "desc": "Sold Out",
+      "desc": "Going fast",
       "link": "https://www.eventbrite.com/e/entrepreneur-exclusive-power-hour-wglobal-business-strategist-bill-walsh-tickets-1991865459208?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -4900,11 +4746,29 @@
     },
     {
       "date": "TBD",
+      "title": "GLOBAL STARTUPS CLUB l STARTUP NETWORKING Boston 2026",
+      "source": "Eventbrite",
+      "tag": "startup",
+      "desc": "Sat, Jul 18, 2:30 PM",
+      "link": "https://www.eventbrite.com/e/global-startups-club-l-startup-networking-boston-2026-tickets-1991972966766?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Business Innovation & Entrepreneurship 1 Day Training â Boston, MA",
       "source": "Eventbrite",
       "tag": "startup",
       "desc": "Fri, Jul 17, 9:00 AM + 11 more",
       "link": "https://www.eventbrite.com/e/business-innovation-entrepreneurship-1-day-training-boston-ma-tickets-1989132835858?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Storytelling in a World of Sound Bites - The CMO Scoop (episode 15)",
+      "source": "Eventbrite",
+      "tag": "robotics",
+      "desc": "Thu, Jul 16, 12:00 PM CDT",
+      "link": "https://www.eventbrite.com/e/storytelling-in-a-world-of-sound-bites-the-cmo-scoop-episode-15-tickets-1990994898337?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -4993,7 +4857,7 @@
       "title": "Managing a Virtual Team 1-Day Workshop | Boston, MA",
       "source": "Eventbrite",
       "tag": "robotics",
-      "desc": "Fri, Jul 10, 9:00 AM + 2 more",
+      "desc": "Sales end soon",
       "link": "https://www.eventbrite.com/e/managing-a-virtual-team-1-day-workshop-boston-ma-tickets-1988219348593?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5035,29 +4899,38 @@
     },
     {
       "date": "TBD",
-      "title": "5-Day Communication Mastery for Leaders Certificate",
+      "title": "Hands On Basic Electronics",
       "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Mon, Jul 13, 11:00 AM GMT+10",
-      "link": "https://www.eventbrite.com.au/e/5-day-communication-mastery-for-leaders-certificate-tickets-1991958368101?aff=ebdssbdestsearch",
+      "tag": "robotics",
+      "desc": "Tue, Sep 8, 7:00 PM + 1 more",
+      "link": "https://www.eventbrite.com/e/hands-on-basic-electronics-tickets-692018053627?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "How to Automate Your Online Business Without Overspending",
+      "title": "Digital Marketing Strategies for the AI Era: Search and Data Measurement",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Wed, Jul 29, 2:00 PM EDT",
+      "link": "https://www.eventbrite.com/e/digital-marketing-strategies-for-the-ai-era-search-and-data-measurement-tickets-1991780344628?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Tech Conference 2026",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Almost full",
+      "link": "https://www.eventbrite.com/e/ai-tech-conference-2026-tickets-1992096171274?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "How to Automate Your Small Business Without Overspending",
       "source": "Eventbrite",
       "tag": "ai",
       "desc": "Tue, Jul 14, 12:00 PM EDT",
-      "link": "https://www.eventbrite.com/e/how-to-automate-your-online-business-without-overspending-tickets-1991361602158?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "FREE Machine Learning with Gen AI Bootcamp",
-      "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Mon, Jul 27, 10:30 AM EDT",
-      "link": "https://www.eventbrite.com/e/free-machine-learning-with-gen-ai-bootcamp-tickets-1990886819069?aff=ebdssbdestsearch",
+      "link": "https://www.eventbrite.com/e/how-to-automate-your-small-business-without-overspending-tickets-1991361602158?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5098,15 +4971,6 @@
     },
     {
       "date": "TBD",
-      "title": "Launch Your Own Successful AI App | AI Startup | Workshop 2026",
-      "source": "Eventbrite",
-      "tag": "ai",
-      "desc": "Sales end soon",
-      "link": "https://www.eventbrite.com/e/launch-your-own-successful-ai-app-ai-startup-workshop-2026-tickets-892926205317?aff=ebdssbdestsearch",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "AI Agents for Business Professionals | Boston",
       "source": "Eventbrite",
       "tag": "ai",
@@ -5119,7 +4983,7 @@
       "title": "AI-Powered Leadership Excellence: 1 Day Workshop in Boston, MA",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Today at 9:00 AM + 6 more",
+      "desc": "Mon, Jul 20, 9:00 AM + 5 more",
       "link": "https://www.eventbrite.sg/e/ai-powered-leadership-excellence-1-day-workshop-in-boston-ma-tickets-1990752079058?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5128,7 +4992,7 @@
       "title": "AI Skills for Healthcare: 1 Day Beginner to Intermediate Course, Boston, MA",
       "source": "Eventbrite",
       "tag": "ai",
-      "desc": "Tomorrow at 9:00 AM + 1 more",
+      "desc": "Today at 9:00 AM + 1 more",
       "link": "https://www.eventbrite.sg/e/ai-skills-for-healthcare-1-day-beginner-to-intermediate-course-boston-ma-tickets-1978776213923?aff=ebdssbdestsearch",
       "time": "TBD"
     },
@@ -5148,6 +5012,15 @@
       "tag": "ai",
       "desc": "Tue, Jul 7, 9:00 AM + 5 more",
       "link": "https://www.eventbrite.com/e/become-ai-project-ready-pmi-cpmai-training-program-in-arlington-ma-tickets-1985727305826?aff=ebdssbdestsearch",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "PMI-CPMAIÂ® Weekend Training â Project in AI Certification in Arlington, MA",
+      "source": "Eventbrite",
+      "tag": "ai",
+      "desc": "Sat, Jul 18, 9:00 AM + 5 more",
+      "link": "https://www.eventbrite.com/e/pmi-cpmai-weekend-training-project-in-ai-certification-in-arlington-ma-tickets-1986054910701?aff=ebdssbdestsearch",
       "time": "TBD"
     },
     {
@@ -5227,15 +5100,6 @@
       "title": "64th Boston Hardware Meetup @ Nona Technologies",
       "source": "Luma",
       "tag": "manufacturing",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Laracon After Party",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
