@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T12:05:15.916514",
-  "event_count": 471,
+  "scraped_at": "2026-07-03T12:04:00.324010",
+  "event_count": 474,
   "events": [
     {
       "date": "2026-07-03",
@@ -92,6 +92,16 @@
     },
     {
       "date": "2026-07-08",
+      "title": "Special Seminar with Mac Shine, \"Multiscale thalamocortical mechanisms supporting the states and contents of consciousness\"",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Special Seminar with Mac Shine, The University of Sydney Date: Wednesday, July 8, 2026 Time: 11:00am Location: Singleton Auditorium (46-3002, Third Fl of MIT Building 46) Faculty Host & Contact: Laura Lewis, ldlewis@mit.edu Talk Title: Multiscale thalamocortical mechanisms supporting the states and ",
+      "link": "https://calendar.mit.edu/event/special-seminar-with-mac-shine-multiscale-thalamocortical-mechanisms-supporting-the-states-and-contents-of-consciousness",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-07-08",
       "title": "Women's League Lunch Club: Killian Court",
       "source": "MIT",
       "tag": "talk",
@@ -159,6 +169,16 @@
       "link": "https://calendar.mit.edu/event/outdoor-movie-fantastic-mr-fox",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Special Seminar with Nachum Ulanovsky, \"Neural codes for natural behaviors in bats\"",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Special Seminar with Nachum Ulanovsky, Weizmann Institute of Science Date: Monday, July 13, 2026Time: 4:00pmLocation: Singleton Auditorium (46-3002, Third Fl of MIT Building 46)Host: Shir Maimon (Postdoctoral Associate, Weissbourd Lab), srmaimon@mit.edu Talk Title: Neural codes for natural behaviors",
+      "link": "https://calendar.mit.edu/event/special-seminar-with-nachum-ulanovsky-neural-codes-for-natural-behaviors-in-bats",
+      "time": "TBD",
+      "location": "Building 46"
     },
     {
       "date": "2026-07-13",
@@ -389,6 +409,16 @@
     },
     {
       "date": "2026-07-24",
+      "title": "Aging Brain Seminar with Yu-Shan Lin, PhD, Tufts University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Aging Brain Seminar with Yu-Shan Lin, PhD, Tufts University Date: Friday, July 24, 2024Time: 4:00pmLocation: Picower Seminar Room (46-3310, Third Fl of MIT Building 46)Host: Li-Huei TsaiPlease note that this seminar is offered in person only.Reception to follow -- About The Aging Brain Initiative Th",
+      "link": "https://calendar.mit.edu/event/aging-brain-seminar-with-yu-shan-lin-phd-tufts-university",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-07-24",
       "title": "MIT Summer Philharmonic Orchestra (MITSPO)",
       "source": "MIT",
       "tag": "talk",
@@ -599,6 +629,16 @@
     },
     {
       "date": "2026-08-14",
+      "title": "Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS) Date: Friday, August 14, 2026Time: 2:00pmLocation: Picower Seminar Room (46-3310, Third Fl of MIT Building 46)Faculty Host: Li-Huei TsaiPlease note that this seminar is in-person only",
+      "link": "https://calendar.mit.edu/event/special-seminar-with-hee-sup-shin-md-phd-institute-for-basic-science-ibs",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-08-14",
       "title": "Outdoor Movie: The Straight Story",
       "source": "MIT",
       "tag": "talk",
@@ -648,16 +688,6 @@
       "location": ""
     },
     {
-      "date": "2026-08-28",
-      "title": "Outdoor Movie: The Wiz",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Join us for a summer screening of The Wiz (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-the-wiz",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
       "date": "2026-09-01",
       "title": "Commercial UAV Expo",
       "source": "Conference",
@@ -703,6 +733,16 @@
       "tag": "startup",
       "desc": "Harvard PhD graduate students in CxO roles return to campus to share how they launched their VC funded startup based on their research out of Harvard labs. This isn't your typical tech talk - it's an intimate, informal conversation where you'll hear directly from PhD founders about their journey fro",
       "link": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-5599",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Venturing@Harvard",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-8915",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
     },
@@ -4207,15 +4247,6 @@
       "title": "EventsSubmit Event",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The Mass AI Coalition Summer Startup Block Party: America's 250th in Seaport",
-      "source": "Luma",
-      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
