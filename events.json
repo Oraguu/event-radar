@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-07-05T11:25:31.172265",
-  "event_count": 482,
+  "scraped_at": "2026-07-06T13:39:26.206645",
+  "event_count": 486,
   "events": [
-    {
-      "date": "2026-07-05",
-      "title": "Pico Opera presents Lucia di Lammermoor, a bel canto opera in three acts by Gaetano Donizetti",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "One of the most stunningly beautiful and beloved bel canto operas of all time, Lucia di Lammermoor is the tragic story of Lucia Ashton, who is trapped in a deadly feud between her family and the Ravenswoods. While her brother, Enrico, plots to save his failing fortune by forcing her to marry his wea",
-      "link": "https://calendar.mit.edu/event/pico-opera-lucia-di-lammermoor-sunday",
-      "time": "TBD",
-      "location": "Multicultural Arts Center: 41 2nd Street, Cambridge, Massachusetts 02141"
-    },
     {
       "date": "2026-07-06",
       "title": "Music Theory Pedagogies Reimagined: Conference and Hackathon",
@@ -804,6 +794,24 @@
       "tag": "ai",
       "desc": "As the complexity of both software systems and mathematics grows, developers and researchers alike increasingly lean on proof to safeguard software and justify new discoveries. Compilers are one of the most critical components of the software stack to verify since the correctness of any source progr",
       "link": "https://www.csail.mit.edu/event/framework-modular-metatheory-and-verified-compilation",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Learning Representations for Health Data",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Patil/Kiva Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-learning-representations-health-data",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Estimating 3D Structure and Dynamics from 2D Intraoperative Imaging",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Humans possess the innate ability to perceive the three-dimensional (3D) geometry and motion in natural images, inspiring numerous attempts in computer vision to build machines capable of doing the same. However, in medical images, the complexity of human anatomy, combined with physical properties i",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-estimating-3d-structure-and-dynamics-2d-intraoperative-imaging",
       "time": "TBD"
     },
     {
@@ -4345,9 +4353,27 @@
     },
     {
       "date": "TBD",
-      "title": "The Boston Founder Exchange @ SOWA Power Station",
+      "title": "The Space of All Possible Rhythms (And Rhymes) Salon @ MIT",
       "source": "Luma",
-      "tag": "startup",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ALO BOSTON SEAPORT: ALO RUNNERS CLUB",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Engineering Bacteria for Next-Gen Therapeutics",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4357,6 +4383,15 @@
       "title": "Built // Different Dinner: Boston",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Founder & Operator Night, Co-Hosted by MGMT, TNT & Ryan Smith",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4390,7 +4425,7 @@
     },
     {
       "date": "TBD",
-      "title": "Life Sciences AI on Tap - Boston Connect",
+      "title": "Women Applying AI Live",
       "source": "Luma",
       "tag": "ai",
       "desc": "",
@@ -4399,9 +4434,9 @@
     },
     {
       "date": "TBD",
-      "title": "Boston Climatetech Summit 2026",
+      "title": "Life Sciences AI on Tap - Boston Connect",
       "source": "Luma",
-      "tag": "talk",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
