@@ -1,36 +1,7 @@
 {
-  "scraped_at": "2026-07-06T13:39:26.206645",
-  "event_count": 486,
+  "scraped_at": "2026-07-07T12:22:50.520021",
+  "event_count": 493,
   "events": [
-    {
-      "date": "2026-07-06",
-      "title": "Music Theory Pedagogies Reimagined: Conference and Hackathon",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Supported by an Andrew W. Mellon Foundation Grant for Higher Learning, Music Theory Pedagogies Reimagined will bring together scholars and pedagogues from across music’s subdisciplines to explore challenges and possibilities for pedagogical innovation in music theory, broadly defined. Panel presenta",
-      "link": "https://calendar.mit.edu/event/music-theory-pedagogies-reimagined",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-2054",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Drone Academy 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Drone Academy collaboration began in 2019 with our first pilot program run at the Dearborn STEM academy. See details in this blog post. As the curriculum became more refined, we ran our […]",
-      "link": "https://www.massrobotics.org/event/drone-academy-2026/",
-      "time": "TBD"
-    },
     {
       "date": "2026-07-07",
       "title": "LL Technology Office Seminar: From Concept to Mission Impact: Lessons from Rickover, Grove, and Accelerating Real Change",
@@ -58,6 +29,16 @@
       "tag": "talk",
       "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-6188",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub",
       "time": "TBD",
       "location": ""
     },
@@ -119,6 +100,15 @@
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-community-and-service-statements",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-07-09",
+      "title": "BARA Series: July",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "See demos in action: Prachi Sethi — Openmind Saba Khalilnaji — Almond Who's in the room: Founders building in robotics and physical AI Investors sourcing early-stage deal flow Engineers, operators, and researchers who want […]",
+      "link": "https://www.massrobotics.org/event/bara-series-july/",
+      "time": "TBD"
     },
     {
       "date": "2026-07-10",
@@ -206,6 +196,16 @@
       "tag": "talk",
       "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-9657",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-120",
       "time": "TBD",
       "location": ""
     },
@@ -339,6 +339,16 @@
       "location": ""
     },
     {
+      "date": "2026-07-21",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-3936",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-07-22",
       "title": "Special Inorganic Chemistry Seminar with Professor Swadhin Mandal (",
       "source": "MIT",
@@ -446,6 +456,15 @@
       "link": "https://calendar.northeastern.edu/event/writing-from-understanding-assignments-to-impactful-revision",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Optikos Office Hours",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/optikos-office-hours-2/",
+      "time": "TBD"
     },
     {
       "date": "2026-07-29",
@@ -777,24 +796,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "Foundational Verification of Hardware Against Timing-Channel-Aware Contracts",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Modern processors can leak secrets not only through what they compute but also through how long they take to compute. These timing channels remain one of the most persistent challenges in designing secure hardware-software systems, and despite years of mitigations, new attacks continue to be discove",
-      "link": "https://www.csail.mit.edu/event/foundational-verification-hardware-against-timing-channel-aware-contracts",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "A Framework for Modular Metatheory and Verified Compilation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "As the complexity of both software systems and mathematics grows, developers and researchers alike increasingly lean on proof to safeguard software and justify new discoveries. Compilers are one of the most critical components of the software stack to verify since the correctness of any source progr",
-      "link": "https://www.csail.mit.edu/event/framework-modular-metatheory-and-verified-compilation",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -1140,20 +1141,29 @@
     },
     {
       "date": "TBD",
-      "title": "1 event 9",
+      "title": "2 events 9",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "",
+      "desc": "See demos in action: Prachi Sethi — Openmind Saba Khalilnaji — Almond Who's in the room: Founders building in robotics and physical AI Investors sourcing early-stage deal flow Engineers, operators, and researchers who want […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-07-09/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "1 event, 9",
+      "title": "2 events, 9",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "See demos in action: Prachi Sethi — Openmind Saba Khalilnaji — Almond Who's in the room: Founders building in robotics and physical AI Investors sourcing early-stage deal flow Engineers, operators, and researchers who want […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-09/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BARA Series: July",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-07-09/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/events/",
       "time": "TBD"
     },
     {
@@ -1284,7 +1294,7 @@
     },
     {
       "date": "TBD",
-      "title": "1 event 22",
+      "title": "3 events 22",
       "source": "MassRobotics",
       "tag": "ai",
       "desc": "San Francisco Moscone West • July 22-23: Join hands-on workshops, connect with fellow AI developers, meet the builders behind leading AI projects, and leave with practical skills and tools you […]",
@@ -1293,7 +1303,7 @@
     },
     {
       "date": "TBD",
-      "title": "1 event, 22",
+      "title": "3 events, 22",
       "source": "MassRobotics",
       "tag": "ai",
       "desc": "San Francisco Moscone West • July 22-23: Join hands-on workshops, connect with fellow AI developers, meet the builders behind leading AI projects, and leave with practical skills and tools you […]",
@@ -1307,6 +1317,24 @@
       "tag": "ai",
       "desc": "",
       "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Statehouse Robotics Day",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Private - MassRobotics Residents Only",
+      "link": "https://www.massrobotics.org/event/statehouse-robotics-day/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MassRobotics DRWG: Securing the Skies: Streamlining Drone Insurance & FAA Operational Approvals",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Our topic for this session is: Securing the Skies: Streamlining Drone Insurance & FAA Operational Approvals. We’ll hear from veteran drone experts Vijay Somandepalli and Rob Knochenhauer, who will share insights […]",
+      "link": "https://www.massrobotics.org/event/massrobotics-drwg-securing-the-skies-streamlining-drone-insurance-faa-operational-approvals/",
       "time": "TBD"
     },
     {
@@ -1325,6 +1353,42 @@
       "tag": "robotics",
       "desc": "",
       "link": "https://www.massrobotics.org/eventscalendar/2026-07-23/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 28",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Private - MassRobotics Residents only",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-28/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 28",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Private - MassRobotics Residents only",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-07-28/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Optikos Office Hours",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Private - MassRobotics Residents only",
+      "link": "https://www.massrobotics.org/event/optikos-office-hours-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Women in Robotics Summer Networking Event",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Connect, share, and grow—a chance to network with peers, chat with mentors, and build connections with others in the field. ​Join fellow women in robotics at Area Four in Cambridge sponsored […]",
+      "link": "https://www.massrobotics.org/event/women-in-robotics-summer-networking-event/",
       "time": "TBD"
     },
     {
