@@ -1,56 +1,7 @@
 {
-  "scraped_at": "2026-07-07T12:22:50.520021",
-  "event_count": 493,
+  "scraped_at": "2026-07-08T11:43:03.079968",
+  "event_count": 490,
   "events": [
-    {
-      "date": "2026-07-07",
-      "title": "LL Technology Office Seminar: From Concept to Mission Impact: Lessons from Rickover, Grove, and Accelerating Real Change",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Description Mission-driven organizations like MIT Lincoln Laboratory succeed when they deliver both breakthrough technical results and move disruptive technologies from concept to mission impact faster. In this keynote, April K. Mills explores how that actually happens. Drawing on lessons from Admir",
-      "link": "https://calendar.mit.edu/event/ll-technology-office-seminar-engine-for-change",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-07",
-      "title": "MIT HEALS UROP & SuperUROP Summer Social",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The MIT HEALS UROP and SuperUROP Summer Social will be held on Tuesday, July 7 from 1:30 pm - 2:30 pm. Cool off with some ice cream* and join fellow HEALS UROPs, SuperUROPs, and mentors this month at our annual ice cream social. This event is open to all past and present HEALS-funded UROPs and Super",
-      "link": "https://calendar.mit.edu/event/mit-heals-urop-superurop-summer-social",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-07",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-6188",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-07",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-07",
-      "title": "Machina Summit",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Where intelligence meets the physical world The summit dedicated to humanoids, robotics, industrial autonomy, and next-generation human–machine interfaces.",
-      "link": "https://www.massrobotics.org/event/machina-summit/",
-      "time": "TBD"
-    },
     {
       "date": "2026-07-08",
       "title": "Special Seminar with Mac Shine, \"Multiscale thalamocortical mechanisms supporting the states and contents of consciousness\"",
@@ -90,6 +41,16 @@
       "link": "https://calendar.mit.edu/event/spur-rsi-2026-lecture-series-6666",
       "time": "TBD",
       "location": "Building 2"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "Boost Your Presentation Skills with the WCC Communication Studio!",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "To enhance your public speaking skills this summer, try our Oral Communication Studio. At this studio, which is open on M-F, 9am-5pm, you can practice your presentations in front of simulated audiences and receive instant feedback from the PitchVantage software. To get started, reserve the studio at",
+      "link": "https://calendar.mit.edu/event/boost-your-presentation-skills-with-the-wcc-communication-studio",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-07-09",
@@ -228,6 +189,16 @@
       "link": "https://calendar.mit.edu/event/midday-music-grooversity",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "SPUR / RSI 2026 Lecture Series",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: William Minicozzi (MIT) Title: An introduction to minimal surfaces and the half space theorem Abstract: The classical Plateau problem asks for the surface with the least possible area for a fixed given boundary curve. This is a higher dimensional generalization of a geodesic curve that mini",
+      "link": "https://calendar.mit.edu/event/spur-rsi-2026-lecture-series-3475",
+      "time": "TBD",
+      "location": "Building 4"
     },
     {
       "date": "2026-07-16",
@@ -459,6 +430,16 @@
     },
     {
       "date": "2026-07-28",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-6074",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-28",
       "title": "Optikos Office Hours",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -628,6 +609,16 @@
     },
     {
       "date": "2026-08-14",
+      "title": "Emerging NeuroTech: Ultrasound in Neuroscience",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "We are excited to invite you to the Emerging NeuroTech Seminar: Ultrasound in Neuroscience, featuring two cutting-edge talks on the latest applications of ultrasound technology in brain imaging and human-machine interaction. 📅 Date: Friday, August 14, 2026 🕐 Time: 12:00 – 1:00 PM 📍 Location: Buildin",
+      "link": "https://calendar.mit.edu/event/emerging-neurotech-ultrasound-in-neuroscience",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-08-14",
       "title": "Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS)",
       "source": "MIT",
       "tag": "talk",
@@ -675,26 +666,6 @@
       "link": "https://calendar.northeastern.edu/event/global-connections-current-incoming-student-social",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-08-28",
-      "title": "4th MIT Global Humanities Forum on “Recovering Agency through Visual Arts amid Political Uncertainty and Exile” on August 28 (online)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Dear colleagues, students, and friends, Join us for the 2026 GHI 4th Forum, rescheduled to August 28! This session introduces the GHI Pillar Heritage, Memory & Identity, and its project: Relocating Agency amid Political Uncertainty and Exile 4th GHI Forum Title: Recovering Agency through Visual Arts",
-      "link": "https://calendar.mit.edu/event/4th-mit-global-humanities-forum-on-recovering-agency-through-visual-arts-amid-political-uncertainty-and-exile-on-august-28-online",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Outdoor Movie: The Wiz",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Join us for a summer screening of The Wiz (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-the-wiz",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-09-01",
