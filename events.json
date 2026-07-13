@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-12T11:06:10.331580",
-  "event_count": 509,
+  "scraped_at": "2026-07-13T12:27:17.184902",
+  "event_count": 510,
   "events": [
     {
       "date": "2026-07-13",
@@ -894,6 +894,15 @@
       "tag": "ai",
       "desc": "Virtual memory (VM) is a foundational abstraction, but its rigid, legacy hardware-operating system (OS) contract has failed to keep pace with the demands of modern systems and workloads, creating a \"Virtual Memory Wall\" of severe performance and energy bottlenecks. This wall manifests as high addres",
       "link": "https://www.csail.mit.edu/event/cutting-through-virtual-memory-wall-rigid-abstractions-high-performance-flexible-efficient",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Lifelong Learning in the Age of Foundation Models",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "We marvel at the capabilities of modern foundation models, focusing on what they can do once deployed. However, there is another axis, largely abandoned in recent years, along which intelligence is measured by the ability to learn. A model deployed in the world encounters user feedback, new experien",
+      "link": "https://www.csail.mit.edu/event/lifelong-learning-age-foundation-models",
       "time": "TBD"
     },
     {
@@ -4498,24 +4507,6 @@
     },
     {
       "date": "TBD",
-      "title": "Singles Run Boston (Women)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "MAUM Market Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Retail Uncorked [By Evie + Ashley] Boston",
       "source": "Luma",
       "tag": "talk",
@@ -4634,6 +4625,24 @@
     {
       "date": "TBD",
       "title": "Climate Designers Summer Meetup @ the Esplanade",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Bloom: Build with nature.",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Built // Different Dinner: Boston",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
