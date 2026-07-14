@@ -1,36 +1,7 @@
 {
-  "scraped_at": "2026-07-13T12:27:17.184902",
-  "event_count": 510,
+  "scraped_at": "2026-07-14T11:20:31.149100",
+  "event_count": 521,
   "events": [
-    {
-      "date": "2026-07-13",
-      "title": "Special Seminar with Nachum Ulanovsky, \"Neural codes for natural behaviors in bats\"",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Special Seminar with Nachum Ulanovsky, Weizmann Institute of Science Date: Monday, July 13, 2026Time: 4:00pmLocation: Singleton Auditorium (46-3002, Third Fl of MIT Building 46)Host: Shir Maimon (Postdoctoral Associate, Weissbourd Lab), srmaimon@mit.edu Talk Title: Neural codes for natural behaviors",
-      "link": "https://calendar.mit.edu/event/special-seminar-with-nachum-ulanovsky-neural-codes-for-natural-behaviors-in-bats",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-8671",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Robotics: Science and Systems",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "We are pleased to announce the 22nd edition of the “Robotics: Science and Systems” (RSS) conference to be held at the University of Technology Sydney, Sydney, Australia from July 13-17, 2026. […]",
-      "link": "https://www.massrobotics.org/event/robotics-science-and-systems-3/",
-      "time": "TBD"
-    },
     {
       "date": "2026-07-14",
       "title": "Personal Storytelling Workshop",
@@ -113,16 +84,6 @@
     },
     {
       "date": "2026-07-15",
-      "title": "Midday Music: Grooversity",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Acclaimed percussionist and educator Marcus Santos leads the Grooversity ensemble of drummers in an engaging journey through the musical traditions of his native Bahia, Brazil’s first capital. The performance blends Afro-Brazilian rhythms, the powerful energy of carnival percus",
-      "link": "https://calendar.mit.edu/event/midday-music-grooversity",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-07-15",
       "title": "SPUR / RSI 2026 Lecture Series",
       "source": "MIT",
       "tag": "talk",
@@ -156,7 +117,7 @@
       "title": "The Pioneer of Ports: A Fireside Chat with Captain John E. Meredith, CBE",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "You're invited to attend a fireside chat with the architect of the modern port system ​Captain John E. Meredith, CBE, built Hutchison Port Holdings from a single terminal in Hong Kong into the world's leading port developer, operator, and investor, with operations in 23 countries, earning the ti Ste",
+      "desc": "You're invited to attend a fireside chat with the architect of the modern port system ​Captain John E. Meredith, CBE, built Hutchison Port Holdings from a single terminal in Hong Kong into the world's leading port developer, operator, and investor, with operations in 23 countries. ​Under his leaders",
       "link": "https://calendar.northeastern.edu/event/the-pioneer-of-ports-a-fireside-chat-with-captain-john-e-meredith-cbe",
       "time": "TBD",
       "location": "ISEC"
@@ -351,10 +312,10 @@
     },
     {
       "date": "2026-07-24",
-      "title": "Aging Brain Seminar with Yu-Shan Lin, PhD, Tufts University",
+      "title": "Aging Brain Seminar with Yu-Shan Lin, \"Accelerating Structure-Based Design of Cyclic Peptide Binders and Inhibitors with Molecular Dynamics Simulations and Machine Learning\"",
       "source": "MIT",
-      "tag": "talk",
-      "desc": "Aging Brain Seminar with Yu-Shan Lin, PhD, Tufts University Date: Friday, July 24, 2024Time: 4:00pmLocation: Picower Seminar Room (46-3310, Third Fl of MIT Building 46)Host: Li-Huei TsaiPlease note that this seminar is offered in person only.Reception to follow -- About The Aging Brain Initiative Th",
+      "tag": "ai",
+      "desc": "Aging Brain Seminar with Yu-Shan Lin, PhD, Tufts University Date: Friday, July 24, 2024Time: 4:00pmLocation: Picower Seminar Room (46-3310, Third Fl of MIT Building 46)Host: Li-Huei TsaiPlease note that this seminar is offered in person only.Reception to follow Talk Title: Accelerating Structure-Bas",
       "link": "https://calendar.mit.edu/event/aging-brain-seminar-with-yu-shan-lin-phd-tufts-university",
       "time": "TBD",
       "location": "Building 46"
@@ -545,6 +506,15 @@
       "link": "https://calendar.northeastern.edu/event/dissertation-defense-ilana-goldstein",
       "time": "TBD",
       "location": "Holmes Hall"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Revolute Hack",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "A hands-on, community-driven \"Embodied / Physical AI\" hackathon focused on a unique theme: cooking with robot arms! Teams of 4–5 builders will work together to prototype creative, hardware-driven projects with […]",
+      "link": "https://www.massrobotics.org/event/revolute-hack/",
+      "time": "TBD"
     },
     {
       "date": "2026-08-03",
@@ -747,6 +717,26 @@
       "location": ""
     },
     {
+      "date": "2026-08-23",
+      "title": "Women's Soccer vs. Providence ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-providence",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Women's Soccer vs. Yale",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-yale",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
       "date": "2026-08-28",
       "title": "4th MIT Global Humanities Forum on “Recovering Agency through Visual Arts amid Political Uncertainty and Exile” on August 28 (online)",
       "source": "MIT",
@@ -765,6 +755,16 @@
       "link": "https://calendar.mit.edu/event/outdoor-movie-the-wiz",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Men's Soccer vs. Boston University",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-boston-university-8464",
+      "time": "TBD",
+      "location": "Parsons Field"
     },
     {
       "date": "2026-09-01",
@@ -807,6 +807,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-09-06",
+      "title": "Men's Soccer vs. Stony Brook",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-stony-brook-375",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
       "date": "2026-09-09",
       "title": "Faculty Job Search Series: Crafting the Academic Cover Letter",
       "source": "MIT",
@@ -815,6 +825,26 @@
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-crafting-the-academic-cover-letter",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Men's Soccer vs. Central Conneticut State",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-central-conneticut-state",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Men's Soccer vs. Monmouth",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-monmouth-3316",
+      "time": "TBD",
+      "location": "Parsons Field"
     },
     {
       "date": "2026-09-22",
@@ -834,6 +864,16 @@
       "link": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-5599",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Men's Soccer vs. Harvard",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-harvard-3291",
+      "time": "TBD",
+      "location": "Parsons Field"
     },
     {
       "date": "2026-09-30",
@@ -866,6 +906,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-10-03",
+      "title": "Men's Soccer vs. Drexel ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-drexel-4969",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
       "date": "2026-10-27",
       "title": "Tough Tech Summit 2026",
       "source": "The Engine",
@@ -889,15 +939,6 @@
     },
     {
       "date": "TBD",
-      "title": "Cutting Through the Virtual Memory Wall: From Rigid Abstractions to High-Performance, Flexible, Efficient Cooperation Between Hardware and System Software",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Virtual memory (VM) is a foundational abstraction, but its rigid, legacy hardware-operating system (OS) contract has failed to keep pace with the demands of modern systems and workloads, creating a \"Virtual Memory Wall\" of severe performance and energy bottlenecks. This wall manifests as high addres",
-      "link": "https://www.csail.mit.edu/event/cutting-through-virtual-memory-wall-rigid-abstractions-high-performance-flexible-efficient",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Lifelong Learning in the Age of Foundation Models",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -912,6 +953,15 @@
       "tag": "startup",
       "desc": "Modular arithmetic with a large prime modulus is a dominant computational cost in number-theoretic cryptography.&nbsp; Modular operations are especially challenging to parallelize efficiently using vector instructions; standard implementations rely on costly carry operations and permutation instruct",
       "link": "https://www.csail.mit.edu/event/accelerating-number-theoretic-cryptography-using-vectorization-and-residue-number-system",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Instance-optimal estimation of L2-norm",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estim",
+      "link": "https://www.csail.mit.edu/event/instance-optimal-estimation-l2-norm",
       "time": "TBD"
     },
     {
@@ -1551,6 +1601,51 @@
       "tag": "robotics",
       "desc": "MassRobotics Residents Only Learn more about MassRobotics Residents here",
       "link": "https://www.massrobotics.org/event/resident-ice-cream-social-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 1",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "A hands-on, community-driven \"Embodied / Physical AI\" hackathon focused on a unique theme: cooking with robot arms! Teams of 4–5 builders will work together to prototype creative, hardware-driven projects with […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-01/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 1",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "A hands-on, community-driven \"Embodied / Physical AI\" hackathon focused on a unique theme: cooking with robot arms! Teams of 4–5 builders will work together to prototype creative, hardware-driven projects with […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-01/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Revolute Hack",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 2",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-02/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 2",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-02/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -4507,33 +4602,6 @@
     },
     {
       "date": "TBD",
-      "title": "Retail Uncorked [By Evie + Ashley] Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Sustainable Biotech Hubs",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The AI Runtime - Boston",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Debate: Marjorie Decker & Evan MacKay - hosted by Cambridge Day",
       "source": "Luma",
       "tag": "talk",
@@ -4571,6 +4639,15 @@
     {
       "date": "TBD",
       "title": "BUILD617 Space Tour + Bites and Drinks at Mariel",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Learn About Social Housing",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4665,6 +4742,33 @@
       "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Metrowest Founders Happy Hour - JPM | Step Function | Waveform Intelligence",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "FOUNDAHFEST",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Hardware Meetup | Tough Tech Week",
+      "source": "Luma",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://lu.ma/bos-hardware-meetup",
       "time": "TBD"
     },
     {
