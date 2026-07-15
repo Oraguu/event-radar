@@ -1,77 +1,7 @@
 {
-  "scraped_at": "2026-07-14T11:20:31.149100",
+  "scraped_at": "2026-07-15T11:24:28.967346",
   "event_count": 521,
   "events": [
-    {
-      "date": "2026-07-14",
-      "title": "Personal Storytelling Workshop",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Good storytelling is a skill you can learn, and this is the place to so it! In this workshop you'll learn storytelling techniques and skills so you can talk about the life experiences that matter to you, and say a bit about who you are as a person. You'll hear stories, learn how to brainstorm and st",
-      "link": "https://calendar.mit.edu/event/personal-storytelling-workshop",
-      "time": "TBD",
-      "location": "Building 10"
-    },
-    {
-      "date": "2026-07-14",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-7742",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-14",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-9657",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-14",
-      "title": "Lunch and Learn: Making Sense of Generative AI",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "Do you want to learn more about how LLMs predict text? Why prompting techniques work? Where hallucinations come from? Join us for a research workshop on building intuition for how generative AI works. This won't be a technical deep-dive, but a workshop for curious non-experts who want better mental ",
-      "link": "https://calendar.northeastern.edu/event/lunch-and-learn-making-sense-of-generative-ai",
-      "time": "TBD",
-      "location": "West Village H"
-    },
-    {
-      "date": "2026-07-14",
-      "title": "Course: Academic Communication & Collaboration",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "This FREE 5-week non-credit course provides multiple opportunities to improve in-person and virtual presentation skills with additional support in listening and speaking for both academic and professional settings. Class meetings will involve delivering academic presentations and facilitating in-dep",
-      "link": "https://calendar.northeastern.edu/event/course-academic-communication-collaboration",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-14",
-      "title": "Refining your Cover Letter",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Are you looking for a job or co-op this summer? In this workshop, you can learn how to write or refresh a US-style cover letter. Samples of cover letters from a variety of fields will be provided. Presented by International Tutoring Center tutor Jimmy Liu.",
-      "link": "https://calendar.northeastern.edu/event/refining-your-cover-letter-4660",
-      "time": "TBD",
-      "location": "Richards Hall"
-    },
-    {
-      "date": "2026-07-14",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-120",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-07-15",
       "title": "Faculty Job Search Series: Teaching Statements",
@@ -253,7 +183,7 @@
     },
     {
       "date": "2026-07-22",
-      "title": "Special Inorganic Chemistry Seminar with Professor Swadhin Mandal (IISER Kolkata)",
+      "title": "Special Inorganic/Organic Chemistry Seminar with Professor Swadhin Mandal (IISER Kolkata)",
       "source": "MIT",
       "tag": "talk",
       "desc": "Empowering p-electrons in catalysis Department of Chemical Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, West Bengal-741246, India Abstract: Our research is primarily focused on developing concepts for metal-free catalytic processes that utilise p-electrons. Traditi",
@@ -450,7 +380,7 @@
     },
     {
       "date": "2026-07-29",
-      "title": "Special Chemistry Seminar with Professor Sundargopal Ghosh (IIT–Madras)",
+      "title": "Special Inorganic Chemistry Seminar with Professor Sundargopal Ghosh (IIT–Madras)",
       "source": "MIT",
       "tag": "talk",
       "desc": "Professor Sundargopal Ghosh Indian Institute of Technology, Madras \"Planar Boron Rings as Next-Generation Ligands for Sandwich Complexes” Abstract: The discovery of sandwich complexes with ferrocene, I shown in Chart 1, highlighted the fundamental role of cyclopentadienyl (Cp) ligands in sandwich co",
@@ -553,6 +483,16 @@
       "tag": "talk",
       "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-1147",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-1609",
       "time": "TBD",
       "location": ""
     },
@@ -767,6 +707,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-08-30",
+      "title": "Women's Soccer vs. New Hampshire",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-new-hampshire",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
       "date": "2026-09-01",
       "title": "Commercial UAV Expo",
       "source": "Conference",
@@ -825,6 +775,26 @@
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-crafting-the-academic-cover-letter",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-09",
+      "title": "MIT Ballroom Dance Camp 2026 (Day 1)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
+      "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-no-prior-dance-experience-needed",
+      "time": "TBD",
+      "location": "Building 50: Walker Memorial"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "MIT Ballroom Dance Camp 2026 (Day 2)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
+      "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-2026",
+      "time": "TBD",
+      "location": "Building 13"
     },
     {
       "date": "2026-09-15",
@@ -912,6 +882,26 @@
       "tag": "talk",
       "desc": "Come cheer on the men's soccer team at Parson's Field!",
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-drexel-4969",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Women's Soccer vs. Hofstra ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-hofstra-6837",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Women's Soccer vs. Campbell",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-campbell-5735",
       "time": "TBD",
       "location": "Parsons Field"
     },
@@ -1682,6 +1672,15 @@
       "tag": "manufacturing",
       "desc": "Join fellow interns from across the Boston Tough Tech and climate ecosystem for a pizza party and panel with The Engine, Greentown Labs, LabCentral, and more!",
       "link": "https://greentownlabs.com/event/co-op-and-intern-convening/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Go Make 2027: Advanced Carbon Materials Informational Webinar",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join this informational webinar to explore the Go Make 2027 program, application process, technology focus, and key dates!",
+      "link": "https://greentownlabs.com/event/go-make-2027-advanced-carbon-materials-informational-webinar/",
       "time": "TBD"
     },
     {
@@ -4602,15 +4601,6 @@
     },
     {
       "date": "TBD",
-      "title": "Debate: Marjorie Decker & Evan MacKay - hosted by Cambridge Day",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Building AI in Production: An Evening for AI Builders, Developers & Innovators with Box & the Massachusetts AI Coalition",
       "source": "Luma",
       "tag": "ai",
@@ -4756,6 +4746,15 @@
     {
       "date": "TBD",
       "title": "FOUNDAHFEST",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "LangChain Boston Meetup: Loop Engineering and Open Models",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
