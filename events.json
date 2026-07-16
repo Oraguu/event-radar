@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-07-15T11:24:28.967346",
-  "event_count": 521,
+  "scraped_at": "2026-07-16T11:28:05.757472",
+  "event_count": 519,
   "events": [
-    {
-      "date": "2026-07-15",
-      "title": "Faculty Job Search Series: Teaching Statements",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "How can you communicate your commitment to quality teaching that facilitates learning? How should you describe your pedagogical philosophy? If you’re writing a teaching statement for your faculty job applications, you might be asking yourself questions like these. Join Ben Hansberry from MIT’s Teach",
-      "link": "https://calendar.mit.edu/event/faculty-job-search-series-teaching-statements-4817",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-15",
-      "title": "SPUR / RSI 2026 Lecture Series",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: William Minicozzi (MIT) Title: An introduction to minimal surfaces and the half space theorem Abstract: The classical Plateau problem asks for the surface with the least possible area for a fixed given boundary curve. This is a higher dimensional generalization of a geodesic curve that mini",
-      "link": "https://calendar.mit.edu/event/spur-rsi-2026-lecture-series-3475",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "Swan Boats & Picnic in the Public Garden",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Hosted by the Office of Global Services & the International Tutoring Center Join us for an unforgettable afternoon in one of Boston's most beloved landmarks, the iconic Swan Boats in the Public Garden. Climb aboard the famous Swan Boats for a peaceful glide around the Lagoon, then settle in on the g",
-      "link": "https://calendar.northeastern.edu/event/swan-boats-picnic-in-the-public-garden",
-      "time": "TBD",
-      "location": "Boston Public Garden"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "The Gordon Institute: Virtual Information Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership through The Gordon Institute as a stand-alone certificate or in combination with one of 25+ Master of Science degrees […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University Colle",
-      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-844",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-07-16",
       "title": "The Pioneer of Ports: A Fireside Chat with Captain John E. Meredith, CBE",
@@ -286,6 +246,16 @@
       "tag": "talk",
       "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
       "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-7496",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-07-27",
+      "title": "ChE PhD Dissertation Defense: Sevy Harris",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Name: Sevy Harris Title: Automated Methods for Improving Microkinetic Models through Uncertainty Quantification and Sensitivity Analysis Date: 07/27/2026 Time: 11:00:00 AM Committee Members: Prof. Richard West (Advisor) Prof. Steve Lustig […] The post ChE PhD Dissertation Defense: Sevy Harris appear",
+      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-sevy-harris",
       "time": "TBD",
       "location": ""
     },
@@ -715,6 +685,16 @@
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-new-hampshire",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Men's Soccer vs. Emmanuel College (Mass.)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 4:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-01",
@@ -4601,15 +4581,6 @@
     },
     {
       "date": "TBD",
-      "title": "Building AI in Production: An Evening for AI Builders, Developers & Innovators with Box & the Massachusetts AI Coalition",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The Pioneer of Ports: A Fireside Chat with John Meredith",
       "source": "Luma",
       "tag": "talk",
@@ -4755,6 +4726,15 @@
     {
       "date": "TBD",
       "title": "LangChain Boston Meetup: Loop Engineering and Open Models",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "TigerHoops Boston",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
