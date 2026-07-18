@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-07-17T11:17:12.207676",
-  "event_count": 520,
+  "scraped_at": "2026-07-18T10:56:39.967421",
+  "event_count": 518,
   "events": [
-    {
-      "date": "2026-07-17",
-      "title": "Outdoor Movie: The Muppet Movie",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Join us for a summer screening of The Muppet Movie (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-the-muppet-movie",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space "
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Curator Tour: Performing Conditions: Artistic Labor and Dependency as Form",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join List Center exhibition curator for a guided tour of Performing Conditions: Artistic Labor Dependency of Form. This curatorial tour will highlight how Performing Conditions examines the entangled relationships between art, labor, debt, and dependency. The tour will emphasize a selection of works",
-      "link": "https://calendar.mit.edu/event/curator-tour-performing-conditions-artistic-labor-and-dependency-as-form",
-      "time": "TBD",
-      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Free Outdoor Tango @ Kendall Urban Park Roof Garden",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free Outdoor Tango @ Kendall Urban Park Roof Garden! PopUp Summer Free tango on the KENDALL URBAN PARK ROOF GARDEN on Fridays from 5:30–8:30pm! We host a free class for beginners, too, so all are welcome! Outdoor Location: https://maps.app.goo.gl/fqdfEa4eacBpEY6u9 Accessible from the Kendall MIT MBT",
-      "link": "https://calendar.mit.edu/event/free-outdoor-tango-kendall-urban-park-roof-garden",
-      "time": "TBD",
-      "location": "Kendall Urban Park (UP) Roof Garden"
-    },
     {
       "date": "2026-07-18",
       "title": "LEAP Lab with Alex Makes Art",
@@ -173,7 +143,7 @@
     },
     {
       "date": "2026-07-23",
-      "title": "Broad Institute-MIT Chemistry Seminar (Peng Cheng, Peking University)",
+      "title": "Broad Institute-MIT Chemistry Seminar (Peng Chen, Peking University)",
       "source": "MIT",
       "tag": "talk",
       "desc": "Live-Cell Chemistry in Health and Disease",
@@ -897,6 +867,15 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
+    },
+    {
+      "date": "TBD",
+      "title": "Cross-Stack Insights for Efficient Resilience to Silent Data Corruptions",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/cross-stack-insights-efficient-resilience-silent-data-corruptions",
+      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -4671,6 +4650,15 @@
     },
     {
       "date": "TBD",
+      "title": "Lenny’s Newsletter Meetup in Boston (with free drinks courtesy of Matic)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Boston Metrowest Founders Happy Hour - JPM | Step Function | Waveform Intelligence",
       "source": "Luma",
       "tag": "startup",
@@ -4737,15 +4725,6 @@
       "title": "The Vibes",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Revolute Hackathon 2026",
-      "source": "Luma",
-      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
