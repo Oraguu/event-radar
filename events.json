@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-07-20T12:11:14.750106",
-  "event_count": 517,
+  "scraped_at": "2026-07-21T11:43:04.345635",
+  "event_count": 524,
   "events": [
-    {
-      "date": "2026-07-20",
-      "title": "FAB26 - Volunteer opportunity",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "The Fab Foundation is inviting students from Boston and Cambridge universities to volunteer at FAB26 Boston: the International Fab Lab Conference & Symposium, taking place July 27–31, 2026, sponsored by MIT's Center for Bits and Atoms. FAB26 will bring together 1,000+ makers, innovators, educators, ",
-      "link": "https://calendar.mit.edu/event/fab26-volunteer-opportunity",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Thesis Defense - Johannes Hosle",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: John Hosle Title: MONOTONICITY FORMULAS IN POSITIVELY CURVED SETTINGS WITH APPLICATIONS TO TWO-PHASE FREE BOUNDARY PROBLEMS Abstract: Inspired by the monotonicity formula of Alt, Caffarelli, and Friedman, we consider a natural variant of the ACF functional in various positively curved 2 dim",
-      "link": "https://calendar.mit.edu/event/thesis-defense-johannes-hosle",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-6484",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-07-21",
       "title": "Engineering Business Certificate | Galante Info Session",
@@ -61,6 +31,16 @@
       "link": "https://calendar.northeastern.edu/event/reading-how-to-analyze-articles-data-and-more-4196",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-07-21",
+      "title": "Applied and Interdisciplinary Mathematics (AIM) Seminar",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Date: Tuesday, July 21 Time: 2:00 pm Location: EXP-610 Speaker: Giuseppe Cotardo (Department of Mathematics, Virginia Tech). Title: Quantum Anticodes and Modular Code Constructions Abstract: Quantum error-correcting codes are essential for protecting quantum information in large-scale quantum archit",
+      "link": "https://calendar.northeastern.edu/event/applied-and-interdisciplinary-mathematics-aim-seminar-9744",
+      "time": "TBD",
+      "location": "EXP"
     },
     {
       "date": "2026-07-21",
@@ -359,6 +339,16 @@
       "location": "Holmes Hall"
     },
     {
+      "date": "2026-07-31",
+      "title": "Writing Professional Emails",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Are your emails not getting the response you desire? Do you want to enhance your professional communication and make a lasting impression? Join this GLS workshop on Writing Professional Emails and take your communication skills to the next level! Register here!",
+      "link": "https://calendar.northeastern.edu/event/writing-professional-emails-5771",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-08-01",
       "title": "Revolute Hack",
       "source": "MassRobotics",
@@ -516,6 +506,16 @@
       "link": "https://calendar.mit.edu/event/nih-data-management-and-sharing-plans-what-why-and-whats-next",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Women's League goes to MIT Museum After Dark!",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join League friends and colleagues for a group visit to After Dark, the MIT Museum's monthly adults-only, after-hours event at the museum. Full of science and surprises, there will be live music, cash bar and food for purchase. Tickets are $10 for MIT Community members and should be purchased in adv",
+      "link": "https://calendar.mit.edu/event/womens-league-goes-to-mit-museum-after-dark",
+      "time": "TBD",
+      "location": "MIT Museum"
     },
     {
       "date": "2026-08-14",
@@ -728,6 +728,16 @@
       "location": ""
     },
     {
+      "date": "2026-09-09",
+      "title": "MIT Ballroom Dance Camp 2026 (Day 1)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
+      "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-no-prior-dance-experience-needed",
+      "time": "TBD",
+      "location": "Building 50: Walker Memorial"
+    },
+    {
       "date": "2026-09-15",
       "title": "Men's Soccer vs. Central Conneticut State",
       "source": "Northeastern",
@@ -736,6 +746,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-central-conneticut-state",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "College of Engineering Global Co-op Information Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "time": "TBD",
+      "location": "Renaissance Park"
     },
     {
       "date": "2026-09-19",
@@ -775,6 +795,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-harvard-3291",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "College of Engineering Global Co-op Information Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-30",
@@ -869,6 +899,15 @@
     },
     {
       "date": "TBD",
+      "title": "Virtualizing Data Infrastructures",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "AbstractOrganizations (e.g., corporations, educational institutions, non-profits) usually manage their data using multiple specialized database engines (e.g., Aurora, BigQuery, Redshift, Snowflake, etc.) to take advantage of each engine’s individual strengths on different parts of their workload. Ho",
+      "link": "https://www.csail.mit.edu/event/virtualizing-data-infrastructures",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "THESIS DEFENSE: \"Describing robot collision-free space for optimization: Task-space constraints, polynomial optimization, and graph search\"",
       "source": "MIT CSAIL",
       "tag": "robotics",
@@ -878,11 +917,38 @@
     },
     {
       "date": "TBD",
+      "title": "Generative AI for 3D Design with Multi-Objective Physical Constraints",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "STAR Conference Room",
+      "link": "https://www.csail.mit.edu/event/generative-ai-3d-design-multi-objective-physical-constraints",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics Seminar: Never Claim More Than You Know: From the SubT Playbook toward Open-Vocabulary Robots",
+      "source": "MIT CSAIL",
+      "tag": "robotics",
+      "desc": "Abstract:In modern field robotics, the failures that sting are rarely geometric. They are the long tail: situations no curated vocabulary was designed to identify. The self-driving industry meets the same long tail at fleet scale, one unnamed situation at a time.Foundation models were supposed to he",
+      "link": "https://www.csail.mit.edu/event/robotics-seminar-never-claim-more-you-know-subt-playbook-toward-open-vocabulary-robots",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Lifelong Learning in the Age of Foundation Models",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "We marvel at the capabilities of modern foundation models, focusing on what they can do once deployed. However, there is another axis, largely abandoned in recent years, along which intelligence is measured by the ability to learn. A model deployed in the world encounters user feedback, new experien",
       "link": "https://www.csail.mit.edu/event/lifelong-learning-age-foundation-models",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requireslearned models to satisfy critical safety, reliability, and interpretability constraints withoutcompromising predictive accuracy or computational efficiency. This work addre",
+      "link": "https://www.csail.mit.edu/event/learning-interpretable-and-reliable-classifiers-using-local-algorithms",
       "time": "TBD"
     },
     {
@@ -4550,9 +4616,9 @@
     },
     {
       "date": "TBD",
-      "title": "Engineering Bacteria for Next-Gen Therapeutics",
+      "title": "Founders Coffee Connection",
       "source": "Luma",
-      "tag": "talk",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4622,6 +4688,15 @@
     },
     {
       "date": "TBD",
+      "title": "Climate & Cocktails",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Summer Sculpt",
       "source": "Luma",
       "tag": "talk",
@@ -4631,16 +4706,16 @@
     },
     {
       "date": "TBD",
-      "title": "LangChain Boston Meetup: Loop Engineering and Open Models",
+      "title": "Deep Tech Startups in the Age of AI by Fifty Years",
       "source": "Luma",
-      "tag": "talk",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "TigerHoops Boston",
+      "title": "LangChain Boston Meetup: Loop Engineering and Open Models",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4688,15 +4763,6 @@
       "title": "Primal Fest 2026",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Revolute Hackathon 2026",
-      "source": "Luma",
-      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
