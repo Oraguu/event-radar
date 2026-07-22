@@ -1,57 +1,7 @@
 {
-  "scraped_at": "2026-07-21T11:43:04.345635",
-  "event_count": 524,
+  "scraped_at": "2026-07-22T11:43:28.427336",
+  "event_count": 526,
   "events": [
-    {
-      "date": "2026-07-21",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-1585",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-1747",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Reading: How to Analyze Articles, Data, and More",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Build on your existing reading strategies and learn new ways to engage deeply with texts, visuals, and data. This workshop offers tools to help you read with purpose, ask critical questions, and make meaning from complex material in academic and professional settings. Presented by Cameron Sheehy, ME",
-      "link": "https://calendar.northeastern.edu/event/reading-how-to-analyze-articles-data-and-more-4196",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Applied and Interdisciplinary Mathematics (AIM) Seminar",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Date: Tuesday, July 21 Time: 2:00 pm Location: EXP-610 Speaker: Giuseppe Cotardo (Department of Mathematics, Virginia Tech). Title: Quantum Anticodes and Modular Code Constructions Abstract: Quantum error-correcting codes are essential for protecting quantum information in large-scale quantum archit",
-      "link": "https://calendar.northeastern.edu/event/applied-and-interdisciplinary-mathematics-aim-seminar-9744",
-      "time": "TBD",
-      "location": "EXP"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-3936",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-07-22",
       "title": "SPUR / RSI 2026 Lecture Series",
@@ -409,6 +359,16 @@
     },
     {
       "date": "2026-08-05",
+      "title": "Chemistry Industrial Recruiting: AbbVie",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "AbbVie: Industrial Recruiting Information Session & Research and Career Chats 9 A.M. on August 5, 2026, in Room 6-321 (Moore Room) Join AbbVie representatives for an information session on our science in discovery, process chemistry, and operations! We encourage all chemistry graduate students and p",
+      "link": "https://calendar.mit.edu/event/chemistry-industrial-recruiting-abbvie",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-08-05",
       "title": "Northeast Regional Neurodiversity Coalition Conference",
       "source": "Northeastern",
       "tag": "talk",
@@ -459,6 +419,16 @@
     },
     {
       "date": "2026-08-10",
+      "title": "Chemistry Industrial Recruiting: Merck",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Merck will be visiting MIT on August 10 and 11 for On-Campus Recruiting! As in previous years, we will be hosting an informational session that is open to interested students of all levels. At this session we will provide an overview of Merck, our chemistry departments, and our corporate culture. We",
+      "link": "https://calendar.mit.edu/event/chemistry-industrial-recruiting-merck",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-08-10",
       "title": "Quick & Dirty Data Management: the 5 things you should absolutely be doing with your data",
       "source": "MIT",
       "tag": "talk",
@@ -479,11 +449,31 @@
     },
     {
       "date": "2026-08-11",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-8337",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-11",
       "title": "Teamwork & Collaboration: How to Work Effectively in Groups",
       "source": "Northeastern",
       "tag": "talk",
       "desc": "Group projects don’t have to be stressful! This workshop explores strategies for effective teamwork, from setting shared goals to managing group dynamics and planning meetings. Learn how to contribute meaningfully, navigate challenges, and build collaboration skills that will serve you in school and",
       "link": "https://calendar.northeastern.edu/event/teamwork-collaboration-how-to-work-effectively-in-groups-3273",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-787",
       "time": "TBD",
       "location": ""
     },
@@ -588,6 +578,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-08-25",
+      "title": "Tim Titans - Creative Collaborative",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us on the last Tuesday of every month from 6 PM to 7 PM. 4N-417—location Starting August 25th, 2026 Come together for a casual creative collective. All supplies will be provided, and feel free to bring your own. https://calendar.mit.edu/group/tim_titans",
+      "link": "https://calendar.mit.edu/event/tim-titans-creative-collaborative",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-08-27",
       "title": "Women's Soccer vs. Yale",
       "source": "Northeastern",
@@ -649,10 +649,10 @@
     },
     {
       "date": "2026-09-01",
-      "title": "Men's Soccer vs. Emmanuel College (Mass.)",
+      "title": "Men's Soccer vs. Clark University",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 4:00 PM Location: Cambridge, MA",
+      "desc": "Time: 7:00 PM Location: Worcester, MA",
       "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
       "time": "TBD",
       "location": ""
@@ -908,11 +908,11 @@
     },
     {
       "date": "TBD",
-      "title": "THESIS DEFENSE: \"Describing robot collision-free space for optimization: Task-space constraints, polynomial optimization, and graph search\"",
+      "title": "THESIS DEFENSE (Rebecca Jiang): \"Describing robot collision-free space for optimization: Task-space constraints, polynomial optimization, and graph search\"",
       "source": "MIT CSAIL",
       "tag": "robotics",
       "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-describing-robot-collision-free-space-optimization-task-space-constraints",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-rebecca-jiang-describing-robot-collision-free-space-optimization-task-space",
       "time": "TBD"
     },
     {
@@ -935,11 +935,20 @@
     },
     {
       "date": "TBD",
-      "title": "Lifelong Learning in the Age of Foundation Models",
+      "title": "Thesis Defense: Lifelong Learning in the Age of Foundation Models",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "We marvel at the capabilities of modern foundation models, focusing on what they can do once deployed. However, there is another axis, largely abandoned in recent years, along which intelligence is measured by the ability to learn. A model deployed in the world encounters user feedback, new experien",
-      "link": "https://www.csail.mit.edu/event/lifelong-learning-age-foundation-models",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-lifelong-learning-age-foundation-models",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "GoMG: A Grammar of More Graphics!",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/gomg-grammar-more-graphics",
       "time": "TBD"
     },
     {
@@ -947,7 +956,7 @@
       "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requireslearned models to satisfy critical safety, reliability, and interpretability constraints withoutcompromising predictive accuracy or computational efficiency. This work addre",
+      "desc": "Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work add",
       "link": "https://www.csail.mit.edu/event/learning-interpretable-and-reliable-classifiers-using-local-algorithms",
       "time": "TBD"
     },
@@ -1682,20 +1691,20 @@
     },
     {
       "date": "TBD",
-      "title": "Careers in Tough Tech: A Fireside Chat for Interns and Co-Ops",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Join fellow interns from across the Boston Tough Tech and climate ecosystem for a pizza party and panel with The Engine, Greentown Labs, LabCentral, and more!",
-      "link": "https://greentownlabs.com/event/co-op-and-intern-convening/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Go Make 2027: Advanced Carbon Materials Informational Webinar",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Join this informational webinar to explore the Go Make 2027 program, application process, technology focus, and key dates!",
       "link": "https://greentownlabs.com/event/go-make-2027-advanced-carbon-materials-informational-webinar/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Careers in Tough Tech: A Fireside Chat for Interns and Co-Ops",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join fellow interns from across the Boston Tough Tech and climate ecosystem for a pizza party and panel with The Engine, Greentown Labs, LabCentral, and more!",
+      "link": "https://greentownlabs.com/event/co-op-and-intern-convening/",
       "time": "TBD"
     },
     {
@@ -4616,24 +4625,6 @@
     },
     {
       "date": "TBD",
-      "title": "Founders Coffee Connection",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climate Designers Summer Meetup @ the Esplanade",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Bloom: Build with nature.",
       "source": "Luma",
       "tag": "talk",
@@ -4697,6 +4688,15 @@
     },
     {
       "date": "TBD",
+      "title": "POP UP BAGELS RUN CLUB",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Summer Sculpt",
       "source": "Luma",
       "tag": "talk",
@@ -4718,6 +4718,15 @@
       "title": "LangChain Boston Meetup: Loop Engineering and Open Models",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "One of One: Solo Founder Coworking Day",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4752,6 +4761,15 @@
     {
       "date": "TBD",
       "title": "The Vibes",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Salsa Dancing at The Grove at Lawn on D Presented by Salsa y Control",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
