@@ -1,56 +1,7 @@
 {
-  "scraped_at": "2026-07-22T11:43:28.427336",
-  "event_count": 526,
+  "scraped_at": "2026-07-23T11:46:55.534714",
+  "event_count": 523,
   "events": [
-    {
-      "date": "2026-07-22",
-      "title": "SPUR / RSI 2026 Lecture Series",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Tanya Khovanova (MIT) Title: From Puzzles and Magic Tricks to Mathematical Research Abstract: In this talk, I will describe several recent projects from PRIMES STEP, a program in which students in grades 6–9 engage in original mathematical research. Inspired by recreational mathematics, the",
-      "link": "https://calendar.mit.edu/event/spur-rsi-2026-lecture-series-2788",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Special Inorganic/Organic Chemistry Seminar with Professor Swadhin Mandal (IISER Kolkata)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Empowering p-electrons in catalysis Department of Chemical Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, West Bengal-741246, India Abstract: Our research is primarily focused on developing concepts for metal-free catalytic processes that utilise p-electrons. Traditi",
-      "link": "https://calendar.mit.edu/event/special-inorganic-chemistry-seminar-with-professor-swadhin-mandal",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Renting in Boston",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Seeking off-campus housing in Boston? Join this event to learn about resources and best practices for navigating the Boston rental market! We will review neighborhoods, costs, leases, and ensure you are on your way to being a knowledgeable renter! Join us via Teams Webinar here: https://events.teams",
-      "link": "https://calendar.northeastern.edu/event/renting-in-boston",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Lab-to-Launch Lounge",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Harvard PhD graduate students in CxO roles return to campus to share how they launched their VC funded startup based on their research out of Harvard labs. This isn't your typical tech talk - it's an intimate, informal conversation where you'll hear directly from PhD founders about their journey fro",
-      "link": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-9979",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "AMD Advancing AI",
-      "source": "MassRobotics",
-      "tag": "ai",
-      "desc": "San Francisco Moscone West • July 22-23: Join hands-on workshops, connect with fellow AI developers, meet the builders behind leading AI projects, and leave with practical skills and tools you […]",
-      "link": "https://www.massrobotics.org/event/amd-advancing-ai/",
-      "time": "TBD"
-    },
     {
       "date": "2026-07-23",
       "title": "Broad Institute-MIT Chemistry Seminar (Peng Chen, Peking University)",
@@ -60,6 +11,16 @@
       "link": "https://calendar.mit.edu/event/broad-institute-mit-chemistry-seminar-peng-cheng-peking-university",
       "time": "TBD",
       "location": "Broad Institute Auditorium"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Special Inorganic/Organic Chemistry Seminar with Professor Swadhin Mandal (IISER Kolkata)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Empowering p-electrons in catalysis Department of Chemical Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, West Bengal-741246, India Abstract: Our research is primarily focused on developing concepts for metal-free catalytic processes that utilise p-electrons. Traditi",
+      "link": "https://calendar.mit.edu/event/special-inorganic-chemistry-seminar-with-professor-swadhin-mandal",
+      "time": "TBD",
+      "location": "4-370"
     },
     {
       "date": "2026-07-23",
@@ -248,6 +209,16 @@
       "link": "https://calendar.mit.edu/event/lunch-club-evening-edition",
       "time": "TBD",
       "location": "Black Sheep Lounge, Kendall Hotel"
+    },
+    {
+      "date": "2026-07-29",
+      "title": "ChE PhD Dissertation Defense: Svilen Kolev",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Name: Svilen Kolev Title: Spatiotemporal Imaging and Quantitative Analysis of Early Gut Microbiome Assembly in C. elegans Date: 07/29/2026 Time: 02:00:00 PM Committee Members: Prof. Rebecca Carrier (Advisor) Prof. Sara […] The post ChE PhD Dissertation Defense: Svilen Kolev appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-svilen-kolev",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-07-30",
@@ -499,6 +470,16 @@
     },
     {
       "date": "2026-08-13",
+      "title": "After Dark: Gardens at the MIT Museum",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for an evening celebrating gardens, green spaces, and all things locally grown! After Dark is a monthly adults-only, after-hours event at the museum. Full of science and surprises, expect demonstrations, tastings, conversation and more. Featured activities: At 7 pm, hear from MIT Professor K",
+      "link": "https://calendar.mit.edu/event/after-dark-gardens-at-the-mit-museum",
+      "time": "TBD",
+      "location": "MIT Museum"
+    },
+    {
+      "date": "2026-08-13",
       "title": "Women's League goes to MIT Museum After Dark!",
       "source": "MIT",
       "tag": "talk",
@@ -649,10 +630,10 @@
     },
     {
       "date": "2026-09-01",
-      "title": "Men's Soccer vs. Clark University",
+      "title": "Men's Soccer vs. Emmanuel College (Mass.)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 7:00 PM Location: Worcester, MA",
+      "desc": "Time: 4:00 PM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
       "time": "TBD",
       "location": ""
@@ -736,6 +717,16 @@
       "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-no-prior-dance-experience-needed",
       "time": "TBD",
       "location": "Building 50: Walker Memorial"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "MIT Ballroom Dance Camp 2026 (Day 2)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
+      "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-2026",
+      "time": "TBD",
+      "location": "Building 13"
     },
     {
       "date": "2026-09-15",
@@ -890,19 +881,10 @@
     },
     {
       "date": "TBD",
-      "title": "Cross-Stack Insights for Efficient Resilience to Silent Data Corruptions",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Star",
-      "link": "https://www.csail.mit.edu/event/cross-stack-insights-efficient-resilience-silent-data-corruptions",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Virtualizing Data Infrastructures",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "AbstractOrganizations (e.g., corporations, educational institutions, non-profits) usually manage their data using multiple specialized database engines (e.g., Aurora, BigQuery, Redshift, Snowflake, etc.) to take advantage of each engine’s individual strengths on different parts of their workload. Ho",
+      "desc": "Hewlett",
       "link": "https://www.csail.mit.edu/event/virtualizing-data-infrastructures",
       "time": "TBD"
     },
@@ -4625,51 +4607,6 @@
     },
     {
       "date": "TBD",
-      "title": "Bloom: Build with nature.",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Built // Different Dinner: Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Founder & Operator Night, Co-Hosted by MGMT, TNT & Ryan Smith",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Network Night 1",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Lenny’s Newsletter Meetup in Boston (with free drinks courtesy of Matic)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Boston Metrowest Founders Happy Hour - JPM | Step Function | Waveform Intelligence",
       "source": "Luma",
       "tag": "startup",
@@ -4799,6 +4736,42 @@
       "title": "Breakfast in the 'burbs",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Agents For Bio Researches",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The AI Runtime - Boston",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "All In Boston Fans Meetup",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cofounder Matching: Meet Your Future Founding Team",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
