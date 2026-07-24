@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-07-23T11:46:55.534714",
-  "event_count": 523,
+  "scraped_at": "2026-07-24T11:37:17.944858",
+  "event_count": 520,
   "events": [
-    {
-      "date": "2026-07-23",
-      "title": "Broad Institute-MIT Chemistry Seminar (Peng Chen, Peking University)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Live-Cell Chemistry in Health and Disease",
-      "link": "https://calendar.mit.edu/event/broad-institute-mit-chemistry-seminar-peng-cheng-peking-university",
-      "time": "TBD",
-      "location": "Broad Institute Auditorium"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Special Inorganic/Organic Chemistry Seminar with Professor Swadhin Mandal (IISER Kolkata)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Empowering p-electrons in catalysis Department of Chemical Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, West Bengal-741246, India Abstract: Our research is primarily focused on developing concepts for metal-free catalytic processes that utilise p-electrons. Traditi",
-      "link": "https://calendar.mit.edu/event/special-inorganic-chemistry-seminar-with-professor-swadhin-mandal",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-07-23",
-      "title": "Salsa Party",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Join friends, new and old, for a lively summer evening! Kick things off with a fun, beginner-friendly salsa lesson—no experience (or partner!) needed—then show off your new moves on the outdoor dance floor. Cool down with a refreshing agua fresca (on us, while supplies last). H",
-      "link": "https://calendar.mit.edu/event/salsa-party",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
     {
       "date": "2026-07-24",
       "title": "Outdoor Movie: Space Jam",
@@ -409,6 +379,16 @@
       "location": ""
     },
     {
+      "date": "2026-08-10",
+      "title": "Adapting Alliances In A Changing Indo-Pacific: Regional Security and U.S.-ROK-Japan Cooperation",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Home to more than half of the world’s population, 60 percent of global GDP, and two-thirds of global economic growth, the Indo-Pacific is critical to global security and prosperity. At the same time, shifts in the regional balance of power and the increasingly interconnected nature of regional secur",
+      "link": "https://calendar.northeastern.edu/event/adapting-alliances-in-a-changing-indo-pacific-regional-security-and-us-rok-japan-cooperation",
+      "time": "TBD",
+      "location": "Alumni Center"
+    },
+    {
       "date": "2026-08-11",
       "title": "Managing Your Research Code",
       "source": "MIT",
@@ -630,10 +610,10 @@
     },
     {
       "date": "2026-09-01",
-      "title": "Men's Soccer vs. Emmanuel College (Mass.)",
+      "title": "Men's Soccer vs. United States Coast Guard Academy",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 4:00 PM Location: Cambridge, MA",
+      "desc": "Time: 1:00 PM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
       "time": "TBD",
       "location": ""
@@ -727,6 +707,16 @@
       "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-2026",
       "time": "TBD",
       "location": "Building 13"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "MIT Ballroom Dance Camp 2026 (Day 3)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
+      "link": "https://calendar.mit.edu/event/ballroom-dance-camp-2026",
+      "time": "TBD",
+      "location": "Building W51"
     },
     {
       "date": "2026-09-15",
@@ -881,24 +871,6 @@
     },
     {
       "date": "TBD",
-      "title": "Virtualizing Data Infrastructures",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Hewlett",
-      "link": "https://www.csail.mit.edu/event/virtualizing-data-infrastructures",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE (Rebecca Jiang): \"Describing robot collision-free space for optimization: Task-space constraints, polynomial optimization, and graph search\"",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-rebecca-jiang-describing-robot-collision-free-space-optimization-task-space",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Generative AI for 3D Design with Multi-Objective Physical Constraints",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -965,7 +937,7 @@
       "title": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday, October 13, 2026",
+      "desc": "Kirsch Auditorium",
       "link": "https://www.csail.mit.edu/event/dertouzos-distinguished-lecture-prof-sir-michael-brady",
       "time": "TBD"
     },
@@ -4607,16 +4579,7 @@
     },
     {
       "date": "TBD",
-      "title": "Boston Metrowest Founders Happy Hour - JPM | Step Function | Waveform Intelligence",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climate & Cocktails",
+      "title": "POP UP BAGELS RUN CLUB",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4625,7 +4588,7 @@
     },
     {
       "date": "TBD",
-      "title": "POP UP BAGELS RUN CLUB",
+      "title": "Mindful Makers Hack #15",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4662,6 +4625,15 @@
     {
       "date": "TBD",
       "title": "One of One: Solo Founder Coworking Day",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "after hours: a happy hour for boston's creatives and founders",
       "source": "Luma",
       "tag": "startup",
       "desc": "",
@@ -4769,9 +4741,9 @@
     },
     {
       "date": "TBD",
-      "title": "Cofounder Matching: Meet Your Future Founding Team",
+      "title": "Exploring the Path Forward: Blueprint x Activate Info Session + Happy Hour",
       "source": "Luma",
-      "tag": "startup",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
