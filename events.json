@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-26T11:15:23.728846",
-  "event_count": 514,
+  "scraped_at": "2026-07-27T12:51:38.295792",
+  "event_count": 523,
   "events": [
     {
       "date": "2026-07-27",
@@ -879,6 +879,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-10-24",
+      "title": "Men's Soccer vs. Hofstra ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-hofstra-6538",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
       "date": "2026-10-27",
       "title": "Tough Tech Summit 2026",
       "source": "The Engine",
@@ -899,6 +909,78 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
+    },
+    {
+      "date": "TBD",
+      "title": "Generative AI for 3D Design with Multi-Objective Physical Constraints",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "STAR Conference Room",
+      "link": "https://www.csail.mit.edu/event/generative-ai-3d-design-multi-objective-physical-constraints",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics Seminar: Never Claim More Than You Know: From the SubT Playbook toward Open-Vocabulary Robots",
+      "source": "MIT CSAIL",
+      "tag": "robotics",
+      "desc": "Abstract:In modern field robotics, the failures that sting are rarely geometric. They are the long tail: situations no curated vocabulary was designed to identify. The self-driving industry meets the same long tail at fleet scale, one unnamed situation at a time.Foundation models were supposed to he",
+      "link": "https://www.csail.mit.edu/event/robotics-seminar-never-claim-more-you-know-subt-playbook-toward-open-vocabulary-robots",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Lifelong Learning in the Age of Foundation Models",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "We marvel at the capabilities of modern foundation models, focusing on what they can do once deployed. However, there is another axis, largely abandoned in recent years, along which intelligence is measured by the ability to learn. A model deployed in the world encounters user feedback, new experien",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-lifelong-learning-age-foundation-models",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "GoMG: A Grammar of More Graphics!",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/gomg-grammar-more-graphics",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work add",
+      "link": "https://www.csail.mit.edu/event/learning-interpretable-and-reliable-classifiers-using-local-algorithms",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System",
+      "source": "MIT CSAIL",
+      "tag": "startup",
+      "desc": "Modular arithmetic with a large prime modulus is a dominant computational cost in number-theoretic cryptography.&nbsp; Modular operations are especially challenging to parallelize efficiently using vector instructions; standard implementations rely on costly carry operations and permutation instruct",
+      "link": "https://www.csail.mit.edu/event/accelerating-number-theoretic-cryptography-using-vectorization-and-residue-number-system",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Instance-optimal estimation of L2-norm",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estim",
+      "link": "https://www.csail.mit.edu/event/instance-optimal-estimation-l2-norm",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Kirsch Auditorium",
+      "link": "https://www.csail.mit.edu/event/dertouzos-distinguished-lecture-prof-sir-michael-brady",
+      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -4538,15 +4620,6 @@
     },
     {
       "date": "TBD",
-      "title": "Summer Sculpt",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Deep Tech Startups in the Age of AI by Fifty Years",
       "source": "Luma",
       "tag": "ai",
@@ -4694,6 +4767,15 @@
       "title": "The AI Runtime - Boston",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "All In Boston Fans Meetup",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
