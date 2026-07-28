@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-07-27T12:51:38.295792",
-  "event_count": 523,
+  "scraped_at": "2026-07-28T11:52:00.513933",
+  "event_count": 526,
   "events": [
-    {
-      "date": "2026-07-27",
-      "title": "FAB26",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "FAB26 is the upcoming edition of the annual International Fab Lab Conference. These gatherings unite Fab Lab members, makers, engineers, artists, academics, industry experts and educators from around the world to explore how digital fabrication can shape our future. Over several days of talks, hands",
-      "link": "https://calendar.mit.edu/event/fab26",
-      "time": "TBD",
-      "location": "MIT Campus"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-7496",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-27",
-      "title": "ChE PhD Dissertation Defense: Sevy Harris",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Name: Sevy Harris Title: Automated Methods for Improving Microkinetic Models through Uncertainty Quantification and Sensitivity Analysis Date: 07/27/2026 Time: 11:00:00 AM Committee Members: Prof. Richard West (Advisor) Prof. Steve Lustig […] The post ChE PhD Dissertation Defense: Sevy Harris appear",
-      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-sevy-harris",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-07-28",
       "title": "Engineering Business Certificate | Galante Info Session",
@@ -100,16 +70,6 @@
       "desc": "",
       "link": "https://www.massrobotics.org/event/optikos-office-hours-2/",
       "time": "TBD"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Midday Music: Angel Subero & Latin Logic",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Venezuelan trombone virtuoso and bandleader Angel Subero has shared the stage with Aretha Franklin, Slide Hampton, Jim McNeely, Claudio Roditi, Danilo Pérez and Chris Botti. With Latin Logic, he mixes old-school salsa, Latin jazz and Afro-Caribbean rhythms, drawing on the diver",
-      "link": "https://calendar.mit.edu/event/midday-music-angel-subero-latin-logic",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-07-29",
@@ -680,6 +640,26 @@
       "location": "Building 14"
     },
     {
+      "date": "2026-09-02",
+      "title": "Midday Music: Grooversity",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Acclaimed percussionist and educator Marcus Santos leads the Grooversity ensemble of drummers in an engaging journey through the musical traditions of his native Bahia, Brazil’s first capital. The performance blends Afro-Brazilian rhythms, the powerful energy of carnival percus",
+      "link": "https://calendar.mit.edu/event/midday-music-grooversity",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "APSA Pre-Conference: The Politics of AI",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "This event will feature panels on the politics of Al, covering topics such as deepfakes and the information environment, democratic resilience, and public opinion in the age of artificial intelligence. Featuring ~20 presenters. Breakfast and lunch provided. RSVP Required.",
+      "link": "https://calendar.northeastern.edu/event/apsa-pre-conference-the-politics-of-ai",
+      "time": "TBD",
+      "location": "Churchill Hall"
+    },
+    {
       "date": "2026-09-03",
       "title": "Lab-2-Market Office Hours",
       "source": "Harvard SEAS",
@@ -912,11 +892,11 @@
     },
     {
       "date": "TBD",
-      "title": "Generative AI for 3D Design with Multi-Objective Physical Constraints",
+      "title": "THESIS DEFENSE: Generative AI for 3D Design with Multi-Objective Physical Constraints",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/generative-ai-3d-design-multi-objective-physical-constraints",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-generative-ai-3d-design-multi-objective-physical-constraints",
       "time": "TBD"
     },
     {
@@ -948,11 +928,38 @@
     },
     {
       "date": "TBD",
-      "title": "Learning Interpretable and Reliable Classifiers Using Local Algorithms",
+      "title": "THESIS DEFENSE: GoMG: A Grammar of More Graphics!",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "STAR Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-gomg-grammar-more-graphics",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work add",
-      "link": "https://www.csail.mit.edu/event/learning-interpretable-and-reliable-classifiers-using-local-algorithms",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-learning-interpretable-and-reliable-classifiers-using-local-algorithms",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Grounding Neural Representations from Many Views of the World",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "MIT Stata Center (Building 32) 32 Vassar Street",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-grounding-neural-representations-many-views-world",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Patil/Kiva Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-continuous-tensor-abstraction-and-its-high-performance-compilation",
       "time": "TBD"
     },
     {
@@ -971,6 +978,15 @@
       "tag": "ai",
       "desc": "Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estim",
       "link": "https://www.csail.mit.edu/event/instance-optimal-estimation-l2-norm",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Diagnosing and Managing Performance in Data Systems",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "[Abstract coming soon!]----Thesis Committee: Tim Kraska (thesis advisor), Samuel Madden, Michael Cafarella----Please reach out to markakis@mit.edu for the Zoom password.",
+      "link": "https://www.csail.mit.edu/event/diagnosing-and-managing-performance-data-systems",
       "time": "TBD"
     },
     {
@@ -4629,15 +4645,6 @@
     },
     {
       "date": "TBD",
-      "title": "LangChain Boston Meetup: Loop Engineering and Open Models",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "One of One: Solo Founder Coworking Day",
       "source": "Luma",
       "tag": "startup",
@@ -4774,6 +4781,24 @@
     {
       "date": "TBD",
       "title": "All In Boston Fans Meetup",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Reactorfield - Boston Launch",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Exploring the Path Forward: Blueprint x Activate Info Session + Happy Hour",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
