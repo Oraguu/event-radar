@@ -1,76 +1,7 @@
 {
-  "scraped_at": "2026-07-28T11:52:00.513933",
-  "event_count": 526,
+  "scraped_at": "2026-07-29T11:56:21.599204",
+  "event_count": 523,
   "events": [
-    {
-      "date": "2026-07-28",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-8853",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-5734",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Networking Across Cultures",
-      "source": "Northeastern",
-      "tag": "networking",
-      "desc": "This GLS workshop will highlight the different types of networking (e.g., social, academic, and professional) and some reasons networking might present challenges due to cultural barriers, lack of exposure to networking, and familiarity with the networking platform or space used (in-person or online",
-      "link": "https://calendar.northeastern.edu/event/networking-across-cultures-603",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Writing: From Understanding Assignments to Impactful Revision",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "You already have strong ideas—this workshop helps you bring them to life by first understanding what’s expected, figuring out what to include, then refining your writing for impact. Learn how to break down prompts, rubrics, and genre conventions so you know exactly what your instructors are asking f",
-      "link": "https://calendar.northeastern.edu/event/writing-from-understanding-assignments-to-impactful-revision",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-6074",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-28",
-      "title": "English Through Everyday Conversation",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join this relaxed and interactive workshop to practice real-life conversations, expand your vocabulary, and improve your speaking skills in a supportive environment. Meet fellow students, build confidence, and have fun through engaging discussions and activities. Register here!",
-      "link": "https://calendar.northeastern.edu/event/english-through-everyday-conversation",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Optikos Office Hours",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/optikos-office-hours-2/",
-      "time": "TBD"
-    },
     {
       "date": "2026-07-29",
       "title": "Thesis Defense - Mary Stelow",
@@ -330,6 +261,16 @@
       "location": "BlueBikes station on the corner of Ames Street and Main Street (Building 76)"
     },
     {
+      "date": "2026-08-08",
+      "title": "Charles River Jazz Festival",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Charles River Jazz Festival (CRJF) presented by the Boston Jazz Foundation is back for its 6th Annual entertainment extravaganza at a new location, Hatch Memorial Shell. This family-friendly, FREE event features local art and food vendors, Boston-based and world-renowned music acts, and more. Th",
+      "link": "https://calendar.northeastern.edu/event/charles-river-jazz-festival",
+      "time": "TBD",
+      "location": "Hatch Memorial Shell"
+    },
+    {
       "date": "2026-08-10",
       "title": "Chemistry Industrial Recruiting: Merck",
       "source": "MIT",
@@ -420,6 +361,26 @@
       "location": ""
     },
     {
+      "date": "2026-08-12",
+      "title": "Data Rescue-athon",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Since January 2025, many U.S. government data sets, webpages, and other digital resources have disappeared from federal agency websites. While you can find backups for some of these materials, others […] The post Data Rescue-athon appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/data-rescue-athon",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-12",
+      "title": "The Gordon Institute: Virtual Information Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership through The Gordon Institute as a stand-alone certificate or in combination with one of 25+ Master of Science degrees […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University Colle",
+      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-261",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-08-13",
       "title": "West Campus Public Art Tour",
       "source": "MIT",
@@ -478,6 +439,16 @@
       "link": "https://calendar.mit.edu/event/outdoor-movie-the-straight-story",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-8051",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-08-20",
@@ -730,6 +701,26 @@
       "location": "Building W51"
     },
     {
+      "date": "2026-09-14",
+      "title": "The Rise of ESG 2.0: Economy-Security-Geopolitics ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Marcos Troyjo Robert E. Wilhelm Fellow, 2026 Former President, New Development Bank; Former Deputy Minister of the Economy, Brazil Please RSVP here. This seminar will be held in E40-496 (Pye Room). Lunch will be available. Contact cis-info@mit.edu with any questions. This event is part of the CIS Gl",
+      "link": "https://calendar.mit.edu/event/the-rise-of-esg-20-economy-security-geopolitics",
+      "time": "TBD",
+      "location": "Building E40"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "MIT Chung-Wong Lecture | W. E. Moerner (Stanford University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/mit-chung-wong-lecture-w-e-moerner-stanford-university",
+      "time": "TBD",
+      "location": "Room 6-120"
+    },
+    {
       "date": "2026-09-15",
       "title": "Men's Soccer vs. Central Conneticut State",
       "source": "Northeastern",
@@ -859,6 +850,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-10-14",
+      "title": "The Rise of Uzbekistan and Central Asia: The Great Game 2.0",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Two hundred years ago, Britain and Russia competed for territory and influence over Central Asia in the “Great Game.” Today the game is back, with China, Russia, the United States, Europe, and the Gulf states competing for access to the region's trade corridors, energy reserves, uranium, and critica",
+      "link": "https://calendar.northeastern.edu/event/the-rise-of-uzbekistan-and-central-asia-the-great-game-20",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-10-24",
       "title": "Men's Soccer vs. Hofstra ",
       "source": "Northeastern",
@@ -889,33 +890,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Generative AI for 3D Design with Multi-Objective Physical Constraints",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-generative-ai-3d-design-multi-objective-physical-constraints",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Robotics Seminar: Never Claim More Than You Know: From the SubT Playbook toward Open-Vocabulary Robots",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Abstract:In modern field robotics, the failures that sting are rarely geometric. They are the long tail: situations no curated vocabulary was designed to identify. The self-driving industry meets the same long tail at fleet scale, one unnamed situation at a time.Foundation models were supposed to he",
-      "link": "https://www.csail.mit.edu/event/robotics-seminar-never-claim-more-you-know-subt-playbook-toward-open-vocabulary-robots",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Thesis Defense: Lifelong Learning in the Age of Foundation Models",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "We marvel at the capabilities of modern foundation models, focusing on what they can do once deployed. However, there is another axis, largely abandoned in recent years, along which intelligence is measured by the ability to learn. A model deployed in the world encounters user feedback, new experien",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-lifelong-learning-age-foundation-models",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -994,7 +968,7 @@
       "title": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Kirsch Auditorium",
+      "desc": "Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday, October 13, 2026",
       "link": "https://www.csail.mit.edu/event/dertouzos-distinguished-lecture-prof-sir-michael-brady",
       "time": "TBD"
     },
@@ -1689,6 +1663,15 @@
       "tag": "manufacturing",
       "desc": "As summer winds down, join Greentown Boston and Boston Hardware Meetup for a special summer edition of our signature EnergyBar!",
       "link": "https://greentownlabs.com/event/august-energybar-recharge-on-the-roof/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Innovating with Amazon: Six Months of Building and What’s Next",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join Greentown Boston and Amazon for the final showcase of Go Build 2026, celebrating six months of innovation to decarbonize the built environment!",
+      "link": "https://greentownlabs.com/event/innovating-with-amazon-six-months-of-building-and-whats-next/",
       "time": "TBD"
     },
     {
@@ -4636,15 +4619,6 @@
     },
     {
       "date": "TBD",
-      "title": "Deep Tech Startups in the Age of AI by Fifty Years",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "One of One: Solo Founder Coworking Day",
       "source": "Luma",
       "tag": "startup",
@@ -4666,15 +4640,6 @@
       "title": "Pitch Lift $100k Reality Gameshow: Round 4",
       "source": "Luma",
       "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "South X Southie 2026",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4801,6 +4766,15 @@
       "title": "Exploring the Path Forward: Blueprint x Activate Info Session + Happy Hour",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cofounder Matching: Meet Your Future Founding Team",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
