@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-07-29T11:56:21.599204",
+  "scraped_at": "2026-07-30T11:46:31.266261",
   "event_count": 523,
   "events": [
-    {
-      "date": "2026-07-29",
-      "title": "Thesis Defense - Mary Stelow",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Mary Stelow Title: Towards Combinatorial Khovanov Invariants for Admissible Links in $S^1 \\times S^2$ using Instantons Abstract (in TeX): Khovanov homology is a powerful invariant for links in $S^3$. There has been recent interest in building extensions of Khovanov homology for links in oth",
-      "link": "https://calendar.mit.edu/event/thesis-defense-mary-stelow",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "SPUR / RSI 2026 Lecture Series",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Ankur Moitra (MIT) Title: Honeycombs and Sums of Hermitian Matrices, Revisited Abstract: Given the eigenvalues of Hermitian matrices A and B, can we determine all possible eigenvalues of A + B? A celebrated theorem of Knutson and Tao gives a complete characterization through geometric objec",
-      "link": "https://calendar.mit.edu/event/spur-rsi-2026-lecture-series-1268",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Special Inorganic Chemistry Seminar with Professor Sundargopal Ghosh (IIT–Madras)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Professor Sundargopal Ghosh Indian Institute of Technology, Madras \"Planar Boron Rings as Next-Generation Ligands for Sandwich Complexes” Abstract: The discovery of sandwich complexes with ferrocene, I shown in Chart 1, highlighted the fundamental role of cyclopentadienyl (Cp) ligands in sandwich co",
-      "link": "https://calendar.mit.edu/event/special-chemistry-seminar",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Lunch Club: Evening Edition",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Cool off and celebrate a summer hump-day with the Women’s League at The Black Sheep! Order your own snack and beverage (there are plenty of non-alcoholic options) and chat, laugh, and connect in the newly renovated lounge of the Kendall Hotel. Drop by for a few minutes before your evening commute, o",
-      "link": "https://calendar.mit.edu/event/lunch-club-evening-edition",
-      "time": "TBD",
-      "location": "Black Sheep Lounge, Kendall Hotel"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "ChE PhD Dissertation Defense: Svilen Kolev",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Name: Svilen Kolev Title: Spatiotemporal Imaging and Quantitative Analysis of Early Gut Microbiome Assembly in C. elegans Date: 07/29/2026 Time: 02:00:00 PM Committee Members: Prof. Rebecca Carrier (Advisor) Prof. Sara […] The post ChE PhD Dissertation Defense: Svilen Kolev appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-svilen-kolev",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Stitch and Small Talk",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Ready to try a new craft? Step into a relaxed, creative space with the Office of Global Services and learn the Basketweave Needlepoint stitch! Complete beginners and experienced crafters alike are welcome to drop in. Snacks and crafting materials will be ready for you—all you need is a little curios",
-      "link": "https://calendar.northeastern.edu/event/stitch-and-small-talk",
-      "time": "TBD",
-      "location": "Egan Research Center"
-    },
     {
       "date": "2026-07-30",
       "title": "McGovern Institute Special Seminar with Joshua A. Gordon",
@@ -212,6 +152,16 @@
     },
     {
       "date": "2026-08-06",
+      "title": "ChE PhD Dissertation Defense: Alexander Kaltashov",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Name: Alexander Kaltashov Title: Temporal and Spatial Control of Structure and Rheology in Binary Colloidal Gels Date: 08/06/2026 Time: 01:00:00 PM Committee Members: Prof. Safa Jamali (Advisor) Prof. Sara Hashmi […] The post ChE PhD Dissertation Defense: Alexander Kaltashov appeared first on Northe",
+      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-alexander-kaltashov",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-06",
       "title": "Lab-2-Market Office Hours",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -249,6 +199,16 @@
       "link": "https://calendar.mit.edu/event/leap-lab-creative-dance-for-kids-4715",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Workshop: Time Without Clocks",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us at the MIT Museum for an immersive workshop curated by artist Helga Schmid that invites visitors to explore time beyond the rigid structure of clocks and calendars. Through installations, conversations, and sensory experiences, this program examines how time is shaped by the body, nature, an",
+      "link": "https://calendar.mit.edu/event/mitmuseum-workshop-time-without-clocks",
+      "time": "TBD",
+      "location": "MIT Museum"
     },
     {
       "date": "2026-08-08",
@@ -451,6 +411,16 @@
       "location": ""
     },
     {
+      "date": "2026-08-19",
+      "title": "Midday Music: Angel Subero & Latin Logic",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Venezuelan trombone virtuoso and bandleader Angel Subero has shared the stage with Aretha Franklin, Slide Hampton, Jim McNeely, Claudio Roditi, Danilo Pérez and Chris Botti. With Latin Logic, he mixes old-school salsa, Latin jazz and Afro-Caribbean rhythms, drawing on the diver",
+      "link": "https://calendar.mit.edu/event/midday-music-angel-subero-latin-logic",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
       "date": "2026-08-20",
       "title": "Carpentries@MIT Introduction to Unix Shell and Git/Github Workshop",
       "source": "MIT",
@@ -559,6 +529,16 @@
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-new-hampshire",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "McGovern Institute Special Seminar with Moataz Assem",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Monday, August 31, 2026 Time: 12:00 – 1:00 pm Location: Building 46, Seminar Room 3189 Talk Title & Abstract coming soon",
+      "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-moataz-assem",
+      "time": "TBD",
+      "location": "Building 46"
     },
     {
       "date": "2026-09-01",
@@ -731,6 +711,36 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-09-16",
+      "title": "MIT-Harvard Seminar: Hemamala Karunadasa (Stanford University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/mit-harvard-seminar-hemamala-karunadasa-stanford-university",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Admissions Info Session: System Design and Management",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us on Thursday, September 17 to learn about MIT’s combined engineering and management master’s degree! In this session, we’ll give you an overview of our unique integrated core course and the curriculum that lets you take classes at MIT’s School of Engineering and Sloan School of Management. Pr",
+      "link": "https://calendar.mit.edu/event/admissions-info-session-sdm-202609",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Novartis-MIT Lectures (Seth Herzon, Yale University + TBD, Novartis)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/novartis-mit-lectures-seth-herzon-yale-novartis-tbd",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
       "date": "2026-09-17",
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
@@ -893,29 +903,20 @@
     },
     {
       "date": "TBD",
-      "title": "GoMG: A Grammar of More Graphics!",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Star",
-      "link": "https://www.csail.mit.edu/event/gomg-grammar-more-graphics",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: GoMG: A Grammar of More Graphics!",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-gomg-grammar-more-graphics",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work add",
       "link": "https://www.csail.mit.edu/event/thesis-defense-learning-interpretable-and-reliable-classifiers-using-local-algorithms",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "PHD DEFENSE: SigmaOS: a Cloud OS with a Unified API for Serverless and Microservice Applications",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Many cloud applications use both serverless functions, for bursts of stateless parallel computation, and container orchestration, for long-running microservices and tasks that need to interact. Ideally a single platform would offer the union of these systems’ capabilities, but current platforms do n",
+      "link": "https://www.csail.mit.edu/event/phd-defense-sigmaos-cloud-os-unified-api-serverless-and-microservice-applications",
       "time": "TBD"
     },
     {
@@ -1690,6 +1691,15 @@
       "tag": "manufacturing",
       "desc": "Join this informational webinar to explore the Go Make 2027 program, application process, technology focus, and key dates!",
       "link": "https://greentownlabs.com/event/go-make-2027-advanced-carbon-materials-informational-webinar/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Decarb TechInvest 2026",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "A summit connecting the leaders scaling critical minerals, firm power and hard tech!",
+      "link": "https://greentownlabs.com/event/techinvest-2026/",
       "time": "TBD"
     },
     {
@@ -4619,51 +4629,6 @@
     },
     {
       "date": "TBD",
-      "title": "One of One: Solo Founder Coworking Day",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "after hours: a happy hour for boston's creatives and founders",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Pitch Lift $100k Reality Gameshow: Round 4",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Wise Women Film Screening + Q & A | Cambridge",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Climate Picnic",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The Vibes",
       "source": "Luma",
       "tag": "talk",
@@ -4775,6 +4740,42 @@
       "title": "Cofounder Matching: Meet Your Future Founding Team",
       "source": "Luma",
       "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Happy Hour",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI+X Meetup @ The Engine",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RevGenius IRL: Boston Happy Hour",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "POSTURES OF RETURN at Boston CyberArts Gallery",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
