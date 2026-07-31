@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-07-30T11:46:31.266261",
-  "event_count": 523,
+  "scraped_at": "2026-07-31T11:53:20.877534",
+  "event_count": 527,
   "events": [
-    {
-      "date": "2026-07-30",
-      "title": "McGovern Institute Special Seminar with Joshua A. Gordon",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Thursday, July 30, 2026 Time: 12:00 – 1:00 pm Location: Building 46, Singleton Auditorium Talk Title: mPFC interneurons in spatial working memory function and dysfunction Abstract: Working memory is a core cognitive ability that is disrupted in schizophrenia and other mental illnesses. In rode",
-      "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-josh-gordon",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Resident Ice Cream Social",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/resident-ice-cream-social-2/",
-      "time": "TBD"
-    },
     {
       "date": "2026-07-31",
       "title": "Outdoor Movie: It Happened One Night",
@@ -535,7 +516,7 @@
       "title": "McGovern Institute Special Seminar with Moataz Assem",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Date: Monday, August 31, 2026 Time: 12:00 – 1:00 pm Location: Building 46, Seminar Room 3189 Talk Title & Abstract coming soon",
+      "desc": "Date: Monday, August 31, 2026 Time: 12:00 – 1:00 pm Location: Building 46, Seminar Room 3189 Talk Title: Interdigitated domain-general and domain-specific fine-grained patches: a new view of cognitive control in the human brain Abstract: Three decades of brain imaging consistently link the organizat",
       "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-moataz-assem",
       "time": "TBD",
       "location": "Building 46"
@@ -642,6 +623,16 @@
     },
     {
       "date": "2026-09-09",
+      "title": "SCSB Colloquium with Dr. Yuko Munakata: Changing Perspectives on Self Control",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Wednesday, September 9, 2026 Location: 46-3002 (Singleton Auditorium) Time: 4:00pm-5:00pm ET, followed by reception Speaker: Yuko Munakata, Ph.D. Affiliation: Professor, University of California, Davis Host: Dr. Rebecca Saxe Talk title: Changing Perspectives on Self Control Abstract: Everyone ",
+      "link": "https://calendar.mit.edu/event/scsb-colloquium-with-dr-yuko-munakata-changing-perspectives-on-self-control",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-09-09",
       "title": "MIT Ballroom Dance Camp 2026 (Day 1)",
       "source": "MIT",
       "tag": "talk",
@@ -659,6 +650,16 @@
       "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-2026",
       "time": "TBD",
       "location": "Building 13"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Hannah Greenwald Healy - Harvard University",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/hannah-greenwald-healy-harvard-university",
+      "time": "TBD",
+      "location": "Pierce Hall"
     },
     {
       "date": "2026-09-12",
@@ -751,6 +752,16 @@
       "location": "Renaissance Park"
     },
     {
+      "date": "2026-09-18",
+      "title": "Joshua S. Benmergui - Harvard University",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/joshua-s-benmergui-harvard-university",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
       "date": "2026-09-19",
       "title": "Men's Soccer vs. Monmouth",
       "source": "Northeastern",
@@ -830,6 +841,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-10-02",
+      "title": "Rajan Chakrabarty - Washington University",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/rajan-chakrabarty-washington-university",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
       "date": "2026-10-03",
       "title": "Men's Soccer vs. Drexel ",
       "source": "Northeastern",
@@ -891,6 +912,16 @@
       "pickNote": "Deep tech founders and investors. Spun out of MIT"
     },
     {
+      "date": "2026-10-28",
+      "title": "Venturing@Harvard",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
+      "time": "TBD",
+      "location": "Gordon Hall"
+    },
+    {
       "date": "2026-11-01",
       "title": "BostonHacks 2026",
       "source": "BU",
@@ -903,11 +934,11 @@
     },
     {
       "date": "TBD",
-      "title": "THESIS DEFENSE: Learning Interpretable and Reliable Classifiers Using Local Algorithms",
+      "title": "THESIS DEFENSE: Building Spatial Representations for Marine Habitat Understanding with Autonomous Underwater Vehicles",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Abstract:&nbsp; &nbsp; &nbsp; &nbsp;The safe and responsible deployment of machine learning in real-world applications requires learned models to satisfy critical safety, reliability, and interpretability constraints without compromising predictive accuracy or computational efficiency. This work add",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-learning-interpretable-and-reliable-classifiers-using-local-algorithms",
+      "desc": "Patil/Kiva Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-building-spatial-representations-marine-habitat-understanding-autonomous",
       "time": "TBD"
     },
     {
@@ -953,6 +984,15 @@
       "tag": "ai",
       "desc": "Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estim",
       "link": "https://www.csail.mit.edu/event/instance-optimal-estimation-l2-norm",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Recent Results in Graph Property Testing via the Container Method",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: Recent work has shown that the graph container method is a useful tool for analyzing property testing algorithms for a number of classic properties including k-colorability, rho-clique and satisfiability. In this talk we will demonstrate that there is a deeper connection between the contai",
+      "link": "https://www.csail.mit.edu/event/recent-results-graph-property-testing-container-method",
       "time": "TBD"
     },
     {
@@ -4629,36 +4669,18 @@
     },
     {
       "date": "TBD",
-      "title": "The Vibes",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston DAO Monthly Meetup",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Salsa Dancing at The Grove at Lawn on D Presented by Salsa y Control",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Primal Fest 2026",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Meet a Robotics Boston YC Founder: Bill Jiao",
+      "source": "Luma",
+      "tag": "robotics",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4713,6 +4735,15 @@
       "title": "All In Boston Fans Meetup",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ClawBio @ Kendall - Agentic Biology Networking Event",
+      "source": "Luma",
+      "tag": "networking",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4774,6 +4805,15 @@
     {
       "date": "TBD",
       "title": "POSTURES OF RETURN at Boston CyberArts Gallery",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Suno Unplugged: Boston Rooftop Session",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
