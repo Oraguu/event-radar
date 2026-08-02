@@ -1,16 +1,7 @@
 {
-  "scraped_at": "2026-08-01T11:11:48.080442",
-  "event_count": 495,
+  "scraped_at": "2026-08-02T11:12:17.709962",
+  "event_count": 494,
   "events": [
-    {
-      "date": "2026-08-01",
-      "title": "Revolute Hack",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "A hands-on, community-driven \"Embodied / Physical AI\" hackathon focused on a unique theme: cooking with robot arms! Teams of 4–5 builders will work together to prototype creative, hardware-driven projects with […]",
-      "link": "https://www.massrobotics.org/event/revolute-hack/",
-      "time": "TBD"
-    },
     {
       "date": "2026-08-03",
       "title": "Engineering Business Certificate | Galante Info Session",
@@ -4369,24 +4360,6 @@
     },
     {
       "date": "TBD",
-      "title": "Primal Fest 2026",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Meet a Robotics Boston YC Founder: Bill Jiao",
-      "source": "Luma",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Women Applying AI Live",
       "source": "Luma",
       "tag": "ai",
@@ -4415,6 +4388,15 @@
     {
       "date": "TBD",
       "title": "Built // Different Dinner: Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI-Bio Meetup in Boston",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4468,6 +4450,15 @@
     },
     {
       "date": "TBD",
+      "title": "Po-Shen Loh | Raise A Thought Full Generation in the Age of AI | Brookline, MA",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Cofounder Matching: Meet Your Future Founding Team",
       "source": "Luma",
       "tag": "startup",
@@ -4495,6 +4486,15 @@
     },
     {
       "date": "TBD",
+      "title": "Sip & See Industrious Fenway",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "AI+X Meetup @ The Engine",
       "source": "Luma",
       "tag": "talk",
@@ -4504,25 +4504,16 @@
     },
     {
       "date": "TBD",
+      "title": "Boston Bio Startup Office Hours",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "RevGenius IRL: Boston Happy Hour",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "ALO BOSTON SEAPORT: ALO RUNNERS CLUB",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "POSTURES OF RETURN at Boston CyberArts Gallery",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
