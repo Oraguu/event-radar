@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-02T11:12:17.709962",
-  "event_count": 494,
+  "scraped_at": "2026-08-03T12:51:50.679299",
+  "event_count": 484,
   "events": [
     {
       "date": "2026-08-03",
@@ -937,96 +937,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Building Spatial Representations for Marine Habitat Understanding with Autonomous Underwater Vehicles",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Patil/Kiva Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-building-spatial-representations-marine-habitat-understanding-autonomous",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "PHD DEFENSE: SigmaOS: a Cloud OS with a Unified API for Serverless and Microservice Applications",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Many cloud applications use both serverless functions, for bursts of stateless parallel computation, and container orchestration, for long-running microservices and tasks that need to interact. Ideally a single platform would offer the union of these systems’ capabilities, but current platforms do n",
-      "link": "https://www.csail.mit.edu/event/phd-defense-sigmaos-cloud-os-unified-api-serverless-and-microservice-applications",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Grounding Neural Representations from Many Views of the World",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "MIT Stata Center (Building 32) 32 Vassar Street",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-grounding-neural-representations-many-views-world",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Patil/Kiva Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-continuous-tensor-abstraction-and-its-high-performance-compilation",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System",
-      "source": "MIT CSAIL",
-      "tag": "startup",
-      "desc": "Modular arithmetic with a large prime modulus is a dominant computational cost in number-theoretic cryptography.&nbsp; Modular operations are especially challenging to parallelize efficiently using vector instructions; standard implementations rely on costly carry operations and permutation instruct",
-      "link": "https://www.csail.mit.edu/event/accelerating-number-theoretic-cryptography-using-vectorization-and-residue-number-system",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Instance-optimal estimation of L2-norm",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estim",
-      "link": "https://www.csail.mit.edu/event/instance-optimal-estimation-l2-norm",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Recent Results in Graph Property Testing via the Container Method",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract: Recent work has shown that the graph container method is a useful tool for analyzing property testing algorithms for a number of classic properties including k-colorability, rho-clique and satisfiability. In this talk we will demonstrate that there is a deeper connection between the contai",
-      "link": "https://www.csail.mit.edu/event/recent-results-graph-property-testing-container-method",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Diagnosing and Managing Performance in Data Systems",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "[Abstract coming soon!]----Thesis Committee: Tim Kraska (thesis advisor), Samuel Madden, Michael Cafarella----Please reach out to markakis@mit.edu for the Zoom password.",
-      "link": "https://www.csail.mit.edu/event/diagnosing-and-managing-performance-data-systems",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "CSAIL New Grad Orientation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva",
-      "link": "https://www.csail.mit.edu/event/csail-new-grad-orientation-0",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday, October 13, 2026",
-      "link": "https://www.csail.mit.edu/event/dertouzos-distinguished-lecture-prof-sir-michael-brady",
-      "time": "TBD"
     },
     {
       "date": "TBD",
