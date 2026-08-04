@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-08-03T12:51:50.679299",
-  "event_count": 484,
+  "scraped_at": "2026-08-04T11:58:34.499649",
+  "event_count": 494,
   "events": [
-    {
-      "date": "2026-08-03",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-5753",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Global Topics for Global Learners",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Global Topics for Global Learners is your weekly opportunity to invest in your professional and personal development. Every Monday, we come together online to discuss a new topic in a welcoming, guided setting. Discussions are faciliated by a Global Learner Support Specialist. Joining Global Topics ",
-      "link": "https://calendar.northeastern.edu/event/global-topics-for-global-learners-1632",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-08-04",
       "title": "MIT VMS Event: Strategies for Venture Funding",
@@ -161,6 +141,16 @@
       "link": "https://calendar.mit.edu/event/pedaling-by-public-art-1718",
       "time": "TBD",
       "location": "BlueBikes station on the corner of Ames Street and Main Street (Building 76)"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Chiari Neurobiomechanics Research Laboratory (CNRL) Open House",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CNRL Open House 2026 brings together researchers, clinicians, patients, and students for a full day of scientific talks, poster presentations, and live demonstrations centered on Chiari malformation, cerebrospinal fluid […] The post Chiari Neurobiomechanics Research Laboratory (CNRL) Open House ",
+      "link": "https://calendar.northeastern.edu/event/chiari-neurobiomechanics-research-laboratory-cnrl-open-house",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-08-08",
@@ -599,6 +589,16 @@
     },
     {
       "date": "2026-09-03",
+      "title": "Explore MIT's Career Services: Tour of Career Advising & Professional Development",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "During your time at MIT, you'll likely need your resume reviewed, learn how to use a cover letter, finesse your LinkedIn profile, and network with employers. MIT's Career Advising & Professional Development office (CAPD) is the hub for all of that. Come on this tour to see the employer recruiting su",
+      "link": "https://calendar.mit.edu/event/explore-mits-career-services-tour-of-career-advising-professional-development",
+      "time": "TBD",
+      "location": "Building E19"
+    },
+    {
+      "date": "2026-09-03",
       "title": "Lab-2-Market Office Hours",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -739,7 +739,7 @@
     },
     {
       "date": "2026-09-17",
-      "title": "Novartis-MIT Lectures (Seth Herzon, Yale University + TBD, Novartis)",
+      "title": "Novartis-MIT Lectures (Seth Herzon, Yale University + Alex N. Flyer, Novartis)",
       "source": "MIT",
       "tag": "talk",
       "desc": "",
@@ -929,6 +929,16 @@
     },
     {
       "date": "2026-11-01",
+      "title": "Women's Soccer vs. Monmouth",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-monmouth-2147",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
+      "date": "2026-11-01",
       "title": "BostonHacks 2026",
       "source": "BU",
       "tag": "startup",
@@ -937,6 +947,87 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
+    },
+    {
+      "date": "TBD",
+      "title": "PHD DEFENSE: SigmaOS: a Cloud OS with a Unified API for Serverless and Microservice Applications",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Many cloud applications use both serverless functions, for bursts of stateless parallel computation, and container orchestration, for long-running microservices and tasks that need to interact. Ideally a single platform would offer the union of these systems’ capabilities, but current platforms do n",
+      "link": "https://www.csail.mit.edu/event/phd-defense-sigmaos-cloud-os-unified-api-serverless-and-microservice-applications",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Grounding Neural Representations from Many Views of the World",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "MIT Stata Center (Building 32) 32 Vassar Street",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-grounding-neural-representations-many-views-world",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Patil/Kiva Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-continuous-tensor-abstraction-and-its-high-performance-compilation",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Accelerating Number-Theoretic Cryptography Using Vectorization and the Residue Number System",
+      "source": "MIT CSAIL",
+      "tag": "startup",
+      "desc": "Modular arithmetic with a large prime modulus is a dominant computational cost in number-theoretic cryptography.&nbsp; Modular operations are especially challenging to parallelize efficiently using vector instructions; standard implementations rely on costly carry operations and permutation instruct",
+      "link": "https://www.csail.mit.edu/event/accelerating-number-theoretic-cryptography-using-vectorization-and-residue-number-system",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Instance-optimal estimation of L2-norm",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estim",
+      "link": "https://www.csail.mit.edu/event/instance-optimal-estimation-l2-norm",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Recent Results in Graph Property Testing via the Container Method",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: Recent work has shown that the graph container method is a useful tool for analyzing property testing algorithms for a number of classic properties including k-colorability, rho-clique and satisfiability. In this talk we will demonstrate that there is a deeper connection between the contai",
+      "link": "https://www.csail.mit.edu/event/recent-results-graph-property-testing-container-method",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Diagnosing and Managing Performance in Data Systems",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "[Abstract coming soon!]----Thesis Committee: Tim Kraska (thesis advisor), Samuel Madden, Michael Cafarella----Please reach out to markakis@mit.edu for the Zoom password.",
+      "link": "https://www.csail.mit.edu/event/diagnosing-and-managing-performance-data-systems",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CSAIL New Grad Orientation",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Kiva",
+      "link": "https://www.csail.mit.edu/event/csail-new-grad-orientation-0",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Dertouzos Distinguished Lecture: Prof. Sir Michael Brady",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Dertouzos Distinguished Lecture series will feature Sir Michael Brady for a lecture on Tuesday, October 13, 2026",
+      "link": "https://www.csail.mit.edu/event/dertouzos-distinguished-lecture-prof-sir-michael-brady",
+      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -4270,15 +4361,6 @@
     },
     {
       "date": "TBD",
-      "title": "Women Applying AI Live",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Breakfast in the 'burbs",
       "source": "Luma",
       "tag": "talk",
@@ -4387,15 +4469,6 @@
     },
     {
       "date": "TBD",
-      "title": "eTail Boston Run Club Social",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Sip & See Industrious Fenway",
       "source": "Luma",
       "tag": "talk",
@@ -4405,7 +4478,7 @@
     },
     {
       "date": "TBD",
-      "title": "AI+X Meetup @ The Engine",
+      "title": "AI+X Meetup @ MIT Museum",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4424,6 +4497,24 @@
     {
       "date": "TBD",
       "title": "RevGenius IRL: Boston Happy Hour",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ALO BOSTON SEAPORT: ALO RUNNERS CLUB",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "POSTURES OF RETURN at Boston CyberArts Gallery",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
