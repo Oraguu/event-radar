@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-08-04T11:58:34.499649",
+  "scraped_at": "2026-08-05T11:53:05.782816",
   "event_count": 494,
   "events": [
-    {
-      "date": "2026-08-04",
-      "title": "MIT VMS Event: Strategies for Venture Funding",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Strategies for Venture Funding A Virtual Panel Discussion on Zoom Securing the right funding—at the right time, with the right strategy—can make all the difference for an early-stage venture. Join us for an engaging panel discussion where successful founders share their firsthand experiences navigat",
-      "link": "https://calendar.mit.edu/event/mit-vms-event-strategies-for-venture-funding",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-04",
-      "title": "Engineering Business Certificate | Galante Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. Designed for engineering PlusOne, MS, and PhD students interested in […] The post Engineering Business Certificate | Galante Info Session appear",
-      "link": "https://calendar.northeastern.edu/event/engineering-business-certificate-galante-info-session-562",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-04",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-1147",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-04",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-1609",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-08-05",
       "title": "Chemistry Industrial Recruiting: AbbVie",
@@ -79,6 +39,16 @@
       "tag": "talk",
       "desc": "Name: Alexander Kaltashov Title: Temporal and Spatial Control of Structure and Rheology in Binary Colloidal Gels Date: 08/06/2026 Time: 01:00:00 PM Committee Members: Prof. Safa Jamali (Advisor) Prof. Sara Hashmi […] The post ChE PhD Dissertation Defense: Alexander Kaltashov appeared first on Northe",
       "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-alexander-kaltashov",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Getting Started with Microsoft Teams",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "New to Microsoft Teams, or looking for a refresher on hosting virtual meetings? This interactive session will help you build confidence in scheduling, joining, and facilitating Teams meetings. Topics include meeting setup, audio and video management, screen sharing, and using collaboration features ",
+      "link": "https://calendar.northeastern.edu/event/getting-started-with-microsoft-teams-8-6",
       "time": "TBD",
       "location": ""
     },
@@ -263,6 +233,16 @@
     },
     {
       "date": "2026-08-12",
+      "title": "Getting Started with Microsoft Teams",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "New to Microsoft Teams, or looking for a refresher on hosting virtual meetings? This interactive session will help you build confidence in scheduling, joining, and facilitating Teams meetings. Topics include meeting setup, audio and video management, screen sharing, and using collaboration features ",
+      "link": "https://calendar.northeastern.edu/event/getting-started-with-microsoft-teams-8-12",
+      "time": "TBD",
+      "location": "Snell Library, 216"
+    },
+    {
+      "date": "2026-08-12",
       "title": "Data Rescue-athon",
       "source": "Northeastern",
       "tag": "talk",
@@ -313,6 +293,16 @@
     },
     {
       "date": "2026-08-13",
+      "title": "ARIA Lunch and Mingle",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Join for this meetup in The Node to hear directly from the leadership team at ARIA (Advanced Research + Invention Agency), the UK's breakthrough R&D funding agency. Meet the ARIA team including Programme Directors (those who design a R&D thesis and dole out grants to researchers in that area), and l",
+      "link": "https://events.seas.harvard.edu/event/aria-lunch-and-mingle-313",
+      "time": "TBD",
+      "location": "SEC 2.203"
+    },
+    {
+      "date": "2026-08-13",
       "title": "Qualcomm Dragonwing™ IQ9 Build-Along Lunch & Learn",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -357,6 +347,16 @@
       "tag": "talk",
       "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-8051",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-4754",
       "time": "TBD",
       "location": ""
     },
@@ -430,6 +430,16 @@
       "location": ""
     },
     {
+      "date": "2026-08-25",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-7958",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-08-27",
       "title": "Women's Soccer vs. Yale",
       "source": "Northeastern",
@@ -455,6 +465,16 @@
       "tag": "talk",
       "desc": "Dear colleagues, students, and friends, Join us for the 2026 GHI 4th Forum, rescheduled to August 28! This session introduces the GHI Pillar Heritage, Memory & Identity, and its project: Relocating Agency amid Political Uncertainty and Exile 4th GHI Forum Title: Recovering Agency through Visual Arts",
       "link": "https://calendar.mit.edu/event/4th-mit-global-humanities-forum-on-recovering-agency-through-visual-arts-amid-political-uncertainty-and-exile-on-august-28-online",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Chemistry Industrial Recruiting: Gilead",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Gilead Sciences Medicinal and Process Chemistry Departments are hiring for positions in Foster City, CA and will be conducting virtual on-campus interviews on August 28th. There will be a one-hour virtual Information session at 11:00am EST (12:00pm EDT) followed by 30 minute interviews. This is part",
+      "link": "https://calendar.mit.edu/event/chemistry-industrial-recruiting-gilead",
       "time": "TBD",
       "location": ""
     },
@@ -769,6 +789,16 @@
     },
     {
       "date": "2026-09-19",
+      "title": "Swim & Dive Black vs. Red Intrasquad ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the Swim & Dive team at Barletta Nataorium!",
+      "link": "https://calendar.northeastern.edu/event/swim-dive-black-vs-red-intrasquad",
+      "time": "TBD",
+      "location": "Barletta Nataorium"
+    },
+    {
+      "date": "2026-09-19",
       "title": "Men's Soccer vs. Monmouth",
       "source": "Northeastern",
       "tag": "talk",
@@ -898,6 +928,16 @@
     },
     {
       "date": "2026-10-24",
+      "title": "Swim & Dive vs. Rhode Island",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the Swim & Dive team at the Barletta Nataorium!",
+      "link": "https://calendar.northeastern.edu/event/swim-dive-vs-rhode-island",
+      "time": "TBD",
+      "location": "Barletta Nataorium"
+    },
+    {
+      "date": "2026-10-24",
       "title": "Men's Soccer vs. Hofstra ",
       "source": "Northeastern",
       "tag": "talk",
@@ -947,33 +987,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
-    },
-    {
-      "date": "TBD",
-      "title": "PHD DEFENSE: SigmaOS: a Cloud OS with a Unified API for Serverless and Microservice Applications",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Many cloud applications use both serverless functions, for bursts of stateless parallel computation, and container orchestration, for long-running microservices and tasks that need to interact. Ideally a single platform would offer the union of these systems’ capabilities, but current platforms do n",
-      "link": "https://www.csail.mit.edu/event/phd-defense-sigmaos-cloud-os-unified-api-serverless-and-microservice-applications",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Grounding Neural Representations from Many Views of the World",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "MIT Stata Center (Building 32) 32 Vassar Street",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-grounding-neural-representations-many-views-world",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Continuous Tensor Abstraction and Its High-Performance Compilation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Patil/Kiva Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-continuous-tensor-abstraction-and-its-high-performance-compilation",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -4361,42 +4374,6 @@
     },
     {
       "date": "TBD",
-      "title": "Breakfast in the 'burbs",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI Agents For Bio Researches",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Built // Different Dinner: Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI-Bio Meetup in Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The AI Runtime - Boston",
       "source": "Luma",
       "tag": "ai",
@@ -4515,6 +4492,33 @@
     {
       "date": "TBD",
       "title": "POSTURES OF RETURN at Boston CyberArts Gallery",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Binge Thinking x Powerpoint Night",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Red Sox Suite Experience w/ Langchain & Tavily",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Suno Unplugged: Boston Rooftop Session",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
