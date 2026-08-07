@@ -1,36 +1,16 @@
 {
-  "scraped_at": "2026-08-06T11:58:21.948152",
-  "event_count": 502,
+  "scraped_at": "2026-08-07T10:44:47.347910",
+  "event_count": 503,
   "events": [
     {
-      "date": "2026-08-06",
-      "title": "ChE PhD Dissertation Defense: Alexander Kaltashov",
-      "source": "Northeastern",
+      "date": "2026-08-07",
+      "title": "MIT Math SPUR 2026 Conference",
+      "source": "MIT",
       "tag": "talk",
-      "desc": "Name: Alexander Kaltashov Title: Temporal and Spatial Control of Structure and Rheology in Binary Colloidal Gels Date: 08/06/2026 Time: 01:00:00 PM Committee Members: Prof. Safa Jamali (Advisor) Prof. Sara Hashmi […] The post ChE PhD Dissertation Defense: Alexander Kaltashov appeared first on Northe",
-      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-alexander-kaltashov",
+      "desc": "MIT Mathematics SPUR 2026 Conference 9:20 am - 9:30 am: Opening Remarks 9:30 am - 10:00 am: Edward Li, Finding New Types of Non-Algebraic Symplectic Surfaces (mentor Yonghwan Kim) 10:00 am - 10:30 am: Katherine Li and Tatiana Medved, Multiplicative Soergel Bimodules for Affine {\\mathfrak{sl}}_{2} (m",
+      "link": "https://calendar.mit.edu/event/mit-math-spur-2026-conference",
       "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Getting Started with Microsoft Teams",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "New to Microsoft Teams, or looking for a refresher on hosting virtual meetings? This interactive session will help you build confidence in scheduling, joining, and facilitating Teams meetings. Topics include meeting setup, audio and video management, screen sharing, and using collaboration features ",
-      "link": "https://calendar.northeastern.edu/event/getting-started-with-microsoft-teams-8-6",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Lab-2-Market Office Hours",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Office hours with serial entrepreneur/angel investor/business builders from the i-lab and Harvard Grid - bring your venturing challenges, and we'll bring the pizza.",
-      "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-1300",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
+      "location": "Building 2"
     },
     {
       "date": "2026-08-07",
@@ -383,7 +363,7 @@
       "title": "Carpentries@MIT Introduction to Programming with Python",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Join us for a beginner-friendly Software Carpentry ONLINE workshop teaching Programming with Python (August 21, 24)! During the two days (Friday August 21, and Monday August 24, 2026) of learning Python, you will learn to use conditionals and loops, write functions, and run programs from the command",
+      "desc": "PLEASE NOTE: This is a two-day workshop taking place Friday August 21, and Monday August 24, 10am-4pm Join us for a beginner-friendly Software Carpentry ONLINE workshop teaching Programming with Python (August 21, 24)! During the two days (Friday August 21, and Monday August 24, 2026) of learning Py",
       "link": "https://calendar.mit.edu/event/carpentriesmit-introduction-to-programming-with-python",
       "time": "TBD",
       "location": ""
@@ -543,6 +523,16 @@
       "tag": "talk",
       "desc": "Time: 7:00 PM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-6960",
       "time": "TBD",
       "location": ""
     },
@@ -795,6 +785,16 @@
       "link": "https://calendar.mit.edu/event/mit-harvard-seminar-hemamala-karunadasa-stanford-university",
       "time": "TBD",
       "location": "Building 4"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Open Rehearsal Event with the MIT Wind Ensemble",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "All woodwind, brass, and percussion musicians OPEN REHEARSAL EVENT with the MIT WIND ENSEMBLE Wednesday, September 16 7:30-8:30pm, Kresge Auditorium Play, Listen, and Experience theexcellence and community of ensemblemusic making at MIT Musicians interested in classical and jazz encouraged to attend",
+      "link": "https://calendar.mit.edu/event/open-rehearsal-event-with-the-mit-wind-ensemble",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
     },
     {
       "date": "2026-09-17",
@@ -1471,15 +1471,6 @@
     },
     {
       "date": "TBD",
-      "title": "August EnergyBar: Recharge on the Roof",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "As summer winds down, join Greentown Boston and Boston Hardware Meetup for a special summer edition of our signature EnergyBar!",
-      "link": "https://greentownlabs.com/event/august-energybar-recharge-on-the-roof/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Innovating with Amazon: Six Months of Building and What’s Next",
       "source": "Greentown Labs",
       "tag": "manufacturing",
@@ -1498,15 +1489,6 @@
     },
     {
       "date": "TBD",
-      "title": "Go Make 2027: Advanced Carbon Materials Informational Webinar",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Join this informational webinar to explore the Go Make 2027 program, application process, technology focus, and key dates!",
-      "link": "https://greentownlabs.com/event/go-make-2027-advanced-carbon-materials-informational-webinar/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Energy Mavericks Book Launch",
       "source": "Greentown Labs",
       "tag": "manufacturing",
@@ -1516,11 +1498,29 @@
     },
     {
       "date": "TBD",
+      "title": "Go Make 2027: Advanced Carbon Materials Informational Webinar",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join this informational webinar to explore the Go Make 2027 program, application process, technology focus, and key dates!",
+      "link": "https://greentownlabs.com/event/go-make-2027-advanced-carbon-materials-informational-webinar/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Decarb TechInvest 2026",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "A summit connecting the leaders scaling critical minerals, firm power and hard tech!",
       "link": "https://greentownlabs.com/event/techinvest-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "August EnergyBar: Recharge on the Roof",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "As summer winds down, join Greentown Boston and Boston Hardware Meetup for a special summer edition of our signature EnergyBar!",
+      "link": "https://greentownlabs.com/event/august-energybar-recharge-on-the-roof/",
       "time": "TBD"
     },
     {
@@ -4450,15 +4450,6 @@
     },
     {
       "date": "TBD",
-      "title": "Exploring the Path Forward: Blueprint x Activate Info Session + Happy Hour",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Po-Shen Loh | Raise A Thought Full Generation in the Age of AI | Brookline, MA",
       "source": "Luma",
       "tag": "ai",
@@ -4597,6 +4588,24 @@
       "title": "Agents & APIs Boston Developer Meetup",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The World We Want: Future Workshop + Good Beer",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Life Sciences AI on Tap - Boston Connect",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
