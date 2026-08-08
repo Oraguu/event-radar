@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-07T10:44:47.347910",
-  "event_count": 503,
+  "scraped_at": "2026-08-08T10:23:25.182811",
+  "event_count": 505,
   "events": [
-    {
-      "date": "2026-08-07",
-      "title": "MIT Math SPUR 2026 Conference",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "MIT Mathematics SPUR 2026 Conference 9:20 am - 9:30 am: Opening Remarks 9:30 am - 10:00 am: Edward Li, Finding New Types of Non-Algebraic Symplectic Surfaces (mentor Yonghwan Kim) 10:00 am - 10:30 am: Katherine Li and Tatiana Medved, Multiplicative Soergel Bimodules for Affine {\\mathfrak{sl}}_{2} (m",
-      "link": "https://calendar.mit.edu/event/mit-math-spur-2026-conference",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "West Campus Public Art Tour",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join MIT List Visual Arts Center on a public art walking tour showcasing the MIT Public Art Collection across the west side of campus. View select artworks and consider how art and architecture have enhanced MIT's campus design, featuring artworks by renowned artists such as Beverly Pepper, Jaume Pl",
-      "link": "https://calendar.mit.edu/event/west-campus-public-art-tour-2916",
-      "time": "TBD",
-      "location": "77 Massachusetts Ave Cambridge, MA 02139"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Outdoor Movie: Chicken Run",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. This event is first come, first served regardless of registration. Join us for a summer screening of Chicken Run (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-chicken-run",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
     {
       "date": "2026-08-08",
       "title": "LEAP Lab: Creative Dance for Kids",
@@ -598,6 +568,16 @@
     },
     {
       "date": "2026-09-03",
+      "title": "DAFx 2026 presents Fabian Almazan",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Cuban-American pianist and composer Fabian Almazan presents an evening of solo piano improvisation and multimedia performance, expanding the timbral range of the acoustic piano through live audio processing and synchronized video visuals. This concert is part of the 29th International Conference on ",
+      "link": "https://calendar.mit.edu/event/dafx-2026-presents-fabian-almazan",
+      "time": "TBD",
+      "location": "Building W18"
+    },
+    {
+      "date": "2026-09-03",
       "title": "Lab-2-Market Office Hours",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -605,6 +585,26 @@
       "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-7065",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Men's Cross Country vs. Alumni Meet",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: Dover, MA / Powisset Farm",
+      "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Women's Cross Country vs. Alumni Meet",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: Dover, MA / Powisset Farm",
+      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-06",
@@ -665,6 +665,16 @@
       "link": "https://calendar.mit.edu/event/woodcutters",
       "time": "TBD",
       "location": "Building W97"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Give Blood, Give Hope: Mass GH Bloodmobile at Harvard SEAS",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Join Us for the Harvard SEAS Blood Drive with the Mass GH Bloodmobile! We’re teaming up with the Mass GH Bloodmobile to collect blood donations right here at Harvard SEAS. Every donation with MGH helps up to three patients at Mass General, MassGeneral for Children, Spaulding Rehab, Mass Eye & Ear, o",
+      "link": "https://events.seas.harvard.edu/event/copy-of-give-blood-give-hope-mass-gh-bloodmobile-at-harvard-seas-7101",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-09-11",
@@ -1036,6 +1046,16 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "BU's annual hackathon — great vibes, good sponsors"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Lab-2-Market Office Hours",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Have ideas for use-inspired applications of your research? Wondering what is the first step or how to test your ideas? No translation or venturing experience or knowledge required. Just bring your curiosity and questions for a no-risk discussion with the Grid's Executive Director Paul Hayre, plus re",
+      "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-1770",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "TBD",
