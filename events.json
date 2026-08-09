@@ -1,57 +1,7 @@
 {
-  "scraped_at": "2026-08-08T10:23:25.182811",
-  "event_count": 505,
+  "scraped_at": "2026-08-09T10:25:43.396491",
+  "event_count": 502,
   "events": [
-    {
-      "date": "2026-08-08",
-      "title": "LEAP Lab: Creative Dance for Kids",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. This workshop-style event introduces young children to the art of dance using patterns, movement, words, music, and storytelling. Haitian Folkloric rhythms (played by Jean Appolon Expressions’ Master Drummers) and movements are woven into the class in a child-friendly fashion. ",
-      "link": "https://calendar.mit.edu/event/leap-lab-creative-dance-for-kids-4715",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Workshop: Time Without Clocks",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us at the MIT Museum for an immersive workshop curated by artist Helga Schmid that invites visitors to explore time beyond the rigid structure of clocks and calendars. Through installations, conversations, and sensory experiences, this program examines how time is shaped by the body, nature, an",
-      "link": "https://calendar.mit.edu/event/mitmuseum-workshop-time-without-clocks",
-      "time": "TBD",
-      "location": "MIT Museum"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Pedaling By Public Art",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join the MIT List Visual Arts Center for a bike tour showcasing the MIT public art collection across campus. View select public artworks by bike and consider how art and the architectural environment have enhanced MIT’s campus design. Pedal past renowned works of art both recently added and well-est",
-      "link": "https://calendar.mit.edu/event/pedaling-by-public-art-1718",
-      "time": "TBD",
-      "location": "BlueBikes station on the corner of Ames Street and Main Street (Building 76)"
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Chiari Neurobiomechanics Research Laboratory (CNRL) Open House",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CNRL Open House 2026 brings together researchers, clinicians, patients, and students for a full day of scientific talks, poster presentations, and live demonstrations centered on Chiari malformation, cerebrospinal fluid […] The post Chiari Neurobiomechanics Research Laboratory (CNRL) Open House ",
-      "link": "https://calendar.northeastern.edu/event/chiari-neurobiomechanics-research-laboratory-cnrl-open-house",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-08",
-      "title": "Charles River Jazz Festival",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The Charles River Jazz Festival (CRJF) presented by the Boston Jazz Foundation is back for its 6th Annual entertainment extravaganza at a new location, Hatch Memorial Shell. This family-friendly, FREE event features local art and food vendors, Boston-based and world-renowned music acts, and more. Th",
-      "link": "https://calendar.northeastern.edu/event/charles-river-jazz-festival",
-      "time": "TBD",
-      "location": "Hatch Memorial Shell"
-    },
     {
       "date": "2026-08-10",
       "title": "Chemistry Industrial Recruiting: Merck",
@@ -831,10 +781,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-18",
@@ -1056,6 +1006,16 @@
       "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-1770",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Eric Ray - NOAA",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/eric-ray-noaa",
+      "time": "TBD",
+      "location": "Pierce Hall"
     },
     {
       "date": "TBD",
@@ -4470,15 +4430,6 @@
     },
     {
       "date": "TBD",
-      "title": "Po-Shen Loh | Raise A Thought Full Generation in the Age of AI | Brookline, MA",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Cofounder Matching: Meet Your Future Founding Team",
       "source": "Luma",
       "tag": "startup",
@@ -4542,6 +4493,15 @@
     },
     {
       "date": "TBD",
+      "title": "Mindful Makers Hack - `touch ./GRASS` #2",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "POSTURES OF RETURN at Boston CyberArts Gallery",
       "source": "Luma",
       "tag": "talk",
@@ -4552,6 +4512,24 @@
     {
       "date": "TBD",
       "title": "Binge Thinking x Powerpoint Night",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Agentic AI in the Wild - Callstack & Qodo Dev Community & Codex Community in Boston",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Bioanalysis & Brews: Mighty Squirrel",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4617,15 +4595,6 @@
       "title": "The World We Want: Future Workshop + Good Beer",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Life Sciences AI on Tap - Boston Connect",
-      "source": "Luma",
-      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
