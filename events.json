@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T10:25:43.396491",
-  "event_count": 502,
+  "scraped_at": "2026-08-10T11:01:10.354880",
+  "event_count": 504,
   "events": [
     {
       "date": "2026-08-10",
@@ -1016,6 +1016,25 @@
       "link": "https://events.seas.harvard.edu/event/eric-ray-noaa",
       "time": "TBD",
       "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Swim & Dive vs. Conneticut ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the Swim & Dive team at the Barletta Nataorium!",
+      "link": "https://calendar.northeastern.edu/event/swim-dive-vs-conneticut",
+      "time": "TBD",
+      "location": "Barletta Nataorium"
+    },
+    {
+      "date": "TBD",
+      "title": "Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto)",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: &nbsp;A parachute is a hundred microns of fabric travelling through a much larger volume of fluid. A heart valve consists of two leaflets that must meet and form a watertight seal. In problems like these, the geometry of the solid alone decides which paths a fluid can take, and resolving t",
+      "link": "https://www.csail.mit.edu/event/topology-and-geometry-exact-discretizations-fluid-structure-interaction-jonathan-panuelos-u",
+      "time": "TBD"
     },
     {
       "date": "TBD",
