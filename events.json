@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-10T11:01:10.354880",
+  "scraped_at": "2026-08-11T10:43:34.006859",
   "event_count": 504,
   "events": [
-    {
-      "date": "2026-08-10",
-      "title": "Chemistry Industrial Recruiting: Merck",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Merck will be visiting MIT on August 10 and 11 for On-Campus Recruiting! As in previous years, we will be hosting an informational session that is open to interested students of all levels. At this session we will provide an overview of Merck, our chemistry departments, and our corporate culture. We",
-      "link": "https://calendar.mit.edu/event/chemistry-industrial-recruiting-merck",
-      "time": "TBD",
-      "location": "Building 6"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "Quick & Dirty Data Management: the 5 things you should absolutely be doing with your data",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Do you have data? (Who doesn't?!?) Learn about the five basic things you can do now to manage your data for future happiness. These tools and techniques support practical data management and you can start using them immediately. Work with your personal data or research data, but start working now to",
-      "link": "https://calendar.mit.edu/event/quick-dirty-data-management-the-5-things-you-should-absolutely-be-doing-with-your-data",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-10",
-      "title": "Adapting Alliances In A Changing Indo-Pacific: Regional Security and U.S.-ROK-Japan Cooperation",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Home to more than half of the world’s population, 60 percent of global GDP, and two-thirds of global economic growth, the Indo-Pacific is critical to global security and prosperity. At the same time, shifts in the regional balance of power and the increasingly interconnected nature of regional secur",
-      "link": "https://calendar.northeastern.edu/event/adapting-alliances-in-a-changing-indo-pacific-regional-security-and-us-rok-japan-cooperation",
-      "time": "TBD",
-      "location": "Alumni Center"
-    },
     {
       "date": "2026-08-11",
       "title": "Managing Your Research Code",
@@ -88,6 +58,16 @@
       "tag": "talk",
       "desc": "Free and open to all. Lumanyano Mzi presents Ithemba Elitsha (A New Hope), a unique sonic tapestry blending the rich heritage of South African jazz with global contemporary influences. This upbeat project transcends geographical boundaries to celebrate a shared bond of humanity and renewed hope. Thi",
       "link": "https://calendar.mit.edu/event/midday-music-lumanyano-mzi-quartet",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Partial Eclipse Viewing",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Watch the solar eclipse with the MIT Astrogazers! Through a solar-filtered telescope, you’ll safely look for sunspots, flares, and other solar phenomena while the Moon covers up to 16% of the Sun. You can also ask them your questions about the Sun, Moon, or solar eclipses. The MIT Astrogazers love s",
+      "link": "https://calendar.mit.edu/event/partial-eclipse-viewing",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
     },
@@ -453,6 +433,16 @@
       "tag": "talk",
       "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-6960",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Staff Training: Creating Accessible Meetings and Events at SEAS",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "The SEAS Office for Belonging, Engagement, and Community is collaborating with University Disability Resources (UDR) and Disability Accessibility Services (DAS) to cover best practices and strategies for planning and hosting accessible events at SEAS. Participants will learn about accessibility requ",
+      "link": "https://events.seas.harvard.edu/event/staff-training-creating-accessible-meetings-and-events-at-seas",
       "time": "TBD",
       "location": ""
     },
@@ -1029,6 +1019,15 @@
     },
     {
       "date": "TBD",
+      "title": "HairFlow: A Framework for Creating, Editing, and Inferencing Diverse and Feature Rich Hair Strands (Sarah Jobalia, Stanford)",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: &nbsp;How we encode virtual 3D data, especially in cases of generative AI, can either restrict or facilitate diversity and realism. Ideal encodings capture the social richness of our experience as well as the physical realities of our world. These representations are specifically important",
+      "link": "https://www.csail.mit.edu/event/hairflow-framework-creating-editing-and-inferencing-diverse-and-feature-rich-hair-strands",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto)",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1364,8 +1363,8 @@
       "date": "TBD",
       "title": "1 event 18",
       "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "More information to come",
+      "tag": "ai",
+      "desc": "This session will focus on the intersection of safety and physical AI. Patrick Sobalvarro will talk about the challenges of integrating safety constraints into physical AI systems. Patrick is a […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-08-18/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
@@ -1373,8 +1372,8 @@
       "date": "TBD",
       "title": "1 event, 18",
       "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "More information to come",
+      "tag": "ai",
+      "desc": "This session will focus on the intersection of safety and physical AI. Patrick Sobalvarro will talk about the challenges of integrating safety constraints into physical AI systems. Patrick is a […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-08-18/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
@@ -1383,7 +1382,7 @@
       "title": "AI Working Group",
       "source": "MassRobotics",
       "tag": "ai",
-      "desc": "More information to come",
+      "desc": "This session will focus on the intersection of safety and physical AI. Patrick Sobalvarro will talk about the challenges of integrating safety constraints into physical AI systems. Patrick is a […]",
       "link": "https://www.massrobotics.org/event/ai-working-group/",
       "time": "TBD"
     },
@@ -1497,20 +1496,20 @@
     },
     {
       "date": "TBD",
-      "title": "Go Make 2027: Advanced Carbon Materials Informational Webinar",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Join this informational webinar to explore the Go Make 2027 program, application process, technology focus, and key dates!",
-      "link": "https://greentownlabs.com/event/go-make-2027-advanced-carbon-materials-informational-webinar/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Decarb TechInvest 2026",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "A summit connecting the leaders scaling critical minerals, firm power and hard tech!",
       "link": "https://greentownlabs.com/event/techinvest-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Go Make 2027: Advanced Carbon Materials Informational Webinar",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Join this informational webinar to explore the Go Make 2027 program, application process, technology focus, and key dates!",
+      "link": "https://greentownlabs.com/event/go-make-2027-advanced-carbon-materials-informational-webinar/",
       "time": "TBD"
     },
     {
@@ -4449,24 +4448,6 @@
     },
     {
       "date": "TBD",
-      "title": "Cofounder Matching: Meet Your Future Founding Team",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Happy Hour",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Pearce Fellows Showcase",
       "source": "Luma",
       "tag": "talk",
@@ -4614,6 +4595,24 @@
       "title": "The World We Want: Future Workshop + Good Beer",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Agent builders night - Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Life Sciences AI on Tap - Boston Connect",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
