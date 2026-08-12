@@ -1,56 +1,7 @@
 {
-  "scraped_at": "2026-08-11T10:43:34.006859",
+  "scraped_at": "2026-08-12T10:54:46.993426",
   "event_count": 504,
   "events": [
-    {
-      "date": "2026-08-11",
-      "title": "Managing Your Research Code",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Do you write software in the course of your research? Have you been required by funders or publishers to share your code, or do you want to make it accessible to others to use? Documenting, sharing and archiving your research software can make your research more transparent and reproducible, and can",
-      "link": "https://calendar.mit.edu/event/managing-your-research-code-6528",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-8337",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Teamwork & Collaboration: How to Work Effectively in Groups",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Group projects don’t have to be stressful! This workshop explores strategies for effective teamwork, from setting shared goals to managing group dynamics and planning meetings. Learn how to contribute meaningfully, navigate challenges, and build collaboration skills that will serve you in school and",
-      "link": "https://calendar.northeastern.edu/event/teamwork-collaboration-how-to-work-effectively-in-groups-3273",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-787",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Robots in Public: Preparing through an Urban Planner’s Lens- US",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/robots-in-public-preparing-through-an-urban-planners-lens-us/",
-      "time": "TBD"
-    },
     {
       "date": "2026-08-12",
       "title": "Midday Music: Lumanyano Mzi Quartet",
@@ -238,6 +189,16 @@
       "link": "https://calendar.mit.edu/event/midday-music-angel-subero-latin-logic",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Non-dilutive Funding for Deep Tech: SBIR, STTR and TTP Explained",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Register: https://mit.zoom.us/meeting/register/m429pRAlTjuytPe9pavasA Whether you're a faculty member, postdoc, grad student, or simply curious about innovation grant programs, this session is designed for you. Join us for a one-hour session featuring two NSF Program Directors who will walk you thro",
+      "link": "https://calendar.mit.edu/event/non-dilutive-funding-for-deep-tech-sbir-sttr-and-ttp-explained",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-08-19",
@@ -445,6 +406,16 @@
       "link": "https://events.seas.harvard.edu/event/staff-training-creating-accessible-meetings-and-events-at-seas",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Harvard Welcome Block Party",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Join us for the annual Welcome Block Party! Whether you are new to Harvard or returning for another year, come celebrate the start of the new academic year with free food, a resource fair, a Harvard merch raffle, music, lawn games, pet therapy, and more! We are part of the Plaza Open Market with a f",
+      "link": "https://events.seas.harvard.edu/event/harvard-welcome-block-party",
+      "time": "TBD",
+      "location": "Science Center Plaza Tent"
     },
     {
       "date": "2026-09-01",
@@ -688,6 +659,16 @@
     },
     {
       "date": "2026-09-14",
+      "title": "TBA",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Ina Simonovska, UC Davis",
+      "link": "https://calendar.mit.edu/event/ina-simonovska-uc-davis",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-09-14",
       "title": "Woodcutters",
       "source": "MIT",
       "tag": "talk",
@@ -695,6 +676,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-woodcutters-7901",
       "time": "TBD",
       "location": "Building W97"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "PDE/Analysis Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Simion Filip (University of Chicago) Title: Dynamical systems",
+      "link": "https://calendar.mit.edu/event/pde-analysis-seminar",
+      "time": "TBD",
+      "location": "Building 2"
     },
     {
       "date": "2026-09-15",
@@ -807,6 +798,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-09-21",
+      "title": "College of Engineering Global Co-op Information Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-4730",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-09-22",
       "title": "BioProcess International",
       "source": "Conference",
@@ -814,6 +815,16 @@
       "desc": "3,200+ scientists. Biopharmaceutical manufacturing. Hynes, Boston.",
       "link": "https://informaconnect.com/bioprocessinternational/",
       "time": "All Day"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "The Gordon Institute: Virtual Information Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership through The Gordon Institute as a stand-alone certificate or in combination with one of 25+ Master of Science degrees […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University Colle",
+      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-4392",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-24",
@@ -1019,15 +1030,6 @@
     },
     {
       "date": "TBD",
-      "title": "HairFlow: A Framework for Creating, Editing, and Inferencing Diverse and Feature Rich Hair Strands (Sarah Jobalia, Stanford)",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract: &nbsp;How we encode virtual 3D data, especially in cases of generative AI, can either restrict or facilitate diversity and realism. Ideal encodings capture the social richness of our experience as well as the physical realities of our world. These representations are specifically important",
-      "link": "https://www.csail.mit.edu/event/hairflow-framework-creating-editing-and-inferencing-diverse-and-feature-rich-hair-strands",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto)",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1058,7 +1060,7 @@
       "title": "Diagnosing and Managing Performance in Data Systems",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "[Abstract coming soon!]----Thesis Committee: Tim Kraska (thesis advisor), Samuel Madden, Michael Cafarella----Please reach out to markakis@mit.edu for the Zoom password.",
+      "desc": "Modern data systems are judged by their ability to meet the high-level performance objectives of the diverse applications they support. However, as growing system complexity makes performance sensitive to interactions among components, configurations, states, and workloads, relating these high-level",
       "link": "https://www.csail.mit.edu/event/diagnosing-and-managing-performance-data-systems",
       "time": "TBD"
     },
@@ -4448,15 +4450,6 @@
     },
     {
       "date": "TBD",
-      "title": "Pearce Fellows Showcase",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "AI+X Meetup @ MIT Museum",
       "source": "Luma",
       "tag": "talk",
@@ -4550,6 +4543,15 @@
       "title": "Suno Unplugged: Boston Rooftop Session",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI+X Founders × Researchers @ MIT",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
