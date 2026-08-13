@@ -1,67 +1,7 @@
 {
-  "scraped_at": "2026-08-12T10:54:46.993426",
-  "event_count": 504,
+  "scraped_at": "2026-08-13T10:55:44.745300",
+  "event_count": 502,
   "events": [
-    {
-      "date": "2026-08-12",
-      "title": "Midday Music: Lumanyano Mzi Quartet",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Lumanyano Mzi presents Ithemba Elitsha (A New Hope), a unique sonic tapestry blending the rich heritage of South African jazz with global contemporary influences. This upbeat project transcends geographical boundaries to celebrate a shared bond of humanity and renewed hope. Thi",
-      "link": "https://calendar.mit.edu/event/midday-music-lumanyano-mzi-quartet",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "Partial Eclipse Viewing",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Watch the solar eclipse with the MIT Astrogazers! Through a solar-filtered telescope, you’ll safely look for sunspots, flares, and other solar phenomena while the Moon covers up to 16% of the Sun. You can also ask them your questions about the Sun, Moon, or solar eclipses. The MIT Astrogazers love s",
-      "link": "https://calendar.mit.edu/event/partial-eclipse-viewing",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "NIH Data Management and Sharing Plans: What, Why, and What's Next",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Do you want to write an NIH grant? Then you'll need to know about their new template (NOT-OD-26-046) and underlying policy on Data Management & Sharing Plans (NOT-OD-21-013)! This session will highlight key policy elements and recent DMSP changes, give an overview of the background and rationale of ",
-      "link": "https://calendar.mit.edu/event/nih-data-management-and-sharing-plans-what-why-and-whats-next",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-12",
-      "title": "Getting Started with Microsoft Teams",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "New to Microsoft Teams, or looking for a refresher on hosting virtual meetings? This interactive session will help you build confidence in scheduling, joining, and facilitating Teams meetings. Topics include meeting setup, audio and video management, screen sharing, and using collaboration features ",
-      "link": "https://calendar.northeastern.edu/event/getting-started-with-microsoft-teams-8-12",
-      "time": "TBD",
-      "location": "Snell Library, 216"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "Data Rescue-athon",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Since January 2025, many U.S. government data sets, webpages, and other digital resources have disappeared from federal agency websites. While you can find backups for some of these materials, others […] The post Data Rescue-athon appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/data-rescue-athon",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-12",
-      "title": "The Gordon Institute: Virtual Information Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership through The Gordon Institute as a stand-alone certificate or in combination with one of 25+ Master of Science degrees […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University Colle",
-      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-261",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-08-13",
       "title": "West Campus Public Art Tour",
@@ -125,8 +65,8 @@
       "date": "2026-08-14",
       "title": "Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS)",
       "source": "MIT",
-      "tag": "talk",
-      "desc": "Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS) Date: Friday, August 14, 2026Time: 2:00pmLocation: Picower Seminar Room (46-3310, Third Fl of MIT Building 46)Faculty Host: Li-Huei TsaiPlease note that this seminar is in-person only",
+      "tag": "ai",
+      "desc": "Picower Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS), South Korea Date: Friday, August 14, 2026 Time: 3:00pm Location: Picower Seminar Room (46-3310, Third Fl of MIT Building 46) Faculty Host: Li-Huei Tsai This seminar is offered in-person only. Talk Title: Neurobiol",
       "link": "https://calendar.mit.edu/event/special-seminar-with-hee-sup-shin-md-phd-institute-for-basic-science-ibs",
       "time": "TBD",
       "location": "Building 46"
@@ -197,6 +137,16 @@
       "tag": "talk",
       "desc": "Register: https://mit.zoom.us/meeting/register/m429pRAlTjuytPe9pavasA Whether you're a faculty member, postdoc, grad student, or simply curious about innovation grant programs, this session is designed for you. Join us for a one-hour session featuring two NSF Program Directors who will walk you thro",
       "link": "https://calendar.mit.edu/event/non-dilutive-funding-for-deep-tech-sbir-sttr-and-ttp-explained",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Allstonway Event Series",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Allstonway is a dynamic public space at the heart of the Enterprise Research Campus. It brings together innovators, creators, academics, local residents, entrepreneurs, and the community to form a first-of-its-kind innovation experience. Rooted in the creative culture of Allston, Allstonway offers e",
+      "link": "https://events.seas.harvard.edu/event/allstonway-event-series",
       "time": "TBD",
       "location": ""
     },
@@ -679,6 +629,16 @@
     },
     {
       "date": "2026-09-15",
+      "title": "Materials Science and Engineering Seminar ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Engineering quantum materials at the atomic scale — through epitaxial growth or mechanical exfoliation — has driven a remarkable era of discovery in 2D electronics and quantum physics. A new frontier is now emerging: using ultrafast light pulses to create transient phases of matter not just in space",
+      "link": "https://calendar.mit.edu/event/materials-science-and-engineering-seminar-4541",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-09-15",
       "title": "PDE/Analysis Seminar",
       "source": "MIT",
       "tag": "talk",
@@ -689,13 +649,13 @@
     },
     {
       "date": "2026-09-15",
-      "title": "MIT Chung-Wong Lecture | W. E. Moerner (Stanford University)",
+      "title": "SQI Seminar Series: Tal Linzen, NYU",
       "source": "MIT",
       "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/mit-chung-wong-lecture-w-e-moerner-stanford-university",
+      "desc": "Tal Linzen is an Associate Professor of Linguistics and Data Science at New York University, and a Research Scientist at Google. He directs NYU's Computation and Psycholinguistics Lab, which uses behavioral experiments and computational methods to study how people learn and understand language. At b",
+      "link": "https://calendar.mit.edu/event/sqi-seminar-series-tal-linzen-nyu",
       "time": "TBD",
-      "location": "Room 6-120"
+      "location": "Building 46"
     },
     {
       "date": "2026-09-15",
@@ -706,6 +666,16 @@
       "link": "https://calendar.mit.edu/event/tba-9782",
       "time": "TBD",
       "location": "Building E52"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Fall Volunteer Fair",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come meet representatives from over 70 local nonprofits, schools, and government agencies looking to connect with Northeastern students, staff, and faculty. Learn about volunteer opportunities in healthcare, tutoring, conservation, and more.",
+      "link": "https://calendar.northeastern.edu/event/fall-volunteer-fair-2090",
+      "time": "TBD",
+      "location": "Centennial Common"
     },
     {
       "date": "2026-09-15",
@@ -837,6 +807,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-09-25",
+      "title": "Amazon Internships + Outreach",
+      "source": "Northeastern",
+      "tag": "manufacturing",
+      "desc": "Join us for a special event on Amazon Internships + Outreach, hosted by the team behind the edge technologies powering the Echo family of devices, Fire TVs, and Fire Tablets. […] The post Amazon Internships + Outreach appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/amazon-internships-outreach",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-09-29",
       "title": "Men's Soccer vs. Harvard",
       "source": "Northeastern",
@@ -851,8 +831,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -1027,15 +1007,6 @@
       "link": "https://calendar.northeastern.edu/event/swim-dive-vs-conneticut",
       "time": "TBD",
       "location": "Barletta Nataorium"
-    },
-    {
-      "date": "TBD",
-      "title": "Topology- and Geometry-Exact Discretizations for Fluid–Structure Interaction (Jonathan Panuelos, U. of Toronto)",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract: &nbsp;A parachute is a hundred microns of fabric travelling through a much larger volume of fluid. A heart valve consists of two leaflets that must meet and form a watertight seal. In problems like these, the geometry of the solid alone decides which paths a fluid can take, and resolving t",
-      "link": "https://www.csail.mit.edu/event/topology-and-geometry-exact-discretizations-fluid-structure-interaction-jonathan-panuelos-u",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -1365,8 +1336,8 @@
       "date": "TBD",
       "title": "1 event 18",
       "source": "MassRobotics",
-      "tag": "ai",
-      "desc": "This session will focus on the intersection of safety and physical AI. Patrick Sobalvarro will talk about the challenges of integrating safety constraints into physical AI systems. Patrick is a […]",
+      "tag": "robotics",
+      "desc": "Drawing on firsthand experiences from Veo Robotics, this talk examines the practical realities of bringing novel functional safety technology into manufacturing environments. We'll discuss robotics safety standards, functional safety compliance, […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-08-18/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
@@ -1374,8 +1345,8 @@
       "date": "TBD",
       "title": "1 event, 18",
       "source": "MassRobotics",
-      "tag": "ai",
-      "desc": "This session will focus on the intersection of safety and physical AI. Patrick Sobalvarro will talk about the challenges of integrating safety constraints into physical AI systems. Patrick is a […]",
+      "tag": "robotics",
+      "desc": "Drawing on firsthand experiences from Veo Robotics, this talk examines the practical realities of bringing novel functional safety technology into manufacturing environments. We'll discuss robotics safety standards, functional safety compliance, […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-08-18/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
@@ -1383,8 +1354,8 @@
       "date": "TBD",
       "title": "AI Working Group",
       "source": "MassRobotics",
-      "tag": "ai",
-      "desc": "This session will focus on the intersection of safety and physical AI. Patrick Sobalvarro will talk about the challenges of integrating safety constraints into physical AI systems. Patrick is a […]",
+      "tag": "robotics",
+      "desc": "Drawing on firsthand experiences from Veo Robotics, this talk examines the practical realities of bringing novel functional safety technology into manufacturing environments. We'll discuss robotics safety standards, functional safety compliance, […]",
       "link": "https://www.massrobotics.org/event/ai-working-group/",
       "time": "TBD"
     },
@@ -1467,6 +1438,15 @@
       "tag": "manufacturing",
       "desc": "Greentown Labs prides itself on being a convener of the climatetech ecosystem, both within and across the cities we call home.",
       "link": "#primary",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Activate Info Session: Support for Science Entrepreneurs",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join Greentown Labs and Activate to find out if their fellowship is the right next step for turning your research into real-world impact.",
+      "link": "https://greentownlabs.com/event/activate-info-session-support-for-science-entrepreneurs/",
       "time": "TBD"
     },
     {
@@ -4450,15 +4430,6 @@
     },
     {
       "date": "TBD",
-      "title": "AI+X Meetup @ MIT Museum",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Boston Bio Startup Office Hours",
       "source": "Luma",
       "tag": "startup",
@@ -4513,7 +4484,7 @@
     },
     {
       "date": "TBD",
-      "title": "Agentic AI in the Wild - Callstack & Qodo Dev Community & Codex Community in Boston",
+      "title": "Agentic AI in the Wild - Callstack & Qodo Dev Community & ReactVision & Codex Community in Boston",
       "source": "Luma",
       "tag": "ai",
       "desc": "",
@@ -4615,6 +4586,15 @@
       "title": "Life Sciences AI on Tap - Boston Connect",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tone & Totes",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
