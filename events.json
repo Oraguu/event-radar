@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-14T10:51:45.695995",
-  "event_count": 501,
+  "scraped_at": "2026-08-15T10:15:31.593192",
+  "event_count": 502,
   "events": [
-    {
-      "date": "2026-08-14",
-      "title": "Emerging NeuroTech: Ultrasound in Neuroscience",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "We are excited to invite you to the Emerging NeuroTech Seminar: Ultrasound in Neuroscience, featuring two cutting-edge talks on the latest applications of ultrasound technology in brain imaging and human-machine interaction. 📅 Date: Friday, August 14, 2026 🕐 Time: 12:00 – 1:00 PM 📍 Location: Buildin",
-      "link": "https://calendar.mit.edu/event/emerging-neurotech-ultrasound-in-neuroscience",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS)",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Picower Special Seminar with Hee-Sup Shin, MD, PhD, Institute for Basic Science (IBS), South Korea Date: Friday, August 14, 2026 Time: 3:00pm Location: Picower Seminar Room (46-3310, Third Fl of MIT Building 46) Faculty Host: Li-Huei Tsai This seminar is offered in-person only. Talk Title: Neurobiol",
-      "link": "https://calendar.mit.edu/event/special-seminar-with-hee-sup-shin-md-phd-institute-for-basic-science-ibs",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-08-14",
-      "title": "Outdoor Movie: The Straight Story",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Join us for a summer screening of The Straight Story (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-the-straight-story",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
     {
       "date": "2026-08-18",
       "title": "ChE PhD Dissertation Defense: Erin Heeschen",
@@ -429,6 +399,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-09-08",
+      "title": "W97 Open House Party",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Please join us to celebrate the beginning of a new academic year and learn more about 21T courses with an open house party at MIT Theater’s Building W97. Enjoy free food, fun, and fabulousness with fellow MIT students & MIT Theater Arts faculty and staff! Dancing, drama, and dreamy spectacles are re",
+      "link": "https://calendar.mit.edu/event/w97-open-house-party-6687",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
       "date": "2026-09-09",
       "title": "Faculty Job Search Series: Crafting the Academic Cover Letter",
       "source": "MIT",
@@ -547,6 +527,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-woodcutters-7203",
       "time": "TBD",
       "location": "Building W97"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Women's Soccer vs. UMass",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-umass",
+      "time": "TBD",
+      "location": "Parsons Field"
     },
     {
       "date": "2026-09-14",
@@ -703,10 +693,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
       "time": "TBD",
-      "location": ""
+      "location": "Renaissance Park"
     },
     {
       "date": "2026-09-18",
@@ -812,8 +802,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -874,6 +864,26 @@
       "tag": "talk",
       "desc": "Come cheer on the women's soccer team at Parson's Field!",
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-hofstra-6837",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "CSSH Co-op Poster Expo 2026",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "You’re invited to join us for the annual CSSH Co-op Poster Expo! Date: Wednesday, October 7, 2026Time: 3:00 – 4:30 PMLocation: Raytheon Amphitheater, Egan Research Center, 120 Forsyth St, Boston, MAAt the Expo, you’ll have the chance to: Explore posters from CSSH co-op students showcasing their uniq",
+      "link": "https://calendar.northeastern.edu/event/cssh-co-op-poster-expo-2026",
+      "time": "TBD",
+      "location": "Raytheon Amphitheater"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Women's Soccer vs. Elon",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the women's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-elon-7373",
       "time": "TBD",
       "location": "Parsons Field"
     },
@@ -991,24 +1001,6 @@
     },
     {
       "date": "TBD",
-      "title": "Instance-optimal estimation of L2-norm",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract: The $L_2$-norm, or collision norm, is a core entity in the analysis of distributions and probabilistic algorithms. Batu and Canonne (FOCS 2017) presented an extensive analysis of algorithmic aspects of the $L_2$-norm and its connection to uniformity testing. However, when it comes to estim",
-      "link": "https://www.csail.mit.edu/event/instance-optimal-estimation-l2-norm",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Recent Results in Graph Property Testing via the Container Method",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract: Recent work has shown that the graph container method is a useful tool for analyzing property testing algorithms for a number of classic properties including k-colorability, rho-clique and satisfiability. In this talk we will demonstrate that there is a deeper connection between the contai",
-      "link": "https://www.csail.mit.edu/event/recent-results-graph-property-testing-container-method",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Diagnosing and Managing Performance in Data Systems",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1023,6 +1015,15 @@
       "tag": "robotics",
       "desc": "STAR Conference Room",
       "link": "https://www.csail.mit.edu/event/thesis-defense-annan-zhang-sensors-and-algorithms-physically-intelligent-soft-robots",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Diagnosing and Repairing Unexpected Failures of Machine Learning in Healthcare",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Title: Diagnosing and Repairing Unexpected Failures of Machine Learning in HealthcareSpeaker: Haoran ZhangDate: Tuesday, 08/25/2026 at 1pmAbstract:Machine learning models are increasingly embedded in clinical workflows. However, the real-world utility of such models has been limited, with many high ",
+      "link": "https://www.csail.mit.edu/event/diagnosing-and-repairing-unexpected-failures-machine-learning-healthcare",
       "time": "TBD"
     },
     {
@@ -1482,6 +1483,15 @@
       "tag": "manufacturing",
       "desc": "A summit connecting the leaders scaling critical minerals, firm power and hard tech!",
       "link": "https://greentownlabs.com/event/techinvest-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Houston Energy and Climate Startup Week 2026",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join us this fall in Houston, where energy meets climate innovation!",
+      "link": "https://greentownlabs.com/event/houston-energy-and-climate-startup-week-2026/",
       "time": "TBD"
     },
     {
@@ -4429,15 +4439,6 @@
     },
     {
       "date": "TBD",
-      "title": "RevGenius IRL: Boston Happy Hour",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "ALO BOSTON SEAPORT: ALO RUNNERS CLUB",
       "source": "Luma",
       "tag": "talk",
@@ -4583,6 +4584,15 @@
     {
       "date": "TBD",
       "title": "Tone & Totes",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "🍋The Last Squeeze Of Summer🍋",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
