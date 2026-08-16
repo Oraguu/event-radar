@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15T10:15:31.593192",
-  "event_count": 502,
+  "scraped_at": "2026-08-16T10:15:26.981630",
+  "event_count": 504,
   "events": [
     {
       "date": "2026-08-18",
@@ -380,10 +380,10 @@
     },
     {
       "date": "2026-09-05",
-      "title": "Women's Cross Country vs. Alumni Meet",
+      "title": "Women's Cross Country vs. Running of the Cows (Pre-Nationals Meet)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: Location: Dover, MA / Powisset Farm",
+      "desc": "Time: Location: Northfield, MN / Bill Huyck Championship Course",
       "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
       "time": "TBD",
       "location": ""
@@ -1000,6 +1000,16 @@
       "location": "Barletta Nataorium"
     },
     {
+      "date": "2026-11-13",
+      "title": "Eve-Lyn Hinckley - CU Boulder",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/eve-lyn-hinckley-cu-boulder",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
       "date": "TBD",
       "title": "Diagnosing and Managing Performance in Data Systems",
       "source": "MIT CSAIL",
@@ -1024,6 +1034,15 @@
       "tag": "ai",
       "desc": "Title: Diagnosing and Repairing Unexpected Failures of Machine Learning in HealthcareSpeaker: Haoran ZhangDate: Tuesday, 08/25/2026 at 1pmAbstract:Machine learning models are increasingly embedded in clinical workflows. However, the real-world utility of such models has been limited, with many high ",
       "link": "https://www.csail.mit.edu/event/diagnosing-and-repairing-unexpected-failures-machine-learning-healthcare",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "[Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation",
+      "source": "MIT CSAIL",
+      "tag": "robotics",
+      "desc": "Star",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-robots-think-they-act-planning-and-perception-generalizable-manipulation",
       "time": "TBD"
     },
     {
@@ -4439,33 +4458,6 @@
     },
     {
       "date": "TBD",
-      "title": "ALO BOSTON SEAPORT: ALO RUNNERS CLUB",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Mindful Makers Hack - `touch ./GRASS` #2",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "POSTURES OF RETURN at Boston CyberArts Gallery",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Binge Thinking x Powerpoint Night",
       "source": "Luma",
       "tag": "talk",
@@ -4593,6 +4585,33 @@
     {
       "date": "TBD",
       "title": "🍋The Last Squeeze Of Summer🍋",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Boston Data Party Trivia Night",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The AI Runtime - Boston",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Sweat Equity",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
