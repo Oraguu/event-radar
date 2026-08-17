@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T10:15:26.981630",
+  "scraped_at": "2026-08-17T10:24:32.674411",
   "event_count": 504,
   "events": [
     {
@@ -380,10 +380,10 @@
     },
     {
       "date": "2026-09-05",
-      "title": "Women's Cross Country vs. Running of the Cows (Pre-Nationals Meet)",
+      "title": "Women's Cross Country vs. Alumni Meet",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: Location: Northfield, MN / Bill Huyck Championship Course",
+      "desc": "Time: Location: Dover, MA / Powisset Farm",
       "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
       "time": "TBD",
       "location": ""
@@ -693,10 +693,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-18",
@@ -802,8 +802,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -4458,15 +4458,6 @@
     },
     {
       "date": "TBD",
-      "title": "Binge Thinking x Powerpoint Night",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Agentic AI in the Wild - Callstack & Qodo Dev Community & ReactVision & Codex Community in Boston",
       "source": "Luma",
       "tag": "ai",
@@ -4614,6 +4605,15 @@
       "title": "Sweat Equity",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RoboBoston: 9th Annual Robot Block Party !",
+      "source": "Luma",
+      "tag": "robotics",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
