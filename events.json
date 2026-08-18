@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T10:24:32.674411",
-  "event_count": 504,
+  "scraped_at": "2026-08-18T10:20:03.664314",
+  "event_count": 514,
   "events": [
     {
       "date": "2026-08-18",
@@ -60,6 +60,16 @@
       "link": "https://calendar.mit.edu/event/non-dilutive-funding-for-deep-tech-sbir-sttr-and-ttp-explained",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Dreamscape: Ran Blake Solo Concert",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dreamscape: Ran Blake Solo Concert Wednesday, August 19, 5:30pm Thomas Tull Concert Hall Linde Music Building at MIT 201 Amherst Street, Cambridge MA, 02140 Ran would like to dedicate this concert to all who inspired him, all that shared music with him and all that continue to expand his vision. He ",
+      "link": "https://calendar.mit.edu/event/dreamscape-ran-blake-solo-concert",
+      "time": "TBD",
+      "location": "Building W18"
     },
     {
       "date": "2026-08-19",
@@ -369,6 +379,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-09-04",
+      "title": "Outdoor Movie: Encanto",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all! Join us for a summer screening of Encanto (PG). This film is presented in collaboration with MIT Graduate Residential Life, and is first come, first served regardless of registration. Seating is limited - we recommend bringing a blanket or a chair. All minors must be accompanie",
+      "link": "https://calendar.mit.edu/event/outdoor-movie-encanto",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
       "date": "2026-09-05",
       "title": "Men's Cross Country vs. Alumni Meet",
       "source": "MIT",
@@ -397,6 +417,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-stony-brook-375",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Online Seminar On Undergraduate Mathematics Education",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: James Tanton (Outsmart Education) Title: Fractions Are Hard! A Mathematical Overview of a Troublesome Topic Abstract: The school curriculum is shaped by a fundamental tension: while much of mathematics is motivated by real-world intuition, the mathematics that emerges ultimately outgrows an",
+      "link": "https://calendar.mit.edu/event/online-seminar-on-undergraduate-mathematics-education-3826",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-08",
@@ -436,7 +466,7 @@
       "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
       "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-no-prior-dance-experience-needed",
       "time": "TBD",
-      "location": "Building 50: Walker Memorial"
+      "location": "Building W20: Stratton Student Center"
     },
     {
       "date": "2026-09-10",
@@ -467,6 +497,36 @@
       "link": "https://events.seas.harvard.edu/event/copy-of-give-blood-give-hope-mass-gh-bloodmobile-at-harvard-seas-7101",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Guy Blanc (MIT)",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar9",
+      "time": "TBD",
+      "location": "Building E18"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "ChemE Dept. Seminar: Advances, Challenges and Opportunities in Process Electrification",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "Speaker: Michael Baldea, Claire and Peter Buenz Endowed Chair and Kenneth A. Kobe Professor in the McKetta Department of Chemical Engineering at The University of Texas at Austin Electrification aims to change the way energy is supplied and used in chemical and manufacturing processes. Electrifying ",
+      "link": "https://calendar.mit.edu/event/advances-challenges-and-opportunities-in-process-electrification",
+      "time": "TBD",
+      "location": "Building 66"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Outdoor Movie: Roman Holiday",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all! Join us for a screening of the 1953 film Roman Holiday (G). This film is presented in collaboration with MIT Graduate Residential Life, and is first come, first served regardless of registration. Seating is limited - we recommend bringing a blanket or a chair. All minors must b",
+      "link": "https://calendar.mit.edu/event/outdoor-movie-roman-holiday",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-09-11",
@@ -547,6 +607,16 @@
       "link": "https://calendar.mit.edu/event/the-rise-of-esg-20-economy-security-geopolitics",
       "time": "TBD",
       "location": "Building E40"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "TBD",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Phi Adajar MIT Department of Economics",
+      "link": "https://calendar.mit.edu/event/tbd-1627",
+      "time": "TBD",
+      "location": "Building E51"
     },
     {
       "date": "2026-09-14",
@@ -640,6 +710,16 @@
     },
     {
       "date": "2026-09-16",
+      "title": "Community Service Fund Book Sale",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Bookworms, this is your moment! Stop by the MIT Community Service Fund Used Book Sale to discover a large selection of unbelievably priced textbooks, nonfiction, novels, and more. Rain date: September 17.",
+      "link": "https://calendar.mit.edu/event/community-service-fund-book-sale-4966",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-16",
       "title": "MIT-Harvard Seminar: Hemamala Karunadasa (Stanford University)",
       "source": "MIT",
       "tag": "talk",
@@ -690,13 +770,33 @@
     },
     {
       "date": "2026-09-17",
+      "title": "Open House for Latinx, Latin American, and Caribbean Program",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come learn about the LLACS minor and meet our director. Food and drink provided.",
+      "link": "https://calendar.northeastern.edu/event/open-house-for-latinx-latin-american-and-caribbean-program",
+      "time": "TBD",
+      "location": "Latinx Student Cultural Center"
+    },
+    {
+      "date": "2026-09-17",
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
       "time": "TBD",
-      "location": ""
+      "location": "Renaissance Park"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Sam Gunn (MIT)",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar10",
+      "time": "TBD",
+      "location": "Building E18"
     },
     {
       "date": "2026-09-18",
@@ -802,8 +902,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1008,15 +1108,6 @@
       "link": "https://events.seas.harvard.edu/event/eve-lyn-hinckley-cu-boulder",
       "time": "TBD",
       "location": "Pierce Hall"
-    },
-    {
-      "date": "TBD",
-      "title": "Diagnosing and Managing Performance in Data Systems",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Modern data systems are judged by their ability to meet the high-level performance objectives of the diverse applications they support. However, as growing system complexity makes performance sensitive to interactions among components, configurations, states, and workloads, relating these high-level",
-      "link": "https://www.csail.mit.edu/event/diagnosing-and-managing-performance-data-systems",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -1461,11 +1552,20 @@
     },
     {
       "date": "TBD",
-      "title": "Activate Info Session: Support for Science Entrepreneurs",
+      "title": "Climatetech Summit 2026",
       "source": "Greentown Labs",
       "tag": "startup",
-      "desc": "Join Greentown Labs and Activate to find out if their fellowship is the right next step for turning your research into real-world impact.",
-      "link": "https://greentownlabs.com/event/activate-info-session-support-for-science-entrepreneurs/",
+      "desc": "Step into our incubators for a day of hands-on exploration of climatetech solutions from 200+ startups, insightful keynotes and discussions with industry leaders, and unparalleled networking opportunities!",
+      "link": "https://greentownlabs.com/event/climatetech-summit-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climatetech Startup Showcase at Climate Week NYC",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Meet the founders building the future of energy, industry, and climate tech—pitches and networking at New York Climate Week!",
+      "link": "https://greentownlabs.com/event/climatetech-startup-showcase-at-climate-week-nyc/",
       "time": "TBD"
     },
     {
@@ -1479,20 +1579,20 @@
     },
     {
       "date": "TBD",
-      "title": "Climatetech Summit 2026",
-      "source": "Greentown Labs",
-      "tag": "startup",
-      "desc": "Step into our incubators for a day of hands-on exploration of climatetech solutions from 200+ startups, insightful keynotes and discussions with industry leaders, and unparalleled networking opportunities!",
-      "link": "https://greentownlabs.com/event/climatetech-summit-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Energy Mavericks Book Launch",
       "source": "Greentown Labs",
       "tag": "manufacturing",
       "desc": "Celebrate the launch of Energy Mavericks, a candid look at the leaders and ideas reshaping the energy industry, with a night of conversation at Greentown Labs!",
       "link": "https://greentownlabs.com/event/energy-mavericks-book-launch/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Activate Info Session: Support for Science Entrepreneurs",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Join Greentown Labs and Activate to find out if their fellowship is the right next step for turning your research into real-world impact.",
+      "link": "https://greentownlabs.com/event/activate-info-session-support-for-science-entrepreneurs/",
       "time": "TBD"
     },
     {
