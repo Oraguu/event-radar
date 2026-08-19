@@ -1,46 +1,7 @@
 {
-  "scraped_at": "2026-08-18T10:20:03.664314",
-  "event_count": 514,
+  "scraped_at": "2026-08-19T10:20:46.874572",
+  "event_count": 517,
   "events": [
-    {
-      "date": "2026-08-18",
-      "title": "ChE PhD Dissertation Defense: Erin Heeschen",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Name: Erin Heeschen Title: Temporal and Spatial Control of Structure and Rheology in Binary Colloidal Gels Date: 08/18/2026 Time: 10:00:00 AM Committee Members: Prof. Magda Barecka (Advisor) Prof. Marion Börnhorst […] The post ChE PhD Dissertation Defense: Erin Heeschen appeared first on Northeaster",
-      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-erin-heeschen",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-8051",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduatefellowship-writingclub-4754",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-18",
-      "title": "AI Working Group",
-      "source": "MassRobotics",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/ai-working-group/",
-      "time": "TBD"
-    },
     {
       "date": "2026-08-19",
       "title": "Midday Music: Angel Subero & Latin Logic",
@@ -129,6 +90,16 @@
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-providence",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "HSA August Picnic",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Just back from Greece? Just moved to Boston? Or simply refusing to accept that summer is already winding down? Whatever the reason, come join us for the HSA August Picnic! We’ll have Greek snacks, good company, and plenty of time to shoot the breeze, soak up the last of the summer, and meet some new",
+      "link": "https://calendar.mit.edu/event/hsa-august-picnic",
+      "time": "TBD",
+      "location": "Bexley Garden"
     },
     {
       "date": "2026-08-25",
@@ -450,6 +421,16 @@
     },
     {
       "date": "2026-09-09",
+      "title": "Midday Music & Free Bike Tune Ups!",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Enjoy live hip-hop and R&B music curated by The Cambridge Hip-Hop Collective and free safety checks with a bicycle technician from Casa Bikes. Safety checks will take place on a first come, first served basis, regardless of advance registration. This is a popular event - we rec",
+      "link": "https://calendar.mit.edu/event/midday-music-free-bike-tune-ups",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-09",
       "title": "SCSB Colloquium with Dr. Yuko Munakata: Changing Perspectives on Self Control",
       "source": "MIT",
       "tag": "talk",
@@ -690,6 +671,16 @@
     },
     {
       "date": "2026-09-15",
+      "title": "Voterfest",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all! Join us for a celebration of democracy on National Voter Registration Day! Enjoy music, treats, and family-friendly activities, including face painting! Student volunteers will be on-site to help you register to vote or update your voter registration. This event is free and ope",
+      "link": "https://calendar.mit.edu/event/voterfest",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-15",
       "title": "Fall Volunteer Fair",
       "source": "Northeastern",
       "tag": "talk",
@@ -767,6 +758,16 @@
       "link": "https://calendar.mit.edu/event/novartis-mit-lectures-seth-herzon-yale-novartis-tbd",
       "time": "TBD",
       "location": "Building 6"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Music Forum: Christian Frederickson",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Thursday, September 17th at 5pm Lewis Music Library Please join us for a light reception in the Lewis Music Library after the event. About the Speaker Christian Frederickson is a violist, composer, and sound designer based who specializes in live music performance for theater and dance. Originally f",
+      "link": "https://calendar.mit.edu/event/music-forum-christian-frederickson",
+      "time": "TBD",
+      "location": "Lewis Music Library"
     },
     {
       "date": "2026-09-17",
@@ -859,6 +860,16 @@
     },
     {
       "date": "2026-09-23",
+      "title": "Writing and Researching Your Path to Success Webinar Series",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Join Global Learner Support and the NU Library to learn how to maximize your time writing and researching for your next project. New to academic projects? Daunted by databases or citations? We’ll work through research projects from start to finish in this three-part workshop series. We’ll discuss th",
+      "link": "https://calendar.northeastern.edu/event/writing-and-researching-your-path-to-success-webinar-series-8446",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-23",
       "title": "The Gordon Institute: Virtual Information Session",
       "source": "Northeastern",
       "tag": "talk",
@@ -902,8 +913,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -1004,6 +1015,16 @@
       "tag": "talk",
       "desc": "Two hundred years ago, Britain and Russia competed for territory and influence over Central Asia in the “Great Game.” Today the game is back, with China, Russia, the United States, Europe, and the Gulf states competing for access to the region's trade corridors, energy reserves, uranium, and critica",
       "link": "https://calendar.northeastern.edu/event/the-rise-of-uzbekistan-and-central-asia-the-great-game-20",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Fusion Book Club: Movie Night",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Please join the Fusion Book Club for a film screening, discussion, and pizza. When: Monday, October 19 at 4:30pm (ET) Where: Snell Library Research and Teaching Hub (SL-215A) What we are watching: To be determined […] The post Fusion Book Club: Movie Night appeared first on Northeastern University C",
+      "link": "https://calendar.northeastern.edu/event/fusion-book-club-movie-night",
       "time": "TBD",
       "location": ""
     },
@@ -1564,7 +1585,7 @@
       "title": "Climatetech Startup Showcase at Climate Week NYC",
       "source": "Greentown Labs",
       "tag": "startup",
-      "desc": "Meet the founders building the future of energy, industry, and climate tech—pitches and networking at New York Climate Week!",
+      "desc": "Meet the founders building the future of energy, industry, and climatetech at this NY Climate Week showcase!",
       "link": "https://greentownlabs.com/event/climatetech-startup-showcase-at-climate-week-nyc/",
       "time": "TBD"
     },
@@ -1572,8 +1593,8 @@
       "date": "TBD",
       "title": "Innovating with Amazon: Six Months of Building and What’s Next",
       "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Join Greentown Boston and Amazon for the final showcase of Go Build 2026, celebrating six months of innovation to decarbonize the built environment!",
+      "tag": "startup",
+      "desc": "Meet the carbon-utilization startups and hear about their progress working with Amazon and the Global CO2 Initiative!",
       "link": "https://greentownlabs.com/event/innovating-with-amazon-six-months-of-building-and-whats-next/",
       "time": "TBD"
     },
@@ -1602,6 +1623,15 @@
       "tag": "manufacturing",
       "desc": "A summit connecting the leaders scaling critical minerals, firm power and hard tech!",
       "link": "https://greentownlabs.com/event/techinvest-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Infrastructure: Integrating Power, Resilience, and Carbon Management",
+      "source": "Greentown Labs",
+      "tag": "ai",
+      "desc": "Cross-sector leaders explore how power, resilience, and carbon management are shaping the future of AI infrastructure.",
+      "link": "https://greentownlabs.com/event/ai-infrastructure-integrating-power-resilience-and-carbon-management/",
       "time": "TBD"
     },
     {
@@ -4558,33 +4588,6 @@
     },
     {
       "date": "TBD",
-      "title": "Agentic AI in the Wild - Callstack & Qodo Dev Community & ReactVision & Codex Community in Boston",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Bioanalysis & Brews: Mighty Squirrel",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Red Sox Suite Experience w/ Langchain & Tavily",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Pickleball Like a Girl",
       "source": "Luma",
       "tag": "talk",
@@ -4711,9 +4714,36 @@
     },
     {
       "date": "TBD",
+      "title": "International Generalist Day — Boston 🦞",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "RoboBoston: 9th Annual Robot Block Party !",
       "source": "Luma",
       "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Maum Market Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Climatetech Summit 2026",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
