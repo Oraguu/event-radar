@@ -1,56 +1,7 @@
 {
-  "scraped_at": "2026-08-19T10:20:46.874572",
-  "event_count": 517,
+  "scraped_at": "2026-08-20T10:21:50.963578",
+  "event_count": 516,
   "events": [
-    {
-      "date": "2026-08-19",
-      "title": "Midday Music: Angel Subero & Latin Logic",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Venezuelan trombone virtuoso and bandleader Angel Subero has shared the stage with Aretha Franklin, Slide Hampton, Jim McNeely, Claudio Roditi, Danilo Pérez and Chris Botti. With Latin Logic, he mixes old-school salsa, Latin jazz and Afro-Caribbean rhythms, drawing on the diver",
-      "link": "https://calendar.mit.edu/event/midday-music-angel-subero-latin-logic",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Non-dilutive Funding for Deep Tech: SBIR, STTR and TTP Explained",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Register: https://mit.zoom.us/meeting/register/m429pRAlTjuytPe9pavasA Whether you're a faculty member, postdoc, grad student, or simply curious about innovation grant programs, this session is designed for you. Join us for a one-hour session featuring two NSF Program Directors who will walk you thro",
-      "link": "https://calendar.mit.edu/event/non-dilutive-funding-for-deep-tech-sbir-sttr-and-ttp-explained",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Dreamscape: Ran Blake Solo Concert",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Dreamscape: Ran Blake Solo Concert Wednesday, August 19, 5:30pm Thomas Tull Concert Hall Linde Music Building at MIT 201 Amherst Street, Cambridge MA, 02140 Ran would like to dedicate this concert to all who inspired him, all that shared music with him and all that continue to expand his vision. He ",
-      "link": "https://calendar.mit.edu/event/dreamscape-ran-blake-solo-concert",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Allstonway Event Series",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Allstonway is a dynamic public space at the heart of the Enterprise Research Campus. It brings together innovators, creators, academics, local residents, entrepreneurs, and the community to form a first-of-its-kind innovation experience. Rooted in the creative culture of Allston, Allstonway offers e",
-      "link": "https://events.seas.harvard.edu/event/allstonway-event-series",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-19",
-      "title": "Robots in Public: Preparing through an Urban Planner’s Lens- Australia",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/robots-in-public-preparing-through-an-urban-planners-lens-australia/",
-      "time": "TBD"
-    },
     {
       "date": "2026-08-20",
       "title": "Carpentries@MIT Introduction to Unix Shell and Git/Github Workshop",
@@ -231,10 +182,10 @@
     },
     {
       "date": "2026-09-01",
-      "title": "Women's Soccer vs. Gordon College",
+      "title": "Women's Soccer vs. NEWMAC Semifinals",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 7:00 PM Location: Cambridge, MA",
+      "desc": "Time: TBA Location: TBA",
       "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
       "time": "TBD",
       "location": ""
@@ -644,7 +595,7 @@
       "title": "PDE/Analysis Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Simion Filip (University of Chicago) Title: Dynamical systems",
+      "desc": "Speaker: Simion Filip (University of Chicago) Title: Regularity of invariant measures for random dynamical systems Abstract: Suppose that a probability measure on a compact manifold 𝑀 is invariant under a collection of diffeomorphisms of 𝑀. I will explain some criteria on the measure and diffeomorph",
       "link": "https://calendar.mit.edu/event/pde-analysis-seminar",
       "time": "TBD",
       "location": "Building 2"
@@ -741,6 +692,16 @@
     },
     {
       "date": "2026-09-17",
+      "title": "Symplectic Seminar  ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Adi Dickstein (Tel Aviv University​​​​​​​)",
+      "link": "https://calendar.mit.edu/event/copy-of-symplectic-seminar-3834",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-17",
       "title": "Admissions Info Session: System Design and Management",
       "source": "MIT",
       "tag": "talk",
@@ -784,10 +745,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-18",
@@ -808,6 +769,16 @@
       "link": "https://events.seas.harvard.edu/event/joshua-s-benmergui-harvard-university",
       "time": "TBD",
       "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Design and Application of Soft Robotics in Haptics, Gripping, and Medicine",
+      "source": "Harvard SEAS",
+      "tag": "robotics",
+      "desc": "Amy Kyungwon Han (Associate Professor, Seoul National University) Soft robotics enables safe and adaptive interaction with humans, delicate objects, and dynamic environments through compliant actuators, sensors, and mechanisms. This talk presents the design and application of soft robotic technologi",
+      "link": "https://events.seas.harvard.edu/event/design-and-application-of-soft-robotics-in-haptics-gripping-and-medicine",
+      "time": "TBD",
+      "location": "SEC"
     },
     {
       "date": "2026-09-19",
@@ -1111,6 +1082,16 @@
       "location": "Pierce Hall"
     },
     {
+      "date": "2026-11-06",
+      "title": "Human-Machine Interfaces for Studying and Assisting Human Movement",
+      "source": "Harvard SEAS",
+      "tag": "robotics",
+      "desc": "Daniel Ferris (Professor of Engineering Innovation, University of Florida) Advances in robotic technology, wearable sensors, and signal processing have enabled a new generation of human-machine interfaces for studying and assisting human movement. Research in the UF Human Neuromechanics Laboratory f",
+      "link": "https://events.seas.harvard.edu/event/human-machine-interfaces-for-studying-and-assisting-human-movement",
+      "time": "TBD",
+      "location": "SEC"
+    },
+    {
       "date": "2026-11-07",
       "title": "Swim & Dive vs. Conneticut ",
       "source": "Northeastern",
@@ -1155,6 +1136,15 @@
       "tag": "robotics",
       "desc": "Star",
       "link": "https://www.csail.mit.edu/event/thesis-defense-robots-think-they-act-planning-and-perception-generalizable-manipulation",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Massive Parallelization of Irregular Computations: Parallel Algorithm Design and Hardware Acceleration",
+      "source": "MIT CSAIL",
+      "tag": "startup",
+      "desc": "AbstractDeveloping efficient parallel algorithms is challenging, particularly for irregular computations where data dependencies inherently constrain available concurrency, and much of the parallelism remains deeply hidden. At the implementation level, complex execution patterns, nonuniform memory a",
+      "link": "https://www.csail.mit.edu/event/massive-parallelization-irregular-computations-parallel-algorithm-design-and-hardware",
       "time": "TBD"
     },
     {
@@ -1627,7 +1617,7 @@
     },
     {
       "date": "TBD",
-      "title": "AI Infrastructure: Integrating Power, Resilience, and Carbon Management",
+      "title": "Critical AI Infrastructure Meets Power, Resilience and Carbon Management",
       "source": "Greentown Labs",
       "tag": "ai",
       "desc": "Cross-sector leaders explore how power, resilience, and carbon management are shaping the future of AI infrastructure.",
@@ -4588,6 +4578,15 @@
     },
     {
       "date": "TBD",
+      "title": "Quantum Alliance Fellowship showcase",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Pickleball Like a Girl",
       "source": "Luma",
       "tag": "talk",
@@ -4714,6 +4713,15 @@
     },
     {
       "date": "TBD",
+      "title": "Pokey/Schleppie Awards 2026",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "International Generalist Day — Boston 🦞",
       "source": "Luma",
       "tag": "talk",
@@ -4726,24 +4734,6 @@
       "title": "RoboBoston: 9th Annual Robot Block Party !",
       "source": "Luma",
       "tag": "robotics",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Maum Market Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Climatetech Summit 2026",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
