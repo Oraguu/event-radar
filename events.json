@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-08-20T10:21:50.963578",
-  "event_count": 516,
+  "scraped_at": "2026-08-21T10:21:51.712290",
+  "event_count": 526,
   "events": [
-    {
-      "date": "2026-08-20",
-      "title": "Carpentries@MIT Introduction to Unix Shell and Git/Github Workshop",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us for a beginner-friendly Software Carpentry ONLINE workshop teaching Shell and Git/Github! You can also sign up for the Programming with Python workshop as part of this series, scheduled on August 21 (Friday) and 24 (Monday)! This Unix Shell and Git/Github workshop will leave you feeling prep",
-      "link": "https://calendar.mit.edu/event/carpentriesmit-introduction-to-unix-shell-and-gitgithub-workshop",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-08-21",
       "title": "Carpentries@MIT Introduction to Programming with Python",
@@ -71,6 +61,15 @@
       "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-7958",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-08-26",
+      "title": "MassRobotics x AMD | Physical AI Lunch + Learn",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/massrobotics-x-amd-physical-ai-lunch-learn/",
+      "time": "TBD"
     },
     {
       "date": "2026-08-27",
@@ -182,10 +181,10 @@
     },
     {
       "date": "2026-09-01",
-      "title": "Women's Soccer vs. NEWMAC Semifinals",
+      "title": "Women's Soccer vs. Gordon College",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: TBA Location: TBA",
+      "desc": "Time: 7:00 PM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
       "time": "TBD",
       "location": ""
@@ -315,7 +314,7 @@
       "title": "Men's Cross Country vs. Alumni Meet",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: Location: Dover, MA / Powisset Farm",
+      "desc": "Time: 4:30 PM Location: Dover, MA / Powisset Farm",
       "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
       "time": "TBD",
       "location": ""
@@ -325,7 +324,7 @@
       "title": "Women's Cross Country vs. Alumni Meet",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: Location: Dover, MA / Powisset Farm",
+      "desc": "Time: 5:00 PM Location: Dover, MA / Powisset Farm",
       "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
       "time": "TBD",
       "location": ""
@@ -399,6 +398,16 @@
       "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-no-prior-dance-experience-needed",
       "time": "TBD",
       "location": "Building W20: Stratton Student Center"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "The Ahmad Tehrani Symposium—Sara Zewde + Najha Zigbi-Johnson",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Ahmad Tehrani Symposium Sara Zewde + Najha Zigbi-Johnson Part of the MIT Fall 2026 Architecture Lecture Series Sara Zewde is founding principal of Studio Zewde, a design firm practicing landscape architecture, urbanism, and public art. Named to TIME Magazine’s TIME100 Next, Architectural Digest’",
+      "link": "https://calendar.mit.edu/event/the-ahmad-tehrani-symposiumsara-zewde-najha-zigbi-johnson",
+      "time": "TBD",
+      "location": "Building W41"
     },
     {
       "date": "2026-09-10",
@@ -695,7 +704,7 @@
       "title": "Symplectic Seminar  ",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Adi Dickstein (Tel Aviv University​​​​​​​)",
+      "desc": "Speaker: Adi Dickstein (Tel Aviv University)",
       "link": "https://calendar.mit.edu/event/copy-of-symplectic-seminar-3834",
       "time": "TBD",
       "location": "Building 2"
@@ -709,6 +718,16 @@
       "link": "https://calendar.mit.edu/event/admissions-info-session-sdm-202609",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Colloquium on the Brain and Cognition with Bing Brunton (Graduate Student Hosted)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Talk Title: TBD Abstract: TBD Bio: TBD Followed by a reception with food and drink in 3rd floor atrium",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-bing-brunton-graduate-student-hosted",
+      "time": "TBD",
+      "location": "Building 46"
     },
     {
       "date": "2026-09-17",
@@ -1113,11 +1132,11 @@
     },
     {
       "date": "TBD",
-      "title": "THESIS DEFENSE (ANNAN ZHANG): Sensors and Algorithms for Physically Intelligent Soft Robots",
+      "title": "Thesis Defense: Perception, Planning, and Control for Uncertainty Aware Robotic Manipulation",
       "source": "MIT CSAIL",
       "tag": "robotics",
-      "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-annan-zhang-sensors-and-algorithms-physically-intelligent-soft-robots",
+      "desc": "Robotic manipulation systems are more successful than ever in open-world domains. Model-free decision making systems such as VLAs and WAMs are able to adapt to these settings via increasingly large datasets and architectures whereas model-based decision making systems can exploit VLMs and other foun",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-perception-planning-and-control-uncertainty-aware-robotic-manipulation",
       "time": "TBD"
     },
     {
@@ -1500,6 +1519,60 @@
     },
     {
       "date": "TBD",
+      "title": "1 event 20",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Liz Jackson, Acting Director of the US Patent and Trademark Office’s Northeast Regional Outreach Office will teach the fundamental of intellectual property—patents, trademarks, copyrights, and trade secrets—and explain their value […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-20/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 20",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Liz Jackson, Acting Director of the US Patent and Trademark Office’s Northeast Regional Outreach Office will teach the fundamental of intellectual property—patents, trademarks, copyrights, and trade secrets—and explain their value […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-20/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "USPTO Fundamentals of Intellectual Property",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Liz Jackson, Acting Director of the US Patent and Trademark Office’s Northeast Regional Outreach Office will teach the fundamental of intellectual property—patents, trademarks, copyrights, and trade secrets—and explain their value […]",
+      "link": "https://www.massrobotics.org/event/uspto-fundamentals-of-intellectual-property/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 26",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MD's embedded and robotics team is coming to MassRobotics for an afternoon dedicated to physical AI builders. Over lunch, AMD will break down what their latest hardware announcements mean for […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-26/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 26",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MD's embedded and robotics team is coming to MassRobotics for an afternoon dedicated to physical AI builders. Over lunch, AMD will break down what their latest hardware announcements mean for […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-26/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MassRobotics x AMD | Physical AI Lunch + Learn",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MD's embedded and robotics team is coming to MassRobotics for an afternoon dedicated to physical AI builders. Over lunch, AMD will break down what their latest hardware announcements mean for […]",
+      "link": "https://www.massrobotics.org/event/massrobotics-x-amd-physical-ai-lunch-learn/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "1 event 27",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -1550,6 +1623,33 @@
       "tag": "robotics",
       "desc": "",
       "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 2",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us for an evening of pickle ball, cold beers and warm conversations at Harpoon Brewery in Boston's Seaport. MassRobotics and Wells Fargo are bringing together VCs and robotics founders […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-02/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 2",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us for an evening of pickle ball, cold beers and warm conversations at Harpoon Brewery in Boston's Seaport. MassRobotics and Wells Fargo are bringing together VCs and robotics founders […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-02/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Pickleball at Harpoon with Wells Fargo",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us for an evening of pickle ball, cold beers and warm conversations at Harpoon Brewery in Boston's Seaport. MassRobotics and Wells Fargo are bringing together VCs and robotics founders […]",
+      "link": "https://www.massrobotics.org/event/pickleball-at-harpoon-with-wells-fargo/",
       "time": "TBD"
     },
     {
@@ -4578,36 +4678,9 @@
     },
     {
       "date": "TBD",
-      "title": "Quantum Alliance Fellowship showcase",
+      "title": "The Grove Makers Market 🌿",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Pickleball Like a Girl",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Suno Unplugged: Boston Rooftop Session",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI+X Founders × Researchers @ MIT",
-      "source": "Luma",
-      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4617,15 +4690,6 @@
       "title": "Boston Creators Mixer",
       "source": "Luma",
       "tag": "networking",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Herbalism Workshop @ Boston Nature Center",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4713,6 +4777,15 @@
     },
     {
       "date": "TBD",
+      "title": "REAL 2026",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Pokey/Schleppie Awards 2026",
       "source": "Luma",
       "tag": "talk",
@@ -4722,7 +4795,7 @@
     },
     {
       "date": "TBD",
-      "title": "International Generalist Day — Boston 🦞",
+      "title": "International Generalist Day — Boston",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -4734,6 +4807,24 @@
       "title": "RoboBoston: 9th Annual Robot Block Party !",
       "source": "Luma",
       "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Maum Market Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Climatetech Summit 2026",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
