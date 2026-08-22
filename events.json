@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-08-21T10:21:51.712290",
-  "event_count": 526,
+  "scraped_at": "2026-08-22T10:15:20.419390",
+  "event_count": 530,
   "events": [
-    {
-      "date": "2026-08-21",
-      "title": "Carpentries@MIT Introduction to Programming with Python",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "PLEASE NOTE: This is a two-day workshop taking place Friday August 21, and Monday August 24, 10am-4pm Join us for a beginner-friendly Software Carpentry ONLINE workshop teaching Programming with Python (August 21, 24)! During the two days (Friday August 21, and Monday August 24, 2026) of learning Py",
-      "link": "https://calendar.mit.edu/event/carpentriesmit-introduction-to-programming-with-python",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Global Connections: Current & Incoming Student Social",
-      "source": "Northeastern",
-      "tag": "networking",
-      "desc": "Join Global Learner Support for an opportunity to connect with current and incoming students from across Northeastern’s global community. This online networking event is designed to help learners connect, share experiences, ask questions, and begin building community before the semester begins. Regi",
-      "link": "https://calendar.northeastern.edu/event/global-connections-current-incoming-student-social",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-08-23",
       "title": "Women's Soccer vs. Providence ",
@@ -401,6 +381,16 @@
     },
     {
       "date": "2026-09-10",
+      "title": "After Dark: COLD at the MIT Museum",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Ready to get frosty? Unravel the science of cold at the MIT Museum! Featured Activities: Dive into the polar vortex with MIT climatologist Judah Cohen as he breaks down what makes Boston winters so harsh.Discover how hibernation could unlock life-saving therapies with MIT alum Kat Kajderowicz (spoil",
+      "link": "https://calendar.mit.edu/event/after-dark-cold-at-the-mit-museum",
+      "time": "TBD",
+      "location": "MIT Museum"
+    },
+    {
+      "date": "2026-09-10",
       "title": "The Ahmad Tehrani Symposium—Sara Zewde + Najha Zigbi-Johnson",
       "source": "MIT",
       "tag": "talk",
@@ -611,6 +601,16 @@
     },
     {
       "date": "2026-09-15",
+      "title": " Pricing Mistakes and the Non-Neutrality of Money",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tomas Caravello (MIT Grad Student)",
+      "link": "https://calendar.mit.edu/event/tba-9782",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-09-15",
       "title": "SQI Seminar Series: Tal Linzen, NYU",
       "source": "MIT",
       "tag": "talk",
@@ -618,16 +618,6 @@
       "link": "https://calendar.mit.edu/event/sqi-seminar-series-tal-linzen-nyu",
       "time": "TBD",
       "location": "Building 46"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "TBA",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Tomas Caravello (MIT Grad Student)",
-      "link": "https://calendar.mit.edu/event/tba-9782",
-      "time": "TBD",
-      "location": "Building E52"
     },
     {
       "date": "2026-09-15",
@@ -678,6 +668,16 @@
       "link": "https://calendar.mit.edu/event/mit-harvard-seminar-hemamala-karunadasa-stanford-university",
       "time": "TBD",
       "location": "Building 4"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Ethan Partida (Brown) Title: Abstract:",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-7638",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-16",
@@ -903,8 +903,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1131,6 +1131,16 @@
       "location": "Pierce Hall"
     },
     {
+      "date": "2026-11-19",
+      "title": "Relational Capital in International Cooperation: An Analysis of Foreign Strategies in Africa",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "When government agencies engage in international assistance, they follow their own country's foreign policy guidelines. This means each country channels its foreign assistance toward sectors it deems most strategic and adopts an implementation model that best serves its geopolitical and economic int",
+      "link": "https://calendar.northeastern.edu/event/relational-capital-in-international-cooperation-an-analysis-of-foreign-strategies-in-africa",
+      "time": "TBD",
+      "location": "450 Dodge Hall"
+    },
+    {
       "date": "TBD",
       "title": "Thesis Defense: Perception, Planning, and Control for Uncertainty Aware Robotic Manipulation",
       "source": "MIT CSAIL",
@@ -1164,6 +1174,15 @@
       "tag": "startup",
       "desc": "AbstractDeveloping efficient parallel algorithms is challenging, particularly for irregular computations where data dependencies inherently constrain available concurrency, and much of the parallelism remains deeply hidden. At the implementation level, complex execution patterns, nonuniform memory a",
       "link": "https://www.csail.mit.edu/event/massive-parallelization-irregular-computations-parallel-algorithm-design-and-hardware",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Efficient, Diverse and Reliable Sampling from Language Models",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Hewlett",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-efficient-diverse-and-reliable-sampling-language-models",
       "time": "TBD"
     },
     {
@@ -1731,6 +1750,15 @@
       "tag": "startup",
       "desc": "Join us this fall in Houston, where energy meets climate innovation!",
       "link": "https://greentownlabs.com/event/houston-energy-and-climate-startup-week-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2026 Houston Energy & Climate Startup Week Kickoff",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Founders, investors, and innovators kicking off Houston's energy and climate week!",
+      "link": "https://greentownlabs.com/event/2026-houston-energy-climate-startup-week-kickoff/",
       "time": "TBD"
     },
     {
@@ -4670,6 +4698,15 @@
     {
       "date": "TBD",
       "title": "EventsSubmit Event",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "顶好开放麦",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
