@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T10:15:20.419390",
-  "event_count": 530,
+  "scraped_at": "2026-08-23T10:15:55.590851",
+  "event_count": 533,
   "events": [
     {
       "date": "2026-08-23",
@@ -1141,6 +1141,16 @@
       "location": "450 Dodge Hall"
     },
     {
+      "date": "2026-11-20",
+      "title": "David Krabbenhoft - United States Geological Survey",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/david-krabbenhoft-united-states-geological-survey",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
       "date": "TBD",
       "title": "Thesis Defense: Perception, Planning, and Control for Uncertainty Aware Robotic Manipulation",
       "source": "MIT CSAIL",
@@ -1174,6 +1184,15 @@
       "tag": "startup",
       "desc": "AbstractDeveloping efficient parallel algorithms is challenging, particularly for irregular computations where data dependencies inherently constrain available concurrency, and much of the parallelism remains deeply hidden. At the implementation level, complex execution patterns, nonuniform memory a",
       "link": "https://www.csail.mit.edu/event/massive-parallelization-irregular-computations-parallel-algorithm-design-and-hardware",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation",
+      "source": "MIT CSAIL",
+      "tag": "robotics",
+      "desc": "Patil/Kiva Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-nicholas-pfaff-generating-simulation-ready-worlds-robot-learning-and",
       "time": "TBD"
     },
     {
@@ -4706,24 +4725,6 @@
     },
     {
       "date": "TBD",
-      "title": "顶好开放麦",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The Grove Makers Market 🌿",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Boston Creators Mixer",
       "source": "Luma",
       "tag": "networking",
@@ -4832,7 +4833,34 @@
     },
     {
       "date": "TBD",
+      "title": "Datapoints Summit: AI & Tech in Drug Discovery",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "International Generalist Day — Boston",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "FieldAI Coffee Talks: Physical AI for the Real World",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "F*ckup Nights BOSTON // Vol VI",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
