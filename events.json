@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-08-23T10:15:55.590851",
-  "event_count": 533,
+  "scraped_at": "2026-08-24T10:30:26.254900",
+  "event_count": 534,
   "events": [
-    {
-      "date": "2026-08-23",
-      "title": "Women's Soccer vs. Providence ",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the women's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-providence",
-      "time": "TBD",
-      "location": "Parsons Field"
-    },
     {
       "date": "2026-08-25",
       "title": "HSA August Picnic",
@@ -764,10 +754,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
       "time": "TBD",
-      "location": ""
+      "location": "Renaissance Park"
     },
     {
       "date": "2026-09-18",
@@ -1220,6 +1210,15 @@
       "tag": "ai",
       "desc": "",
       "link": "https://www.csail.mit.edu/event/csail-forum",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "What Can Hardware Do for Computer Security?",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "hybrid",
+      "link": "https://www.csail.mit.edu/event/what-can-hardware-do-computer-security",
       "time": "TBD"
     },
     {
@@ -4770,6 +4769,15 @@
     },
     {
       "date": "TBD",
+      "title": "AI-Biosecurity & Biosurveillance Meetup",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Tone & Totes",
       "source": "Luma",
       "tag": "talk",
@@ -4782,6 +4790,24 @@
       "title": "🍋The Last Squeeze Of Summer🍋",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Grove Makers Market 🌿",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Researchers & Founders Happy Hour @ BASE-X",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4809,6 +4835,24 @@
       "title": "Sweat Equity",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Build an AI Agent Growth Chief of Staff with Claude",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Robotics Working Group: Kickoff Session",
+      "source": "Luma",
+      "tag": "robotics",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -4854,42 +4898,6 @@
       "title": "FieldAI Coffee Talks: Physical AI for the Real World",
       "source": "Luma",
       "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "F*ckup Nights BOSTON // Vol VI",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "RoboBoston: 9th Annual Robot Block Party !",
-      "source": "Luma",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Maum Market Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Boston Climatetech Summit 2026",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
