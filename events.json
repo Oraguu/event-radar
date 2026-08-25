@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T10:30:26.254900",
-  "event_count": 534,
+  "scraped_at": "2026-08-25T10:23:44.406438",
+  "event_count": 540,
   "events": [
     {
       "date": "2026-08-25",
@@ -371,6 +371,16 @@
     },
     {
       "date": "2026-09-10",
+      "title": "A LATE-Targeting Experimental Design for Multi-Arm RCTs",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tetsuya Kaji (University of Chicago Booth School of Business)",
+      "link": "https://calendar.mit.edu/event/tba-1696",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-09-10",
       "title": "After Dark: COLD at the MIT Museum",
       "source": "MIT",
       "tag": "talk",
@@ -416,6 +426,16 @@
       "tag": "talk",
       "desc": "Join Us for the Harvard SEAS Blood Drive with the Mass GH Bloodmobile! We’re teaming up with the Mass GH Bloodmobile to collect blood donations right here at Harvard SEAS. Every donation with MGH helps up to three patients at Mass General, MassGeneral for Children, Spaulding Rehab, Mass Eye & Ear, o",
       "link": "https://events.seas.harvard.edu/event/copy-of-give-blood-give-hope-mass-gh-bloodmobile-at-harvard-seas-7101",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-10",
+      "title": " AI's Models of the World, and Ours",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "The Barbara Grosz Distinguished Lecture Series Title: AI's Models of the World, and Ours Speaker: Jon Kleinberg, Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University Abstract: When we see someone performing at the top of their craft, we ofte",
+      "link": "https://events.seas.harvard.edu/event/ais-models-of-the-world-and-ours",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
     },
@@ -631,6 +651,16 @@
     },
     {
       "date": "2026-09-15",
+      "title": "Introduction to Academic Writing in North America",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Starting life as a graduate student in a new country can be exciting, but it can also come with unexpected cultural, social, and communication challenges. This interactive GLS workshop is designed to help international students navigate their transition to Northeastern University and life in the U.S",
+      "link": "https://calendar.northeastern.edu/event/introduction-to-academic-writing-in-north-america-8344",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-15",
       "title": "Men's Soccer vs. Central Conneticut State",
       "source": "Northeastern",
       "tag": "talk",
@@ -731,6 +761,16 @@
     },
     {
       "date": "2026-09-17",
+      "title": "TBA",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Sid Kankanala (University of Chicago Booth School of Business)",
+      "link": "https://calendar.mit.edu/event/copy-of-tba-3135",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-17",
       "title": "Music Forum: Christian Frederickson",
       "source": "MIT",
       "tag": "talk",
@@ -754,10 +794,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-18",
@@ -768,6 +808,16 @@
       "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar10",
       "time": "TBD",
       "location": "Building E18"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "SCSB Lunch Series with Dr. Rani Borbara: The Connectome in Use: From anatomical wiring to functional organization in the behaving C. elegans brain",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Friday, September 18, 2026 Time: 12:00pm – 1:00pm Location: Simons Center Conference room 46-6011. Zoom: https://mit.zoom.us/j/94794483445 Speaker: Rani Borbara, Ph.D. Affiliation: Simons Postdoctoral Fellow, Steven Flavell Laboratory, Picower Institute for Learning and Memory, MIT Talk title:",
+      "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-rani-borbara-the-connectome-in-use-from-anatomical-wiring-to-functional-organization-in-the-behaving-c-elegans-brain",
+      "time": "TBD",
+      "location": "Simons Center Conference room, 46-6011"
     },
     {
       "date": "2026-09-18",
@@ -1142,15 +1192,6 @@
     },
     {
       "date": "TBD",
-      "title": "Thesis Defense: Perception, Planning, and Control for Uncertainty Aware Robotic Manipulation",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Robotic manipulation systems are more successful than ever in open-world domains. Model-free decision making systems such as VLAs and WAMs are able to adapt to these settings via increasingly large datasets and architectures whereas model-based decision making systems can exploit VLMs and other foun",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-perception-planning-and-control-uncertainty-aware-robotic-manipulation",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Diagnosing and Repairing Unexpected Failures of Machine Learning in Healthcare",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1201,6 +1242,15 @@
       "tag": "ai",
       "desc": "Kiva",
       "link": "https://www.csail.mit.edu/event/csail-new-grad-orientation-0",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "[Recruiting] Balyasny Asset Management (BAM) Info Session at CSAIL",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star Seminar Room: 32-D463 in CSAIL",
+      "link": "https://www.csail.mit.edu/event/recruiting-balyasny-asset-management-bam-info-session-csail",
       "time": "TBD"
     },
     {
@@ -1777,6 +1827,15 @@
       "tag": "startup",
       "desc": "Founders, investors, and innovators kicking off Houston's energy and climate week!",
       "link": "https://greentownlabs.com/event/2026-houston-energy-climate-startup-week-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2026 Cleantech Open Global Forum Showcase & Awards",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Cleantech Open's first East Coast Global Forum lands at Greentown Labs! Catch pitch finals, a startup expo, and an awards ceremony.",
+      "link": "https://greentownlabs.com/event/2026-cleantech-open-global-forum-showcase-awards/",
       "time": "TBD"
     },
     {
@@ -4742,15 +4801,6 @@
     },
     {
       "date": "TBD",
-      "title": "Agents & APIs Boston Developer Meetup",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The World We Want: Future Workshop + Good Beer",
       "source": "Luma",
       "tag": "talk",
@@ -4853,6 +4903,15 @@
       "title": "Climate Robotics Working Group: Kickoff Session",
       "source": "Luma",
       "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CAN AI SAVE DEMOCRACY? How AI Could Build Better Government | BINGE THINKING BOS",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
