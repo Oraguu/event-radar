@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-25T10:23:44.406438",
-  "event_count": 540,
+  "scraped_at": "2026-08-26T10:27:34.992351",
+  "event_count": 552,
   "events": [
-    {
-      "date": "2026-08-25",
-      "title": "HSA August Picnic",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Just back from Greece? Just moved to Boston? Or simply refusing to accept that summer is already winding down? Whatever the reason, come join us for the HSA August Picnic! We’ll have Greek snacks, good company, and plenty of time to shoot the breeze, soak up the last of the summer, and meet some new",
-      "link": "https://calendar.mit.edu/event/hsa-august-picnic",
-      "time": "TBD",
-      "location": "Bexley Garden"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "Tim Titans - Creative Collaborative",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us on the last Tuesday of every month from 6 PM to 7 PM. 4N-417—location Starting August 25th, 2026 Come together for a casual creative collective. All supplies will be provided, and feel free to bring your own. https://calendar.mit.edu/group/tim_titans",
-      "link": "https://calendar.mit.edu/event/tim-titans-creative-collaborative",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-25",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-7958",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-08-26",
       "title": "MassRobotics x AMD | Physical AI Lunch + Learn",
@@ -240,6 +210,16 @@
       "location": "Churchill Hall"
     },
     {
+      "date": "2026-09-02",
+      "title": "Apply for the Graduate Student Religious, Spiritual, and Ethical Life Fellowship",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "How do religion, spirituality, and ethics show up in your professional field, and how can you learn to engage across those differences with humility, curiosity, and care? The Graduate Student RSEL Fellowship, led by the Presidential Initiative on Interfaith Engagement, brings together students from ",
+      "link": "https://events.seas.harvard.edu/event/apply-for-the-graduate-student-religious-spiritual-and-ethical-life-fellowship",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-09-03",
       "title": "Explore MIT's Career Services: Tour of Career Advising & Professional Development",
       "source": "MIT",
@@ -371,13 +351,13 @@
     },
     {
       "date": "2026-09-10",
-      "title": "A LATE-Targeting Experimental Design for Multi-Arm RCTs",
+      "title": "Distinguished Seminar in Computational Science and Engineering",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Tetsuya Kaji (University of Chicago Booth School of Business)",
-      "link": "https://calendar.mit.edu/event/tba-1696",
+      "desc": "Distinguished Seminar in Computational Science and Engineering September 10, 2026, 12-1PM 45-432 in Building 45 and Zoom Webinar Toward Accurate and Efficient Large-Eddy Simulation of Urban Canopy Flows Catherine Gorlé Associate Professor of Civil and Environmental Engineering, Stanford University A",
+      "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-4701",
       "time": "TBD",
-      "location": "Building E51"
+      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
     },
     {
       "date": "2026-09-10",
@@ -431,10 +411,10 @@
     },
     {
       "date": "2026-09-10",
-      "title": " AI's Models of the World, and Ours",
+      "title": "Barbara Grosz Distinguished Lecture in AI and Society ",
       "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "The Barbara Grosz Distinguished Lecture Series Title: AI's Models of the World, and Ours Speaker: Jon Kleinberg, Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University Abstract: When we see someone performing at the top of their craft, we ofte",
+      "tag": "ai",
+      "desc": "2026 Barbara Grosz Distinguished Lecture in AI and Society Title: AI's Models of the World, and Ours Speaker: Jon Kleinberg, Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University Abstract: When we see someone performing at the top of their cr",
       "link": "https://events.seas.harvard.edu/event/ais-models-of-the-world-and-ours",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
@@ -528,6 +508,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-woodcutters-7203",
       "time": "TBD",
       "location": "Building W97"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "HSA Welcome BBQ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dear friends, The beginning of the new school year means one and only one thing: HSA’s Welcome BBQ is back in town! Are you a student, Greek, and new in Boston? Are you nothing of the above? No matter - join us on Sunday, September 13 from 4:30-7 pm at the MIT Sailing Pavilion for some souvlaki by t",
+      "link": "https://calendar.mit.edu/event/hsa-welcome-bbq-672",
+      "time": "TBD",
+      "location": "MIT Sailing Pavilion"
     },
     {
       "date": "2026-09-13",
@@ -767,7 +757,7 @@
       "desc": "Sid Kankanala (University of Chicago Booth School of Business)",
       "link": "https://calendar.mit.edu/event/copy-of-tba-3135",
       "time": "TBD",
-      "location": ""
+      "location": "Building E51"
     },
     {
       "date": "2026-09-17",
@@ -798,6 +788,16 @@
       "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Computer Science Colloquium Series - Nora Ayanian (Brown University)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Nora Ayanian, Associate Professor of Computer Science and Engineering and director of the Automatic Coordination of Teams Lab at Brown University Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-nora-ayanian-brown-university",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-09-18",
@@ -910,6 +910,16 @@
     },
     {
       "date": "2026-09-24",
+      "title": "Computer Science Colloquium Series - Andrea Bajscy (CMU Robotics Institute)",
+      "source": "Harvard SEAS",
+      "tag": "robotics",
+      "desc": "Speaker: Andrea Bajscy, Assistant Professor in the Robotics Institute at Carnegie Mellon University Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-andrea-bajscy-cmu-robotics-institute",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-24",
       "title": "Lab-to-Launch Lounge",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -937,6 +947,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-harvard-3291",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "The Deafhood Movement: Post Colonialism, Settler Colonialism, or another Other?",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "This presentation examines the structural oppression and self-actualization of Sign Language Peoples through the analytical lens of colonial theory. Moving beyond traditional medical and disability frameworks, the discourse of Deafhood frames the historical suppression of sign languages and the hege",
+      "link": "https://calendar.northeastern.edu/event/the-deafhood-movement-post-colonialism-settler-colonialism-or-another-other",
+      "time": "TBD",
+      "location": "Cabral Center"
     },
     {
       "date": "2026-09-30",
@@ -975,6 +995,16 @@
       "tag": "talk",
       "desc": "Have ideas for use-inspired applications of your research? Wondering what is the first step or how to test your ideas? No translation or venturing experience or knowledge required. Just bring your curiosity and questions for a no-risk discussion with the Grid's Executive Director Paul Hayre, plus re",
       "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-9606",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Computer Science Colloquium Series - Marzyeh Ghassemi (MIT)",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Speaker: Marzyeh Ghassemi, Associate Professor at MIT in Electrical Engineering and Computer Science (EECS) and Institute for Medical Engineering & Science (IMES), and a Vector Institute faculty member holding a Canadian CIFAR AI Chair and Canada Research Chair. Talk info TBA The Computer Science Co",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-marzyeh-ghassemi-mit",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
     },
@@ -1029,6 +1059,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-10-08",
+      "title": "Computer Science Colloquium Series - Aaron Roth (UPenn)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Aaron Roth, the Henry Salvatori Professor of Computer and Cognitive Science at the University of Pennsylvania Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm.",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-aaron-roth-upenn",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-10-11",
       "title": "Women's Soccer vs. Campbell",
       "source": "Northeastern",
@@ -1049,6 +1089,16 @@
       "location": ""
     },
     {
+      "date": "2026-10-15",
+      "title": "Computer Science Colloquium Series - Magnus Egerstedt (UNC)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Magnus Egerstedt, Harry Watson Distinguished Professor and Executive Vice Chancellor and Provost at the University of North Carolina Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at ",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-magnus-egerstedt-unc",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-10-19",
       "title": "Fusion Book Club: Movie Night",
       "source": "Northeastern",
@@ -1057,6 +1107,26 @@
       "link": "https://calendar.northeastern.edu/event/fusion-book-club-movie-night",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-10-22",
+      "title": "2026 Fall Digital Scholarship Celebration",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "October 22, 1–3pm Boston (hybrid + in-person), 10–11:15am Oakland (virtual), and 6–7:15pm London (virtual) On October 22, the Centers for Digital Scholarship, the Digital Scholarship Group, and the NULab for Digital Humanities and Computational Social Science will host our annual fall scholarship ce",
+      "link": "https://calendar.northeastern.edu/event/2026-fall-celebration",
+      "time": "TBD",
+      "location": "Snell Library"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Computer Science Colloquium Series - Student Session",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speakers: Weiyuan Gong, graduate student at Harvard SEAS, & Cassandra Marcussen, graduate student at Harvard SEAS Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm.",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-student-session",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-10-24",
@@ -1100,6 +1170,16 @@
       "location": "Gordon Hall"
     },
     {
+      "date": "2026-10-29",
+      "title": "Computer Science Colloquium Series -  David Alvarez-Melis (Harvard SEAS)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: David Alvarez-Melis, Assistant Professor of Computer Science at Harvard SEAS Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm.",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-david-alvarez-melis-harvard-seas",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-11-01",
       "title": "Women's Soccer vs. Monmouth",
       "source": "Northeastern",
@@ -1127,6 +1207,16 @@
       "tag": "talk",
       "desc": "Have ideas for use-inspired applications of your research? Wondering what is the first step or how to test your ideas? No translation or venturing experience or knowledge required. Just bring your curiosity and questions for a no-risk discussion with the Grid's Executive Director Paul Hayre, plus re",
       "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-1770",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Computer Science Colloquium Series - Nisarg Shah (U Toronto)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Nisarg Shah, Associate Professor in the Department of Computer Science at the University of Toronto Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm.",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-nisarg-shah-u-toronto",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
     },
@@ -1161,6 +1251,16 @@
       "location": "Barletta Nataorium"
     },
     {
+      "date": "2026-11-12",
+      "title": "Computer Science Colloquium Series - Michael Hicks (UPenn)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Michael Hicks, the Cecilia Fitler Moore Professor and Associate Chair in the Department of Computer and Information Science at the University of Pennsylvania and Director of the Schlein Center for Cybersecurity Talk info TBA The Computer Science Colloquium Series will be held weekly on Thur",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-michael-hicks-upenn",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-11-13",
       "title": "Eve-Lyn Hinckley - CU Boulder",
       "source": "Harvard SEAS",
@@ -1169,6 +1269,16 @@
       "link": "https://events.seas.harvard.edu/event/eve-lyn-hinckley-cu-boulder",
       "time": "TBD",
       "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Fusion Book Club Meeting",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Fusion Book Club: where STEM meets story and belonging takes root. When: Monday, November 16th at 4:30pm ET Where: Snell Library Research and Teaching Hub (SL-215A) and online (Teams meeting link) What […] The post Fusion Book Club Meeting appeared first on Northeastern University College of Enginee",
+      "link": "https://calendar.northeastern.edu/event/fusion-book-club-meeting",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-11-19",
@@ -1181,6 +1291,16 @@
       "location": "450 Dodge Hall"
     },
     {
+      "date": "2026-11-19",
+      "title": "Computer Science Colloquium Series - Qianqian Wang (Harvard SEAS)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Qianqian Wang, Assistant Professor of Computer Science at Harvard SEAS Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm.",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-qianqian-wang-harvard-seas",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-11-20",
       "title": "David Krabbenhoft - United States Geological Survey",
       "source": "Harvard SEAS",
@@ -1189,15 +1309,6 @@
       "link": "https://events.seas.harvard.edu/event/david-krabbenhoft-united-states-geological-survey",
       "time": "TBD",
       "location": "Pierce Hall"
-    },
-    {
-      "date": "TBD",
-      "title": "Diagnosing and Repairing Unexpected Failures of Machine Learning in Healthcare",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Title: Diagnosing and Repairing Unexpected Failures of Machine Learning in HealthcareSpeaker: Haoran ZhangDate: Tuesday, 08/25/2026 at 1pmAbstract:Machine learning models are increasingly embedded in clinical workflows. However, the real-world utility of such models has been limited, with many high ",
-      "link": "https://www.csail.mit.edu/event/diagnosing-and-repairing-unexpected-failures-machine-learning-healthcare",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -1233,6 +1344,15 @@
       "tag": "ai",
       "desc": "Hewlett",
       "link": "https://www.csail.mit.edu/event/thesis-defense-efficient-diverse-and-reliable-sampling-language-models",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Regulatory circuitry of the human brain: linking genetic variation to cellular mechanism",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Genome-wide association studies (GWAS) have catalogued tens of thousands of disease-risk variants, yet for most the chain connecting a changed base to a changed cell to a changed tissue has never been measured. Risk variants often sit in a regulatory element, but naming the gene it controls, the cel",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-regulatory-circuitry-human-brain-linking-genetic-variation-cellular-mechanism",
       "time": "TBD"
     },
     {
@@ -4783,15 +4903,6 @@
     },
     {
       "date": "TBD",
-      "title": "Boston Creators Mixer",
-      "source": "Luma",
-      "tag": "networking",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Line Dancing at The Grove at Lawn on D",
       "source": "Luma",
       "tag": "talk",
@@ -4939,6 +5050,15 @@
       "title": "Datapoints Summit: AI & Tech in Drug Discovery",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Cyberdeck Workshop (Boston)",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
