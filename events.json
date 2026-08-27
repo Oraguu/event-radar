@@ -1,16 +1,7 @@
 {
-  "scraped_at": "2026-08-26T10:27:34.992351",
-  "event_count": 552,
+  "scraped_at": "2026-08-27T20:05:16.922171",
+  "event_count": 562,
   "events": [
-    {
-      "date": "2026-08-26",
-      "title": "MassRobotics x AMD | Physical AI Lunch + Learn",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/massrobotics-x-amd-physical-ai-lunch-learn/",
-      "time": "TBD"
-    },
     {
       "date": "2026-08-27",
       "title": "Women's Soccer vs. Yale",
@@ -49,16 +40,6 @@
       "link": "https://calendar.mit.edu/event/chemistry-industrial-recruiting-gilead",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Outdoor Movie: The Wiz",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Join us for a summer screening of The Wiz (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-the-wiz",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
     },
     {
       "date": "2026-08-28",
@@ -231,6 +212,16 @@
     },
     {
       "date": "2026-09-03",
+      "title": "Outdoor Movie: The Wiz",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all. Join us for a summer screening of The Wiz (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
+      "link": "https://calendar.mit.edu/event/outdoor-movie-the-wiz",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-03",
       "title": "DAFx 2026 presents Fabian Almazan",
       "source": "MIT",
       "tag": "talk",
@@ -301,6 +292,16 @@
     },
     {
       "date": "2026-09-08",
+      "title": "Write for the World: The Art of the Blog Post: Information Session",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, this program is for you. This virtual information session will answer your questions about blog writing and explain what this program can o",
+      "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-workshop-7753",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-08",
       "title": "W97 Open House Party",
       "source": "MIT",
       "tag": "talk",
@@ -358,6 +359,36 @@
       "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-4701",
       "time": "TBD",
       "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "A LATE-Targeting Experimental Design for Multi-Arm RCTs",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tetsuya Kaji (University of Chicago Booth School of Business)",
+      "link": "https://calendar.mit.edu/event/copy-of-tba-4367",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Mechanism Design Beyond Expected Utility",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "David Ahn (Washington)",
+      "link": "https://calendar.mit.edu/event/mechanism-design-beyond-expected-utility",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Public Speaking Certificate Fall 2026: Information Session",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Public Speaking Certificate Program is designed to help MIT graduate students and postdocs become confident, effective, and versatile speakers in a wide range of professional and academic situations. Through workshops, personalized coaching, hands-on practice, and performance-based feedback, thi",
+      "link": "https://calendar.mit.edu/event/copy-of-information-session-public-speaking-certificate-fall-2025",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-10",
@@ -500,12 +531,32 @@
       "location": "Building W97"
     },
     {
+      "date": "2026-09-12",
+      "title": "Imaginary Instrument Hackathon",
+      "source": "Northeastern",
+      "tag": "manufacturing",
+      "desc": "Celebrating the publication of The Museum of Imaginary Musical Instruments, the Imaginary Instrument Hackathon is a one-day event dedicated to exploring sound, invention and the limits of the possible. Bring your concept for an instrument that doesn’t exist and spend a day building it out with acces",
+      "link": "https://calendar.northeastern.edu/event/imaginary-instrument-hackathon",
+      "time": "TBD",
+      "location": "Center for Design, Ryder Hall "
+    },
+    {
       "date": "2026-09-13",
       "title": "Woodcutters",
       "source": "MIT",
       "tag": "talk",
       "desc": "An immersive evening inside one man’s unspoken grievances. Now spoken. Refreshments provided. Adapted from the novel Holzfällen by Thomas Bernhard using the translation Woodcutters by David McLintock Co-created by Sara Brown & Shira Milikowsky with contributions from Adrianne Krstansky & Lauren K. W",
       "link": "https://calendar.mit.edu/event/copy-of-woodcutters-7203",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Cutting Timber",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Woodcutters Salon Cutting Timber: A collective conversation examining individual agency within institutional frameworks Join creative team members behind the performance adaptation of Thomas Bernhard’s Woodcutters—Associate Professor Sara Brown, Director Shira Milikowsky, and Dramaturg Lauren K. Wol",
+      "link": "https://calendar.mit.edu/event/cutting-timber",
       "time": "TBD",
       "location": "Building W97"
     },
@@ -538,6 +589,16 @@
       "link": "https://calendar.mit.edu/event/the-rise-of-esg-20-economy-security-geopolitics",
       "time": "TBD",
       "location": "Building E40"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Human Capital and the Organization of Production in Low-Income Countries",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tommaso Porzio (Columbia)",
+      "link": "https://calendar.mit.edu/event/human-capital-and-the-organization-of-production-in-low-income-countries",
+      "time": "TBD",
+      "location": "TBD"
     },
     {
       "date": "2026-09-14",
@@ -581,6 +642,16 @@
     },
     {
       "date": "2026-09-15",
+      "title": "An Evening with Alex Counts, Author and Founder of the Grameen Foundation",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Join us for an evening with Alex Counts, author, consultant to nonprofit organizations, and founder of the Grameen Foundation. In conversation with D-Lab’s Associate Director for Research Kendra Leith, Alex will share key insights, reflections, and lessons learned from his extraordinary career in in",
+      "link": "https://calendar.mit.edu/event/an-evening-with-alex-counts-author-and-founder-of-the-grameen-foundation",
+      "time": "TBD",
+      "location": "Building W41"
+    },
+    {
+      "date": "2026-09-15",
       "title": "Materials Science and Engineering Seminar ",
       "source": "MIT",
       "tag": "talk",
@@ -618,6 +689,16 @@
       "link": "https://calendar.mit.edu/event/sqi-seminar-series-tal-linzen-nyu",
       "time": "TBD",
       "location": "Building 46"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Write for the World: The Art of the Blog Post: Workshops",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, this program is for you. With these two hands-on workshops, and one-on-one support from WCC writing instructors, you will go from idea to a",
+      "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-information-session-2199",
+      "time": "TBD",
+      "location": "Building E17"
     },
     {
       "date": "2026-09-15",
@@ -671,6 +752,26 @@
     },
     {
       "date": "2026-09-16",
+      "title": "The Dynamics of Power Politics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Professor Stacie Goddard from Wellesley College will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: This seminar will give an overview of an in-process book manuscript, The Dynamics of Power Politics (with Paul MacDonald and Daniel Nexon), which develops a rela",
+      "link": "https://calendar.mit.edu/event/the-dynamics-of-power-politics",
+      "time": "TBD",
+      "location": "Building E40"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: David Vogan (MIT) Title: Filtrations on Harish-Chandra modules Abstract: The algebra of functions on an affine algebraic variety is infinite-dimensional; but it is has (not canonically!) an increasing filtration by finite-dimensional subspaces. The growth of the dimensions of those subspace",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar-594",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-16",
       "title": "MIT-Harvard Seminar: Hemamala Karunadasa (Stanford University)",
       "source": "MIT",
       "tag": "talk",
@@ -721,56 +822,6 @@
     },
     {
       "date": "2026-09-17",
-      "title": "Admissions Info Session: System Design and Management",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us on Thursday, September 17 to learn about MIT’s combined engineering and management master’s degree! In this session, we’ll give you an overview of our unique integrated core course and the curriculum that lets you take classes at MIT’s School of Engineering and Sloan School of Management. Pr",
-      "link": "https://calendar.mit.edu/event/admissions-info-session-sdm-202609",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Colloquium on the Brain and Cognition with Bing Brunton (Graduate Student Hosted)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Talk Title: TBD Abstract: TBD Bio: TBD Followed by a reception with food and drink in 3rd floor atrium",
-      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-bing-brunton-graduate-student-hosted",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Novartis-MIT Lectures (Seth Herzon, Yale University + Alex N. Flyer, Novartis)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Alex N. Flyer: \"Discovery of NVP-MIW491: Dermal Delivery of an LXR Agonist for the Treatment of Meibomian Gland Dysfunction\" Seth B. Herzon: \"Total Synthesis of Gukulenin A and Development of Genotype-Directed Genotoxic Agents\"",
-      "link": "https://calendar.mit.edu/event/novartis-mit-lectures-seth-herzon-yale-novartis-tbd",
-      "time": "TBD",
-      "location": "Building 6"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "TBA",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Sid Kankanala (University of Chicago Booth School of Business)",
-      "link": "https://calendar.mit.edu/event/copy-of-tba-3135",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Music Forum: Christian Frederickson",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Thursday, September 17th at 5pm Lewis Music Library Please join us for a light reception in the Lewis Music Library after the event. About the Speaker Christian Frederickson is a violist, composer, and sound designer based who specializes in live music performance for theater and dance. Originally f",
-      "link": "https://calendar.mit.edu/event/music-forum-christian-frederickson",
-      "time": "TBD",
-      "location": "Lewis Music Library"
-    },
-    {
-      "date": "2026-09-17",
       "title": "Open House for Latinx, Latin American, and Caribbean Program",
       "source": "Northeastern",
       "tag": "talk",
@@ -798,26 +849,6 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-nora-ayanian-brown-university",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Sam Gunn (MIT)",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar10",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "SCSB Lunch Series with Dr. Rani Borbara: The Connectome in Use: From anatomical wiring to functional organization in the behaving C. elegans brain",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Friday, September 18, 2026 Time: 12:00pm – 1:00pm Location: Simons Center Conference room 46-6011. Zoom: https://mit.zoom.us/j/94794483445 Speaker: Rani Borbara, Ph.D. Affiliation: Simons Postdoctoral Fellow, Steven Flavell Laboratory, Picower Institute for Learning and Memory, MIT Talk title:",
-      "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-rani-borbara-the-connectome-in-use-from-anatomical-wiring-to-functional-organization-in-the-behaving-c-elegans-brain",
-      "time": "TBD",
-      "location": "Simons Center Conference room, 46-6011"
     },
     {
       "date": "2026-09-18",
@@ -910,6 +941,16 @@
     },
     {
       "date": "2026-09-24",
+      "title": "Global Fellows Distinguished Lecture with Patricia Williams",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Professor Patricia Williams on The Disembodied Revolution: Humanities, Inhumanities, and the Amputation of Reality. The Global Fellows Distinguished Lecture Series marks the annual launch of the Global Fellows Program, bringing a world-leading scholar to campus to open conversation around this year'",
+      "link": "https://calendar.northeastern.edu/event/global-fellows-distinguished-lecture-with-patricia-williams",
+      "time": "TBD",
+      "location": "Snell Library"
+    },
+    {
+      "date": "2026-09-24",
       "title": "Computer Science Colloquium Series - Andrea Bajscy (CMU Robotics Institute)",
       "source": "Harvard SEAS",
       "tag": "robotics",
@@ -950,21 +991,11 @@
     },
     {
       "date": "2026-09-30",
-      "title": "The Deafhood Movement: Post Colonialism, Settler Colonialism, or another Other?",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "This presentation examines the structural oppression and self-actualization of Sign Language Peoples through the analytical lens of colonial theory. Moving beyond traditional medical and disability frameworks, the discourse of Deafhood frames the historical suppression of sign languages and the hege",
-      "link": "https://calendar.northeastern.edu/event/the-deafhood-movement-post-colonialism-settler-colonialism-or-another-other",
-      "time": "TBD",
-      "location": "Cabral Center"
-    },
-    {
-      "date": "2026-09-30",
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -1037,6 +1068,16 @@
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-hofstra-6837",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Summit: Can India Become a Global Manufacturing Hub?",
+      "source": "Northeastern",
+      "tag": "manufacturing",
+      "desc": "The Center for Emerging Markets at Northeastern University will present its fifth annual India Summit, Can India Become a Global Manufacturing Hub?, on October 5, 2026, as part of the Vivek and Vandana Sharma India Initiative. Building on past summits that explored innovation, the startup economy, s",
+      "link": "https://calendar.northeastern.edu/event/summit-can-india-become-a-global-manufacturing-hub",
+      "time": "TBD",
+      "location": "East Village 17th Floor Conference Facility"
     },
     {
       "date": "2026-10-07",
@@ -1165,9 +1206,29 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
       "time": "TBD",
       "location": "Gordon Hall"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "An Evening with R.F. Kuang",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Global Asian Studies hosts author R.F. Kuang to discuss the release of her new book, Taipei Story. Rebecca F. Kuang is the #1 New York Times and #1 Sunday Times bestselling author of the Poppy War trilogy, Babel: An Arcane History, Yellowface, Katabasis, and Taipei Story. Her work has won the Ne",
+      "link": "https://calendar.northeastern.edu/event/an-evening-with-rf-kuang",
+      "time": "TBD",
+      "location": "Blackman Theater"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Policy on the Plaza (Oakland)",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Graduate students from the Policy School will offer nonpartisan analyses of California state and local propositions on the November ballot. Join us on Adams Plaza, 5pm-6:30pm Pacific Time, to become a more educated voter.",
+      "link": "https://calendar.northeastern.edu/event/policy-on-the-plaza-oakland",
+      "time": "TBD",
+      "location": "Northeastern University Oakland"
     },
     {
       "date": "2026-10-29",
@@ -1249,6 +1310,16 @@
       "link": "https://calendar.northeastern.edu/event/swim-dive-vs-conneticut",
       "time": "TBD",
       "location": "Barletta Nataorium"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "What happened, what’s next? Interpreting the 2026 election (Oakland)",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join local experts and faculty to parse the results of the November 2026 election in California and nationwide, with special attention to ballot propositions and Northeastern and Mills alums on the ballot. 6-7:15pm PT in GSB 101.",
+      "link": "https://calendar.northeastern.edu/event/what-happened-whats-next-interpreting-the-2026-election-oakland",
+      "time": "TBD",
+      "location": "Northeastern University Oakland"
     },
     {
       "date": "2026-11-12",
@@ -1339,6 +1410,15 @@
     },
     {
       "date": "TBD",
+      "title": "CSL Seminar Series: Bringing Physical Intelligence into the Real World",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Kiva",
+      "link": "https://www.csail.mit.edu/event/csl-seminar-series-bringing-physical-intelligence-real-world",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Thesis Defense: Efficient, Diverse and Reliable Sampling from Language Models",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1353,6 +1433,15 @@
       "tag": "ai",
       "desc": "Genome-wide association studies (GWAS) have catalogued tens of thousands of disease-risk variants, yet for most the chain connecting a changed base to a changed cell to a changed tissue has never been measured. Risk variants often sit in a regulatory element, but naming the gene it controls, the cel",
       "link": "https://www.csail.mit.edu/event/thesis-defense-regulatory-circuitry-human-brain-linking-genetic-variation-cellular-mechanism",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "[Recruiting] Citadel & Citadel Securities PhD Tech Talk at CSAIL",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "32-G449 (Kiva Seminar Room)",
+      "link": "https://www.csail.mit.edu/event/recruiting-citadel-citadel-securities-phd-tech-talk-csail",
       "time": "TBD"
     },
     {
@@ -1906,11 +1995,29 @@
     },
     {
       "date": "TBD",
+      "title": "NordicLink 2026: Where Nordic Innovation Meets the US",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Norway's boldest climate tech startups pitch in Houston. Catch a live pitch competition, VC networking, and cross-border dealmaking.",
+      "link": "https://greentownlabs.com/event/nordiclink-2026-where-nordic-innovation-meets-the-us/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Activate Info Session: Support for Science Entrepreneurs",
       "source": "Greentown Labs",
       "tag": "startup",
       "desc": "Join Greentown Labs and Activate to find out if their fellowship is the right next step for turning your research into real-world impact.",
       "link": "https://greentownlabs.com/event/activate-info-session-support-for-science-entrepreneurs/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2026 Cleantech Open Global Forum Showcase & Awards",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Cleantech Open's first East Coast Global Forum lands at Greentown Labs! Catch pitch finals, a startup expo, and an awards ceremony.",
+      "link": "https://greentownlabs.com/event/2026-cleantech-open-global-forum-showcase-awards/",
       "time": "TBD"
     },
     {
@@ -1947,15 +2054,6 @@
       "tag": "startup",
       "desc": "Founders, investors, and innovators kicking off Houston's energy and climate week!",
       "link": "https://greentownlabs.com/event/2026-houston-energy-climate-startup-week-kickoff/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2026 Cleantech Open Global Forum Showcase & Awards",
-      "source": "Greentown Labs",
-      "tag": "startup",
-      "desc": "Cleantech Open's first East Coast Global Forum lands at Greentown Labs! Catch pitch finals, a startup expo, and an awards ceremony.",
-      "link": "https://greentownlabs.com/event/2026-cleantech-open-global-forum-showcase-awards/",
       "time": "TBD"
     },
     {
@@ -4903,15 +5001,6 @@
     },
     {
       "date": "TBD",
-      "title": "Line Dancing at The Grove at Lawn on D",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The World We Want: Future Workshop + Good Beer",
       "source": "Luma",
       "tag": "talk",
@@ -5077,6 +5166,15 @@
       "title": "FieldAI Coffee Talks: Physical AI for the Real World",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Data in bloom: A happy hour for data-driven marketers",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
