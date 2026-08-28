@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-08-27T20:05:16.922171",
-  "event_count": 562,
+  "scraped_at": "2026-08-28T21:02:43.960245",
+  "event_count": 559,
   "events": [
-    {
-      "date": "2026-08-27",
-      "title": "Women's Soccer vs. Yale",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the women's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-yale",
-      "time": "TBD",
-      "location": "Parsons Field"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "Resident Happy Hour",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/resident-happy-hour-7/",
-      "time": "TBD"
-    },
     {
       "date": "2026-08-28",
       "title": "4th MIT Global Humanities Forum on “Recovering Agency through Visual Arts amid Political Uncertainty and Exile” on August 28 (online)",
@@ -70,6 +51,16 @@
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-new-hampshire",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Summer 2026 Teaching Days",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Summer 2026 Teaching Days Monday, August 31 through Thursday, September 3 Registration is now open! Before the start of each semester, TLL offers a series of workshops for TAs and teacher trainees to help them prepare for the roles and responsibilities of teaching at MIT. Topics include giving feedb",
+      "link": "https://calendar.mit.edu/event/summer-2026-teaching-days",
+      "time": "TBD",
+      "location": "Building 4"
     },
     {
       "date": "2026-08-31",
@@ -442,6 +433,16 @@
     },
     {
       "date": "2026-09-10",
+      "title": "Google and Klaviyo Tabling Session @ the SEC",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Come to the SEC Su Family Gallery on Thursday, September 10, 12-2:15 PM to connect with members of the Google and Klaviyo teams. Stop by between classes or during lunch to learn more about internship and full-time opportunities. Advance registration not required.",
+      "link": "https://events.seas.harvard.edu/event/google-and-klaviyo-tabling-session-the-sec",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-10",
       "title": "Barbara Grosz Distinguished Lecture in AI and Society ",
       "source": "Harvard SEAS",
       "tag": "ai",
@@ -602,10 +603,10 @@
     },
     {
       "date": "2026-09-14",
-      "title": "TBD",
+      "title": "The Winner's Curse in Early Admissions",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Phi Adajar MIT Department of Economics",
+      "desc": "Phi Adajar - MIT Department of Economics (co-authored with Nagisa Tadjfar and Kartik Vira)",
       "link": "https://calendar.mit.edu/event/tbd-1627",
       "time": "TBD",
       "location": "Building E51"
@@ -762,6 +763,16 @@
     },
     {
       "date": "2026-09-16",
+      "title": "Teaching in the Age of the Easy Button: Motivating Students to Embrace Desirable Difficulties and the Slow Work of Learning ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Teaching in the Age of the Easy Button: Motivating Students to Embrace Desirable Difficulties and the Slow Work of Learning Dr. Betsy Barre, Assistant Provost and Executive Director of the Center for the Advancement of Teaching at Wake Forest University Description In a recent Substack post, the cog",
+      "link": "https://calendar.mit.edu/event/teaching-in-the-age-of-the-easy-button-motivating-students-to-embrace-desirable-difficulties-and-the-slow-work-of-learning",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-16",
       "title": "Lie Groups Seminar",
       "source": "MIT",
       "tag": "talk",
@@ -789,36 +800,6 @@
       "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-7638",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Sense of an Ending (Staged Reading)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Front Porch Arts Collective and MIT Theater Arts present A staged reading of Sense of an Ending by MIT Senior Lecturer Ken Urban directed by Pascale Florestal That night, it begins. The men, they come into the church. They take a few of the old ones. I hear these sounds out in the hills. Horrible ho",
-      "link": "https://calendar.mit.edu/event/sense-of-an-ending-staged-reading",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Open Rehearsal Event with the MIT Wind Ensemble",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "All woodwind, brass, and percussion musicians OPEN REHEARSAL EVENT with the MIT WIND ENSEMBLE Wednesday, September 16 7:30-8:30pm, Kresge Auditorium Play, Listen, and Experience theexcellence and community of ensemblemusic making at MIT Musicians interested in classical and jazz encouraged to attend",
-      "link": "https://calendar.mit.edu/event/open-rehearsal-event-with-the-mit-wind-ensemble",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Symplectic Seminar  ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Adi Dickstein (Tel Aviv University)",
-      "link": "https://calendar.mit.edu/event/copy-of-symplectic-seminar-3834",
-      "time": "TBD",
-      "location": "Building 2"
     },
     {
       "date": "2026-09-17",
@@ -1206,7 +1187,7 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -1380,15 +1361,6 @@
       "link": "https://events.seas.harvard.edu/event/david-krabbenhoft-united-states-geological-survey",
       "time": "TBD",
       "location": "Pierce Hall"
-    },
-    {
-      "date": "TBD",
-      "title": "[Thesis Defense] Robots That Think Before They Act: Planning and Perception for Generalizable Manipulation",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Star",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-robots-think-they-act-planning-and-perception-generalizable-manipulation",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -1986,15 +1958,6 @@
     },
     {
       "date": "TBD",
-      "title": "Energy Mavericks Book Launch",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "Celebrate the launch of Energy Mavericks, a candid look at the leaders and ideas reshaping the energy industry, with a night of conversation at Greentown Labs!",
-      "link": "https://greentownlabs.com/event/energy-mavericks-book-launch/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "NordicLink 2026: Where Nordic Innovation Meets the US",
       "source": "Greentown Labs",
       "tag": "startup",
@@ -2054,6 +2017,15 @@
       "tag": "startup",
       "desc": "Founders, investors, and innovators kicking off Houston's energy and climate week!",
       "link": "https://greentownlabs.com/event/2026-houston-energy-climate-startup-week-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Energy Mavericks Book Launch",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "Celebrate the launch of Energy Mavericks, a candid look at the leaders and ideas reshaping the energy industry, with a night of conversation at Greentown Labs!",
+      "link": "https://greentownlabs.com/event/energy-mavericks-book-launch/",
       "time": "TBD"
     },
     {
@@ -5001,33 +4973,6 @@
     },
     {
       "date": "TBD",
-      "title": "The World We Want: Future Workshop + Good Beer",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Agent builders night - Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI-Biosecurity & Biosurveillance Meetup",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Tone & Totes",
       "source": "Luma",
       "tag": "talk",
@@ -5173,6 +5118,33 @@
     {
       "date": "TBD",
       "title": "Data in bloom: A happy hour for data-driven marketers",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "F*ckup Nights BOSTON // Vol VI",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RoboBoston: 9th Annual Robot Block Party !",
+      "source": "Luma",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Maum Market Boston",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
