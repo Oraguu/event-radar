@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-28T21:02:43.960245",
+  "scraped_at": "2026-08-29T14:52:26.756089",
   "event_count": 559,
   "events": [
-    {
-      "date": "2026-08-28",
-      "title": "4th MIT Global Humanities Forum on “Recovering Agency through Visual Arts amid Political Uncertainty and Exile” on August 28 (online)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Dear colleagues, students, and friends, Join us for the 2026 GHI 4th Forum, rescheduled to August 28! This session introduces the GHI Pillar Heritage, Memory & Identity, and its project: Relocating Agency amid Political Uncertainty and Exile 4th GHI Forum Title: Recovering Agency through Visual Arts",
-      "link": "https://calendar.mit.edu/event/4th-mit-global-humanities-forum-on-recovering-agency-through-visual-arts-amid-political-uncertainty-and-exile-on-august-28-online",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Chemistry Industrial Recruiting: Gilead",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Gilead Sciences Medicinal and Process Chemistry Departments are hiring for positions in Foster City, CA and will be conducting virtual on-campus interviews on August 28th. There will be a one-hour virtual Information session at 11:00am EST (12:00pm EDT) followed by 30 minute interviews. This is part",
-      "link": "https://calendar.mit.edu/event/chemistry-industrial-recruiting-gilead",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Men's Soccer vs. Boston University",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the men's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-boston-university-8464",
-      "time": "TBD",
-      "location": "Parsons Field"
-    },
     {
       "date": "2026-08-29",
       "title": "Men's Water Polo vs. Air Force",
@@ -802,6 +772,26 @@
       "location": ""
     },
     {
+      "date": "2026-09-16",
+      "title": "Sense of an Ending (Staged Reading)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Front Porch Arts Collective and MIT Theater Arts present A staged reading of Sense of an Ending by MIT Senior Lecturer Ken Urban directed by Pascale Florestal That night, it begins. The men, they come into the church. They take a few of the old ones. I hear these sounds out in the hills. Horrible ho",
+      "link": "https://calendar.mit.edu/event/sense-of-an-ending-staged-reading",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Open Rehearsal Event with the MIT Wind Ensemble",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "All woodwind, brass, and percussion musicians OPEN REHEARSAL EVENT with the MIT WIND ENSEMBLE Wednesday, September 16 7:30-8:30pm, Kresge Auditorium Play, Listen, and Experience theexcellence and community of ensemblemusic making at MIT Musicians interested in classical and jazz encouraged to attend",
+      "link": "https://calendar.mit.edu/event/open-rehearsal-event-with-the-mit-wind-ensemble",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
       "date": "2026-09-17",
       "title": "Open House for Latinx, Latin American, and Caribbean Program",
       "source": "Northeastern",
@@ -975,8 +965,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1405,6 +1395,15 @@
       "tag": "ai",
       "desc": "Genome-wide association studies (GWAS) have catalogued tens of thousands of disease-risk variants, yet for most the chain connecting a changed base to a changed cell to a changed tissue has never been measured. Risk variants often sit in a regulatory element, but naming the gene it controls, the cel",
       "link": "https://www.csail.mit.edu/event/thesis-defense-regulatory-circuitry-human-brain-linking-genetic-variation-cellular-mechanism",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE (NOEL LOO): \"Dataset Distillation: Fundamentals and Applications to Privacy\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "STAR Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-noel-loo-dataset-distillation-fundamentals-and-applications-privacy",
       "time": "TBD"
     },
     {
@@ -4973,15 +4972,6 @@
     },
     {
       "date": "TBD",
-      "title": "Tone & Totes",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "🍋The Last Squeeze Of Summer🍋",
       "source": "Luma",
       "tag": "talk",
@@ -5129,6 +5119,15 @@
       "title": "F*ckup Nights BOSTON // Vol VI",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Technical Career Fair - Job Seeker Registration",
+      "source": "Luma",
+      "tag": "networking",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
