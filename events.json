@@ -1,13 +1,13 @@
 {
-  "scraped_at": "2026-08-29T14:52:26.756089",
+  "scraped_at": "2026-08-30T14:36:38.335494",
   "event_count": 559,
   "events": [
     {
-      "date": "2026-08-29",
-      "title": "Men's Water Polo vs. Air Force",
+      "date": "2026-08-30",
+      "title": "Men's Water Polo vs. Wagner College",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 11:30 AM Location: Cambridge, MA / Harvard",
+      "desc": "Time: 10:30 AM Location: Cambridge, MA / Harvard",
       "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
       "time": "TBD",
       "location": ""
@@ -553,6 +553,16 @@
     },
     {
       "date": "2026-09-14",
+      "title": "Build Up Healthy Writing Habits with Writing Together Online (Challenge 1)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Writing Together Online offers the structured writing time to help you stay focused and productive during the busy fall months. Join our daily 90-minute writing sessions and become part of a community of scholars who connect online, set realistic goals, and write together in the spirit of accountabi",
+      "link": "https://calendar.mit.edu/event/copy-of-build-up-healthy-writing-habits-with-writing-together-online-challenge-1-9495",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-14",
       "title": "The Rise of ESG 2.0: Economy-Security-Geopolitics ",
       "source": "MIT",
       "tag": "talk",
@@ -780,16 +790,6 @@
       "link": "https://calendar.mit.edu/event/sense-of-an-ending-staged-reading",
       "time": "TBD",
       "location": "Building W97"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Open Rehearsal Event with the MIT Wind Ensemble",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "All woodwind, brass, and percussion musicians OPEN REHEARSAL EVENT with the MIT WIND ENSEMBLE Wednesday, September 16 7:30-8:30pm, Kresge Auditorium Play, Listen, and Experience theexcellence and community of ensemblemusic making at MIT Musicians interested in classical and jazz encouraged to attend",
-      "link": "https://calendar.mit.edu/event/open-rehearsal-event-with-the-mit-wind-ensemble",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
     },
     {
       "date": "2026-09-17",
@@ -4972,15 +4972,6 @@
     },
     {
       "date": "TBD",
-      "title": "🍋The Last Squeeze Of Summer🍋",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The Grove Makers Market 🌿",
       "source": "Luma",
       "tag": "talk",
@@ -5125,6 +5116,24 @@
     },
     {
       "date": "TBD",
+      "title": "BUILD617 Ribbon Cutting + Grand Opening",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BOST-Ig: An Ig Nobel Celebration",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Technical Career Fair - Job Seeker Registration",
       "source": "Luma",
       "tag": "networking",
@@ -5137,15 +5146,6 @@
       "title": "RoboBoston: 9th Annual Robot Block Party !",
       "source": "Luma",
       "tag": "robotics",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Maum Market Boston",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
