@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-08-30T14:36:38.335494",
-  "event_count": 559,
+  "scraped_at": "2026-08-31T17:20:07.361318",
+  "event_count": 561,
   "events": [
-    {
-      "date": "2026-08-30",
-      "title": "Men's Water Polo vs. Wagner College",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:30 AM Location: Cambridge, MA / Harvard",
-      "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-08-30",
-      "title": "Women's Soccer vs. New Hampshire",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the women's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-new-hampshire",
-      "time": "TBD",
-      "location": "Parsons Field"
-    },
     {
       "date": "2026-08-31",
       "title": "Summer 2026 Teaching Days",
@@ -253,6 +233,16 @@
     },
     {
       "date": "2026-09-08",
+      "title": "PDE/Analysis Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Robert Koirala (University of California, San Diego)",
+      "link": "https://calendar.mit.edu/event/pdeanalysis-seminar-3920",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-08",
       "title": "Write for the World: The Art of the Blog Post: Information Session",
       "source": "MIT",
       "tag": "talk",
@@ -278,6 +268,16 @@
       "tag": "talk",
       "desc": "Academic cover letters for faculty job applications are a little bit different than your typical industry cover letter. Join us to learn more about this specific document, what it should include, and how you can use it to make an impact. In this workshop, we will go over the document and its typical",
       "link": "https://calendar.mit.edu/event/faculty-job-search-series-crafting-the-academic-cover-letter",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Fiber Crafts Group",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "It's a good time to get creative and finish that project! The Fiber Crafts Group offers the space to craft online with friends. Meetings will be held via Zoom. Feel free to sign in at any time over the session, and stay for as long as you like. For a Zoom invite, please email Olimpia Caceres-Brown (",
+      "link": "https://calendar.mit.edu/event/fiber_crafts_group_471",
       "time": "TBD",
       "location": ""
     },
@@ -443,6 +443,16 @@
     },
     {
       "date": "2026-09-11",
+      "title": "MIT delta v Demo Day",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Audacious Founders. Consequential Companies. Come see and hear the 13 startups from our 2026 delta v cohort and celebrate entrepreneurship at MIT. Get inspired, see what is possible!",
+      "link": "https://calendar.mit.edu/event/mit-delta-v-demo-day",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-09-11",
       "title": "Outdoor Movie: Roman Holiday",
       "source": "MIT",
       "tag": "talk",
@@ -563,6 +573,26 @@
     },
     {
       "date": "2026-09-14",
+      "title": "High Performance Extreme Computing (HPEC) virtual conference",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18 2026) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE’s largest and most accessible US virtual conference. Register now at IEEE",
+      "link": "https://calendar.mit.edu/event/high-performance-extreme-computing-hpec-virtual-conference-2026",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-14",
+      "title": "HPEC virtual conference: Keynote Speaker- Danna Freedman (MIT)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Keynote Talk: Expanding Quantum: MIT’s Quantum Initiative Danna Freedman (MIT) The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-Danna-Freedman",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-14",
       "title": "The Rise of ESG 2.0: Economy-Security-Geopolitics ",
       "source": "MIT",
       "tag": "talk",
@@ -603,6 +633,16 @@
     },
     {
       "date": "2026-09-14",
+      "title": "HPEC virtual conference: ASIC and FPGA Advances",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "FastCode Session with Bruce Hoppe The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE’s largest and most accessible US virtual con",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-ASIC-FPGA-Advances",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-14",
       "title": "Woodcutters",
       "source": "MIT",
       "tag": "talk",
@@ -630,6 +670,16 @@
       "link": "https://calendar.mit.edu/event/an-evening-with-alex-counts-author-and-founder-of-the-grameen-foundation",
       "time": "TBD",
       "location": "Building W41"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "HPEC virtual conference: Keynote Speaker- Gregory Kurtzer (CIQ)",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Keynote Talk: Gregory Kurtzer, CEO CIQ & Founder of Rocky Linux, CentOS, Singularity/Apptaine Gregory Kurtzer The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ t",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-gregory-kurtzer-CIQ",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-15",
@@ -733,63 +783,13 @@
     },
     {
       "date": "2026-09-16",
-      "title": "The Dynamics of Power Politics",
+      "title": "HPEC virtual conference: Keynote Speaker- Dr. CJ Newburn (NVIDIA)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Professor Stacie Goddard from Wellesley College will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: This seminar will give an overview of an in-process book manuscript, The Dynamics of Power Politics (with Paul MacDonald and Daniel Nexon), which develops a rela",
-      "link": "https://calendar.mit.edu/event/the-dynamics-of-power-politics",
-      "time": "TBD",
-      "location": "Building E40"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Teaching in the Age of the Easy Button: Motivating Students to Embrace Desirable Difficulties and the Slow Work of Learning ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Teaching in the Age of the Easy Button: Motivating Students to Embrace Desirable Difficulties and the Slow Work of Learning Dr. Betsy Barre, Assistant Provost and Executive Director of the Center for the Advancement of Teaching at Wake Forest University Description In a recent Substack post, the cog",
-      "link": "https://calendar.mit.edu/event/teaching-in-the-age-of-the-easy-button-motivating-students-to-embrace-desirable-difficulties-and-the-slow-work-of-learning",
+      "desc": "Keynote Talk: Dr. CJ Newburn: Nvidia Distinguished Engineer; NVIDIA IO and HPC software strategy architect The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talk",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-cj-newburn",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Lie Groups Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: David Vogan (MIT) Title: Filtrations on Harish-Chandra modules Abstract: The algebra of functions on an affine algebraic variety is infinite-dimensional; but it is has (not canonically!) an increasing filtration by finite-dimensional subspaces. The growth of the dimensions of those subspace",
-      "link": "https://calendar.mit.edu/event/lie-groups-seminar-594",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "MIT-Harvard Seminar: Hemamala Karunadasa (Stanford University)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/mit-harvard-seminar-hemamala-karunadasa-stanford-university",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Ethan Partida (Brown) Title: Abstract:",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-7638",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Sense of an Ending (Staged Reading)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Front Porch Arts Collective and MIT Theater Arts present A staged reading of Sense of an Ending by MIT Senior Lecturer Ken Urban directed by Pascale Florestal That night, it begins. The men, they come into the church. They take a few of the old ones. I hear these sounds out in the hills. Horrible ho",
-      "link": "https://calendar.mit.edu/event/sense-of-an-ending-staged-reading",
-      "time": "TBD",
-      "location": "Building W97"
     },
     {
       "date": "2026-09-17",
@@ -806,10 +806,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
       "time": "TBD",
-      "location": ""
+      "location": "Renaissance Park"
     },
     {
       "date": "2026-09-17",
@@ -880,6 +880,16 @@
       "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-4730",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Bustan Abraham: Learn About Musical Coexistence",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "With guest speaker AMIR MILSTEIN, a founding member of Bustan Abraham Bustan Abraham consists of eight Israeli Jewish and Arab musicians, who reshaped the global world-music landscape as the first major Arab-Jewish musical collaboration. From 1992 to 2004, they toured the globe and were celebrated a",
+      "link": "https://calendar.northeastern.edu/event/bustan-abraham-learn-about-musical-coexistence",
+      "time": "TBD",
+      "location": "Renaissance_Park"
     },
     {
       "date": "2026-09-22",
@@ -962,11 +972,21 @@
     },
     {
       "date": "2026-09-30",
+      "title": "The Deafhood Movement: Post Colonialism, Settler Colonialism, or another Other?",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "This presentation examines the structural oppression and self-actualization of Sign Language Peoples through the analytical lens of colonial theory. Moving beyond traditional medical and disability frameworks, the discourse of Deafhood frames the historical suppression of sign languages and the hege",
+      "link": "https://calendar.northeastern.edu/event/the-deafhood-movement-post-colonialism-settler-colonialism-or-another-other",
+      "time": "TBD",
+      "location": "Cabral Center"
+    },
+    {
+      "date": "2026-09-30",
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -4972,15 +4992,6 @@
     },
     {
       "date": "TBD",
-      "title": "The Grove Makers Market 🌿",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "AI Researchers & Founders Happy Hour @ BASE-X",
       "source": "Luma",
       "tag": "ai",
@@ -5029,6 +5040,15 @@
       "title": "Climate Robotics Working Group: Kickoff Session",
       "source": "Luma",
       "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "A Short Nature Hike by Longevity Global and Health Innovation Community",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5116,6 +5136,15 @@
     },
     {
       "date": "TBD",
+      "title": "Boston Computational Biology Hackathon with Anthropic, Modal, and Flagship Pioneering",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "BUILD617 Ribbon Cutting + Grand Opening",
       "source": "Luma",
       "tag": "talk",
@@ -5137,15 +5166,6 @@
       "title": "Technical Career Fair - Job Seeker Registration",
       "source": "Luma",
       "tag": "networking",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "RoboBoston: 9th Annual Robot Block Party !",
-      "source": "Luma",
-      "tag": "robotics",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
