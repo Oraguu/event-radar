@@ -1,36 +1,7 @@
 {
-  "scraped_at": "2026-08-31T17:20:07.361318",
-  "event_count": 561,
+  "scraped_at": "2026-09-01T14:26:30.272044",
+  "event_count": 603,
   "events": [
-    {
-      "date": "2026-08-31",
-      "title": "Summer 2026 Teaching Days",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Summer 2026 Teaching Days Monday, August 31 through Thursday, September 3 Registration is now open! Before the start of each semester, TLL offers a series of workshops for TAs and teacher trainees to help them prepare for the roles and responsibilities of teaching at MIT. Topics include giving feedb",
-      "link": "https://calendar.mit.edu/event/summer-2026-teaching-days",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "McGovern Institute Special Seminar with Moataz Assem",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Monday, August 31, 2026 Time: 12:00 – 1:00 pm Location: Building 46, Seminar Room 3189 Talk Title: Interdigitated domain-general and domain-specific fine-grained patches: a new view of cognitive control in the human brain Abstract: Three decades of brain imaging consistently link the organizat",
-      "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-moataz-assem",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "2026 Defense Innovation Days",
-      "source": "MassRobotics",
-      "tag": "networking",
-      "desc": "Monday, August 31, 2026 - 4:30pm-7:00pm Opening Reception Tuesday, September 1, 2026 - 8:30am-4:30pm Technical Sessions and Networking Tuesday, September 1, 2026 - 4:30pm-6:00pm Reception Wednesday, September 2, 2026 - 8:30am-1:00pm […]",
-      "link": "https://www.massrobotics.org/event/2026-defense-innovation-days/",
-      "time": "TBD"
-    },
     {
       "date": "2026-09-01",
       "title": "Men's Soccer vs. Emmanuel College (Mass.)",
@@ -182,6 +153,25 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-09-03",
+      "title": "Boston Robot Hackers: Power Management in Robots",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/boston-robot-hackers-power-management-in-robots-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Physics PhD Thesis Defense by Simon Rothman",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "You are cordially invited to attend the following thesis defense. \"Towards a precision understanding of the strong nuclear force\" Presented by Simon Rothman Date: Friday, September 4, 2026 Time: 1:30 PM Location: Kolker Room Committee: Philip Harris, Iain Stewart, Gian Innocenti Best of luck to Simo",
+      "link": "https://calendar.mit.edu/event/physics-phd-thesis-defense-simon_rothman",
+      "time": "TBD",
+      "location": "Building 26"
+    },
+    {
       "date": "2026-09-04",
       "title": "Outdoor Movie: Encanto",
       "source": "MIT",
@@ -303,6 +293,16 @@
     },
     {
       "date": "2026-09-09",
+      "title": "Building an Effective Resume",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Preparing application materials for your next opportunity? Whether you're an undergraduate exploring UROPs, internships, and entry-level roles, or a graduate student or postdoc transitioning to industry, this workshop will equip you with the strategies to craft an effective resume. In this session, ",
+      "link": "https://calendar.mit.edu/event/building-an-effective-resume",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-09-09",
       "title": "MIT Ballroom Dance Camp 2026 (Day 1)",
       "source": "MIT",
       "tag": "talk",
@@ -310,6 +310,15 @@
       "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-no-prior-dance-experience-needed",
       "time": "TBD",
       "location": "Building W20: Stratton Student Center"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Humanoid Robots Summit Europe 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Following the sold-out success of EHRS Berlin, Europe’s premier humanoid robotics summit moves to Stuttgart’s Kultur- und Kongresszentrum Liederhalle. Uniting 40+ leading exhibitors and global industry leaders, this hybrid event […]",
+      "link": "https://www.massrobotics.org/event/humanoid-robots-summit-europe-2026/",
+      "time": "TBD"
     },
     {
       "date": "2026-09-10",
@@ -320,6 +329,16 @@
       "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-4701",
       "time": "TBD",
       "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Drop by CAPD: Office hours for first-years & sophomores",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Kick off your semester by coming to CAPD office hours, designed just for first years and sophomores! Drop by to ask your career questions. Whether you're preparing for an upcoming career fair, exploring career paths, thinking through your career goals for the semester, or just want to come say hi, w",
+      "link": "https://calendar.mit.edu/event/drop-by-capd-office-hours-for-first-years-sophomores",
+      "time": "TBD",
+      "location": "Building 7"
     },
     {
       "date": "2026-09-10",
@@ -662,6 +681,15 @@
       "location": ""
     },
     {
+      "date": "2026-09-14",
+      "title": "International Manufacturing Technology Show",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Dive deeper into the latest and greatest updates across four overarching technology areas – additive manufacturing, automation and robotics, digital manufacturing, and metalworking.",
+      "link": "https://www.massrobotics.org/event/international-manufacturing-technology-show/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-09-15",
       "title": "An Evening with Alex Counts, Author and Founder of the Grameen Foundation",
       "source": "MIT",
@@ -743,6 +771,16 @@
     },
     {
       "date": "2026-09-15",
+      "title": "How to work a career fair as a first year",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Does the idea of a career fair overwhelm and intimidate you? If so, come to the Q&A with MIT students who have braved career fairs in the past. This session will focus on the Fall Career Fair, but these tips and insights can apply to any of the annual career fairs happening on/near campus. Learn how",
+      "link": "https://calendar.mit.edu/event/how-to-work-a-career-fair-as-a-first-year-9077",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-09-15",
       "title": "Fall Volunteer Fair",
       "source": "Northeastern",
       "tag": "talk",
@@ -772,6 +810,15 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-09-15",
+      "title": "AI Infra-summit",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "AI Infrastructure’s Ultimate Stage The Physical AI track at AI Infra Summit (September 15-17, Santa Clara Convention Center) brings together the engineers and researchers solving the hardest problems in embodied […]",
+      "link": "https://www.massrobotics.org/event/ai-infra-summit/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-09-16",
       "title": "Community Service Fund Book Sale",
       "source": "MIT",
@@ -782,12 +829,12 @@
       "location": "Kendall/MIT Open Space"
     },
     {
-      "date": "2026-09-16",
-      "title": "HPEC virtual conference: Keynote Speaker- Dr. CJ Newburn (NVIDIA)",
-      "source": "MIT",
+      "date": "2026-09-17",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
       "tag": "talk",
-      "desc": "Keynote Talk: Dr. CJ Newburn: Nvidia Distinguished Engineer; NVIDIA IO and HPC software strategy architect The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talk",
-      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-cj-newburn",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduate-fellowship-writing-club",
       "time": "TBD",
       "location": ""
     },
@@ -806,10 +853,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-17",
@@ -820,6 +867,15 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-nora-ayanian-brown-university",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "The Future of Robo-Taxis",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Robo-taxis are rapidly emerging as one of the most transformative developments in urban mobility. What began as limited autonomous vehicle pilots has evolved into early commercial deployments across major cities, […]",
+      "link": "https://www.massrobotics.org/event/the-future-of-robo-taxis/",
+      "time": "TBD"
     },
     {
       "date": "2026-09-18",
@@ -862,6 +918,15 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-09-19",
+      "title": "Robotic, Innovation and Surgical Excellence",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Robotic, Innovation and Surgical Excellence, UK Conference | RISE-UK 2026 Discover the future of surgery at the region’s premier gathering of thought leaders, innovators, and pioneers in robotic-assisted procedures. Whether you're a […]",
+      "link": "https://www.massrobotics.org/event/robotic-innovation-and-surgical-excellence/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-09-21",
       "title": "Fusion Book Club: Social & Book Recommendation Swap",
       "source": "Northeastern",
@@ -893,6 +958,33 @@
     },
     {
       "date": "2026-09-22",
+      "title": "NXP Tech Days Boston",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join NXP Technology Days Boston on September 22 to explore the technologies driving the next generation of industrial automation, robotics, edge AI, and connected systems. Through hands-on workshops, expert-led sessions, […]",
+      "link": "https://www.massrobotics.org/event/nxp-tech-days-boston/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Humanoids Summit Seoul",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "After uniting more than 2,000 leaders from 30+ countries in Tokyo, the Humanoids Summit is bringing its global conversation on humanoid robotics and Physical AI to South Korea this September […]",
+      "link": "https://www.massrobotics.org/event/humanoids-summit-seoul/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "ROSCon 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "ROScon 2026 - more information tbd",
+      "link": "https://www.massrobotics.org/event/roscon-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-09-22",
       "title": "BioProcess International",
       "source": "Conference",
       "tag": "manufacturing",
@@ -917,6 +1009,16 @@
       "tag": "talk",
       "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership through The Gordon Institute as a stand-alone certificate or in combination with one of 25+ Master of Science degrees […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University Colle",
       "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-4392",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduate-fellowship-writing-club-6787",
       "time": "TBD",
       "location": ""
     },
@@ -961,6 +1063,33 @@
       "location": ""
     },
     {
+      "date": "2026-09-25",
+      "title": "MassRobotics RoboBoston Career Fair",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/massrobotics-roboboston-career-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "RoboBoston: 9th Annual Robot Block Party !",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/event/roboboston-9th-annual-robot-block-party/",
+      "time": "TBD"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "IROS 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The International Conference on Intelligent Robotics and Systems (IROS) will convene in Pittsburgh from September 27 to October 1, bringing together world-leading researchers, educators, government leaders, startups, industry innovators, practitioners, […]",
+      "link": "https://www.massrobotics.org/event/iros-2026/",
+      "time": "TBD"
+    },
+    {
       "date": "2026-09-29",
       "title": "Men's Soccer vs. Harvard",
       "source": "Northeastern",
@@ -985,8 +1114,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1182,6 +1311,16 @@
     },
     {
       "date": "2026-10-27",
+      "title": "Digital Practice Workshop Series: KnightLab Tools ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come and learn about the potentials of open publishing using Knight Lab tools! This workshop, led by CDS Coordinator Colleen Nugent McLean and Digital Projects Archivist Shireen Zaineb, will cover the benefits of open source digital scholarship tools, and provide detailed instructions on using Timel",
+      "link": "https://calendar.northeastern.edu/event/digital-practice-workshop-series-knightlab-tools",
+      "time": "TBD",
+      "location": "Snell Library, Centers for Digital Scholarship "
+    },
+    {
+      "date": "2026-10-27",
       "title": "Tough Tech Summit 2026",
       "source": "The Engine",
       "tag": "startup",
@@ -1197,7 +1336,7 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -1374,20 +1513,20 @@
     },
     {
       "date": "TBD",
-      "title": "Massive Parallelization of Irregular Computations: Parallel Algorithm Design and Hardware Acceleration",
-      "source": "MIT CSAIL",
-      "tag": "startup",
-      "desc": "AbstractDeveloping efficient parallel algorithms is challenging, particularly for irregular computations where data dependencies inherently constrain available concurrency, and much of the parallelism remains deeply hidden. At the implementation level, complex execution patterns, nonuniform memory a",
-      "link": "https://www.csail.mit.edu/event/massive-parallelization-irregular-computations-parallel-algorithm-design-and-hardware",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation",
       "source": "MIT CSAIL",
       "tag": "robotics",
       "desc": "Patil/Kiva Conference Room",
       "link": "https://www.csail.mit.edu/event/thesis-defense-nicholas-pfaff-generating-simulation-ready-worlds-robot-learning-and",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "THESIS DEFENSE (NOEL LOO): \"Dataset Distillation: Fundamentals and Applications to Privacy\"",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "STAR Conference Room",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-noel-loo-dataset-distillation-fundamentals-and-applications-privacy",
       "time": "TBD"
     },
     {
@@ -1415,15 +1554,6 @@
       "tag": "ai",
       "desc": "Genome-wide association studies (GWAS) have catalogued tens of thousands of disease-risk variants, yet for most the chain connecting a changed base to a changed cell to a changed tissue has never been measured. Risk variants often sit in a regulatory element, but naming the gene it controls, the cel",
       "link": "https://www.csail.mit.edu/event/thesis-defense-regulatory-circuitry-human-brain-linking-genetic-variation-cellular-mechanism",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE (NOEL LOO): \"Dataset Distillation: Fundamentals and Applications to Privacy\"",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-noel-loo-dataset-distillation-fundamentals-and-applications-privacy",
       "time": "TBD"
     },
     {
@@ -1493,8 +1623,8 @@
       "date": "TBD",
       "title": "Events",
       "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Private - MassRobotics Residents only",
+      "tag": "networking",
+      "desc": "Monday, August 31, 2026 - 4:30pm-7:00pm Opening Reception Tuesday, September 1, 2026 - 8:30am-4:30pm Technical Sessions and Networking Tuesday, September 1, 2026 - 4:30pm-6:00pm Reception Wednesday, September 2, 2026 - 8:30am-1:00pm […]",
       "link": "https://www.massrobotics.org/eventscalendar/month/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
@@ -1520,9 +1650,9 @@
       "date": "TBD",
       "title": "M Monday",
       "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Private - MassRobotics Residents only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-07-28/?shortcode=f0b1cb7d",
+      "tag": "networking",
+      "desc": "Monday, August 31, 2026 - 4:30pm-7:00pm Opening Reception Tuesday, September 1, 2026 - 8:30am-4:30pm Technical Sessions and Networking Tuesday, September 1, 2026 - 4:30pm-6:00pm Reception Wednesday, September 2, 2026 - 8:30am-1:00pm […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-08-31/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -1581,312 +1711,6 @@
     },
     {
       "date": "TBD",
-      "title": "2 events 28",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Private - MassRobotics Residents only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-07-28/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 28",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Private - MassRobotics Residents only",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-07-28/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Optikos Office Hours",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Private - MassRobotics Residents only",
-      "link": "https://www.massrobotics.org/event/optikos-office-hours-2/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Women in Robotics Summer Networking Event",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Connect, share, and grow—a chance to network with peers, chat with mentors, and build connections with others in the field. ​Join fellow women in robotics at Area Four in Cambridge sponsored […]",
-      "link": "https://www.massrobotics.org/event/women-in-robotics-summer-networking-event/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 30",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents Only Learn more about MassRobotics Residents here",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-07-30/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 30",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents Only Learn more about MassRobotics Residents here",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-07-30/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Resident Ice Cream Social",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents Only Learn more about MassRobotics Residents here",
-      "link": "https://www.massrobotics.org/event/resident-ice-cream-social-2/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 1",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "A hands-on, community-driven \"Embodied / Physical AI\" hackathon focused on a unique theme: cooking with robot arms! Teams of 4–5 builders will work together to prototype creative, hardware-driven projects with […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-01/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 1",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "A hands-on, community-driven \"Embodied / Physical AI\" hackathon focused on a unique theme: cooking with robot arms! Teams of 4–5 builders will work together to prototype creative, hardware-driven projects with […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-01/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Revolute Hack",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/events/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 2",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-02/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 2",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-02/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events 11",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "examines three essential categories of planning considerations: infrastructure and spatial readiness, land use integration, and governance frameworks for equity and community engagement.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-11/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 11",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "examines three essential categories of planning considerations: infrastructure and spatial readiness, land use integration, and governance frameworks for equity and community engagement.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-11/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Robots in Public: Preparing through an Urban Planner’s Lens- US",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "examines three essential categories of planning considerations: infrastructure and spatial readiness, land use integration, and governance frameworks for equity and community engagement.",
-      "link": "https://www.massrobotics.org/event/robots-in-public-preparing-through-an-urban-planners-lens-us/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Co-op and Intern Summer Lunch",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics resident interns and co-ops only.",
-      "link": "https://www.massrobotics.org/event/co-op-and-intern-summer-lunch/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events 13",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join Rami Mouro for a hands-on build-along session with the Qualcomm Dragonwing™ IQ9. Explore how easy it is to build and deploy intelligent robotics applications on a powerful, production-ready platform. […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-13/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "2 events, 13",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join Rami Mouro for a hands-on build-along session with the Qualcomm Dragonwing™ IQ9. Explore how easy it is to build and deploy intelligent robotics applications on a powerful, production-ready platform. […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-13/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Qualcomm Dragonwing™ IQ9 Build-Along Lunch & Learn",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join Rami Mouro for a hands-on build-along session with the Qualcomm Dragonwing™ IQ9. Explore how easy it is to build and deploy intelligent robotics applications on a powerful, production-ready platform. […]",
-      "link": "https://www.massrobotics.org/event/qualcomm-dragonwing-iq9-build-along-lunch-learn/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "MassRobotics’ Robosource 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Join us for a Robotics Showcase, Networking and talks at Venture Cafe’s Thursday Gathering.",
-      "link": "https://www.massrobotics.org/event/massrobotics-robosource-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 18",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Drawing on firsthand experiences from Veo Robotics, this talk examines the practical realities of bringing novel functional safety technology into manufacturing environments. We'll discuss robotics safety standards, functional safety compliance, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-18/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 18",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Drawing on firsthand experiences from Veo Robotics, this talk examines the practical realities of bringing novel functional safety technology into manufacturing environments. We'll discuss robotics safety standards, functional safety compliance, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-18/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI Working Group",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Drawing on firsthand experiences from Veo Robotics, this talk examines the practical realities of bringing novel functional safety technology into manufacturing environments. We'll discuss robotics safety standards, functional safety compliance, […]",
-      "link": "https://www.massrobotics.org/event/ai-working-group/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 19",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "examines three essential categories of planning considerations: infrastructure and spatial readiness, land use integration, and governance frameworks for equity and community engagement.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-19/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 19",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "examines three essential categories of planning considerations: infrastructure and spatial readiness, land use integration, and governance frameworks for equity and community engagement.",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-19/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 20",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Liz Jackson, Acting Director of the US Patent and Trademark Office’s Northeast Regional Outreach Office will teach the fundamental of intellectual property—patents, trademarks, copyrights, and trade secrets—and explain their value […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-20/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 20",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Liz Jackson, Acting Director of the US Patent and Trademark Office’s Northeast Regional Outreach Office will teach the fundamental of intellectual property—patents, trademarks, copyrights, and trade secrets—and explain their value […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-20/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "USPTO Fundamentals of Intellectual Property",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Liz Jackson, Acting Director of the US Patent and Trademark Office’s Northeast Regional Outreach Office will teach the fundamental of intellectual property—patents, trademarks, copyrights, and trade secrets—and explain their value […]",
-      "link": "https://www.massrobotics.org/event/uspto-fundamentals-of-intellectual-property/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 26",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MD's embedded and robotics team is coming to MassRobotics for an afternoon dedicated to physical AI builders. Over lunch, AMD will break down what their latest hardware announcements mean for […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-26/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 26",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MD's embedded and robotics team is coming to MassRobotics for an afternoon dedicated to physical AI builders. Over lunch, AMD will break down what their latest hardware announcements mean for […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-26/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "MassRobotics x AMD | Physical AI Lunch + Learn",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MD's embedded and robotics team is coming to MassRobotics for an afternoon dedicated to physical AI builders. Over lunch, AMD will break down what their latest hardware announcements mean for […]",
-      "link": "https://www.massrobotics.org/event/massrobotics-x-amd-physical-ai-lunch-learn/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 27",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents only Learn more about MassRobotics Residents here",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-27/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 27",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents only Learn more about MassRobotics Residents here",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-08-27/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Resident Happy Hour",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "MassRobotics Residents only Learn more about MassRobotics Residents here",
-      "link": "https://www.massrobotics.org/event/resident-happy-hour-7/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "1 event 31",
       "source": "MassRobotics",
       "tag": "networking",
@@ -1914,6 +1738,24 @@
     },
     {
       "date": "TBD",
+      "title": "1 event 1",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-01/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 1",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-01/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "2 events 2",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -1937,6 +1779,555 @@
       "tag": "robotics",
       "desc": "Join us for an evening of pickle ball, cold beers and warm conversations at Harpoon Brewery in Boston's Seaport. MassRobotics and Wells Fargo are bringing together VCs and robotics founders […]",
       "link": "https://www.massrobotics.org/event/pickleball-at-harpoon-with-wells-fargo/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 3",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Alan Kilian, a long time software and hardware person with a lifelong passion for Robotics will speak about aspects of power for robots. Batteries, Measurement, Circuitry and more.",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-03/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 3",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Alan Kilian, a long time software and hardware person with a lifelong passion for Robotics will speak about aspects of power for robots. Batteries, Measurement, Circuitry and more.",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-03/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Robot Hackers: Power Management in Robots",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Alan Kilian, a long time software and hardware person with a lifelong passion for Robotics will speak about aspects of power for robots. Batteries, Measurement, Circuitry and more.",
+      "link": "https://www.massrobotics.org/event/boston-robot-hackers-power-management-in-robots-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 9",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Following the sold-out success of EHRS Berlin, Europe’s premier humanoid robotics summit moves to Stuttgart’s Kultur- und Kongresszentrum Liederhalle. Uniting 40+ leading exhibitors and global industry leaders, this hybrid event […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-09/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 9",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Following the sold-out success of EHRS Berlin, Europe’s premier humanoid robotics summit moves to Stuttgart’s Kultur- und Kongresszentrum Liederhalle. Uniting 40+ leading exhibitors and global industry leaders, this hybrid event […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-09/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Humanoid Robots Summit Europe 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "4 events 10",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The Bay Area Robotics Association (BARA) and ALM Ventures invite you to our bimonthly series of half-day events connecting robotics and physical AI startups with investors, engineers, and industry leaders. […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-10/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "4 events, 10",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The Bay Area Robotics Association (BARA) and ALM Ventures invite you to our bimonthly series of half-day events connecting robotics and physical AI startups with investors, engineers, and industry leaders. […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-10/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BARA Series: September Meeting",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The Bay Area Robotics Association (BARA) and ALM Ventures invite you to our bimonthly series of half-day events connecting robotics and physical AI startups with investors, engineers, and industry leaders. […]",
+      "link": "https://www.massrobotics.org/event/bara-series-september-meeting/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "How Early Safety Accelerates Product",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "For robotics startups, early safety engineering can be a direct accelerator from prototype to pilot, market entry, and the next funding round. When safety is built in early, it helps […]",
+      "link": "https://www.massrobotics.org/event/how-early-safety-accelerates-product/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Climate Robotics Working Group: Kickoff Session",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Deploying robots to leave the planet better than we found it ​Join us September 10 for the first meeting of the MassRobotics Climate Robotics Working Group! This first session is […]",
+      "link": "https://www.massrobotics.org/event/climate-robotics-working-group-kickoff-session/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 11",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-11/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 11",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-11/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 14",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Dive deeper into the latest and greatest updates across four overarching technology areas – additive manufacturing, automation and robotics, digital manufacturing, and metalworking.",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-14/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 14",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Dive deeper into the latest and greatest updates across four overarching technology areas – additive manufacturing, automation and robotics, digital manufacturing, and metalworking.",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-14/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "International Manufacturing Technology Show",
+      "source": "MassRobotics",
+      "tag": "manufacturing",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Functional Safety and Cybersecurity for AI-Enabled Systems: An Expert Panel",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "What You’ll Learn How do you keep connected and remotely accessible systems both secure and safe as AI takes on a larger role in how they behave? As safety-critical systems, […]",
+      "link": "https://www.massrobotics.org/event/functional-safety-and-cybersecurity-for-ai-enabled-systems-an-expert-panel/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events 15",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "AI Infrastructure’s Ultimate Stage The Physical AI track at AI Infra Summit (September 15-17, Santa Clara Convention Center) brings together the engineers and researchers solving the hardest problems in embodied […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-15/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events, 15",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "AI Infrastructure’s Ultimate Stage The Physical AI track at AI Infra Summit (September 15-17, Santa Clara Convention Center) brings together the engineers and researchers solving the hardest problems in embodied […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-15/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI Infra-summit",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Women in Robotics Fall Meetup",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us at Boston's Women in Robotics Fall Meetup, hosted by Tutor Intelligence. Come connect with the incredible Boston-area women who are defining and building the future of robotics– from senior leaders, […]",
+      "link": "https://www.massrobotics.org/event/boston-women-in-robotics-fall-meetup/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events 16",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us at MassRobotics during Startup Boston Week for an exclusive information session on Wednesday, September 16th from 2:00 - 4:00. ​Whether you're building your first prototype or scaling a […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-16/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events, 16",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us at MassRobotics during Startup Boston Week for an exclusive information session on Wednesday, September 16th from 2:00 - 4:00. ​Whether you're building your first prototype or scaling a […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-16/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Inside MassRobotics: Open House for Robotics Startups",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join us at MassRobotics during Startup Boston Week for an exclusive information session on Wednesday, September 16th from 2:00 - 4:00. ​Whether you're building your first prototype or scaling a […]",
+      "link": "https://www.massrobotics.org/event/inside-massrobotics-open-house-for-robotics-startups/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "4 events 17",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Robo-taxis are rapidly emerging as one of the most transformative developments in urban mobility. What began as limited autonomous vehicle pilots has evolved into early commercial deployments across major cities, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-17/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "4 events, 17",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Robo-taxis are rapidly emerging as one of the most transformative developments in urban mobility. What began as limited autonomous vehicle pilots has evolved into early commercial deployments across major cities, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-17/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Future of Robo-Taxis",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Yorkseed Frontier Day · Boston",
+      "source": "MassRobotics",
+      "tag": "ai",
+      "desc": "From Physical AI to AI Applications ​Yorkseed Frontier Day is a curated day connecting frontier technology with the investors, researchers, founders, and institutions shaping what comes next: deep tech, Physical […]",
+      "link": "https://www.massrobotics.org/event/yorkseed-frontier-day-%c2%b7-boston/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 18",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-18/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 18",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-18/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 19",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Robotic, Innovation and Surgical Excellence, UK Conference | RISE-UK 2026 Discover the future of surgery at the region’s premier gathering of thought leaders, innovators, and pioneers in robotic-assisted procedures. Whether you're a […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-19/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 19",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Robotic, Innovation and Surgical Excellence, UK Conference | RISE-UK 2026 Discover the future of surgery at the region’s premier gathering of thought leaders, innovators, and pioneers in robotic-assisted procedures. Whether you're a […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-19/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotic, Innovation and Surgical Excellence",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 20",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-20/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 20",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-20/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events 22",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join NXP Technology Days Boston on September 22 to explore the technologies driving the next generation of industrial automation, robotics, edge AI, and connected systems. Through hands-on workshops, expert-led sessions, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-22/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "3 events, 22",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join NXP Technology Days Boston on September 22 to explore the technologies driving the next generation of industrial automation, robotics, edge AI, and connected systems. Through hands-on workshops, expert-led sessions, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-22/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "NXP Tech Days Boston",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Humanoids Summit Seoul",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ROSCon 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 23",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-23/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 23",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-23/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 24",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "​The MassRobotics Ecosystem Network Reception for RoboBoston 2026 is by invitation only. ​MassRobotics sponsors, leaders in the robotics ecosystem, and our resident startup CEO/CTOs are invited to attend. ​Learn more […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-24/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 24",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "​The MassRobotics Ecosystem Network Reception for RoboBoston 2026 is by invitation only. ​MassRobotics sponsors, leaders in the robotics ecosystem, and our resident startup CEO/CTOs are invited to attend. ​Learn more […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-24/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MassRobotics Ecosystem Reception",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "​The MassRobotics Ecosystem Network Reception for RoboBoston 2026 is by invitation only. ​MassRobotics sponsors, leaders in the robotics ecosystem, and our resident startup CEO/CTOs are invited to attend. ​Learn more […]",
+      "link": "https://www.massrobotics.org/event/massrobotics-ecosystem-reception/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 25",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics is hosting a MassRobotics RoboBoston Career Fair on September 25, 2026, taking place prior to the Robot Block Party. This event will connect robotics and AI talent with leading companies […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-25/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 25",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics is hosting a MassRobotics RoboBoston Career Fair on September 25, 2026, taking place prior to the Robot Block Party. This event will connect robotics and AI talent with leading companies […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-25/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MassRobotics RoboBoston Career Fair",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "MassRobotics is hosting a MassRobotics RoboBoston Career Fair on September 25, 2026, taking place prior to the Robot Block Party. This event will connect robotics and AI talent with leading companies […]",
+      "link": "https://www.massrobotics.org/event/massrobotics-roboboston-career-fair/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 26",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "RoboBoston is a celebration showcasing universities, startups, companies and student teams with cutting-edge robotics, AI and technology. ​This year’s 9th Annual Robot Block Party, free and open to the public, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-26/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 26",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "RoboBoston is a celebration showcasing universities, startups, companies and student teams with cutting-edge robotics, AI and technology. ​This year’s 9th Annual Robot Block Party, free and open to the public, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-26/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "RoboBoston: 9th Annual Robot Block Party !",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "RoboBoston is a celebration showcasing universities, startups, companies and student teams with cutting-edge robotics, AI and technology. ​This year’s 9th Annual Robot Block Party, free and open to the public, […]",
+      "link": "https://www.massrobotics.org/event/roboboston-9th-annual-robot-block-party/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 27",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The International Conference on Intelligent Robotics and Systems (IROS) will convene in Pittsburgh from September 27 to October 1, bringing together world-leading researchers, educators, government leaders, startups, industry innovators, practitioners, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-27/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 27",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "The International Conference on Intelligent Robotics and Systems (IROS) will convene in Pittsburgh from September 27 to October 1, bringing together world-leading researchers, educators, government leaders, startups, industry innovators, practitioners, […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-27/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "IROS 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/events/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 28",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Early stage robotics startups provide a 3-minute pitch to a panel of judges at the IROS conference 2026 The Robotics Pitchfest is an exciting opportunity for early-stage robotics startups to showcase […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-28/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 28",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Early stage robotics startups provide a 3-minute pitch to a panel of judges at the IROS conference 2026 The Robotics Pitchfest is an exciting opportunity for early-stage robotics startups to showcase […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-28/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Robotics Startup Pitchfest at IROS 2026",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Early stage robotics startups provide a 3-minute pitch to a panel of judges at the IROS conference 2026 The Robotics Pitchfest is an exciting opportunity for early-stage robotics startups to showcase […]",
+      "link": "https://www.massrobotics.org/event/robotics-startup-pitchfest-at-iros-2026/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 29",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-29/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 29",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-29/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event 30",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-30/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "1 event, 30",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-30/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -4992,24 +5383,6 @@
     },
     {
       "date": "TBD",
-      "title": "AI Researchers & Founders Happy Hour @ BASE-X",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The Boston Data Party Trivia Night",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "The AI Runtime - Boston",
       "source": "Luma",
       "tag": "ai",
@@ -5037,9 +5410,9 @@
     },
     {
       "date": "TBD",
-      "title": "Climate Robotics Working Group: Kickoff Session",
+      "title": "Your First Customer Might Be the Government",
       "source": "Luma",
-      "tag": "robotics",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5085,6 +5458,15 @@
       "title": "Datapoints Summit: AI & Tech in Drug Discovery",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "A Night at the Museum of Ice Cream",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5145,6 +5527,15 @@
     },
     {
       "date": "TBD",
+      "title": "International Acceleration Day, by Fintech Sandbox",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "BUILD617 Ribbon Cutting + Grand Opening",
       "source": "Luma",
       "tag": "talk",
@@ -5157,15 +5548,6 @@
       "title": "BOST-Ig: An Ig Nobel Celebration",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Technical Career Fair - Job Seeker Registration",
-      "source": "Luma",
-      "tag": "networking",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
