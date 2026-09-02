@@ -1,77 +1,7 @@
 {
-  "scraped_at": "2026-09-01T14:26:30.272044",
-  "event_count": 603,
+  "scraped_at": "2026-09-02T13:59:33.248285",
+  "event_count": 595,
   "events": [
-    {
-      "date": "2026-09-01",
-      "title": "Men's Soccer vs. Emmanuel College (Mass.)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 4:00 PM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Women's Soccer vs. Gordon College",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 7:00 PM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Zoom to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northea",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-6960",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Staff Training: Creating Accessible Meetings and Events at SEAS",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "The SEAS Office for Belonging, Engagement, and Community is collaborating with University Disability Resources (UDR) and Disability Accessibility Services (DAS) to cover best practices and strategies for planning and hosting accessible events at SEAS. Participants will learn about accessibility requ",
-      "link": "https://events.seas.harvard.edu/event/staff-training-creating-accessible-meetings-and-events-at-seas",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Harvard Welcome Block Party",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Join us for the annual Welcome Block Party! Whether you are new to Harvard or returning for another year, come celebrate the start of the new academic year with free food, a resource fair, a Harvard merch raffle, music, lawn games, pet therapy, and more! We are part of the Plaza Open Market with a f",
-      "link": "https://events.seas.harvard.edu/event/harvard-welcome-block-party",
-      "time": "TBD",
-      "location": "Science Center Plaza Tent"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Commercial UAV Expo",
-      "source": "Conference",
-      "tag": "drones",
-      "desc": "Leading commercial UAS trade show. Las Vegas.",
-      "link": "https://www.expouav.com/",
-      "time": "All Day"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "HackMIT 2026",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "MIT's flagship hackathon. 1,000+ hackers, top sponsors, prizes. Usually mid-September. Check hackmit.org for exact dates.",
-      "link": "https://hackmit.org/",
-      "time": "All Day",
-      "pick": true,
-      "pickNote": "MIT's flagship hackathon. Apply early — competitive admission"
-    },
     {
       "date": "2026-09-02",
       "title": "MIT Libraries: Resources and Services for Graduate Students",
@@ -173,6 +103,16 @@
     },
     {
       "date": "2026-09-04",
+      "title": "Men's Soccer vs. Suffolk University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 3:00 PM Location: Boston, MA",
+      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-04",
       "title": "Outdoor Movie: Encanto",
       "source": "MIT",
       "tag": "talk",
@@ -180,6 +120,26 @@
       "link": "https://calendar.mit.edu/event/outdoor-movie-encanto",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "International Christian Fellowship",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "International Students & others desiring to connect with followers of Jesus. Join us to study the Bible together and pray for each other. We want to welcome you to be part of our community and offer an exchange as we can speak in English at varying levels and create a comforting and hospitable place",
+      "link": "https://calendar.mit.edu/event/international-christian-fellowship",
+      "time": "TBD",
+      "location": "MIT Building W11"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Women's Soccer vs. New York University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 1:00 PM Location: Newark, N.J. / Lubetkin Field at Mal Simon Stadium (NJIT)",
+      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-05",
@@ -213,6 +173,16 @@
     },
     {
       "date": "2026-09-08",
+      "title": "SA+P Procession: The Living Bucentaur",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Beginning in Lobby 7 and moving toward the MET, a procession directed by Professor Azra Aksamija and co-developed with students, staff, and faculty across all disciplines of the MIT School of Aarchitecture and Planning (SA+P), reimagines MIT’s 1916 ceremonial barge as a collective act of movement an",
+      "link": "https://calendar.mit.edu/event/sap-procession-the-living-bucentaur",
+      "time": "TBD",
+      "location": "Building 7"
+    },
+    {
+      "date": "2026-09-08",
       "title": "Online Seminar On Undergraduate Mathematics Education",
       "source": "MIT",
       "tag": "talk",
@@ -226,7 +196,7 @@
       "title": "PDE/Analysis Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Robert Koirala (University of California, San Diego)",
+      "desc": "Speaker: Robert Koirala (University of California, San Diego) Title: Structure Theory of Parabolic Zero and Singular Sets Abstract: I will discuss the structure theory of zero and singular sets of solutions to parabolic PDEs, drawing an analogy with the corresponding theory in the polynomial setting",
       "link": "https://calendar.mit.edu/event/pdeanalysis-seminar-3920",
       "time": "TBD",
       "location": "Building 2"
@@ -339,6 +309,16 @@
       "link": "https://calendar.mit.edu/event/drop-by-capd-office-hours-for-first-years-sophomores",
       "time": "TBD",
       "location": "Building 7"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Susanna Berkouwer (UPenn)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/susanna-berkouwer",
+      "time": "TBD",
+      "location": "Building E51"
     },
     {
       "date": "2026-09-10",
@@ -615,7 +595,7 @@
       "title": "The Rise of ESG 2.0: Economy-Security-Geopolitics ",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Marcos Troyjo Robert E. Wilhelm Fellow, 2026 Former President, New Development Bank; Former Deputy Minister of the Economy, Brazil Please RSVP here. This seminar will be held in E40-496 (Pye Room). Lunch will be available. Contact cis-info@mit.edu with any questions. This event is part of the CIS Gl",
+      "desc": "For decades, nations and businesses operated in a globalization-intensive world that prized supply chain efficiency and integration, while Environmental, Social, and Governance (ESG) criteria increasingly influenced investment decisions and corporate behavior. Recent shocks, from the COVID-19 pandem",
       "link": "https://calendar.mit.edu/event/the-rise-of-esg-20-economy-security-geopolitics",
       "time": "TBD",
       "location": "Building E40"
@@ -642,7 +622,7 @@
     },
     {
       "date": "2026-09-14",
-      "title": "TBA",
+      "title": "Optimal Tariffs under Geopolitical Risk: A Theory of Strategic De-risking, joint with Ahmad Lashkaripour",
       "source": "MIT",
       "tag": "talk",
       "desc": "Ina Simonovska, UC Davis",
@@ -701,86 +681,6 @@
     },
     {
       "date": "2026-09-15",
-      "title": "HPEC virtual conference: Keynote Speaker- Gregory Kurtzer (CIQ)",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Keynote Talk: Gregory Kurtzer, CEO CIQ & Founder of Rocky Linux, CentOS, Singularity/Apptaine Gregory Kurtzer The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ t",
-      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-gregory-kurtzer-CIQ",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Materials Science and Engineering Seminar ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Engineering quantum materials at the atomic scale — through epitaxial growth or mechanical exfoliation — has driven a remarkable era of discovery in 2D electronics and quantum physics. A new frontier is now emerging: using ultrafast light pulses to create transient phases of matter not just in space",
-      "link": "https://calendar.mit.edu/event/materials-science-and-engineering-seminar-4541",
-      "time": "TBD",
-      "location": "Building 6"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "PDE/Analysis Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Simion Filip (University of Chicago) Title: Regularity of invariant measures for random dynamical systems Abstract: Suppose that a probability measure on a compact manifold 𝑀 is invariant under a collection of diffeomorphisms of 𝑀. I will explain some criteria on the measure and diffeomorph",
-      "link": "https://calendar.mit.edu/event/pde-analysis-seminar",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-09-15",
-      "title": " Pricing Mistakes and the Non-Neutrality of Money",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Tomas Caravello (MIT Grad Student)",
-      "link": "https://calendar.mit.edu/event/tba-9782",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "SQI Seminar Series: Tal Linzen, NYU",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Tal Linzen is an Associate Professor of Linguistics and Data Science at New York University, and a Research Scientist at Google. He directs NYU's Computation and Psycholinguistics Lab, which uses behavioral experiments and computational methods to study how people learn and understand language. At b",
-      "link": "https://calendar.mit.edu/event/sqi-seminar-series-tal-linzen-nyu",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Write for the World: The Art of the Blog Post: Workshops",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, this program is for you. With these two hands-on workshops, and one-on-one support from WCC writing instructors, you will go from idea to a",
-      "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-information-session-2199",
-      "time": "TBD",
-      "location": "Building E17"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Voterfest",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all! Join us for a celebration of democracy on National Voter Registration Day! Enjoy music, treats, and family-friendly activities, including face painting! Student volunteers will be on-site to help you register to vote or update your voter registration. This event is free and ope",
-      "link": "https://calendar.mit.edu/event/voterfest",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "How to work a career fair as a first year",
-      "source": "MIT",
-      "tag": "networking",
-      "desc": "Does the idea of a career fair overwhelm and intimidate you? If so, come to the Q&A with MIT students who have braved career fairs in the past. This session will focus on the Fall Career Fair, but these tips and insights can apply to any of the annual career fairs happening on/near campus. Learn how",
-      "link": "https://calendar.mit.edu/event/how-to-work-a-career-fair-as-a-first-year-9077",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-09-15",
       "title": "Fall Volunteer Fair",
       "source": "Northeastern",
       "tag": "talk",
@@ -819,16 +719,6 @@
       "time": "TBD"
     },
     {
-      "date": "2026-09-16",
-      "title": "Community Service Fund Book Sale",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Bookworms, this is your moment! Stop by the MIT Community Service Fund Used Book Sale to discover a large selection of unbelievably priced textbooks, nonfiction, novels, and more. Rain date: September 17.",
-      "link": "https://calendar.mit.edu/event/community-service-fund-book-sale-4966",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
       "date": "2026-09-17",
       "title": "Graduate Fellowship Writing Club",
       "source": "Northeastern",
@@ -853,10 +743,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
       "time": "TBD",
-      "location": ""
+      "location": "Renaissance Park"
     },
     {
       "date": "2026-09-17",
@@ -943,6 +833,16 @@
       "tag": "talk",
       "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
       "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-4730",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Start Smart: Foundations of Evidence Synthesis",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "“Start Smart: Foundations of Evidence Synthesis” is a hands-on virtual workshop series on conducting evidence syntheses, such as systematic reviews. As part of the workshop series, participants will select an appropriate methodology […] The post Start Smart: Foundations of Evidence Synthesis appeare",
+      "link": "https://calendar.northeastern.edu/event/start-smart-foundations-of-evidence-synthesis-7746",
       "time": "TBD",
       "location": ""
     },
@@ -1091,6 +991,16 @@
     },
     {
       "date": "2026-09-29",
+      "title": "Start Smart: Foundations of Evidence Synthesis",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "“Start Smart: Foundations of Evidence Synthesis” is a hands-on virtual workshop series on conducting evidence syntheses, such as systematic reviews. As part of the workshop series, participants will select an appropriate methodology […] The post Start Smart: Foundations of Evidence Synthesis appeare",
+      "link": "https://calendar.northeastern.edu/event/start-smart-foundations-of-evidence-synthesis-1214",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-29",
       "title": "Men's Soccer vs. Harvard",
       "source": "Northeastern",
       "tag": "talk",
@@ -1114,8 +1024,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -1271,6 +1181,16 @@
     },
     {
       "date": "2026-10-22",
+      "title": "Advancing Resilience: Multi-Disciplinary Perspectives on Constant Disruption",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Resilience has long been defined as the ability to recover from disruption. But disruption is no longer episodic; it is constant and compounding. This one-day hybrid conference brings together leaders from cybersecurity, energy and environmental security, geopolitics, and personal resilience to ask ",
+      "link": "https://calendar.northeastern.edu/event/advancing-resilience-multi-disciplinary-perspectives-on-constant-disruption",
+      "time": "TBD",
+      "location": "Curry Student Center"
+    },
+    {
+      "date": "2026-10-22",
       "title": "2026 Fall Digital Scholarship Celebration",
       "source": "Northeastern",
       "tag": "talk",
@@ -1336,7 +1256,7 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -1513,20 +1433,20 @@
     },
     {
       "date": "TBD",
-      "title": "THESIS DEFENSE (NICHOLAS PFAFF): Generating Simulation-Ready Worlds for Robot Learning and Evaluation",
-      "source": "MIT CSAIL",
-      "tag": "robotics",
-      "desc": "Patil/Kiva Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-nicholas-pfaff-generating-simulation-ready-worlds-robot-learning-and",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "THESIS DEFENSE (NOEL LOO): \"Dataset Distillation: Fundamentals and Applications to Privacy\"",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "STAR Conference Room",
       "link": "https://www.csail.mit.edu/event/thesis-defense-noel-loo-dataset-distillation-fundamentals-and-applications-privacy",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Scaling Multimodal Understanding via Code-Guided Synthetic Data Generation: A Plot Twist",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Charts, plots, and figures are among the most ubiquitous tools for communicating quantitative information, yet vision-language models (VLMs) remain unreliable at interpreting them. This thesis argues that the central bottleneck is data, and that it can be broken by exploiting a structural property o",
+      "link": "https://www.csail.mit.edu/event/scaling-multimodal-understanding-code-guided-synthetic-data-generation-plot-twist",
       "time": "TBD"
     },
     {
@@ -5383,27 +5303,18 @@
     },
     {
       "date": "TBD",
-      "title": "The AI Runtime - Boston",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Sweat Equity",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Build an AI Agent Growth Chief of Staff with Claude",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Walk Like a Girl: Boston",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5485,6 +5396,15 @@
       "title": "International Generalist Day — Boston",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Pitch Run & Coffee: UNBOUND 2026 Edition",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
