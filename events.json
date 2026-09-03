@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-09-02T13:59:33.248285",
-  "event_count": 595,
+  "scraped_at": "2026-09-03T14:02:30.266386",
+  "event_count": 602,
   "events": [
-    {
-      "date": "2026-09-02",
-      "title": "MIT Libraries: Resources and Services for Graduate Students",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Not sure where to find that data set you're looking for? Need guidance on conducting a literature review for your thesis? The MIT Libraries are here to help you find the information and data you'll need as graduate students! Stop by for a brief but informative introduction to the Libraries' resource",
-      "link": "https://calendar.mit.edu/event/mit-libraries-resources-and-services-for-graduate-students-6074",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Midday Music: Grooversity",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Acclaimed percussionist and educator Marcus Santos leads the Grooversity ensemble of drummers in an engaging journey through the musical traditions of his native Bahia, Brazil’s first capital. The performance blends Afro-Brazilian rhythms, the powerful energy of carnival percus",
-      "link": "https://calendar.mit.edu/event/midday-music-grooversity",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "APSA Pre-Conference: The Politics of AI",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "This event will feature panels on the politics of Al, covering topics such as deepfakes and the information environment, democratic resilience, and public opinion in the age of artificial intelligence. Featuring ~20 presenters. Breakfast and lunch provided. RSVP Required.",
-      "link": "https://calendar.northeastern.edu/event/apsa-pre-conference-the-politics-of-ai",
-      "time": "TBD",
-      "location": "Churchill Hall"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Apply for the Graduate Student Religious, Spiritual, and Ethical Life Fellowship",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "How do religion, spirituality, and ethics show up in your professional field, and how can you learn to engage across those differences with humility, curiosity, and care? The Graduate Student RSEL Fellowship, led by the Presidential Initiative on Interfaith Engagement, brings together students from ",
-      "link": "https://events.seas.harvard.edu/event/apply-for-the-graduate-student-religious-spiritual-and-ethical-life-fellowship",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-09-03",
       "title": "Explore MIT's Career Services: Tour of Career Advising & Professional Development",
@@ -312,10 +272,10 @@
     },
     {
       "date": "2026-09-10",
-      "title": "Susanna Berkouwer (UPenn)",
+      "title": "Green Subsidies with Demand Distortions",
       "source": "MIT",
       "tag": "talk",
-      "desc": "",
+      "desc": "Susanna Berkouwer (UPenn)",
       "link": "https://calendar.mit.edu/event/susanna-berkouwer",
       "time": "TBD",
       "location": "Building E51"
@@ -425,7 +385,7 @@
       "title": "Statistics and Data Science Seminar",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Speaker: Guy Blanc (MIT)",
+      "desc": "Speaker: Guy Blanc (MIT) Title: Robust Learning with Optimal Error Abstract: We construct algorithms with optimal error for learning with adversarial noise. The overarching theme of this work is that the use of randomized hypotheses can substantially improve upon the best error rates achievable with",
       "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar9",
       "time": "TBD",
       "location": "Building E18"
@@ -472,11 +432,21 @@
     },
     {
       "date": "2026-09-11",
-      "title": "Hannah Greenwald Healy - Harvard University",
+      "title": "Environmental surveillance for managing infectious disease outbreaks locally and globally",
       "source": "Harvard SEAS",
       "tag": "talk",
-      "desc": "",
+      "desc": "Hannah Greenwald Healy - Harvard University The rate of infectious disease outbreaks is increasing globally and in the U.S. due to factors like international travel, climate shifts, and declining vaccination rates. Environmental surveillance— the systematic testing of water or air for health-relevan",
       "link": "https://events.seas.harvard.edu/event/hannah-greenwald-healy-harvard-university",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Silicon Photonics for LiDAR Sensors, Augmented Reality, Biophotonics, Quantum Engineering, and Beyond",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Harvard John A. Paulson School of Engineering and Applied Sciences ELECTRICAL & Computer ENGINEERING SEMINAR Friday, September 11 2 - 3pm Pierce 209 \"Silicon Photonics for LiDAR Sensors, Augmented Reality, Biophotonics, Quantum Engineering, and Beyond\" Jelena Notaros Robert J. Shillman (1974) Career",
+      "link": "https://events.seas.harvard.edu/event/silicon-photonics-for-lidar-sensors-augmented-reality-biophotonics-quantum-engineering-and-beyond",
       "time": "TBD",
       "location": "Pierce Hall"
     },
@@ -662,6 +632,16 @@
     },
     {
       "date": "2026-09-14",
+      "title": "Science & Cooking Lecture Series; Harold McGee & Dave Arnold ",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Dave Arnold, Booker and Dax, NYC, founder and author of Liquid Intelligence, host of the podcast Cooking Issues, and founder of the Museum of Food and Drink, is known for his groundbreaking work at the intersection of culinary innovation and science. Harold McGee, celebrated food science writer and ",
+      "link": "https://events.seas.harvard.edu/event/science-cooking-lecture-series-harold-mcgee-dave-arnold",
+      "time": "TBD",
+      "location": "Science Center Hall C"
+    },
+    {
+      "date": "2026-09-14",
       "title": "International Manufacturing Technology Show",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -678,6 +658,36 @@
       "link": "https://calendar.mit.edu/event/an-evening-with-alex-counts-author-and-founder-of-the-grameen-foundation",
       "time": "TBD",
       "location": "Building W41"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "HPEC virtual conference: Keynote Speaker- Gregory Kurtzer (CIQ)",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "Keynote Talk: Gregory Kurtzer, CEO CIQ & Founder of Rocky Linux, CentOS, Singularity/Apptaine Gregory Kurtzer The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ t",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-gregory-kurtzer-CIQ",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Materials Science and Engineering Seminar ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Engineering quantum materials at the atomic scale — through epitaxial growth or mechanical exfoliation — has driven a remarkable era of discovery in 2D electronics and quantum physics. A new frontier is now emerging: using ultrafast light pulses to create transient phases of matter not just in space",
+      "link": "https://calendar.mit.edu/event/materials-science-and-engineering-seminar-4541",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "PDE/Analysis Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Simion Filip (University of Chicago) Title: Regularity of invariant measures for random dynamical systems Abstract: Suppose that a probability measure on a compact manifold 𝑀 is invariant under a collection of diffeomorphisms of 𝑀. I will explain some criteria on the measure and diffeomorph",
+      "link": "https://calendar.mit.edu/event/pde-analysis-seminar",
+      "time": "TBD",
+      "location": "Building 2"
     },
     {
       "date": "2026-09-15",
@@ -743,10 +753,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-17",
@@ -855,6 +865,16 @@
       "link": "https://calendar.northeastern.edu/event/bustan-abraham-learn-about-musical-coexistence",
       "time": "TBD",
       "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Policy Innovation Hub Launch",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Policy Innovation Hub (PIH) leverages people-centered scholarship to confront pressing policy challenges at every scale, from the local to the global. By connecting and amplifying the expertise, experiences, and perspectives of students, faculty, centers, communities, and decision makers, PIH cu",
+      "link": "https://calendar.northeastern.edu/event/policy-innovation-hub-launch",
+      "time": "TBD",
+      "location": "Northeastern Crossing"
     },
     {
       "date": "2026-09-22",
@@ -1024,8 +1044,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1111,13 +1131,23 @@
     },
     {
       "date": "2026-10-07",
-      "title": "CSSH Co-op Poster Expo 2026",
+      "title": "CSSH Co-op Poster Expo & Employer Mixer 2026",
       "source": "Northeastern",
-      "tag": "talk",
-      "desc": "You’re invited to join us for the annual CSSH Co-op Poster Expo! Date: Wednesday, October 7, 2026Time: 3:00 – 4:30 PMLocation: Raytheon Amphitheater, Egan Research Center, 120 Forsyth St, Boston, MAAt the Expo, you’ll have the chance to: Explore posters from CSSH co-op students showcasing their uniq",
+      "tag": "networking",
+      "desc": "You’re invited to join us for the annual CSSH Co-op Poster Expo & Employer Mixer! Date: Wednesday, October 7, 2026Time: 3:30 – 5:30 PMLocation: Raytheon Amphitheater, Egan Research Center, 120 Forsyth St, Boston, MAAt the Expo, you’ll have the chance to: Explore posters from CSSH co-op students show",
       "link": "https://calendar.northeastern.edu/event/cssh-co-op-poster-expo-2026",
       "time": "TBD",
       "location": "Raytheon Amphitheater"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Jeffrey Burds Memorial Speaker Series ",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "The Department of History, in collaboration with CSSH, is proud to present the fall 2026 installment of the Jeffrey Burds Memorial Speaker Series, in honor of late Professor of History Dr. Jeffrey Burds. Dr. Jared McBrdige of UCLA will present, \"The Returns of Summer 1941: Perpetrators and Pogroms i",
+      "link": "https://calendar.northeastern.edu/event/jeffrey-burds-memorial-speaker-series",
+      "time": "TBD",
+      "location": "909 Renaissance Park"
     },
     {
       "date": "2026-10-08",
@@ -1252,11 +1282,21 @@
     },
     {
       "date": "2026-10-28",
+      "title": "Jeffrey Burds Memorial Speaker Series ",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "The Department of History, in collaboration with CSSH, is proud to present the fall 2026 installment of the Jeffrey Burds Memorial Speaker Series, in honor of late Professor of History Dr. Jeffrey Burds. Dr. Peter Richardson of Northeastern Univeristy will present, \"The Formidable Roast to Russian-J",
+      "link": "https://calendar.northeastern.edu/event/jeffrey-burds-memorial-speaker-series-4459",
+      "time": "TBD",
+      "location": "310 Renaissance Park"
+    },
+    {
+      "date": "2026-10-28",
       "title": "Venturing@Harvard",
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -1402,6 +1442,16 @@
       "location": ""
     },
     {
+      "date": "2026-11-18",
+      "title": "Jeffrey Burds Memorial Speaker Series",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "The Department of History, in collaboration with CSSH, is proud to present the fall 2026 installment of the Jeffrey Burds Memorial Speaker Series, in honor of late Professor of History Dr. Jeffrey Burds. Dr. Natalya Watson and Dr. Veronika Maliborska of Northeastern University will present, \"Teachin",
+      "link": "https://calendar.northeastern.edu/event/jeffrey-burds-memorial-speaker-series-6859",
+      "time": "TBD",
+      "location": "310 Renaissance Park"
+    },
+    {
       "date": "2026-11-19",
       "title": "Relational Capital in International Cooperation: An Analysis of Foreign Strategies in Africa",
       "source": "Northeastern",
@@ -1442,11 +1492,11 @@
     },
     {
       "date": "TBD",
-      "title": "Scaling Multimodal Understanding via Code-Guided Synthetic Data Generation: A Plot Twist",
+      "title": "THESIS DEFENSE: Scaling Multimodal Understanding via Code-Guided Synthetic Data Generation: A Plot Twist",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Charts, plots, and figures are among the most ubiquitous tools for communicating quantitative information, yet vision-language models (VLMs) remain unreliable at interpreting them. This thesis argues that the central bottleneck is data, and that it can be broken by exploiting a structural property o",
-      "link": "https://www.csail.mit.edu/event/scaling-multimodal-understanding-code-guided-synthetic-data-generation-plot-twist",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-scaling-multimodal-understanding-code-guided-synthetic-data-generation-plot",
       "time": "TBD"
     },
     {
@@ -1483,6 +1533,24 @@
       "tag": "ai",
       "desc": "32-G449 (Kiva Seminar Room)",
       "link": "https://www.csail.mit.edu/event/recruiting-citadel-citadel-securities-phd-tech-talk-csail",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "[NLP Seminar] Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the clien",
+      "link": "https://www.csail.mit.edu/event/nlp-seminar-stolen-thoughts-stealing-reasoning-traces-proprietary-llm-apis",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Hash Tables Like Onions",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Greedy open addressing is an extremely popular template for building hash tables, but it suffers from a fundamental drawback: performance degrades as the table fills up. In particular, if a table is filled to a 1-1/x fraction full, the expected amortized query time, or the time to query a random ele",
+      "link": "https://www.csail.mit.edu/event/hash-tables-onions",
       "time": "TBD"
     },
     {
@@ -5447,6 +5515,15 @@
     },
     {
       "date": "TBD",
+      "title": "Dr. Melina Claussnitzer: Genetics, Causality, and Metabolic Disease",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "International Acceleration Day, by Fintech Sandbox",
       "source": "Luma",
       "tag": "startup",
@@ -5457,15 +5534,6 @@
     {
       "date": "TBD",
       "title": "BUILD617 Ribbon Cutting + Grand Opening",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "BOST-Ig: An Ig Nobel Celebration",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
