@@ -1,56 +1,7 @@
 {
-  "scraped_at": "2026-09-03T14:02:30.266386",
-  "event_count": 602,
+  "scraped_at": "2026-09-04T13:54:40.827739",
+  "event_count": 612,
   "events": [
-    {
-      "date": "2026-09-03",
-      "title": "Explore MIT's Career Services: Tour of Career Advising & Professional Development",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "During your time at MIT, you'll likely need your resume reviewed, learn how to use a cover letter, finesse your LinkedIn profile, and network with employers. MIT's Career Advising & Professional Development office (CAPD) is the hub for all of that. Come on this tour to see the employer recruiting su",
-      "link": "https://calendar.mit.edu/event/explore-mits-career-services-tour-of-career-advising-professional-development",
-      "time": "TBD",
-      "location": "Building E19"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Outdoor Movie: The Wiz",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Join us for a summer screening of The Wiz (G). This film series is curated by our friends at The Brattle, and is first come, first served regardless of registration.",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-the-wiz",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "DAFx 2026 presents Fabian Almazan",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Cuban-American pianist and composer Fabian Almazan presents an evening of solo piano improvisation and multimedia performance, expanding the timbral range of the acoustic piano through live audio processing and synchronized video visuals. This concert is part of the 29th International Conference on ",
-      "link": "https://calendar.mit.edu/event/dafx-2026-presents-fabian-almazan",
-      "time": "TBD",
-      "location": "Building W18"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Lab-2-Market Office Hours",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Office hours with serial entrepreneur/angel investor/business builders from the i-lab and Harvard Grid - bring your venturing challenges, and we'll bring the pizza.",
-      "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-7065",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Boston Robot Hackers: Power Management in Robots",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/boston-robot-hackers-power-management-in-robots-2/",
-      "time": "TBD"
-    },
     {
       "date": "2026-09-04",
       "title": "Physics PhD Thesis Defense by Simon Rothman",
@@ -182,6 +133,16 @@
       "location": "Building W97"
     },
     {
+      "date": "2026-09-08",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Teams to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northe",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-1791",
+      "time": "TBD",
+      "location": ""
+    },
+    {
       "date": "2026-09-09",
       "title": "Faculty Job Search Series: Crafting the Academic Cover Letter",
       "source": "MIT",
@@ -292,6 +253,16 @@
     },
     {
       "date": "2026-09-10",
+      "title": "Engaging Indigenous Communities  in System Design for Ecological Stewardship: a conversation with Sarah Augustine",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "As co-founder of Suriname Indigenous Health Fund, Sarah Augustine encountered a systemic problem arising from mining effluent. With intervention mapping to address social and economic factors impacting indigenous people’s health in Suriname’s interior region, Sarah put her values into action. Now, a",
+      "link": "https://calendar.mit.edu/event/a-conversation-with-sarah-augustine",
+      "time": "TBD",
+      "location": "Building E38 (MIT Welcome Center)"
+    },
+    {
+      "date": "2026-09-10",
       "title": "Mechanism Design Beyond Expected Utility",
       "source": "MIT",
       "tag": "talk",
@@ -309,6 +280,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-information-session-public-speaking-certificate-fall-2025",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Arts on the Radar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Get to know the arts at MIT! Explore resources, events, workshops, and connect with fellow MIT art lovers. Join the Art, Culture, and Technology (ACT) program, Infinite Magazine, List Visual Arts Center, MIT Museum, Music and Theater Arts, MIT Office of the Arts, and MIT Open Space Programming for a",
+      "link": "https://calendar.mit.edu/event/arts-on-the-radar",
+      "time": "TBD",
+      "location": "Building E15"
     },
     {
       "date": "2026-09-10",
@@ -381,6 +362,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-09-10",
+      "title": "Mechano-Pharmacology: Tailoring the geometry and mechanics of drug delivery systems to enhance therapeutic performance ",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Paolo Decuzzi (Italian Institute of Technology and Stanford University) The therapeutic performance of drug delivery systems can be enhanced by tailoring the geometrical and mechanical properties of the carrier itself. This lecture explores this idea through two microstructured drug delivery platfor",
+      "link": "https://events.seas.harvard.edu/event/mechano-pharmacology-tailoring-the-geometry-and-mechanics-of-drug-delivery-systems-to-enhance-therapeutic-performance",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-09-11",
       "title": "Statistics and Data Science Seminar",
       "source": "MIT",
@@ -389,6 +380,16 @@
       "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar9",
       "time": "TBD",
       "location": "Building E18"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Thesis Defense:  Christina Cabana",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Jacks lab l 'Development of a next-generation alveolar organoid model reveals AT2 cell-intrinsic heterogeneity that has lasting impacts on lung adenocarcinoma'",
+      "link": "https://calendar.mit.edu/event/thesis-defense-christina-cabana",
+      "time": "TBD",
+      "location": "Building 76"
     },
     {
       "date": "2026-09-11",
@@ -691,6 +692,36 @@
     },
     {
       "date": "2026-09-15",
+      "title": " Pricing Mistakes and the Non-Neutrality of Money",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tomas Caravello (MIT Grad Student)",
+      "link": "https://calendar.mit.edu/event/tba-9782",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "2026 Experiential Ethics Student Project Showcase",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Experiential Ethics Student Showcase is an in-person session featuring the work of students from MIT’s Experiential Ethics course. Come see a wide variety of projects at the intersection of science, technology, and ethics, including traditional posters, podcasts, videos, art exhibitions, and mor",
+      "link": "https://calendar.mit.edu/event/2026-experiential-ethics-student-project-showcase",
+      "time": "TBD",
+      "location": "Building W20: Stratton Student Center"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Teams to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northe",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-3101",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-15",
       "title": "Fall Volunteer Fair",
       "source": "Northeastern",
       "tag": "talk",
@@ -789,6 +820,16 @@
     },
     {
       "date": "2026-09-18",
+      "title": "Harvard Business & Consulting Fair",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "The Business & Consulting Fair is a high-impact opportunity to connect with Harvard undergraduate and graduate students early in the semester. This event represents organizations with pathways that include strategy, consulting, marketing, consumer goods, retail, business development, operations, rot",
+      "link": "https://events.seas.harvard.edu/event/harvard-business-consulting-fair",
+      "time": "TBD",
+      "location": "Harvard Student Organization Center at Hilles (SOCH)"
+    },
+    {
+      "date": "2026-09-18",
       "title": "Design and Application of Soft Robotics in Haptics, Gripping, and Medicine",
       "source": "Harvard SEAS",
       "tag": "robotics",
@@ -843,6 +884,16 @@
       "tag": "talk",
       "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
       "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-4730",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Teams to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northe",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-455",
       "time": "TBD",
       "location": ""
     },
@@ -974,6 +1025,16 @@
     },
     {
       "date": "2026-09-25",
+      "title": "Humanities Center Signature Project Showcase ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join us for the Signature Projects Showcase, where Humanities Center Signature Projects will share their latest work and developments through brief presentations followed by informal sessions for deeper conversation and engagement. This is a wonderful opportunity to learn about the innovative resear",
+      "link": "https://calendar.northeastern.edu/event/humanities-center-signature-project-showcase",
+      "time": "TBD",
+      "location": "Snell Library "
+    },
+    {
+      "date": "2026-09-25",
       "title": "Amazon Internships + Outreach",
       "source": "Northeastern",
       "tag": "manufacturing",
@@ -1100,6 +1161,16 @@
       "location": "Pierce Hall"
     },
     {
+      "date": "2026-10-02",
+      "title": "Harvard Technology, Science & Data Fair",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "The Harvard Technology, Science, & Data Fair will bring undergraduates, master’s, PhD students, postdocs, and recent alumni together with employers to discuss opportunities in software engineering, data science, machine learning, artificial intelligence, UX/UI design, physical and life sciences, and",
+      "link": "https://events.seas.harvard.edu/event/harvard-technology-science-data-fair",
+      "time": "TBD",
+      "location": "Harvard Student Organization Center at Hilles (SOCH)"
+    },
+    {
       "date": "2026-10-03",
       "title": "Men's Soccer vs. Drexel ",
       "source": "Northeastern",
@@ -1130,6 +1201,16 @@
       "location": "East Village 17th Floor Conference Facility"
     },
     {
+      "date": "2026-10-05",
+      "title": "Living Beyond Earth: Our Next Giant Leap",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Human space exploration requires more than rocket science. To extend human presence into deep space and onto other celestial bodies, spectacular feats of engineering and technology will be essential. But to survive and thrive in radically different environments, we must also carefully consider how t",
+      "link": "https://events.seas.harvard.edu/event/living-beyond-earth-our-next-giant-leap",
+      "time": "TBD",
+      "location": "Knafel Center"
+    },
+    {
       "date": "2026-10-07",
       "title": "CSSH Co-op Poster Expo & Employer Mixer 2026",
       "source": "Northeastern",
@@ -1138,6 +1219,16 @@
       "link": "https://calendar.northeastern.edu/event/cssh-co-op-poster-expo-2026",
       "time": "TBD",
       "location": "Raytheon Amphitheater"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Designing Hybrid Skins: Exploring the Social and Cultural Dimensions of On-Skin Interfaces Toward Different Possible Futures for Next-Generation Wearable Computers",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "A presentation from 2026–2027 Carl and Lily Pforzheimer Foundation Fellow Cindy Hsin-Liu Kao Cindy Hsin-Liu Kao is an associate professor at Cornell University and the founder and director of the Hybrid Body Lab, a transdisciplinary research group exploring cultural and social perspectives in the de",
+      "link": "https://events.seas.harvard.edu/event/designing-hybrid-skins-exploring-the-social-and-cultural-dimensions-of-on-skin-interfaces-toward-different-possible-futures-for-next-generation-wearable-computers",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-10-08",
@@ -1206,6 +1297,16 @@
       "tag": "talk",
       "desc": "Please join the Fusion Book Club for a film screening, discussion, and pizza. When: Monday, October 19 at 4:30pm (ET) Where: Snell Library Research and Teaching Hub (SL-215A) What we are watching: To be determined […] The post Fusion Book Club: Movie Night appeared first on Northeastern University C",
       "link": "https://calendar.northeastern.edu/event/fusion-book-club-movie-night",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Weaving Wonder: Human Flourishing in the Age of Artificial Intelligence",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "A presentation from 2026–2027 Sally Starling Seaver Fellow Orit Shaer Orit Shaer is a professor of computer science at Wellesley College and a leading scholar in human-computer interaction whose work advances human-centered approaches to artificial intelligence for creativity, learning, and collabor",
+      "link": "https://events.seas.harvard.edu/event/weaving-wonder-human-flourishing-in-the-age-of-artificial-intelligence",
       "time": "TBD",
       "location": ""
     },
@@ -1296,7 +1397,7 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -1483,24 +1584,6 @@
     },
     {
       "date": "TBD",
-      "title": "THESIS DEFENSE (NOEL LOO): \"Dataset Distillation: Fundamentals and Applications to Privacy\"",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "STAR Conference Room",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-noel-loo-dataset-distillation-fundamentals-and-applications-privacy",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "THESIS DEFENSE: Scaling Multimodal Understanding via Code-Guided Synthetic Data Generation: A Plot Twist",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Charts, plots, and figures are among the most ubiquitous tools for communicating quantitative information, yet vision-language models (VLMs) remain unreliable at interpreting them. This thesis argues that the central bottleneck is data, and that it can be broken by exploiting a structural property o",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-scaling-multimodal-understanding-code-guided-synthetic-data-generation-plot",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CSL Seminar Series: Bringing Physical Intelligence into the Real World",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1528,6 +1611,15 @@
     },
     {
       "date": "TBD",
+      "title": "Thesis Defense, Minghao Guo: Physics-Constrained Generative Models for Computational Design",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "4th floor of Gates building take a right then a left, Kiva will be on the left",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-minghao-guo-physics-constrained-generative-models-computational-design",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "[Recruiting] Citadel & Citadel Securities PhD Tech Talk at CSAIL",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1546,20 +1638,20 @@
     },
     {
       "date": "TBD",
-      "title": "Hash Tables Like Onions",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Greedy open addressing is an extremely popular template for building hash tables, but it suffers from a fundamental drawback: performance degrades as the table fills up. In particular, if a table is filled to a 1-1/x fraction full, the expected amortized query time, or the time to query a random ele",
-      "link": "https://www.csail.mit.edu/event/hash-tables-onions",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CSAIL New Grad Orientation",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Kiva",
       "link": "https://www.csail.mit.edu/event/csail-new-grad-orientation-0",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Hash Tables Like Onions",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Greedy open addressing is an extremely popular template for building hash tables, but it suffers from a fundamental drawback: performance degrades as the table fills up. In particular, if a table is filled to a 1-1/x fraction full, the expected amortized query time, or the time to query a random ele",
+      "link": "https://www.csail.mit.edu/event/hash-tables-onions",
       "time": "TBD"
     },
     {
@@ -2415,6 +2507,15 @@
       "tag": "startup",
       "desc": "Founders, investors, and innovators kicking off Houston's energy and climate week!",
       "link": "https://greentownlabs.com/event/2026-houston-energy-climate-startup-week-kickoff/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Global Corporate Venturing Energy Connect Event",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Explore funding challenges and the future of the energy transition at GCV Energy Connect, a Houston Energy and Climate Startup Week morning session with top energy investors!",
+      "link": "https://greentownlabs.com/event/global-corporate-venturing-energy-connect-event-2/",
       "time": "TBD"
     },
     {
