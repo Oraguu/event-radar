@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-09-04T13:54:40.827739",
-  "event_count": 612,
+  "scraped_at": "2026-09-05T13:10:12.125045",
+  "event_count": 615,
   "events": [
-    {
-      "date": "2026-09-04",
-      "title": "Physics PhD Thesis Defense by Simon Rothman",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "You are cordially invited to attend the following thesis defense. \"Towards a precision understanding of the strong nuclear force\" Presented by Simon Rothman Date: Friday, September 4, 2026 Time: 1:30 PM Location: Kolker Room Committee: Philip Harris, Iain Stewart, Gian Innocenti Best of luck to Simo",
-      "link": "https://calendar.mit.edu/event/physics-phd-thesis-defense-simon_rothman",
-      "time": "TBD",
-      "location": "Building 26"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Men's Soccer vs. Suffolk University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 3:00 PM Location: Boston, MA",
-      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Outdoor Movie: Encanto",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all! Join us for a summer screening of Encanto (PG). This film is presented in collaboration with MIT Graduate Residential Life, and is first come, first served regardless of registration. Seating is limited - we recommend bringing a blanket or a chair. All minors must be accompanie",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-encanto",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "International Christian Fellowship",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "International Students & others desiring to connect with followers of Jesus. Join us to study the Bible together and pray for each other. We want to welcome you to be part of our community and offer an exchange as we can speak in English at varying levels and create a comforting and hospitable place",
-      "link": "https://calendar.mit.edu/event/international-christian-fellowship",
-      "time": "TBD",
-      "location": "MIT Building W11"
-    },
     {
       "date": "2026-09-05",
       "title": "Women's Soccer vs. New York University",
@@ -110,7 +70,7 @@
       "desc": "Speaker: Robert Koirala (University of California, San Diego) Title: Structure Theory of Parabolic Zero and Singular Sets Abstract: I will discuss the structure theory of zero and singular sets of solutions to parabolic PDEs, drawing an analogy with the corresponding theory in the polynomial setting",
       "link": "https://calendar.mit.edu/event/pdeanalysis-seminar-3920",
       "time": "TBD",
-      "location": "Building 2"
+      "location": "Building 4"
     },
     {
       "date": "2026-09-08",
@@ -119,6 +79,16 @@
       "tag": "talk",
       "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, this program is for you. This virtual information session will answer your questions about blog writing and explain what this program can o",
       "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-workshop-7753",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Men's Soccer vs. Roger Williams University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 6:00 PM Location: Bristol, RI",
+      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
       "time": "TBD",
       "location": ""
     },
@@ -171,6 +141,16 @@
       "link": "https://calendar.mit.edu/event/midday-music-free-bike-tune-ups",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Student Lending Art Program Exhibition Tour",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join the List Center for a tour of the 2026 Student Lending Art Program Exhibition and see the breadth of original works of art available to MIT students to borrow for the academic year. A List Center staff member will lead a guided tour highlighting a selection of the over 500 works of art included",
+      "link": "https://calendar.mit.edu/event/student-lending-art-program-exhibition-tour-5858",
+      "time": "TBD",
+      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
     },
     {
       "date": "2026-09-09",
@@ -256,7 +236,7 @@
       "title": "Engaging Indigenous Communities  in System Design for Ecological Stewardship: a conversation with Sarah Augustine",
       "source": "MIT",
       "tag": "startup",
-      "desc": "As co-founder of Suriname Indigenous Health Fund, Sarah Augustine encountered a systemic problem arising from mining effluent. With intervention mapping to address social and economic factors impacting indigenous people’s health in Suriname’s interior region, Sarah put her values into action. Now, a",
+      "desc": "As co-founder of Suriname Indigenous Health Fund, Sarah Augustine encountered a systemic problem arising from mining effluent. With intervention mapping to address social and economic factors impacting indigenous people’s health in Suriname’s interior region, Sarah put her values and research skills",
       "link": "https://calendar.mit.edu/event/a-conversation-with-sarah-augustine",
       "time": "TBD",
       "location": "Building E38 (MIT Welcome Center)"
@@ -593,7 +573,7 @@
     },
     {
       "date": "2026-09-14",
-      "title": "Optimal Tariffs under Geopolitical Risk: A Theory of Strategic De-risking, joint with Ahmad Lashkaripour",
+      "title": "Optimal Tariffs under Geopolitical Risk: A Theory of Strategic De-risking",
       "source": "MIT",
       "tag": "talk",
       "desc": "Ina Simonovska, UC Davis",
@@ -688,7 +668,7 @@
       "desc": "Speaker: Simion Filip (University of Chicago) Title: Regularity of invariant measures for random dynamical systems Abstract: Suppose that a probability measure on a compact manifold 𝑀 is invariant under a collection of diffeomorphisms of 𝑀. I will explain some criteria on the measure and diffeomorph",
       "link": "https://calendar.mit.edu/event/pde-analysis-seminar",
       "time": "TBD",
-      "location": "Building 2"
+      "location": "Building 4"
     },
     {
       "date": "2026-09-15",
@@ -709,6 +689,56 @@
       "link": "https://calendar.mit.edu/event/2026-experiential-ethics-student-project-showcase",
       "time": "TBD",
       "location": "Building W20: Stratton Student Center"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "SQI Seminar Series: Tal Linzen, NYU",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tal Linzen is an Associate Professor of Linguistics and Data Science at New York University, and a Research Scientist at Google. He directs NYU's Computation and Psycholinguistics Lab, which uses behavioral experiments and computational methods to study how people learn and understand language. At b",
+      "link": "https://calendar.mit.edu/event/sqi-seminar-series-tal-linzen-nyu",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Write for the World: The Art of the Blog Post: Workshops",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Whether you have always wanted to try blogging, have a research story bursting to be told, or simply want to sharpen your writing skills for a broader audience, this program is for you. With these two hands-on workshops, and one-on-one support from WCC writing instructors, you will go from idea to a",
+      "link": "https://calendar.mit.edu/event/copy-of-write-for-the-world-the-art-of-the-blog-post-information-session-2199",
+      "time": "TBD",
+      "location": "Building E17"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Brandeis-Harvard-MIT-Northeastern Joint Mathematics Colloquium",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Simion Filip (University of Chicago) Title: Measure and topological rigidity beyond homogeneous dynamics Abstract: To study the asymptotic behavior of orbits of a dynamical system, one can look at orbit closures or invariant measures. When the underlying system has a homogeneous structure, ",
+      "link": "https://calendar.mit.edu/event/brandeis-harvard-mit-northeastern-joint-mathematics-colloquium-7253",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Voterfest",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Free and open to all! Join us for a celebration of democracy on National Voter Registration Day! Enjoy music, treats, and family-friendly activities, including face painting! Student volunteers will be on-site to help you register to vote or update your voter registration. This event is free and ope",
+      "link": "https://calendar.mit.edu/event/voterfest",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "How to work a career fair as a first year",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Does the idea of a career fair overwhelm and intimidate you? If so, come to the Q&A with MIT students who have braved career fairs in the past. This session will focus on the Fall Career Fair, but these tips and insights can apply to any of the annual career fairs happening on/near campus. Learn how",
+      "link": "https://calendar.mit.edu/event/how-to-work-a-career-fair-as-a-first-year-9077",
+      "time": "TBD",
+      "location": "Building 4"
     },
     {
       "date": "2026-09-15",
@@ -807,6 +837,16 @@
       "desc": "Robo-taxis are rapidly emerging as one of the most transformative developments in urban mobility. What began as limited autonomous vehicle pilots has evolved into early commercial deployments across major cities, […]",
       "link": "https://www.massrobotics.org/event/the-future-of-robo-taxis/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Greg Olson: Genomic Materials Design: Making CyberSteels Fly",
+      "source": "Harvard SEAS",
+      "tag": "startup",
+      "desc": "Sixty years of academic collaboration and thirty years of commercialization by a network of small businesses have delivered a mature technology of computational materials design and accelerated qualification grounded in the CALPHAD system of fundamental databases now known as the Materials Genome. T",
+      "link": "https://events.seas.harvard.edu/event/greg-olson-genomic-materials-design-making-cybersteels-fly",
+      "time": "TBD",
+      "location": "Maxwell Dworkin"
     },
     {
       "date": "2026-09-18",
@@ -1397,7 +1437,7 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -1583,31 +1623,14 @@
       "location": "Pierce Hall"
     },
     {
-      "date": "TBD",
-      "title": "CSL Seminar Series: Bringing Physical Intelligence into the Real World",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva",
-      "link": "https://www.csail.mit.edu/event/csl-seminar-series-bringing-physical-intelligence-real-world",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Thesis Defense: Efficient, Diverse and Reliable Sampling from Language Models",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Hewlett",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-efficient-diverse-and-reliable-sampling-language-models",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Thesis Defense: Regulatory circuitry of the human brain: linking genetic variation to cellular mechanism",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Genome-wide association studies (GWAS) have catalogued tens of thousands of disease-risk variants, yet for most the chain connecting a changed base to a changed cell to a changed tissue has never been measured. Risk variants often sit in a regulatory element, but naming the gene it controls, the cel",
-      "link": "https://www.csail.mit.edu/event/thesis-defense-regulatory-circuitry-human-brain-linking-genetic-variation-cellular-mechanism",
-      "time": "TBD"
+      "date": "2026-12-03",
+      "title": "Computer Science Colloquium Series - Heng Ji (Illinois Urbana-Champaign)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Speaker: Heng Ji, Professor of Computer Science at Siebel School of Computing and Data Science of University of Illinois Urbana-Champaign Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00",
+      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-heng-ji-illinois-urbana-champaign",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "TBD",
@@ -2516,6 +2539,15 @@
       "tag": "startup",
       "desc": "Explore funding challenges and the future of the energy transition at GCV Energy Connect, a Houston Energy and Climate Startup Week morning session with top energy investors!",
       "link": "https://greentownlabs.com/event/global-corporate-venturing-energy-connect-event-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Energy and Climate Conference 2026: Powering a Resilient Future",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "HBS students convene industry, policy, and VC leaders for a day on energy resilience, climate security, and clean energy innovation.",
+      "link": "https://greentownlabs.com/event/energy-and-climate-conference-2026-powering-a-resilient-future/",
       "time": "TBD"
     },
     {
@@ -5472,15 +5504,6 @@
     },
     {
       "date": "TBD",
-      "title": "Build an AI Agent Growth Chief of Staff with Claude",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Walk Like a Girl: Boston",
       "source": "Luma",
       "tag": "talk",
@@ -5536,6 +5559,15 @@
     {
       "date": "TBD",
       "title": "Datapoints Summit: AI & Tech in Drug Discovery",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "AI x Growth: UNBOUND Happy Hour with HubSpot Ventures",
       "source": "Luma",
       "tag": "ai",
       "desc": "",
@@ -5625,18 +5657,18 @@
     },
     {
       "date": "TBD",
-      "title": "International Acceleration Day, by Fintech Sandbox",
+      "title": "Subconscious Launch Night: The Easy Button for Open Models",
       "source": "Luma",
-      "tag": "startup",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "BUILD617 Ribbon Cutting + Grand Opening",
+      "title": "International Acceleration Day, by Fintech Sandbox",
       "source": "Luma",
-      "tag": "talk",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
