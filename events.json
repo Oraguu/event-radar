@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-05T13:10:12.125045",
-  "event_count": 615,
+  "scraped_at": "2026-09-06T13:19:36.485660",
+  "event_count": 618,
   "events": [
-    {
-      "date": "2026-09-05",
-      "title": "Women's Soccer vs. New York University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 1:00 PM Location: Newark, N.J. / Lubetkin Field at Mal Simon Stadium (NJIT)",
-      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Men's Cross Country vs. Alumni Meet",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 4:30 PM Location: Dover, MA / Powisset Farm",
-      "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Women's Cross Country vs. Alumni Meet",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 5:00 PM Location: Dover, MA / Powisset Farm",
-      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-09-06",
       "title": "Men's Soccer vs. Stony Brook",
@@ -101,6 +71,16 @@
       "link": "https://calendar.mit.edu/event/w97-open-house-party-6687",
       "time": "TBD",
       "location": "Building W97"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Women's Soccer vs. Lesley University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 7:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-08",
@@ -433,11 +413,31 @@
     },
     {
       "date": "2026-09-12",
+      "title": "Women's Cross Country vs. \"Battle of Masssachusetts\" Relays",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: Amherst, MA / Memorial Field",
+      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-12",
       "title": "Sailing vs. Harry Anderson Trophy",
       "source": "MIT",
       "tag": "talk",
       "desc": "Time: 10:00 AM Location: New Haven, CT",
       "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Men's Cross Country vs. \"Battle of Masssachusetts\" Relays",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 12:00 PM Location: Amherst, MA / Memorial Field",
+      "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
       "time": "TBD",
       "location": ""
     },
@@ -788,6 +788,26 @@
       "desc": "AI Infrastructure’s Ultimate Stage The Physical AI track at AI Infra Summit (September 15-17, Santa Clara Convention Center) brings together the engineers and researchers solving the hardest problems in embodied […]",
       "link": "https://www.massrobotics.org/event/ai-infra-summit/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Community Service Fund Book Sale",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Bookworms, this is your moment! Stop by the MIT Community Service Fund Used Book Sale to discover a large selection of unbelievably priced textbooks, nonfiction, novels, and more. Rain date: September 17.",
+      "link": "https://calendar.mit.edu/event/community-service-fund-book-sale-4966",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "HPEC virtual conference: Keynote Speaker- Dr. CJ Newburn (NVIDIA)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Keynote Talk: Dr. CJ Newburn: Nvidia Distinguished Engineer; NVIDIA IO and HPC software strategy architect The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talk",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-cj-newburn",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-17",
@@ -1437,7 +1457,7 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -1629,6 +1649,16 @@
       "tag": "talk",
       "desc": "Speaker: Heng Ji, Professor of Computer Science at Siebel School of Computing and Data Science of University of Illinois Urbana-Champaign Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00",
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-heng-ji-illinois-urbana-champaign",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Lab-2-Market Office Hours",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Have ideas for use-inspired applications of your research? Wondering what is the first step or how to test your ideas? No translation or venturing experience or knowledge required. Just bring your curiosity and questions for a no-risk discussion with the Grid's Executive Director Paul Hayre. Feel fr",
+      "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-9492",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
     },
@@ -5558,6 +5588,15 @@
     },
     {
       "date": "TBD",
+      "title": "Coffee with Emily Kramer and Kyle Poyar: The B2B Bakery",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Datapoints Summit: AI & Tech in Drug Discovery",
       "source": "Luma",
       "tag": "ai",
@@ -5660,15 +5699,6 @@
       "title": "Subconscious Launch Night: The Easy Button for Open Models",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "International Acceleration Day, by Fintech Sandbox",
-      "source": "Luma",
-      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
