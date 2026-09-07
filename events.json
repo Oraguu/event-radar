@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-09-06T13:19:36.485660",
-  "event_count": 618,
+  "scraped_at": "2026-09-07T15:25:42.400511",
+  "event_count": 623,
   "events": [
-    {
-      "date": "2026-09-06",
-      "title": "Men's Soccer vs. Stony Brook",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the men's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-stony-brook-375",
-      "time": "TBD",
-      "location": "Parsons Field"
-    },
     {
       "date": "2026-09-08",
       "title": "SA+P Procession: The Living Bucentaur",
@@ -821,6 +811,16 @@
     },
     {
       "date": "2026-09-17",
+      "title": "Waves of Hidden Histories Exhibit Open House",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "We invite you to attend the open house for the “Waves of Hidden Histories: 隱藏歷史的浪潮” exhibit, hosted by Gallery 360, on September 17. The exhibit, curated by Juliana Barton, features artwork that the 2025/2026 Hidden Histories Artists-in-Residence Lani Asunción and Joanna Tam have created during thei",
+      "link": "https://calendar.northeastern.edu/event/waves-of-hidden-histories-exhibit-open-house",
+      "time": "TBD",
+      "location": "Northeastern University's Gallery 360"
+    },
+    {
+      "date": "2026-09-17",
       "title": "Open House for Latinx, Latin American, and Caribbean Program",
       "source": "Northeastern",
       "tag": "talk",
@@ -834,10 +834,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
       "time": "TBD",
-      "location": ""
+      "location": "Renaissance Park"
     },
     {
       "date": "2026-09-17",
@@ -1025,6 +1025,16 @@
     },
     {
       "date": "2026-09-23",
+      "title": "The Way We Were: Roxbury Black Wall Street 1900-1965 Conference II",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
+      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
+      "time": "TBD",
+      "location": "Shaw-Roxbury Branch of the Boston Public Library"
+    },
+    {
+      "date": "2026-09-23",
       "title": "Writing and Researching Your Path to Success Webinar Series",
       "source": "Northeastern",
       "tag": "ai",
@@ -1165,8 +1175,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -1271,6 +1281,16 @@
       "location": "Knafel Center"
     },
     {
+      "date": "2026-10-06",
+      "title": "Reckonings Community Network Series: We Are Boston: A Jam Session for Culture & Memory Keepers",
+      "source": "Northeastern",
+      "tag": "networking",
+      "desc": "Join us for an evening of meaningful connection with culture workers contributing to and preserving Boston community histories. This networking event brings together community historians, artists, storytellers, and collectors from across generations. Together we envision how honoring Boston’s rich c",
+      "link": "https://calendar.northeastern.edu/event/reckonings-community-network-series-we-are-boston-a-jam-session-for-culture-memory-keepers-576",
+      "time": "TBD",
+      "location": "Bruce C. Bolling Municipal Building "
+    },
+    {
       "date": "2026-10-07",
       "title": "CSSH Co-op Poster Expo & Employer Mixer 2026",
       "source": "Northeastern",
@@ -1349,6 +1369,16 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-magnus-egerstedt-unc",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Sharing Community Histories Showcase",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The Sharing Community Histories Showcase fosters practice and knowledge exchanges about community-engaged projects out of the humanities and arts. Talks and posters will feature projects that Boston-area community partners, college teachers and students have co-created. We hope you leave this event ",
+      "link": "https://calendar.northeastern.edu/event/sharing-community-histories-showcase",
+      "time": "TBD",
+      "location": "Cabral Center, Northeastern University Boston Campus"
     },
     {
       "date": "2026-10-19",
@@ -1561,6 +1591,26 @@
       "link": "https://calendar.northeastern.edu/event/swim-dive-vs-conneticut",
       "time": "TBD",
       "location": "Barletta Nataorium"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Reckonings Community Network Series: Archives Fellowship Hour: Collecting Community and Family Stories",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Are you the family record keeper, the one that holds the memory of the family, the one who knows the family recipes, or carries forward a skill passed down through generations of your family or chosen family? And/or are you thinking about preserving memories together with members of older or younger",
+      "link": "https://calendar.northeastern.edu/event/reckonings-community-network-series-archives-fellowship-hour-collecting-community-and-family-stories",
+      "time": "TBD",
+      "location": "Bruce C. Bolling Municipal Building"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Searching the Genetic Bases of Human Brain Evolution",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "A presentation from 2026–2027 Helen Putnam Fellow Lucía F. Franchini Lucía F. Franchini is a molecular evolutionary biologist based in Buenos Aires, Argentina, whose aim is to unravel the genetic bases underlying the evolution of the human brain. At Radcliffe, she will collaborate with Harvard neuro",
+      "link": "https://events.seas.harvard.edu/event/searching-the-genetic-bases-of-human-brain-evolution",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-11-12",
