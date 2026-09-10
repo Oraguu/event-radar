@@ -1,96 +1,7 @@
 {
-  "scraped_at": "2026-09-09T14:04:48.374184",
-  "event_count": 635,
+  "scraped_at": "2026-09-10T13:59:43.500984",
+  "event_count": 638,
   "events": [
-    {
-      "date": "2026-09-09",
-      "title": "Faculty Job Search Series: Crafting the Academic Cover Letter",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Academic cover letters for faculty job applications are a little bit different than your typical industry cover letter. Join us to learn more about this specific document, what it should include, and how you can use it to make an impact. In this workshop, we will go over the document and its typical",
-      "link": "https://calendar.mit.edu/event/faculty-job-search-series-crafting-the-academic-cover-letter",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Fiber Crafts Group",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "It's a good time to get creative and finish that project! The Fiber Crafts Group offers the space to craft online with friends. Meetings will be held via Zoom. Feel free to sign in at any time over the session, and stay for as long as you like. For a Zoom invite, please email Olimpia Caceres-Brown (",
-      "link": "https://calendar.mit.edu/event/fiber_crafts_group_471",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Midday Music & Free Bike Tune Ups!",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all. Enjoy live hip-hop and R&B music curated by The Cambridge Hip-Hop Collective and free safety checks with a bicycle technician from Casa Bikes. Safety checks will take place on a first come, first served basis, regardless of advance registration. This is a popular event - we rec",
-      "link": "https://calendar.mit.edu/event/midday-music-free-bike-tune-ups",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Student Lending Art Program Exhibition Tour",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join the List Center for a tour of the 2026 Student Lending Art Program Exhibition and see the breadth of original works of art available to MIT students to borrow for the academic year. A List Center staff member will lead a guided tour highlighting a selection of the over 500 works of art included",
-      "link": "https://calendar.mit.edu/event/student-lending-art-program-exhibition-tour-5858",
-      "time": "TBD",
-      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "SCSB Colloquium with Dr. Yuko Munakata: Changing Perspectives on Self Control",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Wednesday, September 9, 2026 Location: 46-3002 (Singleton Auditorium) Time: 4:00pm-5:00pm ET, followed by reception Speaker: Yuko Munakata, Ph.D. Affiliation: Professor, University of California, Davis Host: Dr. Rebecca Saxe Talk title: Changing Perspectives on Self Control Abstract: Everyone ",
-      "link": "https://calendar.mit.edu/event/scsb-colloquium-with-dr-yuko-munakata-changing-perspectives-on-self-control",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Building an Effective Resume",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Preparing application materials for your next opportunity? Whether you're an undergraduate exploring UROPs, internships, and entry-level roles, or a graduate student or postdoc transitioning to industry, this workshop will equip you with the strategies to craft an effective resume. In this session, ",
-      "link": "https://calendar.mit.edu/event/building-an-effective-resume",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "MIT Ballroom Dance Camp 2026 (Day 1)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
-      "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-no-prior-dance-experience-needed",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Women's Soccer vs. Johnson &amp; Wales University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 7:00 PM Location: Providence, RI",
-      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Humanoid Robots Summit Europe 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Following the sold-out success of EHRS Berlin, Europe’s premier humanoid robotics summit moves to Stuttgart’s Kultur- und Kongresszentrum Liederhalle. Uniting 40+ leading exhibitors and global industry leaders, this hybrid event […]",
-      "link": "https://www.massrobotics.org/event/humanoid-robots-summit-europe-2026/",
-      "time": "TBD"
-    },
     {
       "date": "2026-09-10",
       "title": "Distinguished Seminar in Computational Science and Engineering",
@@ -343,16 +254,6 @@
     },
     {
       "date": "2026-09-12",
-      "title": "Women's Cross Country vs. \"Battle of Masssachusetts\" Relays",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: Location: Amherst, MA / Memorial Field",
-      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-12",
       "title": "Sailing vs. Harry Anderson Trophy",
       "source": "MIT",
       "tag": "talk",
@@ -366,8 +267,28 @@
       "title": "Men's Cross Country vs. \"Battle of Masssachusetts\" Relays",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 12:00 PM Location: Amherst, MA / Memorial Field",
+      "desc": "Time: 11:30 AM Location: Amherst, MA / Memorial Field",
       "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Women's Cross Country vs. \"Battle of Masssachusetts\" Relays",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 11:30 AM Location: Amherst, MA / Memorial Field",
+      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Women's Soccer vs. Brandeis University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 12:00 PM Location: Waltham, MA",
+      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
       "time": "TBD",
       "location": ""
     },
@@ -682,16 +603,6 @@
     },
     {
       "date": "2026-09-15",
-      "title": "SQI Seminar Series: Tal Linzen, NYU",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Tal Linzen is an Associate Professor of Linguistics and Data Science at New York University, and a Research Scientist at Google. He directs NYU's Computation and Psycholinguistics Lab, which uses behavioral experiments and computational methods to study how people learn and understand language. At b",
-      "link": "https://calendar.mit.edu/event/sqi-seminar-series-tal-linzen-nyu",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-15",
       "title": "Write for the World: The Art of the Blog Post: Workshops",
       "source": "MIT",
       "tag": "talk",
@@ -729,6 +640,16 @@
       "link": "https://calendar.mit.edu/event/voterfest",
       "time": "TBD",
       "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Number Theory Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "*Note: unusual time Speaker: Benjamin Church (MIT) Title: p-adic Siegel disks on K3 surfaces Abstract: McMullen constructed interesting automorphisms of complex K3 surfaces that have positive entropy, hence act chaotically on a large set, yet have a region of well-behaved orbits where the action is ",
+      "link": "https://calendar.mit.edu/event/number-theory-seminar-1951",
+      "time": "TBD",
+      "location": "Building 2"
     },
     {
       "date": "2026-09-15",
@@ -814,7 +735,7 @@
       "title": "The Dynamics of Power Politics",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Professor Stacie Goddard from Wellesley College will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: This seminar will give an overview of an in-process book manuscript, The Dynamics of Power Politics (with Paul MacDonald and Daniel Nexon), which develops a rela",
+      "desc": "Professor Stacie Goddard from Columbia University will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: This seminar will give an overview of an in-process book manuscript, The Dynamics of Power Politics (with Paul MacDonald and Daniel Nexon), which develops a re",
       "link": "https://calendar.mit.edu/event/the-dynamics-of-power-politics",
       "time": "TBD",
       "location": "Building E40"
@@ -848,6 +769,106 @@
       "link": "https://calendar.mit.edu/event/teaching-in-the-age-of-the-easy-button-motivating-students-to-embrace-desirable-difficulties-and-the-slow-work-of-learning",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Ethan Partida (Brown) Title: Line shellings of geometric lattices Abstract: Inspired by Bruggesser and Mani’s line shellings of polytopes, we introduce line shellings for the lattice of flats of a matroid: given any nested set complex of a matroid, we show that every lexicographic ordering ",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-7638",
+      "time": "TBD",
+      "location": "Harvard Science Center"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: David Vogan (MIT) Title: Filtrations on Harish-Chandra modules Abstract: The algebra of functions on an affine algebraic variety is infinite-dimensional; but it is has (not canonically!) an increasing filtration by finite-dimensional subspaces. The growth of the dimensions of those subspace",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar-594",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "MIT-Harvard Seminar: Hemamala Karunadasa (Stanford University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Single-Crystal Halide Perovskite Heterostructures Hemamala Karunadasa (Stanford University) Layered heterostructures, formed one monolayer at a time, have been shown to host exotic emergent properties at the interfaces where two monolayers meet. Although impressive advances have been made in control",
+      "link": "https://calendar.mit.edu/event/mit-harvard-seminar-hemamala-karunadasa-stanford-university",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "HPEC virtual conference: Graphs & Graph Challenge",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "3-5: Graphs & Graph Challenge (05:30 PM-07:30 PM) Co-Chairs: J. Kepner & A. Reuther The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 15-19) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-graph-challenge-2026",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Inaugural Philip Khoury Roundtable — SEPTEMBER 16TH & 17TH 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "A new initiative honoring Philip Khoury’s four decades of scholarly and institutional leadership at MIT. The Roundtable on September 16 - 17 will foster rigorous, open, and humane engagement with the histories and contemporary realities of the Middle East, bringing together scholars, students, alumn",
+      "link": "https://calendar.mit.edu/event/philip-khoury-roundtable-on-the-middle-east",
+      "time": "TBD",
+      "location": "MIT Museum"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Connect at the List: Graduate Art Students",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Join us at the MIT List Visual Arts Center for a unique chance to connect with other Boston area graduate art students and young artists. For this special networking event, the List Center invites Boston’s area graduate art students, recent grads, and young artists to come together and create connec",
+      "link": "https://calendar.mit.edu/event/connect-at-the-list-graduate-art-students-7847",
+      "time": "TBD",
+      "location": "MIT List Visual Arts Center, 20 Ames Street, Building E15, Cambridge, MA 02139"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Networking 101: Building Professional Connections That Work For You",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Join us for Networking 101: Building Professional Connections That Work For You, a workshop designed to take the intimidation out of networking for undergraduate and graduate students alike. The session covers the fundamentals of informational interviewing, including how to reach out, what to ask, a",
+      "link": "https://calendar.mit.edu/event/networking-101-building-professional-connections-that-work-for-you",
+      "time": "TBD",
+      "location": "Building 1"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Sense of an Ending (Staged Reading)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Front Porch Arts Collective and MIT Theater Arts present A staged reading of Sense of an Ending by MIT Senior Lecturer Ken Urban directed by Pascale Florestal That night, it begins. The men, they come into the church. They take a few of the old ones. I hear these sounds out in the hills. Horrible ho",
+      "link": "https://calendar.mit.edu/event/sense-of-an-ending-staged-reading",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Open Rehearsal Event with the MIT Wind Ensemble",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "All woodwind, brass, and percussion musicians OPEN REHEARSAL EVENT with the MIT WIND ENSEMBLE Wednesday, September 16 7:30-8:30pm, Kresge Auditorium Play, Listen, and Experience theexcellence and community of ensemblemusic making at MIT Musicians interested in classical and jazz encouraged to attend",
+      "link": "https://calendar.mit.edu/event/open-rehearsal-event-with-the-mit-wind-ensemble",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Book Talk: China and the Global Economic Order",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Chin and Gallagher trace how China moved from rule-taker to rule-maker inside and outside the Bretton Woods institutions, and how it helped found the Asian Infrastructure Investment Bank and the New Development Bank. Through the idea of two-way countervailing power, they show how China, with the BRI",
+      "link": "https://calendar.northeastern.edu/event/book-talk-china-and-the-global-economic-order",
+      "time": "TBD",
+      "location": "Renaissance_Park"
     },
     {
       "date": "2026-09-17",
@@ -884,10 +905,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-17",
@@ -1079,7 +1100,7 @@
       "source": "Northeastern",
       "tag": "talk",
       "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
-      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii-2300",
+      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
       "time": "TBD",
       "location": "Shaw-Roxbury Branch of the Boston Public Library"
     },
@@ -1092,6 +1113,16 @@
       "link": "https://calendar.northeastern.edu/event/writing-and-researching-your-path-to-success-webinar-series-8446",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Off Campus Fest",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join Off Campus Engagement and Support for Off Campus Fest! Learn about off-campus and on-campus resources, meet fellow Huskies, and enjoy small bites from area food businesses!",
+      "link": "https://calendar.northeastern.edu/event/off-campus-fest-2787",
+      "time": "TBD",
+      "location": "Krentzman Quad"
     },
     {
       "date": "2026-09-23",
@@ -1155,6 +1186,16 @@
     },
     {
       "date": "2026-09-25",
+      "title": "Humanities Center Signature Project Showcase ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join us for the Signature Projects Showcase, where Humanities Center Signature Projects will share their latest work and developments through brief presentations followed by informal sessions for deeper conversation and engagement. This is a wonderful opportunity to learn about the innovative resear",
+      "link": "https://calendar.northeastern.edu/event/humanities-center-signature-project-showcase",
+      "time": "TBD",
+      "location": "Snell Library "
+    },
+    {
+      "date": "2026-09-25",
       "title": "Amazon Internships + Outreach",
       "source": "Northeastern",
       "tag": "manufacturing",
@@ -1209,6 +1250,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-harvard-3291",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "\"The Deafhood Movement: Post Colonialism, Settler Colonialism, or another Other?\" By Judith Bishop",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "This presentation examines the structural oppression and self-actualization of Sign Language Peoples through the analytical lens of colonial theory. This talk looks at how Deaf people have been oppressed and how they've fought to define themselves, through the lens of colonial theory. It will be inf",
+      "link": "https://calendar.northeastern.edu/event/the-deafhood-movement-post-colonialism-settler-colonialism-or-another-other",
+      "time": "TBD",
+      "location": "Cabral Center"
     },
     {
       "date": "2026-09-30",
@@ -1764,42 +1815,6 @@
     },
     {
       "date": "TBD",
-      "title": "[Recruiting] Citadel & Citadel Securities PhD Tech Talk at CSAIL",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "32-G449 (Kiva Seminar Room)",
-      "link": "https://www.csail.mit.edu/event/recruiting-citadel-citadel-securities-phd-tech-talk-csail",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "[NLP Seminar] Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the clien",
-      "link": "https://www.csail.mit.edu/event/nlp-seminar-stolen-thoughts-stealing-reasoning-traces-proprietary-llm-apis",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "CSAIL New Grad Orientation",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Kiva",
-      "link": "https://www.csail.mit.edu/event/csail-new-grad-orientation-0",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Hash Tables Like Onions",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Greedy open addressing is an extremely popular template for building hash tables, but it suffers from a fundamental drawback: performance degrades as the table fills up. In particular, if a table is filled to a 1-1/x fraction full, the expected amortized query time, or the time to query a random ele",
-      "link": "https://www.csail.mit.edu/event/hash-tables-onions",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "[Recruiting] Balyasny Asset Management (BAM) Info Session at CSAIL",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1836,11 +1851,29 @@
     },
     {
       "date": "TBD",
+      "title": "[SQI x NLP Seminar] Less Superhuman Language Models",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "AI models surpass human capabilities in many areas: as a simple example, unlike humans, models can recall long lists of digits without errors. In this talk, I'll discuss ongoing work that highlights two consequences of the growing gap between models and humans, and proposes ways to address them. The",
+      "link": "https://www.csail.mit.edu/event/sqi-x-nlp-seminar-less-superhuman-language-models",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "k-Coloring is Faster than Computing the Chromatic Number",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "Refreshments at 4:00 PM",
       "link": "https://www.csail.mit.edu/event/k-coloring-faster-computing-chromatic-number",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "What’s new in hash tables?",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "✮ Star ✮",
+      "link": "https://www.csail.mit.edu/event/whats-new-hash-tables",
       "time": "TBD"
     },
     {
