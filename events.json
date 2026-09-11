@@ -1,177 +1,7 @@
 {
-  "scraped_at": "2026-09-10T13:59:43.500984",
-  "event_count": 638,
+  "scraped_at": "2026-09-11T13:58:43.197048",
+  "event_count": 634,
   "events": [
-    {
-      "date": "2026-09-10",
-      "title": "Distinguished Seminar in Computational Science and Engineering",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Distinguished Seminar in Computational Science and Engineering September 10, 2026, 12-1PM 45-432 in Building 45 and Zoom Webinar Toward Accurate and Efficient Large-Eddy Simulation of Urban Canopy Flows Catherine Gorlé Associate Professor of Civil and Environmental Engineering, Stanford University A",
-      "link": "https://calendar.mit.edu/event/distinguished-seminar-in-computational-science-and-engineering-4701",
-      "time": "TBD",
-      "location": "Building 45 (MIT Stephen A. Schwarzman College of Computing)"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Drop by CAPD: Office hours for first-years & sophomores",
-      "source": "MIT",
-      "tag": "networking",
-      "desc": "Kick off your semester by coming to CAPD office hours, designed just for first years and sophomores! Drop by to ask your career questions. Whether you're preparing for an upcoming career fair, exploring career paths, thinking through your career goals for the semester, or just want to come say hi, w",
-      "link": "https://calendar.mit.edu/event/drop-by-capd-office-hours-for-first-years-sophomores",
-      "time": "TBD",
-      "location": "Building 7"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Green Subsidies with Demand Distortions",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Susanna Berkouwer (UPenn)",
-      "link": "https://calendar.mit.edu/event/susanna-berkouwer",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "A LATE-Targeting Experimental Design for Multi-Arm RCTs",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Tetsuya Kaji (University of Chicago Booth School of Business)",
-      "link": "https://calendar.mit.edu/event/copy-of-tba-4367",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-10",
-      "title": "DMSE Special Seminar with Professor Stefano Martiniani of New York University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "In this talk, Stefano Martiniani of New York University will discuss the importance of understanding the relationship between structure and properties to designing materials with novel functions. Crystals have proven to be a highly versatile platform for engineering functions, as the periodicity of ",
-      "link": "https://calendar.mit.edu/event/dmse-special-seminar-with-professor-stefano-martiniani-of-new-york-university",
-      "time": "TBD",
-      "location": "Building 6"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Engaging Indigenous Communities  in System Design for Ecological Stewardship: a conversation with Sarah Augustine",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "As co-founder of Suriname Indigenous Health Fund, Sarah Augustine encountered a systemic problem arising from mining effluent. With intervention mapping to address social and economic factors impacting indigenous people’s health in Suriname’s interior region, Sarah put her values and research skills",
-      "link": "https://calendar.mit.edu/event/a-conversation-with-sarah-augustine",
-      "time": "TBD",
-      "location": "Building E38 (MIT Welcome Center)"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Mechanism Design Beyond Expected Utility",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "David Ahn (Washington)",
-      "link": "https://calendar.mit.edu/event/mechanism-design-beyond-expected-utility",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Public Speaking Certificate Fall 2026: Information Session",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The Public Speaking Certificate Program is designed to help MIT graduate students and postdocs become confident, effective, and versatile speakers in a wide range of professional and academic situations. Through workshops, personalized coaching, hands-on practice, and performance-based feedback, thi",
-      "link": "https://calendar.mit.edu/event/copy-of-information-session-public-speaking-certificate-fall-2025",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Arts on the Radar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Get to know the arts at MIT! Explore resources, events, workshops, and connect with fellow MIT art lovers. Join the Art, Culture, and Technology (ACT) program, Infinite Magazine, List Visual Arts Center, MIT Museum, Music and Theater Arts, MIT Office of the Arts, and MIT Open Space Programming for a",
-      "link": "https://calendar.mit.edu/event/arts-on-the-radar",
-      "time": "TBD",
-      "location": "Building E15"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "After Dark: COLD at the MIT Museum",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Ready to get frosty? Unravel the science of cold at the MIT Museum! Featured Activities: Dive into the polar vortex with MIT climatologist Judah Cohen as he breaks down what makes Boston winters so harsh.Discover how hibernation could unlock life-saving therapies with MIT alum Kat Kajderowicz (spoil",
-      "link": "https://calendar.mit.edu/event/after-dark-cold-at-the-mit-museum",
-      "time": "TBD",
-      "location": "MIT Museum"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "The Ahmad Tehrani Symposium—Sara Zewde + Najha Zigbi-Johnson",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The Ahmad Tehrani Symposium Sara Zewde + Najha Zigbi-Johnson Part of the MIT Fall 2026 Architecture Lecture Series Sara Zewde is founding principal of Studio Zewde, a design firm practicing landscape architecture, urbanism, and public art. Named to TIME Magazine’s TIME100 Next, Architectural Digest’",
-      "link": "https://calendar.mit.edu/event/the-ahmad-tehrani-symposiumsara-zewde-najha-zigbi-johnson",
-      "time": "TBD",
-      "location": "Building W41"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "MIT Ballroom Dance Camp 2026 (Day 2)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
-      "link": "https://calendar.mit.edu/event/mit-ballroom-dance-camp-2026",
-      "time": "TBD",
-      "location": "Building 13"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Woodcutters",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "An immersive evening inside one man’s unspoken grievances. Now spoken. Refreshments provided. Adapted from the novel Holzfällen by Thomas Bernhard using the translation Woodcutters by David McLintock Co-created by Sara Brown & Shira Milikowsky with contributions from Adrianne Krstansky & Lauren K. W",
-      "link": "https://calendar.mit.edu/event/woodcutters",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Give Blood, Give Hope: Mass GH Bloodmobile at Harvard SEAS",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Join Us for the Harvard SEAS Blood Drive with the Mass GH Bloodmobile! We’re teaming up with the Mass GH Bloodmobile to collect blood donations right here at Harvard SEAS. Every donation with MGH helps up to three patients at Mass General, MassGeneral for Children, Spaulding Rehab, Mass Eye & Ear, o",
-      "link": "https://events.seas.harvard.edu/event/copy-of-give-blood-give-hope-mass-gh-bloodmobile-at-harvard-seas-7101",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Google and Klaviyo Tabling Session @ the SEC",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Come to the SEC Su Family Gallery on Thursday, September 10, 12-2:15 PM to connect with members of the Google and Klaviyo teams. Stop by between classes or during lunch to learn more about internship and full-time opportunities. Advance registration not required.",
-      "link": "https://events.seas.harvard.edu/event/google-and-klaviyo-tabling-session-the-sec",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Barbara Grosz Distinguished Lecture in AI and Society ",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "2026 Barbara Grosz Distinguished Lecture in AI and Society Title: AI's Models of the World, and Ours Speaker: Jon Kleinberg, Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University Abstract: When we see someone performing at the top of their cr",
-      "link": "https://events.seas.harvard.edu/event/ais-models-of-the-world-and-ours",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Mechano-Pharmacology: Tailoring the geometry and mechanics of drug delivery systems to enhance therapeutic performance ",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Paolo Decuzzi (Italian Institute of Technology and Stanford University) The therapeutic performance of drug delivery systems can be enhanced by tailoring the geometrical and mechanical properties of the carrier itself. This lecture explores this idea through two microstructured drug delivery platfor",
-      "link": "https://events.seas.harvard.edu/event/mechano-pharmacology-tailoring-the-geometry-and-mechanics-of-drug-delivery-systems-to-enhance-therapeutic-performance",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
     {
       "date": "2026-09-11",
       "title": "Statistics and Data Science Seminar",
@@ -181,6 +11,16 @@
       "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar9",
       "time": "TBD",
       "location": "Building E18"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "MIT Mobility Forum",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/mit-mobility-forum-2671",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-11",
@@ -454,6 +294,16 @@
     },
     {
       "date": "2026-09-14",
+      "title": "LIDS Seminar | Rakesh Vohra | 32-155 @4:30 PM",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Posterior Envelopes and Bayesian Feasibility",
+      "link": "https://calendar.mit.edu/event/lids-seminar-rakesh-vohra",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-14",
       "title": "Optimal Tariffs under Geopolitical Risk: A Theory of Strategic De-risking",
       "source": "MIT",
       "tag": "talk",
@@ -469,6 +319,16 @@
       "tag": "talk",
       "desc": "FastCode Session with Bruce Hoppe The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE’s largest and most accessible US virtual con",
       "link": "https://calendar.mit.edu/event/hpec-virtual-conference-ASIC-FPGA-Advances",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Spain@MIT Welcome Event and Board Elections",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "We invite you to our official welcome event for new and returning members of Spain@MIT on September 14th at 6:30pm in room 32-144. In this year's welcome event, we will share our organization’s mission and the events we are planning for this semester, as well as hold elections for the 2026-2027 boar",
+      "link": "https://calendar.mit.edu/event/spainmit-welcome-event-and-board-elections",
       "time": "TBD",
       "location": ""
     },
@@ -511,6 +371,16 @@
       "link": "https://calendar.northeastern.edu/event/fusion-book-club-pop-up",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-09-14",
+      "title": "What Rough Beast...? On AI's Potential to Surpass Humanity",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "The recent explosion of AI capacity, along with booming prophecies about its limitless potential, arrives at a moment of profound unease. Just over a century ago, in the aftermath of the First World War, W.B. Yeats gave poetic form to a similar anxiety. In The Second Coming, he described an old orde",
+      "link": "https://events.seas.harvard.edu/event/what-rough-beast-on-ais-potential-to-surpass-humanity",
+      "time": "TBD",
+      "location": "Lewis Hall, 5th Floor"
     },
     {
       "date": "2026-09-14",
@@ -566,7 +436,7 @@
       "title": "Organizational Economics Seminar",
       "source": "MIT",
       "tag": "ai",
-      "desc": "TBA | Yifan Dai (MIT)",
+      "desc": "\"When is Mediated Communication Possible?\" | Yifan Dai (MIT)",
       "link": "https://calendar.mit.edu/event/dai_oesem",
       "time": "TBD",
       "location": "Building E62"
@@ -693,6 +563,16 @@
     },
     {
       "date": "2026-09-15",
+      "title": "International Law & Artificial Intelligence",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "A New 2026-2027 Lecture Series Examining the impact of AI on global legal architects Series Launch! Join this inagural fireside chat with Professor Denise Garcia, Professor of International Affairs and Political Science as she is joined with Northeastern's School of Law: - Tiernan Mennen, Director, ",
+      "link": "https://calendar.northeastern.edu/event/international-law-artificial-intelligence",
+      "time": "TBD",
+      "location": "909 Renaissance Park"
+    },
+    {
+      "date": "2026-09-15",
       "title": "Men's Soccer vs. Central Conneticut State",
       "source": "Northeastern",
       "tag": "talk",
@@ -700,6 +580,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-central-conneticut-state",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "2026 BKC Student Open House",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "You're Invited: Berkman Klein Center Student Launch The Berkman Klein Center invites students to our annual Open House. The annual Open House is the first place to hear about opportunities to work with the Berkman Klein Center. You can learn about our past and current projects, research assistantshi",
+      "link": "https://events.seas.harvard.edu/event/2026-bkc-student-open-house",
+      "time": "TBD",
+      "location": "Lewis Hall, 5th Floor"
     },
     {
       "date": "2026-09-15",
@@ -862,6 +752,16 @@
     },
     {
       "date": "2026-09-16",
+      "title": "2026 Constitution Day Lecture",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join the Northeastern Political Science Department for our Annual Constitution Day Lecture. This year, Kent Greenfield, Professor of Law and the Dr. Thomas F. Carney Distinguished Scholar at Boston College Law School, will be discussing his new book Secession: Why Our Country Should Split Up (And Ho",
+      "link": "https://calendar.northeastern.edu/event/2026-constitution-day-lecture",
+      "time": "TBD",
+      "location": "Egan Research Center"
+    },
+    {
+      "date": "2026-09-16",
       "title": "Book Talk: China and the Global Economic Order",
       "source": "Northeastern",
       "tag": "talk",
@@ -869,6 +769,46 @@
       "link": "https://calendar.northeastern.edu/event/book-talk-china-and-the-global-economic-order",
       "time": "TBD",
       "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Discovering Sustainability at MIT / Sustainability Lunch Series",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Curious about how you can enhance your skills in climate and sustainability at MIT and Sloan? Join us for the launch of our weekly Sustainability Lunch Series, where the MIT Sloan Sustainability Initiative will provide an engaging overview of the myriad ways to get involved. Learn about classes, clu",
+      "link": "https://calendar.mit.edu/event/discovering-sustainability-at-mit-sustainability-lunch-series",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Admissions Info Session: System Design and Management",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us on Thursday, September 17 to learn about MIT’s combined engineering and management master’s degree! In this session, we’ll give you an overview of our unique integrated core course and the curriculum that lets you take classes at MIT’s School of Engineering and Sloan School of Management. Pr",
+      "link": "https://calendar.mit.edu/event/admissions-info-session-sdm-202609",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-17",
+      "title": "HPEC virtual conference: Keynote Speaker- Prof. Daniela Rus (MIT)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Keynote Talk: Prof. Daniela Rus (MIT) The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE’s largest and most accessible US virtual",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-daniel-rus",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-17",
+      "title": "The Inaugural Philip Khoury Roundtable — Day Two",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join History at MIT and the MIT Center for International Studies (MIT-MENA) on September 17 for Day Two of the inaugural Philip Khoury Roundtable, a gathering of scholars exploring the history and politics of the modern Middle East. The afternoon opens with a working lunch and continues with hands-o",
+      "link": "https://calendar.mit.edu/event/the-inaugural-philip-khoury-roundtable-day-two",
+      "time": "TBD",
+      "location": "Building E51"
     },
     {
       "date": "2026-09-17",
@@ -905,17 +845,17 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
       "time": "TBD",
-      "location": ""
+      "location": "Renaissance Park"
     },
     {
       "date": "2026-09-17",
-      "title": "Computer Science Colloquium Series - Nora Ayanian (Brown University)",
+      "title": "A Vision For AI That Makes Us Stronger",
       "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Speaker: Nora Ayanian, Associate Professor of Computer Science and Engineering and director of the Automatic Coordination of Teams Lab at Brown University Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before",
+      "tag": "ai",
+      "desc": "Title: A vision for AI that makes us stronger Abstract: AI is often framed as a race for speed: replace human labor with computation, produce more, finish faster. Yet this approach of optimizing for the immediate term risks losing out in the longer run – consider a negotiation support agent that sum",
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-nora-ayanian-brown-university",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
@@ -1100,7 +1040,7 @@
       "source": "Northeastern",
       "tag": "talk",
       "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
-      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
+      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii-2300",
       "time": "TBD",
       "location": "Shaw-Roxbury Branch of the Boston Public Library"
     },
@@ -1156,6 +1096,16 @@
     },
     {
       "date": "2026-09-24",
+      "title": "The Hidden Power of Informality: How European Transnational Political Networks Shape International Cooperation",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "With threats to traditional multilateralism on the rise, international organizations find themselves under significant pressure. Existing scholarship critically underestimates the importance of informal interactions to the functioning of multilateral diplomacy. Based on her recent book, Making EU Fo",
+      "link": "https://calendar.northeastern.edu/event/the-hidden-power-of-informality-how-european-transnational-political-networks-shape-international-cooperation",
+      "time": "TBD",
+      "location": "909 Renaissance Park "
+    },
+    {
+      "date": "2026-09-24",
       "title": "Global Fellows Distinguished Lecture with Patricia Williams",
       "source": "Northeastern",
       "tag": "talk",
@@ -1163,6 +1113,16 @@
       "link": "https://calendar.northeastern.edu/event/global-fellows-distinguished-lecture-with-patricia-williams",
       "time": "TBD",
       "location": "Snell Library"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Design Research in Business",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Design research is already at work inside industry, often under other names or reduced to user research. It shapes how products get defined, how organizations decide what is worth building, how innovation and transformation actually happen, and what impact all of it has on society. Yet it is rarely ",
+      "link": "https://calendar.northeastern.edu/event/design-research-in-business",
+      "time": "TBD",
+      "location": "Ryder Hall"
     },
     {
       "date": "2026-09-24",
@@ -1266,8 +1226,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1574,16 +1534,6 @@
     },
     {
       "date": "2026-10-28",
-      "title": "Jeffrey Burds Memorial Speaker Series ",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "The Department of History, in collaboration with CSSH, is proud to present the fall 2026 installment of the Jeffrey Burds Memorial Speaker Series, in honor of late Professor of History Dr. Jeffrey Burds. Dr. Peter Richardson of Northeastern Univeristy will present, \"The Formidable Roast to Russian-J",
-      "link": "https://calendar.northeastern.edu/event/jeffrey-burds-memorial-speaker-series-4459",
-      "time": "TBD",
-      "location": "310 Renaissance Park"
-    },
-    {
-      "date": "2026-10-28",
       "title": "Venturing@Harvard",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -1692,6 +1642,16 @@
       "link": "https://calendar.northeastern.edu/event/swim-dive-vs-conneticut",
       "time": "TBD",
       "location": "Barletta Nataorium"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Writing Professional Emails",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Writing a professional email is more than choosing the right words. It’s about communicating clearly, confidently, and appropriately for your audience. In this interactive virtual workshop, you’ll learn practical strategies for writing effective emails in academic and professional settings. We’ll ex",
+      "link": "https://calendar.northeastern.edu/event/writing-professional-emails-7088",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-11-09",
@@ -1812,15 +1772,6 @@
       "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-9492",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "TBD",
-      "title": "[Recruiting] Balyasny Asset Management (BAM) Info Session at CSAIL",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Star Seminar Room: 32-D463 in CSAIL",
-      "link": "https://www.csail.mit.edu/event/recruiting-balyasny-asset-management-bam-info-session-csail",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -2724,24 +2675,6 @@
     },
     {
       "date": "TBD",
-      "title": "Decarb TechInvest 2026",
-      "source": "Greentown Labs",
-      "tag": "manufacturing",
-      "desc": "A summit connecting the leaders scaling critical minerals, firm power and hard tech!",
-      "link": "https://greentownlabs.com/event/techinvest-2026/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Critical AI Infrastructure Meets Power, Resilience and Carbon Management",
-      "source": "Greentown Labs",
-      "tag": "ai",
-      "desc": "Cross-sector leaders explore how power, resilience, and carbon management are shaping the future of AI infrastructure.",
-      "link": "https://greentownlabs.com/event/ai-infrastructure-integrating-power-resilience-and-carbon-management/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Houston Energy and Climate Startup Week 2026",
       "source": "Greentown Labs",
       "tag": "startup",
@@ -2774,6 +2707,24 @@
       "tag": "manufacturing",
       "desc": "HBS students convene industry, policy, and VC leaders for a day on energy resilience, climate security, and clean energy innovation.",
       "link": "https://greentownlabs.com/event/energy-and-climate-conference-2026-powering-a-resilient-future/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Critical AI Infrastructure Meets Power, Resilience and Carbon Management",
+      "source": "Greentown Labs",
+      "tag": "ai",
+      "desc": "Cross-sector leaders explore how power, resilience, and carbon management are shaping the future of AI infrastructure.",
+      "link": "https://greentownlabs.com/event/ai-infrastructure-integrating-power-resilience-and-carbon-management/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Decarb TechInvest 2026",
+      "source": "Greentown Labs",
+      "tag": "manufacturing",
+      "desc": "A summit connecting the leaders scaling critical minerals, firm power and hard tech!",
+      "link": "https://greentownlabs.com/event/techinvest-2026/",
       "time": "TBD"
     },
     {
@@ -5895,6 +5846,15 @@
       "title": "Subconscious Launch Night: The Easy Button for Open Models",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "International Acceleration Day, by Fintech Sandbox",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
