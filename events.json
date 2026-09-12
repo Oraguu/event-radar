@@ -1,97 +1,7 @@
 {
-  "scraped_at": "2026-09-11T13:58:43.197048",
-  "event_count": 634,
+  "scraped_at": "2026-09-12T13:17:18.784833",
+  "event_count": 637,
   "events": [
-    {
-      "date": "2026-09-11",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Guy Blanc (MIT) Title: Robust Learning with Optimal Error Abstract: We construct algorithms with optimal error for learning with adversarial noise. The overarching theme of this work is that the use of randomized hypotheses can substantially improve upon the best error rates achievable with",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar9",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "MIT Mobility Forum",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/mit-mobility-forum-2671",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Thesis Defense:  Christina Cabana",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Jacks lab l 'Development of a next-generation alveolar organoid model reveals AT2 cell-intrinsic heterogeneity that has lasting impacts on lung adenocarcinoma'",
-      "link": "https://calendar.mit.edu/event/thesis-defense-christina-cabana",
-      "time": "TBD",
-      "location": "Building 76"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "ChemE Dept. Seminar: Advances, Challenges and Opportunities in Process Electrification",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "Speaker: Michael Baldea, Claire and Peter Buenz Endowed Chair and Kenneth A. Kobe Professor in the McKetta Department of Chemical Engineering at The University of Texas at Austin Electrification aims to change the way energy is supplied and used in chemical and manufacturing processes. Electrifying ",
-      "link": "https://calendar.mit.edu/event/advances-challenges-and-opportunities-in-process-electrification",
-      "time": "TBD",
-      "location": "Building 66"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "MIT delta v Demo Day",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "Audacious Founders. Consequential Companies. Come see and hear the 13 startups from our 2026 delta v cohort and celebrate entrepreneurship at MIT. Get inspired, see what is possible!",
-      "link": "https://calendar.mit.edu/event/mit-delta-v-demo-day",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Outdoor Movie: Roman Holiday",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Free and open to all! Join us for a screening of the 1953 film Roman Holiday (G). This film is presented in collaboration with MIT Graduate Residential Life, and is first come, first served regardless of registration. Seating is limited - we recommend bringing a blanket or a chair. All minors must b",
-      "link": "https://calendar.mit.edu/event/outdoor-movie-roman-holiday",
-      "time": "TBD",
-      "location": "Kendall/MIT Open Space"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Woodcutters",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "An immersive evening inside one man’s unspoken grievances. Now spoken. Refreshments provided. Adapted from the novel Holzfällen by Thomas Bernhard using the translation Woodcutters by David McLintock Co-created by Sara Brown & Shira Milikowsky with contributions from Adrianne Krstansky & Lauren K. W",
-      "link": "https://calendar.mit.edu/event/copy-of-woodcutters",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Environmental surveillance for managing infectious disease outbreaks locally and globally",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Hannah Greenwald Healy - Harvard University The rate of infectious disease outbreaks is increasing globally and in the U.S. due to factors like international travel, climate shifts, and declining vaccination rates. Environmental surveillance— the systematic testing of water or air for health-relevan",
-      "link": "https://events.seas.harvard.edu/event/hannah-greenwald-healy-harvard-university",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "Silicon Photonics for LiDAR Sensors, Augmented Reality, Biophotonics, Quantum Engineering, and Beyond",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "Harvard John A. Paulson School of Engineering and Applied Sciences ELECTRICAL & Computer ENGINEERING SEMINAR Friday, September 11 2 - 3pm Pierce 209 \"Silicon Photonics for LiDAR Sensors, Augmented Reality, Biophotonics, Quantum Engineering, and Beyond\" Jelena Notaros Robert J. Shillman (1974) Career",
-      "link": "https://events.seas.harvard.edu/event/silicon-photonics-for-lidar-sensors-augmented-reality-biophotonics-quantum-engineering-and-beyond",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
     {
       "date": "2026-09-12",
       "title": "Sailing vs. Harry Anderson Trophy",
@@ -104,20 +14,20 @@
     },
     {
       "date": "2026-09-12",
-      "title": "Men's Cross Country vs. \"Battle of Masssachusetts\" Relays",
+      "title": "Men's Cross Country vs. \"Battle of Massachusetts\" Relays",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 11:30 AM Location: Amherst, MA / Memorial Field",
+      "desc": "Time: 11:30 AM Location: Amherst, MA / Book and Plow Farm",
       "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
       "time": "TBD",
       "location": ""
     },
     {
       "date": "2026-09-12",
-      "title": "Women's Cross Country vs. \"Battle of Masssachusetts\" Relays",
+      "title": "Women's Cross Country vs. \"Battle of Massachusetts\" Relays",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 11:30 AM Location: Amherst, MA / Memorial Field",
+      "desc": "Time: 11:30 AM Location: Amherst, MA / Book and Plow Farm",
       "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
       "time": "TBD",
       "location": ""
@@ -812,6 +722,106 @@
     },
     {
       "date": "2026-09-17",
+      "title": "Noise pollution and Infant Health",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Simon Greenhill (Harvard)",
+      "link": "https://calendar.mit.edu/event/simon-greenhill",
+      "time": "TBD",
+      "location": "Harvard Kennedy School Belfer 400 (Land Hall)"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Colloquium on the Brain and Cognition with Bing Brunton (Graduate Student Hosted)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Talk Title: TBD Abstract: TBD Bio: TBD Followed by a reception with food and drink in 3rd floor atrium",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-bing-brunton-graduate-student-hosted",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Merit and Impact: Writing Compelling NSF-GRFP Statements",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for a workshop on how to write your personal and research statements for the NSF-GRFP application. While the program is clear that you need to address the intellectual merit and broader impacts in both statements, figuring out how to do so in a unique and engaging way can be a challenge. We’",
+      "link": "https://calendar.mit.edu/event/copy-of-merit-and-impact-writing-a-compelling-nsf-grfp-statement-951",
+      "time": "TBD",
+      "location": "Building E17"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Novartis-MIT Lectures (Seth Herzon, Yale University + Alex N. Flyer, Novartis)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Alex N. Flyer: \"Discovery of NVP-MIW491: Dermal Delivery of an LXR Agonist for the Treatment of Meibomian Gland Dysfunction\" Seth B. Herzon: \"Total Synthesis of Gukulenin A and Development of Genotype-Directed Genotoxic Agents\"",
+      "link": "https://calendar.mit.edu/event/novartis-mit-lectures-seth-herzon-yale-novartis-tbd",
+      "time": "TBD",
+      "location": "Building 6"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Public Insurance Design Under Electoral Competition",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Bruno Strulovici (Northwestern)",
+      "link": "https://calendar.mit.edu/event/bruno-strulovici-northwestern",
+      "time": "TBD",
+      "location": "Littauer Center of Public Administration"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "TBA",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Sid Kankanala (University of Chicago Booth School of Business)",
+      "link": "https://calendar.mit.edu/event/copy-of-tba-3135",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "ORC Seminar: Modeling Adversarial Wildfires for Power Grid Disruption",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Matthew Brun ORC Best Student Paper Award Winner MIT Abstract: Electric power infrastructure faces increasing risk of damage and disruption due to wildfire. Operators of power grids in wildfire-prone regions must consider the potential impacts of unpredictable fires. However, traditional wildfire mo",
+      "link": "https://calendar.mit.edu/event/orc-seminar-modeling-adversarial-wildfires-for-power-grid-disruption",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Symplectic Geometry Seminar  ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Adi Dickstein (University of Montreal) Title: Symplectophagy Abstract: A symplectophagy is a symplectic isotopy satisfying certain constraints reminiscent of the symplectic camel problem. In this talk, I will introduce this notion and basic examples, and present a new phenomenon of symplect",
+      "link": "https://calendar.mit.edu/event/copy-of-symplectic-seminar-3834",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "2026 Study Abroad Info Session",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "When: Thursday, September 17th, 2026 - 5:00 PM-6:00 PM Where: 4-270 What: Thinking about study abroad? Join MISTI staff for an info session covering all the basics and learn more about study abroad opportunities across the globe (UK, Japan, Australia, South Korea, and many more!). Food: BOBA! First ",
+      "link": "https://calendar.mit.edu/event/2026-study-abroad-info-session",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Music Forum: Christian Frederickson",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Thursday, September 17th at 5pm Lewis Music Library Please join us for a light reception in the Lewis Music Library after the event. About the Speaker Christian Frederickson is a violist, composer, and sound designer based who specializes in live music performance for theater and dance. Originally f",
+      "link": "https://calendar.mit.edu/event/music-forum-christian-frederickson",
+      "time": "TBD",
+      "location": "Lewis Music Library"
+    },
+    {
+      "date": "2026-09-17",
       "title": "Graduate Fellowship Writing Club",
       "source": "Northeastern",
       "tag": "talk",
@@ -845,10 +855,10 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doi",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-7725",
+      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-9671",
       "time": "TBD",
-      "location": "Renaissance Park"
+      "location": ""
     },
     {
       "date": "2026-09-17",
@@ -1040,7 +1050,7 @@
       "source": "Northeastern",
       "tag": "talk",
       "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
-      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii-2300",
+      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
       "time": "TBD",
       "location": "Shaw-Roxbury Branch of the Boston Public Library"
     },
@@ -1492,6 +1502,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-10-23",
+      "title": "Nick Roy (MIT)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://events.seas.harvard.edu/event/nick-roy-mit",
+      "time": "TBD",
+      "location": "SEC"
+    },
+    {
       "date": "2026-10-24",
       "title": "Swim & Dive vs. Rhode Island",
       "source": "Northeastern",
@@ -1775,15 +1795,6 @@
     },
     {
       "date": "TBD",
-      "title": "[CIS Seminar] Optimal Proximity Gaps for Subspace-Design Codes and (Random) Reed-Solomon Codes",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Reed-Solomon (RS) codes were recently shown to exhibit an intriguing proximity gap&nbsp;phenomenon. Specifically, given a collection of strings with some algebraic structure (such as belonging to a line or affine space), either all of them are $\\delta$-close to RS codewords, or most of them are $\\de",
-      "link": "https://www.csail.mit.edu/event/cis-seminar-optimal-proximity-gaps-subspace-design-codes-and-random-reed-solomon-codes",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CSAIL Forum",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1834,6 +1845,15 @@
       "tag": "ai",
       "desc": "Abstract:We are experiencing unprecedented advances in technology. How we respond to these rapid changes through research and education is also changing. In this talk, I will define design and design research, then exemplify its use in my research, education, and practice. I will present interdiscip",
       "link": "https://www.csail.mit.edu/event/hci-seminar-jodi-forlizzi-role-design-age-ai-products-services-processes-and-systems",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Optiver Recruiting & High Frequency Trading Tech Talk",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Star Seminar Room: 32-D463 in CSAIL",
+      "link": "https://www.csail.mit.edu/event/optiver-recruiting-high-frequency-trading-tech-talk-1",
       "time": "TBD"
     },
     {
@@ -2698,6 +2718,15 @@
       "tag": "startup",
       "desc": "Explore funding challenges and the future of the energy transition at GCV Energy Connect, a Houston Energy and Climate Startup Week morning session with top energy investors!",
       "link": "https://greentownlabs.com/event/global-corporate-venturing-energy-connect-event-2/",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Open Circuit: The Founders Exhibit",
+      "source": "Greentown Labs",
+      "tag": "startup",
+      "desc": "Founders demo deep and hard tech in 5-minute rotations, exhibit-style — hosted by Laminar, Berkeley Gateway Accelerator, and Greentown Labs for #SFTechWeek.",
+      "link": "https://greentownlabs.com/event/open-circuit-the-founders-exhibit-sftechweekenergy/",
       "time": "TBD"
     },
     {
@@ -5681,15 +5710,6 @@
     },
     {
       "date": "TBD",
-      "title": "Your First Customer Might Be the Government",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "A Short Nature Hike by Longevity Global and Health Innovation Community",
       "source": "Luma",
       "tag": "talk",
@@ -5855,6 +5875,15 @@
       "title": "International Acceleration Day, by Fintech Sandbox",
       "source": "Luma",
       "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BUILD617 Ribbon Cutting + Grand Opening",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
