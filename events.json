@@ -1,86 +1,16 @@
 {
-  "scraped_at": "2026-09-12T13:17:18.784833",
-  "event_count": 637,
+  "scraped_at": "2026-09-13T14:00:28.436609",
+  "event_count": 636,
   "events": [
     {
-      "date": "2026-09-12",
-      "title": "Sailing vs. Harry Anderson Trophy",
+      "date": "2026-09-13",
+      "title": "Sailing vs. Harvard Invite",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 10:00 AM Location: New Haven, CT",
+      "desc": "Time: 10:00 AM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Men's Cross Country vs. \"Battle of Massachusetts\" Relays",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 11:30 AM Location: Amherst, MA / Book and Plow Farm",
-      "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Women's Cross Country vs. \"Battle of Massachusetts\" Relays",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 11:30 AM Location: Amherst, MA / Book and Plow Farm",
-      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Women's Soccer vs. Brandeis University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 12:00 PM Location: Waltham, MA",
-      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-12",
-      "title": "MIT Ballroom Dance Camp 2026 (Day 3)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Come learn some ballroom dancing from professional ballroom coaches and watch some inspirational performances by members of MIT's award-winning Ballroom Dance Team! Truly an exciting opportunity to meet our team, but also make new friends and hopefully find a community that you can call home <3 Plea",
-      "link": "https://calendar.mit.edu/event/ballroom-dance-camp-2026",
-      "time": "TBD",
-      "location": "Building W51"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Men's Soccer vs. Brandeis University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 3:00 PM Location: Waltham, MA",
-      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Woodcutters",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "An immersive evening inside one man’s unspoken grievances. Now spoken. Refreshments provided. Adapted from the novel Holzfällen by Thomas Bernhard using the translation Woodcutters by David McLintock Co-created by Sara Brown & Shira Milikowsky with contributions from Adrianne Krstansky & Lauren K. W",
-      "link": "https://calendar.mit.edu/event/copy-of-woodcutters-887",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Imaginary Instrument Hackathon",
-      "source": "Northeastern",
-      "tag": "manufacturing",
-      "desc": "Celebrating the publication of The Museum of Imaginary Musical Instruments, the Imaginary Instrument Hackathon is a one-day event dedicated to exploring sound, invention and the limits of the possible. Bring your concept for an instrument that doesn’t exist and spend a day building it out with acces",
-      "link": "https://calendar.northeastern.edu/event/imaginary-instrument-hackathon",
-      "time": "TBD",
-      "location": "Center for Design, Ryder Hall "
     },
     {
       "date": "2026-09-13",
@@ -602,6 +532,16 @@
     },
     {
       "date": "2026-09-16",
+      "title": "Women's Soccer vs. Bridgewater State University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 4:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-16",
       "title": "HPEC virtual conference: Graphs & Graph Challenge",
       "source": "MIT",
       "tag": "talk",
@@ -659,6 +599,16 @@
       "link": "https://calendar.mit.edu/event/open-rehearsal-event-with-the-mit-wind-ensemble",
       "time": "TBD",
       "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Men's Soccer vs. Salem State University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 7:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-16",
@@ -822,6 +772,26 @@
     },
     {
       "date": "2026-09-17",
+      "title": "HPEC virtual conference: GenAI Opportunities & AI Challenges Special Session",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "GenAI Opportunities & AI Challenges Special Session Dr. Vijay Gadepally (MIT LLSC) and Dr. Daniel Burrill (MIT LLSC) and, Dr. Christian Prothmann (MIT) The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in ",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-genai-special-session",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Tech Ethics Mixer",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "What are your concerns about the world we are creating? At Radius, our mission is to challenge uncritical narratives of progress and to provide space for considering how our important work in science and technology might better contribute to the common good. We’re a good gathering space for those wh",
+      "link": "https://calendar.mit.edu/event/tech-ethics-mixer",
+      "time": "TBD",
+      "location": "Building 50: Walker Memorial"
+    },
+    {
+      "date": "2026-09-17",
       "title": "Graduate Fellowship Writing Club",
       "source": "Northeastern",
       "tag": "talk",
@@ -878,6 +848,26 @@
       "desc": "Robo-taxis are rapidly emerging as one of the most transformative developments in urban mobility. What began as limited autonomous vehicle pilots has evolved into early commercial deployments across major cities, […]",
       "link": "https://www.massrobotics.org/event/the-future-of-robo-taxis/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "HPEC virtual conference: Keynote Speaker- Dave Martinez (MIT LL)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Keynote Talk: HPEC 30th Year Anniversary: Reflections and a Forward-Looking Perspective Dave Martinez (MIT LL) High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is on",
+      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-dave-martinez",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Speaker: Sam Gunn (MIT) Title: Efficient deletion of data from trained AI models Abstract: How does the choice of training data influence an AI model? This question is of central importance to interpretability, privacy, data attribution, and basic science. At its core is the data deletion problem: a",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar10",
+      "time": "TBD",
+      "location": "Building E18"
     },
     {
       "date": "2026-09-18",
@@ -1050,7 +1040,7 @@
       "source": "Northeastern",
       "tag": "talk",
       "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
-      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
+      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii-2300",
       "time": "TBD",
       "location": "Shaw-Roxbury Branch of the Boston Public Library"
     },
@@ -5710,24 +5700,6 @@
     },
     {
       "date": "TBD",
-      "title": "A Short Nature Hike by Longevity Global and Health Innovation Community",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "#001 - petals & plans 💐",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "CAN AI SAVE DEMOCRACY? How AI Could Build Better Government | BINGE THINKING BOS",
       "source": "Luma",
       "tag": "ai",
@@ -5740,6 +5712,15 @@
       "title": "REAL 2026",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Build With Harvard Founders",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -5882,6 +5863,15 @@
     {
       "date": "TBD",
       "title": "BUILD617 Ribbon Cutting + Grand Opening",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "BOST-Ig: An Ig Nobel Celebration",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
