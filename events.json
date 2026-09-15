@@ -1,196 +1,7 @@
 {
-  "scraped_at": "2026-09-14T16:05:57.215008",
-  "event_count": 305,
+  "scraped_at": "2026-09-15T14:34:41.890576",
+  "event_count": 293,
   "events": [
-    {
-      "date": "2026-09-14",
-      "title": "Build Up Healthy Writing Habits with Writing Together Online (Challenge 1)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Writing Together Online offers the structured writing time to help you stay focused and productive during the busy fall months. Join our daily 90-minute writing sessions and become part of a community of scholars who connect online, set realistic goals, and write together in the spirit of accountabi",
-      "link": "https://calendar.mit.edu/event/copy-of-build-up-healthy-writing-habits-with-writing-together-online-challenge-1-9495",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-14",
-      "title": "High Performance Extreme Computing (HPEC) virtual conference",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18 2026) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE’s largest and most accessible US virtual conference. Register now at IEEE",
-      "link": "https://calendar.mit.edu/event/high-performance-extreme-computing-hpec-virtual-conference-2026",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-14",
-      "title": "HPEC virtual conference: Keynote Speaker- Danna Freedman (MIT)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Keynote Talk: Expanding Quantum: MIT’s Quantum Initiative Danna Freedman (MIT) The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE",
-      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-Danna-Freedman",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-14",
-      "title": "The Rise of ESG 2.0: Economy-Security-Geopolitics ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "For decades, nations and businesses operated in a globalization-intensive world that prized supply chain efficiency and integration, while Environmental, Social, and Governance (ESG) criteria increasingly influenced investment decisions and corporate behavior. Recent shocks, from the COVID-19 pandem",
-      "link": "https://calendar.mit.edu/event/the-rise-of-esg-20-economy-security-geopolitics",
-      "time": "TBD",
-      "location": "Building E40"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Human Capital and the Organization of Production in Low-Income Countries",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Tommaso Porzio (Columbia)",
-      "link": "https://calendar.mit.edu/event/human-capital-and-the-organization-of-production-in-low-income-countries",
-      "time": "TBD",
-      "location": "Boylston Hall 101 Fong Auditorium"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Geometry & Topology Seminar ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Bob Gompf (University of Texas at Austin) Title: The Universal R4 and applications Abstract: We will discuss the universal R4 and universal smoothings more generally. This work was inspired by a 1986 paper of Freedman and Taylor but extends well beyond it. Simplifications of the main proof ",
-      "link": "https://calendar.mit.edu/event/copy-of-geometry-topology-seminar-9642",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Probability Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Pu Yu (NYU) Title: Convergence of tree-weighted maps under Riemann uniformization embedding Abstract: One natural way to draw a planar map is to use the Riemann uniformization embedding, where one views each face of degree p as a unit side length regular p-gon, and glue them all together to",
-      "link": "https://calendar.mit.edu/event/probability-seminar-Pu-Yu-2561",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "The Winner's Curse in Early Admissions",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Phi Adajar - MIT Department of Economics (co-authored with Nagisa Tadjfar and Kartik Vira)",
-      "link": "https://calendar.mit.edu/event/tbd-1627",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "LIDS Seminar | Rakesh Vohra | 32-155 @4:30 PM",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Posterior Envelopes and Bayesian Feasibility",
-      "link": "https://calendar.mit.edu/event/lids-seminar-rakesh-vohra",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Optimal Tariffs under Geopolitical Risk: A Theory of Strategic De-risking",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Ina Simonovska, UC Davis",
-      "link": "https://calendar.mit.edu/event/ina-simonovska-uc-davis",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "HPEC virtual conference: ASIC and FPGA Advances",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "FastCode Session with Bruce Hoppe The MIT organized IEEE High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is one of IEEE’s largest and most accessible US virtual con",
-      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-ASIC-FPGA-Advances",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Spain@MIT Welcome Event and Board Elections",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "We invite you to our official welcome event for new and returning members of Spain@MIT on September 14th at 6:30pm in room 32-144. In this year's welcome event, we will share our organization’s mission and the events we are planning for this semester, as well as hold elections for the 2026-2027 boar",
-      "link": "https://calendar.mit.edu/event/spainmit-welcome-event-and-board-elections",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Argentine Tango Class Series",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us on Monday evenings for Argentine tango classes with outstanding instructors Fernanda Ghi and Guillermo Merlo. Whether you are completely new to tango, or already have some experience, you will find a friendly environment in which to learn new things and improve your technique. You don't have",
-      "link": "https://calendar.mit.edu/event/argentine-tango-class-series-9783",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Woodcutters",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "An immersive evening inside one man’s unspoken grievances. Now spoken. Refreshments provided. Adapted from the novel Holzfällen by Thomas Bernhard using the translation Woodcutters by David McLintock Co-created by Sara Brown & Shira Milikowsky with contributions from Adrianne Krstansky & Lauren K. W",
-      "link": "https://calendar.mit.edu/event/copy-of-woodcutters-7901",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Biology Colloquia Series: Emeka Okeke",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Prof. Emeka Okeke, PhD, Northeastern University presents: Untangling the NETs: From the stressed brain to the inflamed gut https://cos.northeastern.edu/people/emeka-okeke/",
-      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-ivan-zanoni-5010",
-      "time": "TBD",
-      "location": "134 Mugar"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Fusion Book Club Pop-Up",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Stop by the table in the Snell Engineering Center, in the first floor hallway between SN 108 and SN 168, to learn about Fusion Book Club, vote on upcoming book […] The post Fusion Book Club Pop-Up appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/fusion-book-club-pop-up",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-14",
-      "title": "What Rough Beast...? On AI's Potential to Surpass Humanity",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "The recent explosion of AI capacity, along with booming prophecies about its limitless potential, arrives at a moment of profound unease. Just over a century ago, in the aftermath of the First World War, W.B. Yeats gave poetic form to a similar anxiety. In The Second Coming, he described an old orde",
-      "link": "https://events.seas.harvard.edu/event/what-rough-beast-on-ais-potential-to-surpass-humanity",
-      "time": "TBD",
-      "location": "Lewis Hall, 5th Floor"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Science & Cooking Lecture Series; Harold McGee & Dave Arnold ",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Dave Arnold, Booker and Dax, NYC, founder and author of Liquid Intelligence, host of the podcast Cooking Issues, and founder of the Museum of Food and Drink, is known for his groundbreaking work at the intersection of culinary innovation and science. Harold McGee, celebrated food science writer and ",
-      "link": "https://events.seas.harvard.edu/event/science-cooking-lecture-series-harold-mcgee-dave-arnold",
-      "time": "TBD",
-      "location": "Science Center Hall C"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "International Manufacturing Technology Show",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Dive deeper into the latest and greatest updates across four overarching technology areas – additive manufacturing, automation and robotics, digital manufacturing, and metalworking.",
-      "link": "https://www.massrobotics.org/event/international-manufacturing-technology-show/",
-      "time": "TBD"
-    },
     {
       "date": "2026-09-15",
       "title": "An Evening with Alex Counts, Author and Founder of the Grameen Foundation",
@@ -432,6 +243,16 @@
     },
     {
       "date": "2026-09-16",
+      "title": "DECODING:ENCODING | Sara Bronin",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Leventhal Center for Advanced Urbanism, co-sponsored by the joint program in City Design and Development (CDD) and the Housing Community and Economic Development (HCED) group is thrilled to invite you to DECODING:ENCODING. Our fall lecture series explores the reciprocal relationship between the ",
+      "link": "https://calendar.mit.edu/event/decodingencoding",
+      "time": "TBD",
+      "location": "Building W41"
+    },
+    {
+      "date": "2026-09-16",
       "title": "Register for Harvard Library Privileges",
       "source": "MIT",
       "tag": "talk",
@@ -509,6 +330,16 @@
       "link": "https://calendar.mit.edu/event/philip-khoury-roundtable-on-the-middle-east",
       "time": "TBD",
       "location": "MIT Museum"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "LCAU OPEN HOUSE",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Leventhal Center for Advanced Urbanism is thrilled to open its doors to the broader MIT community. Please invite your colleagues and join us for locally sourced charcuterie boards with wine and beer. Researchers, PhDs, and visiting scholars will be saying a few words about their work. We look fo",
+      "link": "https://calendar.mit.edu/event/lcau-open-house",
+      "time": "TBD",
+      "location": "Building W41"
     },
     {
       "date": "2026-09-16",
@@ -651,7 +482,7 @@
     },
     {
       "date": "2026-09-17",
-      "title": "Noise pollution and Infant Health",
+      "title": "Noise Pollution and Infant Health",
       "source": "MIT",
       "tag": "talk",
       "desc": "Simon Greenhill (Harvard)",
@@ -801,6 +632,16 @@
     },
     {
       "date": "2026-09-17",
+      "title": "Allstonway @ ERC - Food Truck Thursdays",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Allstonway Food Truck Series: Join us every Thursday from 11:30 a.m. to 1:30 p.m. for a rotating selection of food trucks at Allstonway located on the new Enterprise Research Campus in Allston. Food trucks visiting will be: 9/17 - Work Hard Eat Good 9/24 - The Sausage Guy 10/1 - The Crepe Shop 10/8 ",
+      "link": "https://events.seas.harvard.edu/event/allstonway-erc-food-truck-thursdays",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-17",
       "title": "A Vision For AI That Makes Us Stronger",
       "source": "Harvard SEAS",
       "tag": "ai",
@@ -930,6 +771,16 @@
     },
     {
       "date": "2026-09-19",
+      "title": "Men's Water Polo vs. Mercyhurst University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 11:30 AM Location: Lewisburg, PA / Bucknell University",
+      "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-19",
       "title": "Swim & Dive Black vs. Red Intrasquad ",
       "source": "Northeastern",
       "tag": "talk",
@@ -947,6 +798,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-monmouth-3316",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Brighton Bazaar 5th Anniversary Market",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "The classic Brighton Bazaar is coming to Allstonway! Featuring Boston’s broadest mix of artists, artisans, crafters, collectors, curators of vintage/antiques, media dealers, & independent small businesses of all kinds! Admission is free.",
+      "link": "https://events.seas.harvard.edu/event/brighton-bazaar-5th-anniversary-market",
+      "time": "TBD",
+      "location": "100 Western Ave Boston, MA  "
     },
     {
       "date": "2026-09-19",
@@ -1115,6 +976,16 @@
     },
     {
       "date": "2026-09-23",
+      "title": "Charging Fast and Slow: Quantifying the Real-Life Value of EV Charging for Users, OEMs, and the Grid",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "RSVP HERE A Harvard-China Project Research Seminar with Christian Kaps, Assistant Professor of Business Administration, Harvard Business School Abstract: Managing electricity demand is critical for lowering the cost of electrified products, integrating intermittent renewables, and reducing grid expa",
+      "link": "https://events.seas.harvard.edu/event/charging-fast-and-slow-quantifying-the-real-life-value-of-ev-charging-for-users-oems-and-the-grid",
+      "time": "TBD",
+      "location": "Pierce Hall"
+    },
+    {
+      "date": "2026-09-23",
       "title": "Postdoc Appreciation Celebration",
       "source": "Harvard SEAS",
       "tag": "networking",
@@ -1138,7 +1009,7 @@
       "title": "The Hidden Power of Informality: How European Transnational Political Networks Shape International Cooperation",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "With threats to traditional multilateralism on the rise, international organizations find themselves under significant pressure. Existing scholarship critically underestimates the importance of informal interactions to the functioning of multilateral diplomacy. Based on her recent book, Making EU Fo",
+      "desc": "The Center for International Affairs and World Cultures (CIAWC) is pleased to welcome Marianna Lovato as the keynote speaker for our Transnational Political Networks and the Future of Global Order workshop. Moderated by Dr. Mai'a Cross. With threats to traditional multilateralism on the rise, intern",
       "link": "https://calendar.northeastern.edu/event/the-hidden-power-of-informality-how-european-transnational-political-networks-shape-international-cooperation",
       "time": "TBD",
       "location": "909 Renaissance Park "
@@ -1165,10 +1036,10 @@
     },
     {
       "date": "2026-09-24",
-      "title": "Computer Science Colloquium Series - Andrea Bajscy (CMU Robotics Institute)",
+      "title": "What Does Safety Mean for Generalist Robots?",
       "source": "Harvard SEAS",
       "tag": "robotics",
-      "desc": "Speaker: Andrea Bajscy, Assistant Professor in the Robotics Institute at Carnegie Mellon University Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm",
+      "desc": "Title: What Does Safety Mean for Generalist Robots? Speaker: Andrea Bajcsy, Assistant Professor in the Robotics Institute at Carnegie Mellon University Abstract: Robot safety is a nuanced concept. We commonly equate safety with collision-avoidance. However, when considering the possibility of genera",
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-andrea-bajscy-cmu-robotics-institute",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
@@ -1265,8 +1136,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1854,15 +1725,6 @@
     },
     {
       "date": "TBD",
-      "title": "CSAIL Forum",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://www.csail.mit.edu/event/csail-forum",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "HCI Seminar - Ellen Kuhl - Generative AI for Food Design: Learning the Human Palate",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1899,11 +1761,29 @@
     },
     {
       "date": "TBD",
+      "title": "Arvim Blum: Learning Verifiers for Chain-of-Thought Reasoning and Human-AI collaboration",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "G882 Hewlett - Refreshments at 3:15p",
+      "link": "https://www.csail.mit.edu/event/arvim-blum-learning-verifiers-chain-thought-reasoning-and-human-ai-collaboration",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "What’s new in hash tables?",
       "source": "MIT CSAIL",
       "tag": "ai",
       "desc": "✮ Star ✮",
       "link": "https://www.csail.mit.edu/event/whats-new-hash-tables",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CSAIL Forum",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://www.csail.mit.edu/event/csail-forum-0",
       "time": "TBD"
     },
     {
@@ -2718,15 +2598,6 @@
     },
     {
       "date": "TBD",
-      "title": "CAN AI SAVE DEMOCRACY? How AI Could Build Better Government | BINGE THINKING BOS",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "REAL 2026",
       "source": "Luma",
       "tag": "talk",
@@ -2746,6 +2617,15 @@
     {
       "date": "TBD",
       "title": "Pokey/Schleppie Awards 2026",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Unicorn Award Celebration: Night At The MIT Museum",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -2844,6 +2724,15 @@
     },
     {
       "date": "TBD",
+      "title": "Ramp at Cambridge: HackWeek",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Boston Computational Biology Hackathon with Anthropic, Modal, and Flagship Pioneering",
       "source": "Luma",
       "tag": "startup",
@@ -2883,15 +2772,6 @@
       "title": "International Acceleration Day, by Fintech Sandbox",
       "source": "Luma",
       "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "BUILD617 Ribbon Cutting + Grand Opening",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
