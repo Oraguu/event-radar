@@ -1,156 +1,16 @@
 {
-  "scraped_at": "2026-09-18T14:01:11.237300",
-  "event_count": 287,
+  "scraped_at": "2026-09-19T13:37:50.652077",
+  "event_count": 286,
   "events": [
     {
-      "date": "2026-09-18",
-      "title": "Paying Attention to Values in the Age of Algorithmic Amplifiers",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Join us for our online seminar series event hosted by MIT Media Lab's Advancing Humans with AI (AHA) research program. This event features Ziv Epstein, Postdoctoral Associate at the MIT Schwarzman College of Computing. This session is a bonus addition to the AHA Seminar series, held in person on Fri",
-      "link": "https://calendar.mit.edu/event/paying-attention-to-values-in-the-age-of-algorithmic-amplifiers",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Workshop on Land, Capital, and Shelter",
+      "date": "2026-09-19",
+      "title": "Sailing vs. Regis Trophy",
       "source": "MIT",
       "tag": "talk",
-      "desc": "The treatment of public and private spaces as commodities has a long and varied history across geographies the world over, and scholars of capitalism tend to treat it as an economic and social formation characterized in terms of production, labor relations, and exploitation. But there has been far l",
-      "link": "https://calendar.mit.edu/event/workshop-on-land-capital-and-shelter",
-      "time": "TBD",
-      "location": "Building W41"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "HPEC virtual conference: Keynote Speaker- Dave Martinez (MIT LL)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Keynote Talk: HPEC 30th Year Anniversary: Reflections and a Forward-Looking Perspective Dave Martinez (MIT LL) High Performance Extreme Computing (HPEC) free virtual conference (Sep 14-18) features many world-class research projects in a 150+ presentation agenda featuring 30+ talks on AI. HPEC is on",
-      "link": "https://calendar.mit.edu/event/hpec-virtual-conference-keynote-speaker-dave-martinez",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Sailing vs. NEISA Monotype Trophy Singlehanded Championship",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Chestnut Hill, MA",
+      "desc": "Time: 10:00 AM Location: Cambridge, MA",
       "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Speaker: Sam Gunn (MIT) Title: Efficient deletion of data from trained AI models Abstract: How does the choice of training data influence an AI model? This question is of central importance to interpretability, privacy, data attribution, and basic science. At its core is the data deletion problem: a",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar10",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "SCSB Lunch Series with Dr. Rani Borbara: The Connectome in Use: From anatomical wiring to functional organization in the behaving C. elegans brain",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Friday, September 18, 2026 Time: 12:00pm – 1:00pm Location: Simons Center Conference room 46-6011. Zoom: https://mit.zoom.us/j/94794483445 Speaker: Rani Borbara, Ph.D. Affiliation: Simons Postdoctoral Fellow, Steven Flavell Laboratory, Picower Institute for Learning and Memory, MIT Talk title:",
-      "link": "https://calendar.mit.edu/event/scsb-lunch-series-with-dr-rani-borbara-the-connectome-in-use-from-anatomical-wiring-to-functional-organization-in-the-behaving-c-elegans-brain",
-      "time": "TBD",
-      "location": "Simons Center Conference room, 46-6011"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "T-Minus: A Founder Panel",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "​T-Minus is a panel discussion on how to prepare for a startup while at MIT. It's for anyone T-1 or T-2 years out from finishing their degree and thinking about launching a company. Hear from founders who were recently in your shoes: building companies while studying at MIT. ​Join us for a conversat",
-      "link": "https://calendar.mit.edu/event/t-minus",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Infinite-Dimensional Algebra Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Ilya Dumanski (SLMath) Title: Chiralization of integrable systems Abstract: Given a symplectic variety X, one can define its chiral quantization — a sheaf of vertex algebras, which deforms the jet bundle of X. The study of such structures is motivated by mathematical physics. Classification",
-      "link": "https://calendar.mit.edu/event/infinite-dimensional-algebra-seminar-3786",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "MechE Colloquium with Kaitlyn Becker: Fabrication-Integrated Design for Mechanical Systems Made from Unconventional Materials",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "Date: Friday, September 18, 2026 Location: 3-270 Time: 3:30pm-4:30pm ET Speaker: Kaitlyn Becker Affiliation: Assistant Professor, MIT Mechanical Engineering Host: Professor Sanjay Sarma Affiliation: Professor, MIT Mechanical Engineering Talk title: Fabrication-Integrated Design for Mechanical System",
-      "link": "https://calendar.mit.edu/event/meche-colloquium-with-kaitlyn-becker",
-      "time": "TBD",
-      "location": "Building 3"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Molecular and Cellular Neuroscience Program Seminar with Sara Kocher (Princeton)  \"Harnessing natural variation to study the evolution of social behavior\"",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/molecular-and-cellular-neuroscience-program-seminar-with-sara-kocher-harnessing-natural-variation-to-study-the-evolution-of-social-behavior",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Janmashtami Celebration – Born of the Unborn",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join the MIT Vedic Vision Forum for a special Janmashtami celebration marking the divine appearance of Lord Krishna. The program will explore the significance of Krishna’s appearance and timeless teachings from the Bhagavad Gita through an engaging and interactive session. The event will feature HG ",
-      "link": "https://calendar.mit.edu/event/janmashtami-celebration-born-of-the-unborn",
-      "time": "TBD",
-      "location": "Building 56"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Greg Olson: Genomic Materials Design: Making CyberSteels Fly",
-      "source": "Harvard SEAS",
-      "tag": "startup",
-      "desc": "Sixty years of academic collaboration and thirty years of commercialization by a network of small businesses have delivered a mature technology of computational materials design and accelerated qualification grounded in the CALPHAD system of fundamental databases now known as the Materials Genome. T",
-      "link": "https://events.seas.harvard.edu/event/greg-olson-genomic-materials-design-making-cybersteels-fly",
-      "time": "TBD",
-      "location": "Maxwell Dworkin"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "MethaneSAT: Quantifying Methane Emissions from Point Sources to Regional Totals",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Joshua S. Benmergui - Harvard University MethaneSAT was an Earth-observing satellite developed by the Environmental Defense Fund that operated from March 4, 2024 until June 20, 2025. It quantified methane emissions from oil and gas production and agricultural regions with broad geographic coverage, ",
-      "link": "https://events.seas.harvard.edu/event/methanesat-quantifying-methane-emissions-from-point-sources-to-regional-totals",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Harvard Business & Consulting Fair",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "The Business & Consulting Fair is a high-impact opportunity to connect with Harvard undergraduate and graduate students early in the semester. This event represents organizations with pathways that include strategy, consulting, marketing, consumer goods, retail, business development, operations, rot",
-      "link": "https://events.seas.harvard.edu/event/harvard-business-consulting-fair",
-      "time": "TBD",
-      "location": "Harvard Student Organization Center at Hilles (SOCH)"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Design and Application of Soft Robotics in Haptics, Gripping, and Medicine",
-      "source": "Harvard SEAS",
-      "tag": "robotics",
-      "desc": "Amy Kyungwon Han (Associate Professor, Seoul National University) Soft robotics enables safe and adaptive interaction with humans, delicate objects, and dynamic environments through compliant actuators, sensors, and mechanisms. This talk presents the design and application of soft robotic technologi",
-      "link": "https://events.seas.harvard.edu/event/design-and-application-of-soft-robotics-in-haptics-gripping-and-medicine",
-      "time": "TBD",
-      "location": "SEC"
     },
     {
       "date": "2026-09-19",
@@ -279,7 +139,7 @@
       "desc": "",
       "link": "https://calendar.mit.edu/event/decodingencoding-elizabeth-bowie-christoforetti-will-cohen-sarah-dunbar",
       "time": "TBD",
-      "location": "Building W41"
+      "location": "Building W41 (MET Warehouse)"
     },
     {
       "date": "2026-09-21",
@@ -470,6 +330,16 @@
       "link": "https://calendar.mit.edu/event/tba-5699",
       "time": "TBD",
       "location": "Building E52"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "MMEC Seminar with Prof. Wim van Rees: Immersed Finite Difference Methods for Computational Mechanics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Wim van Rees Affiliation: Associate Professor, MIT Mechanical Engineering Hosts: Andrew Akerson and Carlos Portela Affiliations: Professors, MIT Mechanical Engineering Talk title: Immersed Finite Difference Methods for Computational Mechanics Abstract: In this talk, I will discuss our progr",
+      "link": "https://calendar.mit.edu/event/mmec-seminar-with-prof-wim-van-rees-immersed-finite-difference-methods-for-computational-mechanics",
+      "time": "TBD",
+      "location": "Building 3"
     },
     {
       "date": "2026-09-22",
@@ -859,6 +729,106 @@
     },
     {
       "date": "2026-09-24",
+      "title": "Climate and Prehistoric Migration",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Marco Tabellini (Harvard) co-written with Peter Huybers, Charles A. Taylor, and Francesco Toti",
+      "link": "https://calendar.mit.edu/event/marco-tabellini-harvard",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Careers in Mechanical Engineering Employer Panel",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "A collaboration between the MIT Department of Mechanical Engineering and Career Advising & Professional Development, this employer panel program aims to provide students insight into different career opportunities in mechanical engineering. Participating employer panelists represent organizations wh",
+      "link": "https://calendar.mit.edu/event/careers-in-mechanical-engineering-employer-panel",
+      "time": "TBD",
+      "location": "3-133"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Colloquium on the Brain and Cognition with Mark Harnett",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Talk Title: Biophysical underpinnings of computation and learning in the neocortex Abstract: I will discuss my lab’s recent work on understanding the interacting roles of synaptic organization, nonlinear dendritic processing, and neuronal activity patterns in the mammalian neocortex as they pertain ",
+      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-and-cognition-with-mark-harnett",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Decision Theory for the Archetype Discovery Problem",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Jose Luis Montiel Olea (Cornell University) Joint with Harvard-MIT Theory Seminar",
+      "link": "https://calendar.mit.edu/event/tba-1696",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Overburden with Gregg Mitman",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Founded in the wake of war, the East Nimba Nature Reserve shelters some of West Africa’s most endangered species. With exclusive, on-the-ground access, OVERBURDEN follows rangers, scientists, and forest defenders, including ranger Moses Darpey, biologist Grace Kotee Zansi, chief park warden Catherin",
+      "link": "https://calendar.mit.edu/event/overburden-with-gregg-mitman",
+      "time": "TBD",
+      "location": "Building E38 (MIT Welcome Center)"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "ORC Seminar: On Complexity of Derivative-Free Optimization",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Katya Scheinberg Professor Georgia Tech Abstract: In many applications of mathematical optimization, one may wish to optimize an objective function without access to its derivatives (gradients). These situations call for derivative-free optimization (DFO) methods. Among the most successful approache",
+      "link": "https://calendar.mit.edu/event/orc-seminar-on-complexity-of-derivative-free-optimization",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Symplectic Geometry Seminar  ",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Speaker: Jiaji Cai (Stony Brook University) Title: Symplectic irrationality via Gromov-Witten invariants Abstract: I will explain how Gromov-Witten theory can be used to prove the symplectic irrationality of certain projective hypersurfaces. If time permits, I will try to explain the rather technica",
+      "link": "https://calendar.mit.edu/event/symplectic-seminar-5472",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "2026 MIT Deep Tech Career Fair",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Explore career and internship opportunities in electronics, quantum, computing, materials, and other deep-tech industries. MIT students, postdocs, researchers, and alumni are invited to meet with representatives of the member companies of the MIT.nano Consortium, Microsystems Industrial Group, Quant",
+      "link": "https://calendar.mit.edu/event/2026-mit-deep-tech-career-fair",
+      "time": "TBD",
+      "location": "Building 32"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Indie Music: For the Love & For the Money ",
+      "source": "MIT",
+      "tag": "startup",
+      "desc": "MIT Arts Startup Incubator launch event Join us at the MIT Arts Startup Incubator launch event to learn more about the impact of creative entrepreneurs at MIT and beyond! Anj Fayemi, Arts Startup Incubator alum and founder of Rivet, and Liza Levy, Salt Lick Incubator President, have a conversation a",
+      "link": "https://calendar.mit.edu/event/indie-music-for-the-love-for-the-money",
+      "time": "TBD",
+      "location": "Cantab Underground"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "What Can Hardware Do for Computer Security?",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Boston Chapter of the IEEE Computer Society and GBC/ACM 7:00 PM, Thursday, 24 September 2026 MIT Room 32-G449 (Kiva) and online via Zoom What Can Hardware Do for Computer Security? Srini Devadas, MIT Please register in advance for this seminar even if you plan to attend in person at https://acm-org.",
+      "link": "https://calendar.mit.edu/event/what-can-hardware-do-for-computer-security",
+      "time": "TBD",
+      "location": "Building 32"
+    },
+    {
+      "date": "2026-09-24",
       "title": "Graduate Fellowship Writing Club",
       "source": "Northeastern",
       "tag": "talk",
@@ -929,6 +899,16 @@
     },
     {
       "date": "2026-09-24",
+      "title": "From Regression to Algorithm Discovery: Perspectives on Scientific Machine Learning",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Harvard John A. Paulson School of Engineering and Applied Sciences WIDELY APPLIED MATHEMATICS SEMINAR Thursday, September 243 - 4pm Maxwell Dworkin G115 \"From Regression to Algorithm Discovery: Perspectives on Scientific Machine Learning\" Speaker: Houman OwhadiIBM Professor of Applied and Computatio",
+      "link": "https://events.seas.harvard.edu/event/from-regression-to-algorithm-discovery-perspectives-on-scientific-machine-learning",
+      "time": "TBD",
+      "location": "Maxwell Dworkin"
+    },
+    {
+      "date": "2026-09-24",
       "title": "Lab-to-Launch Lounge",
       "source": "Harvard SEAS",
       "tag": "startup",
@@ -936,6 +916,16 @@
       "link": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-5599",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "MIT Fall career fair 2026",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "The In-person Fall Career Fair allows students, recent alums, and postdocs to connect with employers from a wide range of industries. The fair offers diverse opportunities to learn about career paths, jobs, and internships that align with your values and interests. All MIT students (undergraduate an",
+      "link": "https://calendar.mit.edu/event/mit-2026-in-person-fall-career-fair",
+      "time": "TBD",
+      "location": "Building W34: Johnson Athletics Center"
     },
     {
       "date": "2026-09-25",
@@ -2625,6 +2615,15 @@
     },
     {
       "date": "TBD",
+      "title": "Author Talk: Alex Krieger on \"Greenhorn\"",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "BUILD617 Ribbon Cutting + Grand Opening",
       "source": "Luma",
       "tag": "talk",
@@ -2709,15 +2708,6 @@
       "title": "Maps on Tap at Aeronaut Brewing Company",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Founders & Funders: BOS VC Reverse Pitch",
-      "source": "Luma",
-      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
