@@ -1,85 +1,16 @@
 {
-  "scraped_at": "2026-09-19T13:37:50.652077",
-  "event_count": 286,
+  "scraped_at": "2026-09-20T13:51:53.241941",
+  "event_count": 287,
   "events": [
     {
-      "date": "2026-09-19",
-      "title": "Sailing vs. Regis Trophy",
+      "date": "2026-09-20",
+      "title": "Men's Water Polo vs. Salem University",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Men's Water Polo vs. Mercyhurst University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 11:30 AM Location: Lewisburg, PA / Bucknell University",
+      "desc": "Time: 9:30 AM Location: Lewisburg, PA / Bucknell University",
       "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Women's Soccer vs. Smith College",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 2:00 PM Location: Northampton, MA",
-      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Men's Soccer vs. Worcester Polytechnic Institute",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 4:30 PM Location: Worcester, MA",
-      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Swim & Dive Black vs. Red Intrasquad ",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the Swim & Dive team at Barletta Nataorium!",
-      "link": "https://calendar.northeastern.edu/event/swim-dive-black-vs-red-intrasquad",
-      "time": "TBD",
-      "location": "Barletta Nataorium"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Men's Soccer vs. Monmouth",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the men's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-monmouth-3316",
-      "time": "TBD",
-      "location": "Parsons Field"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Brighton Bazaar 5th Anniversary Market",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "The classic Brighton Bazaar is coming to Allstonway! Featuring Boston’s broadest mix of artists, artisans, crafters, collectors, curators of vintage/antiques, media dealers, & independent small businesses of all kinds! Admission is free.",
-      "link": "https://events.seas.harvard.edu/event/brighton-bazaar-5th-anniversary-market",
-      "time": "TBD",
-      "location": "100 Western Ave Boston, MA  "
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Robotic, Innovation and Surgical Excellence",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "Robotic, Innovation and Surgical Excellence, UK Conference | RISE-UK 2026 Discover the future of surgery at the region’s premier gathering of thought leaders, innovators, and pioneers in robotic-assisted procedures. Whether you're a […]",
-      "link": "https://www.massrobotics.org/event/robotic-innovation-and-surgical-excellence/",
-      "time": "TBD"
     },
     {
       "date": "2026-09-21",
@@ -589,6 +520,16 @@
     },
     {
       "date": "2026-09-23",
+      "title": "Men's Soccer vs. UMass Boston",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 6:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-23",
       "title": "Workshop: Unleashing the Duende",
       "source": "MIT",
       "tag": "talk",
@@ -613,7 +554,7 @@
       "source": "Northeastern",
       "tag": "talk",
       "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
-      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
+      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii-2300",
       "time": "TBD",
       "location": "Shaw-Roxbury Branch of the Boston Public Library"
     },
@@ -929,6 +870,66 @@
     },
     {
       "date": "2026-09-25",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Daniel Sanz-Alonso (University of Chicago)",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar11",
+      "time": "TBD",
+      "location": "Building E18"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Taking Collective Action to Shape AI Policy: What Should Massachusetts Do About AI?",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Under current government and corporate AI leadership, many of us feel discouraged or powerless. But if we take strategic action together, we have the power to bring AI under public control and determine how it’s used, how it’s regulated, and who it benefits. Historically, action from just 3.5% of th",
+      "link": "https://calendar.mit.edu/event/taking-collective-action-to-shape-ai-policy-what-should-massachusetts-do-about-ai",
+      "time": "TBD",
+      "location": "Building W20: Stratton Student Center"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "The Aging Brain Initiative Fall 2026 Symposium: \"Innovation for the Aging Brain\"",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Aging Brain Initiative Fall 2026 Symposium: Innovation for the Aging Brain Date: Friday, September 25, 2026Time: 1:00-6:00pm (Talks: 1:00-5:00pm; Poster Session: 5:00-6:00pm)Location: Singleton Auditorium (46-3002, Third Fl of MIT Building 46)Address: 43 Vassar Street, Cambridge, MA 02139Faculty",
+      "link": "https://calendar.mit.edu/event/innovation-for-the-aging-brain",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Cooney Lecture: Engineering Wonder: Biotechnology as a Creative Medium for Innovation",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "Speaker: Jasmina Aganovic, Founder and CEO, Arcaea Biotechnology has transformed medicine, agriculture, and manufacturing by enabling us to understand and engineer living systems. But what if there is more to biotechnology than manufacturing? Once we think through the lens of biology, could it be po",
+      "link": "https://calendar.mit.edu/event/cooney-lecture-engineering-wonder-biotechnology-as-a-creative-medium-for-innovation",
+      "time": "TBD",
+      "location": "Building 66"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Beethoven's Tango",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "MIT Tango Club is honored to partner with world-renowned tango performer, teacher, and artistic director Fernanda Ghi, together with pianist, composer, and anthropologist Alfredo Minetti, to present this original production. Inspired by the artistic legacy of Ludwig van Beethoven, Beethoven's Tango ",
+      "link": "https://calendar.mit.edu/event/beethovens-tango",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Women's Soccer vs. Tufts University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 6:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-25",
       "title": "Humanities Center Signature Project Showcase ",
       "source": "Northeastern",
       "tag": "talk",
@@ -1049,8 +1050,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
       "time": "TBD",
       "location": ""
     },
@@ -1063,6 +1064,16 @@
       "link": "https://events.seas.harvard.edu/event/venturingharvard-8915",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Running Harder, Falling Faster: The Paradox of Enshittification and Reverse Centaurs",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "AI and digital platforms promise a friction-free future, yet the systems taking shape around us depend on hidden human labor, powerful corporate interests, and business models that demand more and more of those they purport to serve. In Cory Doctorow’s formulation, the defining metaphor may not be t",
+      "link": "https://events.seas.harvard.edu/event/running-harder-falling-faster-the-paradox-of-enshittification-and-reverse-centaurs",
+      "time": "TBD",
+      "location": "Lewis International Law Center, 5th Floor"
     },
     {
       "date": "2026-10-01",
@@ -2543,24 +2554,6 @@
     },
     {
       "date": "TBD",
-      "title": "ALO BOSTON SEAPORT: ALO RUNNERS CLUB",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "The Million Dollar Sprint",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Boston Computational Biology Hackathon with Anthropic, Modal, and Flagship Pioneering",
       "source": "Luma",
       "tag": "startup",
@@ -2708,6 +2701,24 @@
       "title": "Maps on Tap at Aeronaut Brewing Company",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Founders & Funders: BOS VC Reverse Pitch",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building What’s Next in AI x Healthcare",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
