@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-09-20T13:51:53.241941",
-  "event_count": 287,
+  "scraped_at": "2026-09-21T16:08:28.667287",
+  "event_count": 296,
   "events": [
-    {
-      "date": "2026-09-20",
-      "title": "Men's Water Polo vs. Salem University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 9:30 AM Location: Lewisburg, PA / Bucknell University",
-      "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-09-21",
       "title": "Aga Khan Program Fall 2026: An Evening With Lecture Series: Valentina Grasso ",
@@ -344,6 +334,16 @@
     },
     {
       "date": "2026-09-22",
+      "title": "Sustainability Fair",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Northeastern 's Sustainability Fair will be held on Tuesday, September 22nd. From 11:30 – 2:00 pm, Centennial Commons will feature activities, resources, and free bike safety checks. Come hear from student groups and campus departments and get yourself a free acai sample while you're at it! If weath",
+      "link": "https://calendar.northeastern.edu/event/sustainability-fair",
+      "time": "TBD",
+      "location": "Centennial Common"
+    },
+    {
+      "date": "2026-09-22",
       "title": "Global Co-op Information Session (open to all colleges)",
       "source": "Northeastern",
       "tag": "talk",
@@ -460,16 +460,6 @@
     },
     {
       "date": "2026-09-23",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Pasha Galashin (Cornell) Title: Abstract:",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-2555",
-      "time": "TBD",
-      "location": "Harvard Science Center"
-    },
-    {
-      "date": "2026-09-23",
       "title": "Prof. Tania Lopez-Silva, MIT Department of Materials Science and Engineering (DMSE)",
       "source": "MIT",
       "tag": "talk",
@@ -497,6 +487,16 @@
       "link": "https://calendar.mit.edu/event/student-inorganic-chemistry-seminar-with-chonghe-zhang-mit-cummins-group",
       "time": "TBD",
       "location": "4-370"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Pasha Galashin (Cornell) Title: Amplituhedra and origami Abstract: I will outline the combinatorial machinery behind a recent proof of the BCFW triangulation conjecture for the amplituhedron. I will mostly focus on the combinatorics of the dimer model on bipartite graphs embedded in a disk,",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-2555",
+      "time": "TBD",
+      "location": "Harvard Science Center"
     },
     {
       "date": "2026-09-23",
@@ -872,8 +872,8 @@
       "date": "2026-09-25",
       "title": "Statistics and Data Science Seminar",
       "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Daniel Sanz-Alonso (University of Chicago)",
+      "tag": "ai",
+      "desc": "Speaker: Daniel Sanz-Alonso (University of Chicago) Abstract: Operator learning is an emerging paradigm at the intersection of scientific computing and machine learning. Its central objective is to learn operators between infinitedimensional function spaces from data. Although operator learning has ",
       "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar11",
       "time": "TBD",
       "location": "Building E18"
@@ -907,6 +907,16 @@
       "link": "https://calendar.mit.edu/event/cooney-lecture-engineering-wonder-biotechnology-as-a-creative-medium-for-innovation",
       "time": "TBD",
       "location": "Building 66"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "MechE Colloquium with Sherrie Wang",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Date: Friday, September 25, 2026 Location: 3-270 Time: 3:30pm-4:30pm ET Speaker: Sherrie Wang Affiliation: Assistant Professor, MIT Mechanical Engineering Host: Professor Domitilla Del Vecchio Talk title: Learning to Measure the Earth Abstract: How can we measure environmental conditions at the scal",
+      "link": "https://calendar.mit.edu/event/meche-colloquium-with-sherrie-wang",
+      "time": "TBD",
+      "location": "Building 3"
     },
     {
       "date": "2026-09-25",
@@ -959,6 +969,16 @@
     },
     {
       "date": "2026-09-26",
+      "title": "25th anniversary MIT Great Glass Pumpkin Patch fundraiser",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Over 2000 glass pumpkins of all sizes, shapes and colors are for sale on Kresge Oval to fund ongoing operations of the MIT Glass Lab.. Preview opening (no sales at the proview) is Friday, September 25th from 5PM to 8PM and the sale is on Saturday, September 26th from 10AM to 3PM. The sale is open to",
+      "link": "https://calendar.mit.edu/event/25th-anniversary-mit-great-glass-pumpkin-patch-fundraiser",
+      "time": "TBD",
+      "location": "Kresge Oval"
+    },
+    {
+      "date": "2026-09-26",
       "title": "RoboBoston: 9th Annual Robot Block Party !",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -974,6 +994,16 @@
       "desc": "The International Conference on Intelligent Robotics and Systems (IROS) will convene in Pittsburgh from September 27 to October 1, bringing together world-leading researchers, educators, government leaders, startups, industry innovators, practitioners, […]",
       "link": "https://www.massrobotics.org/event/iros-2026/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Biology Colloquia Series: Courtney Marisa Mazur",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Courtney Marisa Mazur, PhD, Massachusetts General Hospital presents: Molecular control of dendrite formation and osteocyte differentiation https://connects.catalyst.harvard.edu/Profiles/display/Person/193582",
+      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-courtney-marisa-mazur",
+      "time": "TBD",
+      "location": "134 Mugar"
     },
     {
       "date": "2026-09-28",
@@ -1167,6 +1197,16 @@
     },
     {
       "date": "2026-10-05",
+      "title": "Biology Colloquia Series: Igor Jouline",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Igor Jouline, PhD, The Ohio State University presents: PAS and Cache: molecular sensors conserved from bacteria to humans https://biology.joulinelab.org/",
+      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-igor-jouline",
+      "time": "TBD",
+      "location": "134 Mugar"
+    },
+    {
+      "date": "2026-10-05",
       "title": "Global Topics for Global Learners",
       "source": "Northeastern",
       "tag": "talk",
@@ -1287,6 +1327,16 @@
     },
     {
       "date": "2026-10-15",
+      "title": "Communicating Across Cultures",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The ability to work closely with people from all over the world, both in-person and remotely, is now indispensable in most work environments. Join GLS to develop your intercultural communication skills in this workshop, where we will work together to broaden and deepen our cultural awareness. In thi",
+      "link": "https://calendar.northeastern.edu/event/communicating-across-cultures-4820",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-15",
       "title": "Computer Science Colloquium Series - Magnus Egerstedt (UNC)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -1304,6 +1354,16 @@
       "link": "https://calendar.northeastern.edu/event/sharing-community-histories-showcase",
       "time": "TBD",
       "location": "Cabral Center, Northeastern University Boston Campus"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Biology Colloquia Series: Jue \"Jade\" Wang",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Jue \"Jade\" Wang, PhD, University of Wisconsin–Madison presents: GTP at the Center: How Metabolism and Stress Responses Shape Bacterial Growth and Persistence https://wanglab.bact.wisc.edu/ https://bact.wisc.edu/directory/jade-wang/",
+      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-jue-jade-wang",
+      "time": "TBD",
+      "location": "134 Mugar"
     },
     {
       "date": "2026-10-19",
@@ -1367,11 +1427,21 @@
     },
     {
       "date": "2026-10-23",
-      "title": "Nick Roy (MIT)",
+      "title": "Alma Dal Co Memorial Lecture: Team Bacteria versus Team Phage ",
       "source": "Harvard SEAS",
       "tag": "talk",
-      "desc": "",
-      "link": "https://events.seas.harvard.edu/event/nick-roy-mit",
+      "desc": "Abstract: Bacteria and the viruses that infect them, known as phages, are locked in a continual evolutionary competition. In this talk, I will present three stories illustrating the surprisingly sophisticated strategies used by both sides. First, we will see how bacteria can learn about danger from ",
+      "link": "https://events.seas.harvard.edu/event/alma-dal-co-memorial-lecture-team-bacteria-versus-team-phage",
+      "time": "TBD",
+      "location": "Maxwell Dworkin"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Scalable, Robust and Safe Autonomy at Zoox ",
+      "source": "Harvard SEAS",
+      "tag": "robotics",
+      "desc": "Nicholas Roy (Massachusetts Institute of Technology) How we design and deploy autonomous robots such as self-driving cars is evolving rapidly. Many technical challenges arise as the size of the fleet scales up, and especially ensuring robustness and safety. I will describe some of the design decisio",
+      "link": "https://events.seas.harvard.edu/event/scalable-robust-and-safe-autonomy-at-zoox",
       "time": "TBD",
       "location": "SEC"
     },
@@ -1394,6 +1464,16 @@
       "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-hofstra-6538",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Biology Colloquia Series: Li Li",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Li Li, PhD, Cornell University presents: Carotenoid Metabolism: From Pigment Regulation to Plant Development https://cals.cornell.edu/people/li-li https://blogs.cornell.edu/lilab/people/",
+      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-li-li",
+      "time": "TBD",
+      "location": "134 Mugar"
     },
     {
       "date": "2026-10-27",
@@ -1435,6 +1515,16 @@
       "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
       "time": "TBD",
       "location": "Gordon Hall"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Book Launch: INNER ZONE",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Please join us to celebrate the release of INNER ZONE: The Untold Violence of Retribution in Besieged Sarajevo (University of Pennsylvania Press, 2026). Jelena Golubović will be in conversation with Sasha Sabherwal on Thursday, October 29, from 3–5 PM in RP 909 to discuss themes of victimhood, natio",
+      "link": "https://calendar.northeastern.edu/event/book-launch-inner-zone",
+      "time": "TBD",
+      "location": "Renaissance_Park"
     },
     {
       "date": "2026-10-29",
