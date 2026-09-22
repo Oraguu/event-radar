@@ -1,157 +1,7 @@
 {
-  "scraped_at": "2026-09-21T16:08:28.667287",
-  "event_count": 296,
+  "scraped_at": "2026-09-22T14:17:45.395442",
+  "event_count": 291,
   "events": [
-    {
-      "date": "2026-09-21",
-      "title": "Aga Khan Program Fall 2026: An Evening With Lecture Series: Valentina Grasso ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Aga Khan Program Fall 2026 An Evening With Lecture Series Monday September 21st 6 pm in MIT Room 3-133 Free and open to the public A Red Sea Pan-Culture from Almaqah to Allah: Pagan Temples, Christian Churches, and the Great Mosque of Sana’a Valentina Grasso Bio Valentina is Assistant Professor of M",
-      "link": "https://calendar.mit.edu/event/aga-khan-program-fall-2026-an-evening-withlectureseries-valentina-grasso",
-      "time": "TBD",
-      "location": "Building 3"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Distinguished Lecture by IAEA Deputy Director General Najat Mokhtar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Breaking Barriers: Harnessing the Potential of the Atom Lecture by IAEA DDG Najat Mokhtar Abstract Seventy years ago, in his landmark Atoms for Peace address, President Eisenhower articulated a revolutionary vision: that nuclear science should transcend its military origins to become a force for hum",
-      "link": "https://calendar.mit.edu/event/distinguished-lecture-iaea-deputy-director-general-najat-mokhtar",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Compassionate Systems in Education — Research Webinar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "How can we create and grow meaningful, ongoing structural and cultural change in our local and regional contexts? And how do such efforts connect to the broader expanse of the education and community systems that shape our lives? Join us on Monday, September 21, 2026, for a research webinar summariz",
-      "link": "https://calendar.mit.edu/event/compassionate-systems-in-education-research-webinar",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Giving Voice to Values in your DLCI: A Staff Peer Supervision Group",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Last year, a group of staff colleagues worked with Dr. Mary Gentile’s Giving Voice to Values ® curriculum -- chosen as the text for 2026's DSL Reads. This year, we will continue to support each other in implementing GVV formally or informally in our DLCIs, but we will also leave space for peer super",
-      "link": "https://calendar.mit.edu/event/giving-voice-to-values-in-your-dlci-a-staff-peer-supervision-group",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "World-class study in London – Graduate studies in the UK",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Discover how you can obtain your master's degree in one year or a PhD degree in as little as three years from some of the world's leading universities while having a transformative international experience! This interactive event will be hosted by representatives from Imperial College London, Univer",
-      "link": "https://calendar.mit.edu/event/world-class-study-in-london-graduate-studies-in-the-uk-3071",
-      "time": "TBD",
-      "location": "Building 5"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "DECODING:ENCODING | Elizabeth Bowie Christoforetti, Will Cohen, Sarah Dunbar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/decodingencoding-elizabeth-bowie-christoforetti-will-cohen-sarah-dunbar",
-      "time": "TBD",
-      "location": "Building W41 (MET Warehouse)"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "MIT.nano Seminar: Acoustic Waves in Nanometer-Thick Films: Sub-Terahertz Devices and Coupling to Optical, Electronic, and Power Domains",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "Ruochen Lu Assistant Professor, Chandra Family Department of Electrical and Computer Engineering The University of Texas at Austin Date: September 21, 2026 Time: 3:00 – 4:00 PM ET Location: 12-0168 Reception to follow. ABSTRACT Acoustic waves travel about five orders of magnitude slower than electro",
-      "link": "https://calendar.mit.edu/event/mitnano-seminar-acoustic-waves-in-nanometer-thick-films-sub-terahertz-devices-and-coupling-to-optical-electronic-and-power-domains",
-      "time": "TBD",
-      "location": "Building 12"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Scaling Care, Saving Lives: Evidence from an Iterative Trial in Uganda",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Martina Bjorkman (SSE)",
-      "link": "https://calendar.mit.edu/event/scaling-care-saving-lives-evidence-from-an-iterative-trial-in-uganda",
-      "time": "TBD",
-      "location": "Boylston Hall 101 Fong Auditorium"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "The Supply Side of Social Media",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Shakked Noy (MIT Grad Student) (co-authored with Aakaash Rao) Joint with PF/Labor Seminar",
-      "link": "https://calendar.mit.edu/event/tba-4605",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Quantifying the Sensitivity of Quantitative Trade Models",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Quantifying the Sensitivity of Quantitative Trade Models Edward Wiles, Harvard",
-      "link": "https://calendar.mit.edu/event/tba-9768",
-      "time": "TBD",
-      "location": "Harvard, Littauer M-16"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "How to thrive at the Fall Career Fair",
-      "source": "MIT",
-      "tag": "startup",
-      "desc": "This session will help you maximize your time when connecting with employers, finding job opportunities in your industry, and utilizing fair resources such as the list of participating companies and floor plans. You'll learn how to implement key strategies when interacting with recruiters and there ",
-      "link": "https://calendar.mit.edu/event/how-to-thrive-at-fcf26-seminar",
-      "time": "TBD",
-      "location": "Building E19"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Paws and Play: Puzzles with Cooper",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join the Office of Global Services and NUPD for a Paws and Play: Puzzles with Cooper event. Come by and work on a puzzle, relax, and say hi to Cooper- the NUPD therapy dog, and make some new friends! Snacks will be provided.",
-      "link": "https://calendar.northeastern.edu/event/paws-and-play-puzzles-with-cooper",
-      "time": "TBD",
-      "location": "Egan Research Center"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Fusion Book Club: Social & Book Recommendation Swap",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Are you curious about the Fusion Book Club? We meet monthly to highlight and discuss diverse voices in STEM. Join us to chat and swap book recommendations with students, faculty, and […] The post Fusion Book Club: Social & Book Recommendation Swap appeared first on Northeastern University College of",
-      "link": "https://calendar.northeastern.edu/event/fusion-book-club-social-book-recommendation-swap",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-21",
-      "title": "College of Engineering Global Co-op Information Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Location: 909 Renaissance Park This is an in-person information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University Colleg",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-4730",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Science & Cooking Lecture Series; Douglas McMaster: “The Science of Zero-Waste Cooking”",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "Douglas McMaster, Silo, London, chef, author, and founder of the world's first zero-waste restaurant, is known for pioneering a closed-loop approach to cooking. His work explores fermentation, sustainability, food waste, and the future of regenerative gastronomy.",
-      "link": "https://events.seas.harvard.edu/event/science-cooking-lecture-series-douglas-mcmaster-the-science-of-zero-waste-cooking",
-      "time": "TBD",
-      "location": "Science Center"
-    },
     {
       "date": "2026-09-22",
       "title": "Fireside Chat with Fabien Curto Millet, Chief Economist at Google",
@@ -291,6 +141,16 @@
       "link": "https://calendar.mit.edu/event/john-gallagher-undergrad-self-perceptions-generative-ai-writing-skills",
       "time": "TBD",
       "location": "Building 32"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "NEET Craft + Chat",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join the New Engineering Education Transformation (NEET) team in the exclusive NEET student space (3-001; basement of Lobby 10) for an hour of casual conversation over crafts! Get to know our community and program while creating your own project to take home. Snacks + supplies provided (crochet, sew",
+      "link": "https://calendar.mit.edu/event/neet-craft-chat",
+      "time": "TBD",
+      "location": "Building 3"
     },
     {
       "date": "2026-09-22",
@@ -450,6 +310,16 @@
     },
     {
       "date": "2026-09-23",
+      "title": "The Hunt for High-k Gate Dielectrics: A Materials Perspective",
+      "source": "MIT",
+      "tag": "manufacturing",
+      "desc": "As the semiconductor industry is now entering the Angstrom era, novel materials are the key to enabling continued scaling toward future device nodes. This presentation will give a historical perspective on the crucial role that materials discovery and development played in finding a high-k replaceme",
+      "link": "https://calendar.mit.edu/event/the-hunt-for-high-k-gate-dielectrics-a-materials-perspective",
+      "time": "TBD",
+      "location": "Building 34"
+    },
+    {
+      "date": "2026-09-23",
       "title": "The Israeli-Palestinian Peace Process 1991-2026: From Hope to Despair",
       "source": "MIT",
       "tag": "talk",
@@ -460,7 +330,7 @@
     },
     {
       "date": "2026-09-23",
-      "title": "Prof. Tania Lopez-Silva, MIT Department of Materials Science and Engineering (DMSE)",
+      "title": "“Defining Host Immune Responses to Self-Assembling Peptide Hydrogels”, Prof. Tania Lopez-Silva, MIT Department of Materials Science and Engineering (DMSE)",
       "source": "MIT",
       "tag": "talk",
       "desc": "PPSM Seminar",
@@ -554,7 +424,7 @@
       "source": "Northeastern",
       "tag": "talk",
       "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
-      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii-2300",
+      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
       "time": "TBD",
       "location": "Shaw-Roxbury Branch of the Boston Public Library"
     },
@@ -859,6 +729,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-09-24",
+      "title": "Measuring What Matters: Understanding the Human Impact of AI",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "AI systems are tested and evaluated more extensively than ever, but the effects of AI on humanity are still not fully understood, while narratives about our future vacillate between apocalypse and utopia. Researchers are beginning to measure AI’s effects on people, and labs are increasingly expected",
+      "link": "https://events.seas.harvard.edu/event/measuring-what-matters-understanding-the-human-impact-of-ai",
+      "time": "TBD",
+      "location": "Lewis International Law Center"
+    },
+    {
       "date": "2026-09-25",
       "title": "MIT Fall career fair 2026",
       "source": "MIT",
@@ -979,6 +859,46 @@
     },
     {
       "date": "2026-09-26",
+      "title": "Rifle vs. Norwich University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 9:00 AM Location: Northfield, VT",
+      "link": "https://calendar.mit.edu/event/rifle-vs-norwich-university-9844",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Sailing vs. Hood Trophy",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Medford, MA",
+      "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Men's Water Polo vs. Johns Hopkins University",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:30 AM Location: Providence, RI / Brown University",
+      "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Time/Play: Chamber Music for Violin, Percussion, and Piano",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Premieres by award winning composers Theo Chandler & Dan Temkin, along with Lou Harrison’s Varied Trio (1986) Violinist and MIT Associate Professor of Music Natalie Lin Douglas is joined by guest collaborators for a concert featuring premieres by award-winning composers Theo Chandler (\"Time Pieces”)",
+      "link": "https://calendar.mit.edu/event/timeplay-chamber-music-for-violin-percussion-and-piano",
+      "time": "TBD",
+      "location": "Building W18"
+    },
+    {
+      "date": "2026-09-26",
       "title": "RoboBoston: 9th Annual Robot Block Party !",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -1080,8 +1000,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1104,6 +1024,16 @@
       "link": "https://events.seas.harvard.edu/event/running-harder-falling-faster-the-paradox-of-enshittification-and-reverse-centaurs",
       "time": "TBD",
       "location": "Lewis International Law Center, 5th Floor"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduate-fellowship-writing-club-8504",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-10-01",
@@ -1287,6 +1217,16 @@
     },
     {
       "date": "2026-10-08",
+      "title": "The Bare Stage Before the Mind's Eye",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Please register using the following link: https://docs.google.com/forms/d/e/1FAIpQLSfGOcUVzAJ2wVQZTHY83gmGgg0m5V9JE0GmHYtWc2E4eI_9FQ/viewform Title: The Bare Stage Before the Mind's Eye Speaker: Tomer Ullman, Morris Kahn Associate Professor of Psychology in the Department of Psychology at Harvard Un",
+      "link": "https://events.seas.harvard.edu/event/the-bare-stage-before-the-minds-eye",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-08",
       "title": "Computer Science Colloquium Series - Aaron Roth (UPenn)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -1294,6 +1234,16 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-aaron-roth-upenn",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Mahesh K. Mahanthappa: Complexity Lurking in Plain Sight: (A)Periodic Order in Soft Micelle Packings",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "A delicate balance of noncovalent interactions drives hydrated molecular amphiphile self-assembly into lyotropic liquid crystals (LLCs) of varied morphologies, with applications including nanoporous membranes, mesoporous material templates, and therapeutic delivery vehicles. Spherical micelles are i",
+      "link": "https://events.seas.harvard.edu/event/mahesh-k-mahanthappa-complexity-lurking-in-plain-sight-aperiodic-order-in-soft-micelle-packings",
+      "time": "TBD",
+      "location": "Maxwell Dworkin"
     },
     {
       "date": "2026-10-11",
@@ -1512,7 +1462,7 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
       "time": "TBD",
       "location": "Gordon Hall"
     },
@@ -2743,6 +2693,15 @@
     },
     {
       "date": "TBD",
+      "title": "Goodnotes Cafe Takeover - Boston (BU, Northeastern, Harvard, BC, MIT & Tufts)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Technical Career Fair - Job Seeker Registration",
       "source": "Luma",
       "tag": "networking",
@@ -2800,15 +2759,6 @@
       "title": "Founders & Funders: BOS VC Reverse Pitch",
       "source": "Luma",
       "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Building What’s Next in AI x Healthcare",
-      "source": "Luma",
-      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
