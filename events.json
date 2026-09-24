@@ -1,207 +1,7 @@
 {
-  "scraped_at": "2026-09-23T14:35:56.827138",
-  "event_count": 280,
+  "scraped_at": "2026-09-24T14:34:00.644285",
+  "event_count": 259,
   "events": [
-    {
-      "date": "2026-09-23",
-      "title": "Book Discussion",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Looking for an interesting read? The Book Discussion group will host virtual meetings via Zoom. Please write to Maxine Jonas (jonas_m@mit.edu) to be added to their mailing list. They (almost always) meet on the fourth Wednesday of the month, at 11:30am – 1pm. Our book line-up this year will be: Sept",
-      "link": "https://calendar.mit.edu/event/book-discussion-3190",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-23",
-      "title": "No Good Options: The Extended Nuclear Deterrence Trilemma",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Professor Mark Bell from the University of Minnesota will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: Extended nuclear deterrence has been a core feature of U.S. grand strategy throughout the nuclear age. However, shifting U.S. commitments, a changing balanc",
-      "link": "https://calendar.mit.edu/event/no-good-options-the-extended-nuclear-deterrence-trilemma",
-      "time": "TBD",
-      "location": "Building E40"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "The Hunt for High-k Gate Dielectrics: A Materials Perspective",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "As the semiconductor industry is now entering the Angstrom era, novel materials are the key to enabling continued scaling toward future device nodes. This presentation will give a historical perspective on the crucial role that materials discovery and development played in finding a high-k replaceme",
-      "link": "https://calendar.mit.edu/event/the-hunt-for-high-k-gate-dielectrics-a-materials-perspective",
-      "time": "TBD",
-      "location": "Building 34"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "The Israeli-Palestinian Peace Process 1991-2026: From Hope to Despair",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Professor Peter Krause, an expert on Middle East politics, will facilitate a conversation with Israeli and Palestinian MEET alumni from the region. About the speaker: Peter Krause, MIT PhD '11, is an associate professor of political science at Boston College and a research affiliate of the MIT Secur",
-      "link": "https://calendar.mit.edu/event/israeli-palestinian-peace-process",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-23",
-      "title": "“Defining Host Immune Responses to Self-Assembling Peptide Hydrogels”, Prof. Tania Lopez-Silva, MIT Department of Materials Science and Engineering (DMSE)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "PPSM Seminar",
-      "link": "https://calendar.mit.edu/event/prof-tania-lopez-silva-mit-department-of-materials-science-and-engineering-dmse",
-      "time": "TBD",
-      "location": "Building 56"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "SCSB Colloquium with Dr. Jesse Snedeker: The use of discourse context for predictive language comprehension in autism: evidence from a naturalistic EEG paradigm",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Wednesday, September 23, 2026 Location: 46-3002 (Singleton Auditorium) Time: 4:00pm-5:00pm ET, followed by reception Speaker: Jesse Snedeker, Ph.D. Affiliation: Professor, Department of Psychology, Harvard University Host: Dr. Pawan Sinha Talk title: The use of discourse context for predictive",
-      "link": "https://calendar.mit.edu/event/scsb-colloquium-with-dr-jesse-snedeker-the-use-of-discourse-context-for-predictive-language-comprehension-in-autism-evidence-from-a-naturalistic-eeg-paradigm",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Student Inorganic Chemistry Seminar with Chonghe Zhang (MIT- Cummins Group & Gilliard Group)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Title: Access to Low-Valent Boron via Mild Fragmentation Abstract: Low-valent boron compounds remain far less developed than their carbon analogues, largely due to their high reactivity, limited stability, and the difficulty of controlling their generation. Among these species, borylenes have emerge",
-      "link": "https://calendar.mit.edu/event/student-inorganic-chemistry-seminar-with-chonghe-zhang-mit-cummins-group",
-      "time": "TBD",
-      "location": "4-370"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Pasha Galashin (Cornell) Title: Amplituhedra and origami Abstract: I will outline the combinatorial machinery behind a recent proof of the BCFW triangulation conjecture for the amplituhedron. I will mostly focus on the combinatorics of the dimer model on bipartite graphs embedded in a disk,",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-2555",
-      "time": "TBD",
-      "location": "Harvard Science Center"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "MIT Music Tech Speaker Series Presents: Mari Kimura ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Mastery over Novelty: MUGIC® - a lasting tool for musicianship This lecture explores a pivotal shift in the relationship between technology and the performing arts—from chasing novelty to cultivating mastery. Violinist, composer, and technologist Mari Kimura presents MUGIC® (Music/User Gesture Inter",
-      "link": "https://calendar.mit.edu/event/mit-music-tech-speaker-series-presents-mari-kimura",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Art21 Screening with Josh Kline",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Join MIT List Visual Arts Center for a screening of the upcoming season of Art21 followed by a closing conversation with featured artist, Josh Kline. Art21 announces the premiere of “Human Nature,” the next episode of its acclaimed documentary series Art in the Twenty-First Century on PBS. The episo",
-      "link": "https://calendar.mit.edu/event/art21-screening-with-josh-kline",
-      "time": "TBD",
-      "location": "Bartos Theatre 20 Ames Street, Bldg. E15 Atrium level Cambridge, Massachusetts 02139"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Men's Soccer vs. UMass Boston",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 6:00 PM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Workshop: Unleashing the Duende",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "UNLEASHING THE DUENDE : A talk and embodied workshop with Alfredo Minetti & Fernanda Ghi What is duende? Poet Federico García Lorca described it as a raw, embodied creative force that overtakes a performer — not skill, not style, but an expressive drive that arrives only through vulnerability and ri",
-      "link": "https://calendar.mit.edu/event/workshop-unleashing-the-duende",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Northeastern University Project Management Student Organization’s (NUPM) Annual Welcome Event",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "This is out Annual Welcome event to welcome new MS Project Management and CPS students and connect the PM Community.",
-      "link": "https://calendar.northeastern.edu/event/northeastern-university-project-management-student-organizations-nupm-annual-welcome-event",
-      "time": "TBD",
-      "location": "Cabral Center"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "The Way We Were: Roxbury Black Wall Street 1900-1965 Conference II",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "For two days (September 23 & September 24, 2026), historians, researchers, community leaders, archivists, and descendants will come together to explore significant yet overlooked stories in American history. Through original research, oral histories, personal narratives, performances, and thought-pr",
-      "link": "https://calendar.northeastern.edu/event/the-way-we-were-roxbury-black-wall-street-1900-1965-conference-ii",
-      "time": "TBD",
-      "location": "Shaw-Roxbury Branch of the Boston Public Library"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Writing and Researching Your Path to Success Webinar Series",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "Join Global Learner Support and the NU Library to learn how to maximize your time writing and researching for your next project. New to academic projects? Daunted by databases or citations? We’ll work through research projects from start to finish in this three-part workshop series. We’ll discuss th",
-      "link": "https://calendar.northeastern.edu/event/writing-and-researching-your-path-to-success-webinar-series-8446",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Book discussion: American Caesar by Brad Onishi",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join author Brad Onishi and professor Sarah Riccardi-Swartz in discussion about American Caesar, Onish's upcoming book. It explores how Theocrats and Tech Lords are turning America into a monarchy. From Silicon Valley boardrooms to rural pulpits, from Catholic monasteries to Beltway think tanks and ",
-      "link": "https://calendar.northeastern.edu/event/book-discussion-american-caesar-by-brad-onishi",
-      "time": "TBD",
-      "location": "Dodge Hall"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Off Campus Fest",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join Off Campus Engagement and Support for Off Campus Fest! Learn about off-campus and on-campus resources, meet fellow Huskies, and enjoy small bites from area food businesses!",
-      "link": "https://calendar.northeastern.edu/event/off-campus-fest-2787",
-      "time": "TBD",
-      "location": "Krentzman Quad"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "The Gordon Institute: Virtual Information Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn how you can earn a Graduate Certificate in Engineering Leadership through The Gordon Institute as a stand-alone certificate or in combination with one of 25+ Master of Science degrees […] The post The Gordon Institute: Virtual Information Session appeared first on Northeastern University Colle",
-      "link": "https://calendar.northeastern.edu/event/the-gordon-institute-virtual-information-session-4392",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Charging Fast and Slow: Quantifying the Real-Life Value of EV Charging for Users, OEMs, and the Grid",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "RSVP HERE A Harvard-China Project Research Seminar with Christian Kaps, Assistant Professor of Business Administration, Harvard Business School Abstract: Managing electricity demand is critical for lowering the cost of electrified products, integrating intermittent renewables, and reducing grid expa",
-      "link": "https://events.seas.harvard.edu/event/charging-fast-and-slow-quantifying-the-real-life-value-of-ev-charging-for-users-oems-and-the-grid",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Postdoc Appreciation Celebration",
-      "source": "Harvard SEAS",
-      "tag": "networking",
-      "desc": "Join us as we celebrate our postdoctoral scholars with a catered meal, networking, and a poster session highlighting the exciting work of our SEAS postdoctoral community. Connect with colleagues and vote for your favorite SEAS poster presentation — the Audience Choice winner will receive up to $2,50",
-      "link": "https://events.seas.harvard.edu/event/postdoc-appreciation-celebration",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
     {
       "date": "2026-09-24",
       "title": "SHASS 75th Anniversary Symposium",
@@ -514,13 +314,23 @@
     },
     {
       "date": "2026-09-25",
-      "title": "MechE Colloquium with Sherrie Wang",
+      "title": "MechE Colloquium with Sherrie Wang: Learning to Measure the Earth",
       "source": "MIT",
       "tag": "talk",
       "desc": "Date: Friday, September 25, 2026 Location: 3-270 Time: 3:30pm-4:30pm ET Speaker: Sherrie Wang Affiliation: Assistant Professor, MIT Mechanical Engineering Host: Professor Domitilla Del Vecchio Talk title: Learning to Measure the Earth Abstract: How can we measure environmental conditions at the scal",
       "link": "https://calendar.mit.edu/event/meche-colloquium-with-sherrie-wang",
       "time": "TBD",
       "location": "Building 3"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "LBGTQ+ Services Open House",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come join us for an open house with a free Mediterranean dinner, make-your-own soap crafting (no experience required!), and opportunities to connect with other members of the MIT community. Learn more about the Rainbow Lounge and meet our staff. All are welcome, so bring your friends! Directions to ",
+      "link": "https://calendar.mit.edu/event/lbgtq-services-open-house-1751",
+      "time": "TBD",
+      "location": "Building 50: Walker Memorial"
     },
     {
       "date": "2026-09-25",
@@ -574,6 +384,16 @@
     },
     {
       "date": "2026-09-25",
+      "title": "Circle of Life",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "A weekly Talking Circle where students explore questions of meaning, life, identity, and connection. Each week centers on a new topic, creating space for reflection, deep listening, and learning more about ourselves and one another.",
+      "link": "https://calendar.northeastern.edu/event/circle-of-life-6932",
+      "time": "TBD",
+      "location": "Center for Spirituality, Dialogue, and Service"
+    },
+    {
+      "date": "2026-09-25",
       "title": "MassRobotics RoboBoston Career Fair",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -618,6 +438,16 @@
       "tag": "talk",
       "desc": "Time: 10:30 AM Location: Providence, RI / Brown University",
       "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Men's Soccer vs. United States Coast Guard Academy",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 1:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
       "time": "TBD",
       "location": ""
     },
@@ -811,6 +641,96 @@
     },
     {
       "date": "2026-09-29",
+      "title": "Organizational Economics Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "\"Gender Differences in the Response to Incentives: Evidence from Academia\" | Erina Ytsma (CMU)",
+      "link": "https://calendar.mit.edu/event/ytsma_oesem_f26",
+      "time": "TBD",
+      "location": "Building E62"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "PDE/Analysis Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Elena Kim (Harvard University) Title: Polynomial bounds for eigenfunctions and eigenvalues on random covers of hyperbolic surfaces Abstract: Let 𝑋 be a compact connected orientable hyperbolic surface and let 𝑋𝑛 be a degree 𝑛 random cover. We show that, with high probability, the 𝐿∞ norm of ",
+      "link": "https://calendar.mit.edu/event/pdeanalysis-seminar-562",
+      "time": "TBD",
+      "location": "Building 4"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Biology Colloquium",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Peter Koo, Cold Springs Harbor Host: Yunha Hwang Title: \"Learning the Regulatory Code with AI\" The Biology Colloquium is a weekly seminar held throughout the academic year — featuring distinguished speakers in many areas of the biological sciences from universities and institutions worldwid",
+      "link": "https://calendar.mit.edu/event/copy-of-biology-colloquium-7473",
+      "time": "TBD",
+      "location": "Stata, Kirsch auditorium, 32-123"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "iMMEC Seminar with Jack Chen and Medhat Elmorsy",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speakers: Jack Chen and Medhat Elmorsy Affiliations: Jack Chen, PhD Student, MIT Department of Mechanical Engineering Medhat Elmorsy, Postdoctoral Fellow, MIT Department of Civil and Environmental Engineering Hosts: Andrew Akerson, Professor, MIT Department of Mechanical Engineering Mohammad Charara",
+      "link": "https://calendar.mit.edu/event/immec-seminar",
+      "time": "TBD",
+      "location": "Building 3"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Physical Chemistry Seminar | Professor Tim Berkelbach (Columbia University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Coupled electronic-vibrational dynamics in molecules and materials Professor Tim Berkelbach Columbia University Abstract: The coupling between electrons and atomic vibrations plays an important role across chemistry and materials science. In this talk, I’ll tell two stories of its implications in ph",
+      "link": "https://calendar.mit.edu/event/physical-chemistry-seminar-professor-tim-berkelbach-columbia-university",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Price Rigidity and Investment Irreversibility in Customer Markets: Evidence from Credit Supply Shocks",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "William Chen (MIT Grad Student)",
+      "link": "https://calendar.mit.edu/event/tba-6401",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Number Theory Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Håvard Damm-Johnsen (MIT) Title: Lifting ethereal Bianchi modular forms Abstract: Mod $p$ Hecke eigenforms for congruence subgroups of $\\SL_2(\\Z)$ which do not lift to characteristic $0$ have received much attention, and were named \"ethereal modular forms\" by G. Schaeffer. In this talk, we ",
+      "link": "https://calendar.mit.edu/event/number-theory-seminar-6366",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Level up your behavioral interviewing skills",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Info Session Behavioral interview questions are a key part of hiring across industries, let CAPD help you ready for them! In this session, you’ll learn how to prepare strong examples, structure your responses using proven frameworks like STAR, and avoid common pitfalls. Whether you're gearing up for",
+      "link": "https://calendar.mit.edu/event/level-up-your-behavioral-interviewing-skills-4784",
+      "time": "TBD",
+      "location": "Building 8"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Russian Connection - Fall Meet-n-Greet",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "This social event is aimed at connecting Russian-speaking people of different ethnicities and backgrounds, welcoming anyone who is interested in Russian culture. It will promote cultural exchange and networking, contributing to MIT's diversity and inclusivity efforts.",
+      "link": "https://calendar.mit.edu/event/russian-connection-fall-meet-n-greet-7394",
+      "time": "TBD",
+      "location": "Building W20: Stratton Student Center"
+    },
+    {
+      "date": "2026-09-29",
       "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
       "source": "Northeastern",
       "tag": "talk",
@@ -861,6 +781,26 @@
     },
     {
       "date": "2026-09-30",
+      "title": "September Coffee Social",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "S﻿top by before you start your day to grab a coffee or tea and a breakfast treat! Connect with old friends, meet new ones, and let's talk about the kind of events you'd like to see from the WL this semester. Please RSVP so we know how much coffee to brew! This event is open the MIT Community only.",
+      "link": "https://calendar.mit.edu/event/copy-of-march-coffee-social",
+      "time": "TBD",
+      "location": "Emma Rogers Room"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Physician Lunch & Learn series with Dr. Jason Lew",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for the academic year’s first Physician Lunch & Learn series with Dr. Jason Lew, attending physician in Physical Medicine & Rehabilitation (PM&R) and Brain Injury Medicine at Spaulding Rehabilitation Hospital. Dr. Lew will share his educational and career journey, including why he chose to p",
+      "link": "https://calendar.mit.edu/event/physician-lunch-learn-series-with-dr-jason-lew",
+      "time": "TBD",
+      "location": "Building 1"
+    },
+    {
+      "date": "2026-09-30",
       "title": "\"The Deafhood Movement: Post Colonialism, Settler Colonialism, or another Other?\" By Judith Bishop",
       "source": "Northeastern",
       "tag": "talk",
@@ -884,8 +824,8 @@
       "title": "College of Engineering Global Co-op Information Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. […] The post College of Engineering Global Co-op Information Session appeared first on Northeastern University College of Engin",
-      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-6133",
+      "desc": "This is a virtual information session for students, hosted by the COE Global Co-op team. We will focus on searching for co-ops abroad for the Spring 2027 semester or later. If you think you may be interested in attending, think about: Have you ever thought about doing co-op in another country?Would ",
+      "link": "https://calendar.northeastern.edu/event/college-of-engineering-global-co-op-information-session-5887",
       "time": "TBD",
       "location": ""
     },
@@ -1001,6 +941,16 @@
     },
     {
       "date": "2026-10-04",
+      "title": "Physics For the People @ Cambridge Science Carnival",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join Northeastern University's Department of Physics at the Cambridge Science Carnival (10/4/2026, noon-4PM, Kendall/MIT Open Space) for unique experiences that will equally excite every armchair scientist and professional physicist: Make objects fall into a black hole; touch the mysterious dark mat",
+      "link": "https://calendar.northeastern.edu/event/physics-for-the-people-cambridge-science-carnival",
+      "time": "TBD",
+      "location": "Kendall/ MIT Open Space"
+    },
+    {
+      "date": "2026-10-04",
       "title": "Women's Soccer vs. Hofstra ",
       "source": "Northeastern",
       "tag": "talk",
@@ -1051,6 +1001,16 @@
     },
     {
       "date": "2026-10-06",
+      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Teams to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northe",
+      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-8619",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-06",
       "title": "Misinformation Speaker Series: Altering Perceptions of Misinformation Prevalence",
       "source": "Northeastern",
       "tag": "talk",
@@ -1078,6 +1038,16 @@
       "link": "https://calendar.northeastern.edu/event/cssh-co-op-poster-expo-2026",
       "time": "TBD",
       "location": "Raytheon Amphitheater"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Art&Soul: Hospitality and Curiosity ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "A monthly space for students to gather in artistic expression to explore the skills, tools and habits of peacebuilding and reconciliation. Through visual art, writing, music, and dance, participants draw from their faiths, cultures, and backgrounds to reflect and embody what it means to cross divide",
+      "link": "https://calendar.northeastern.edu/event/artsoul-hospitality-and-curiosity",
+      "time": "TBD",
+      "location": "Sacred Space"
     },
     {
       "date": "2026-10-07",
@@ -1251,16 +1221,6 @@
     },
     {
       "date": "2026-10-22",
-      "title": "2026 Fall Digital Scholarship Celebration",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "October 22, 1–3pm Boston (hybrid + in-person), 10–11:15am Oakland (virtual), and 6–7:15pm London (virtual) On October 22, the Centers for Digital Scholarship, the Digital Scholarship Group, and the NULab for Digital Humanities and Computational Social Science will host our annual fall scholarship ce",
-      "link": "https://calendar.northeastern.edu/event/2026-fall-celebration",
-      "time": "TBD",
-      "location": "Snell Library"
-    },
-    {
-      "date": "2026-10-22",
       "title": "Computer Science Colloquium Series - Student Session",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -1290,56 +1250,6 @@
       "location": "SEC"
     },
     {
-      "date": "2026-10-24",
-      "title": "Swim & Dive vs. Rhode Island",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the Swim & Dive team at the Barletta Nataorium!",
-      "link": "https://calendar.northeastern.edu/event/swim-dive-vs-rhode-island",
-      "time": "TBD",
-      "location": "Barletta Nataorium"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Men's Soccer vs. Hofstra ",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the men's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-hofstra-6538",
-      "time": "TBD",
-      "location": "Parsons Field"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Biology Colloquia Series: Li Li",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Prof. Li Li, PhD, Cornell University presents: Carotenoid Metabolism: From Pigment Regulation to Plant Development https://cals.cornell.edu/people/li-li https://blogs.cornell.edu/lilab/people/",
-      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-li-li",
-      "time": "TBD",
-      "location": "134 Mugar"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "CSSH Study Abroad Information Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "CSSH Students, Come meet academic advisors, study abroad advisors, and other students who have participated in traditional study abroad experiences and DOCs.",
-      "link": "https://calendar.northeastern.edu/event/cssh-study-abroad-information-session",
-      "time": "TBD",
-      "location": "Renaissance Park"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Digital Practice Workshop Series: KnightLab Tools ",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come and learn about the potentials of open publishing using Knight Lab tools! This workshop, led by CDS Coordinator Colleen Nugent McLean and Digital Projects Archivist Shireen Zaineb, will cover the benefits of open source digital scholarship tools, and provide detailed instructions on using Timel",
-      "link": "https://calendar.northeastern.edu/event/digital-practice-workshop-series-knightlab-tools",
-      "time": "TBD",
-      "location": "Snell Library, Centers for Digital Scholarship "
-    },
-    {
       "date": "2026-10-27",
       "title": "Tough Tech Summit 2026",
       "source": "The Engine",
@@ -1349,16 +1259,6 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "Deep tech founders and investors. Spun out of MIT"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Jeffrey Burds Memorial Speaker Series ",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "The Department of History, in collaboration with CSSH, is proud to present the fall 2026 installment of the Jeffrey Burds Memorial Speaker Series, in honor of late Professor of History Dr. Jeffrey Burds. Dr. Peter Richardson of Northeastern Univeristy will present, \"No War, No Peace, No Incentives: ",
-      "link": "https://calendar.northeastern.edu/event/jeffrey-burds-memorial-speaker-series-4459",
-      "time": "TBD",
-      "location": "310 Renaissance Park"
     },
     {
       "date": "2026-10-28",
@@ -1372,36 +1272,6 @@
     },
     {
       "date": "2026-10-29",
-      "title": "Book Launch: INNER ZONE",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Please join us to celebrate the release of INNER ZONE: The Untold Violence of Retribution in Besieged Sarajevo (University of Pennsylvania Press, 2026). Jelena Golubović will be in conversation with Sasha Sabherwal on Thursday, October 29, from 3–5 PM in RP 909 to discuss themes of victimhood, natio",
-      "link": "https://calendar.northeastern.edu/event/book-launch-inner-zone",
-      "time": "TBD",
-      "location": "Renaissance_Park"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "An Evening with R.F. Kuang",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The Global Asian Studies hosts author R.F. Kuang to discuss the release of her new book, Taipei Story. Rebecca F. Kuang is the #1 New York Times and #1 Sunday Times bestselling author of the Poppy War trilogy, Babel: An Arcane History, Yellowface, Katabasis, and Taipei Story. Her work has won the Ne",
-      "link": "https://calendar.northeastern.edu/event/an-evening-with-rf-kuang",
-      "time": "TBD",
-      "location": "Blackman Theater"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Policy on the Plaza (Oakland)",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Graduate students from the Policy School will offer nonpartisan analyses of California state and local propositions on the November ballot. Join us on Adams Plaza, 5pm-6:30pm Pacific Time, to become a more educated voter.",
-      "link": "https://calendar.northeastern.edu/event/policy-on-the-plaza-oakland",
-      "time": "TBD",
-      "location": "Northeastern University Oakland"
-    },
-    {
-      "date": "2026-10-29",
       "title": "Computer Science Colloquium Series -  David Alvarez-Melis (Harvard SEAS)",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -1411,14 +1281,14 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
-      "date": "2026-11-01",
-      "title": "Women's Soccer vs. Monmouth",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the women's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-monmouth-2147",
+      "date": "2026-10-30",
+      "title": "Human-in-the-Loop robot learning",
+      "source": "Harvard SEAS",
+      "tag": "robotics",
+      "desc": "Letizia Gionfrida (King’s College London) Robots operating alongside people need to do more than reproduce behaviours learned from fixed datasets: they need to understand, learn from, and adapt to the humans with whom they interact. In this talk, I will explore how humans can be placed within the ro",
+      "link": "https://events.seas.harvard.edu/event/human-in-the-loop-robot-learning",
       "time": "TBD",
-      "location": "Parsons Field"
+      "location": "SEC"
     },
     {
       "date": "2026-11-01",
@@ -1472,46 +1342,6 @@
       "location": "SEC"
     },
     {
-      "date": "2026-11-07",
-      "title": "Swim & Dive vs. Conneticut ",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the Swim & Dive team at the Barletta Nataorium!",
-      "link": "https://calendar.northeastern.edu/event/swim-dive-vs-conneticut",
-      "time": "TBD",
-      "location": "Barletta Nataorium"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "Writing Professional Emails",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Writing a professional email is more than choosing the right words. It’s about communicating clearly, confidently, and appropriately for your audience. In this interactive virtual workshop, you’ll learn practical strategies for writing effective emails in academic and professional settings. We’ll ex",
-      "link": "https://calendar.northeastern.edu/event/writing-professional-emails-7088",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-11-09",
-      "title": "Reckonings Community Network Series: Archives Fellowship Hour: Collecting Community and Family Stories",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Are you the family record keeper, the one that holds the memory of the family, the one who knows the family recipes, or carries forward a skill passed down through generations of your family or chosen family? And/or are you thinking about preserving memories together with members of older or younger",
-      "link": "https://calendar.northeastern.edu/event/reckonings-community-network-series-archives-fellowship-hour-collecting-community-and-family-stories",
-      "time": "TBD",
-      "location": "Bruce C. Bolling Municipal Building"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Misinformation Speaker Series: Reclaiming the Internet",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The affordances and risks on the internet today are the outcome of thirty years of laissez-faire communications policy. It shows that early internet evangelists in the 1990s believed that the internet could only thrive if application developers are free to innovate, unfettered by conventional legal ",
-      "link": "https://calendar.northeastern.edu/event/misinformation-speaker-series-reclaiming-the-internet",
-      "time": "TBD",
-      "location": "216 Massachusetts Ave"
-    },
-    {
       "date": "2026-11-10",
       "title": "Searching the Genetic Bases of Human Brain Evolution",
       "source": "Harvard SEAS",
@@ -1520,16 +1350,6 @@
       "link": "https://events.seas.harvard.edu/event/searching-the-genetic-bases-of-human-brain-evolution",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-11-12",
-      "title": "What happened, what’s next? Interpreting the 2026 election (Oakland)",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join local experts and faculty to parse the results of the November 2026 election in California and nationwide, with special attention to ballot propositions and Northeastern and Mills alums on the ballot. 6-7:15pm PT in GSB 101.",
-      "link": "https://calendar.northeastern.edu/event/what-happened-whats-next-interpreting-the-2026-election-oakland",
-      "time": "TBD",
-      "location": "Northeastern University Oakland"
     },
     {
       "date": "2026-11-12",
@@ -1560,36 +1380,6 @@
       "link": "https://events.seas.harvard.edu/event/engineering-career-fair-collaborative",
       "time": "TBD",
       "location": "David Rubenstein Treehouse"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Fusion Book Club Meeting",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Fusion Book Club: where STEM meets story and belonging takes root. When: Monday, November 16th at 4:30pm ET Where: Snell Library Research and Teaching Hub (SL-215A) and online (Teams meeting link) What […] The post Fusion Book Club Meeting appeared first on Northeastern University College of Enginee",
-      "link": "https://calendar.northeastern.edu/event/fusion-book-club-meeting",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Jeffrey Burds Memorial Speaker Series",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "The Department of History, in collaboration with CSSH, is proud to present the fall 2026 installment of the Jeffrey Burds Memorial Speaker Series, in honor of late Professor of History Dr. Jeffrey Burds. Dr. Natalya Watson and Dr. Veronika Maliborska of Northeastern University will present, \"Teachin",
-      "link": "https://calendar.northeastern.edu/event/jeffrey-burds-memorial-speaker-series-6859",
-      "time": "TBD",
-      "location": "310 Renaissance Park"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Relational Capital in International Cooperation: An Analysis of Foreign Strategies in Africa",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "When government agencies engage in international assistance, they follow their own country's foreign policy guidelines. This means each country channels its foreign assistance toward sectors it deems most strategic and adopts an implementation model that best serves its geopolitical and economic int",
-      "link": "https://calendar.northeastern.edu/event/relational-capital-in-international-cooperation-an-analysis-of-foreign-strategies-in-africa",
-      "time": "TBD",
-      "location": "450 Dodge Hall"
     },
     {
       "date": "2026-11-19",
@@ -1643,24 +1433,6 @@
     },
     {
       "date": "TBD",
-      "title": "Undetectable Conversations Between AI Agents via Pseudorandom Noise-Resilient Key Exchange",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "AI agents are increasingly deployed to interact with other agents on behalf of users and organizations. We ask whether two such agents, operated by different entities, can carry out a parallel secret conversation while still producing a transcript that is computationally indistinguishable from an ho",
-      "link": "https://www.csail.mit.edu/event/undetectable-conversations-between-ai-agents-pseudorandom-noise-resilient-key-exchange",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "This Week in Dynamic Optimality",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "✮ Star ✮",
-      "link": "https://www.csail.mit.edu/event/week-dynamic-optimality",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Optiver Recruiting & High-Frequency Trading Tech Talk",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1702,6 +1474,24 @@
       "tag": "ai",
       "desc": "32-G449 (Kiva Seminar Room)",
       "link": "https://www.csail.mit.edu/event/trexquant-tech-talk-applications-deep-learning-methods-quantitative-trading",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "From Research to Production: Observations and Lessons in GPU Infrastructure on the Nebius Cloud",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Building and scaling AI systems looks different once you leave the lab. Join us for a lunch with Dr. Patrick Butler from Nebius, to discuss the messy middle between “it works on my machine” and production-grade infrastructure at scale.&nbsp;We’ll dig into what actually breaks (and what actually work",
+      "link": "https://www.csail.mit.edu/event/research-production-observations-and-lessons-gpu-infrastructure-nebius-cloud",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Lower Bounds for Linear Hashing via Arithmetic Kakeya",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Affine modular linear hashing is one of the simplest classical hash families. For a prime p &gt; u, the hash function is obtained by choosing s, t uniformly from Z_p and mapping each key x ∈ {0, ..., u - 1} to one of n bins byh_mod(s,t)(x) := ((sx + t) mod p) mod n.Despite its simplicity, the maximu",
+      "link": "https://www.csail.mit.edu/event/lower-bounds-linear-hashing-arithmetic-kakeya",
       "time": "TBD"
     },
     {
@@ -2489,15 +2279,6 @@
     },
     {
       "date": "TBD",
-      "title": "Boston | Claude Build Day",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "International Acceleration Day, by Fintech Sandbox",
       "source": "Luma",
       "tag": "startup",
@@ -2652,6 +2433,15 @@
     {
       "date": "TBD",
       "title": "Boston Screening of SOBER",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "The Data, Tech, and Opportunities Driving a New Era of Women's Health",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
