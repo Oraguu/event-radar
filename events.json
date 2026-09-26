@@ -1,146 +1,7 @@
 {
-  "scraped_at": "2026-09-25T14:55:11.407348",
-  "event_count": 255,
+  "scraped_at": "2026-09-26T13:59:42.409076",
+  "event_count": 254,
   "events": [
-    {
-      "date": "2026-09-25",
-      "title": "MIT Fall career fair 2026",
-      "source": "MIT",
-      "tag": "networking",
-      "desc": "The In-person Fall Career Fair allows students, recent alums, and postdocs to connect with employers from a wide range of industries. The fair offers diverse opportunities to learn about career paths, jobs, and internships that align with your values and interests. All MIT students (undergraduate an",
-      "link": "https://calendar.mit.edu/event/mit-2026-in-person-fall-career-fair",
-      "time": "TBD",
-      "location": "Building W34: Johnson Athletics Center"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Speaker: Daniel Sanz-Alonso (University of Chicago) Abstract: Operator learning is an emerging paradigm at the intersection of scientific computing and machine learning. Its central objective is to learn operators between infinitedimensional function spaces from data. Although operator learning has ",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar11",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Taking Collective Action to Shape AI Policy: What Should Massachusetts Do About AI?",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Under current government and corporate AI leadership, many of us feel discouraged or powerless. But if we take strategic action together, we have the power to bring AI under public control and determine how it’s used, how it’s regulated, and who it benefits. Historically, action from just 3.5% of th",
-      "link": "https://calendar.mit.edu/event/taking-collective-action-to-shape-ai-policy-what-should-massachusetts-do-about-ai",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "The Aging Brain Initiative Fall 2026 Symposium: \"Innovation for the Aging Brain\"",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The Aging Brain Initiative Fall 2026 Symposium: Innovation for the Aging Brain Date: Friday, September 25, 2026Time: 1:00-6:00pm (Talks: 1:00-5:00pm; Poster Session: 5:00-6:00pm)Location: Singleton Auditorium (46-3002, Third Fl of MIT Building 46)Address: 43 Vassar Street, Cambridge, MA 02139Faculty",
-      "link": "https://calendar.mit.edu/event/innovation-for-the-aging-brain",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Cooney Lecture: Engineering Wonder: Biotechnology as a Creative Medium for Innovation",
-      "source": "MIT",
-      "tag": "manufacturing",
-      "desc": "Speaker: Jasmina Aganovic, Founder and CEO, Arcaea Biotechnology has transformed medicine, agriculture, and manufacturing by enabling us to understand and engineer living systems. But what if there is more to biotechnology than manufacturing? Once we think through the lens of biology, could it be po",
-      "link": "https://calendar.mit.edu/event/cooney-lecture-engineering-wonder-biotechnology-as-a-creative-medium-for-innovation",
-      "time": "TBD",
-      "location": "Building 66"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "MechE Colloquium with Sherrie Wang: Learning to Measure the Earth",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Date: Friday, September 25, 2026 Location: 3-270 Time: 3:30pm-4:30pm ET Speaker: Sherrie Wang Affiliation: Assistant Professor, MIT Mechanical Engineering Host: Professor Domitilla Del Vecchio Talk title: Learning to Measure the Earth Abstract: How can we measure environmental conditions at the scal",
-      "link": "https://calendar.mit.edu/event/meche-colloquium-with-sherrie-wang",
-      "time": "TBD",
-      "location": "Building 3"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "LBGTQ+ Services Open House",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Come join us for an open house with a free Mediterranean dinner, make-your-own soap crafting (no experience required!), and opportunities to connect with other members of the MIT community. Learn more about the Rainbow Lounge and meet our staff. All are welcome, so bring your friends! Directions to ",
-      "link": "https://calendar.mit.edu/event/lbgtq-services-open-house-1751",
-      "time": "TBD",
-      "location": "Building 50: Walker Memorial"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Beethoven's Tango",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "MIT Tango Club is honored to partner with world-renowned tango performer, teacher, and artistic director Fernanda Ghi, together with pianist, composer, and anthropologist Alfredo Minetti, to present this original production. Inspired by the artistic legacy of Ludwig van Beethoven, Beethoven's Tango ",
-      "link": "https://calendar.mit.edu/event/beethovens-tango",
-      "time": "TBD",
-      "location": "Building W16: Kresge Auditorium"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Women's Soccer vs. Tufts University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 6:00 PM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Humanities Center Signature Project Showcase ",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join us for the Signature Projects Showcase, where Humanities Center Signature Projects will share their latest work and developments through brief presentations followed by informal sessions for deeper conversation and engagement. This is a wonderful opportunity to learn about the innovative resear",
-      "link": "https://calendar.northeastern.edu/event/humanities-center-signature-project-showcase",
-      "time": "TBD",
-      "location": "Snell Library "
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Amazon Internships + Outreach",
-      "source": "Northeastern",
-      "tag": "manufacturing",
-      "desc": "Join us for a special event on Amazon Internships + Outreach, hosted by the team behind the edge technologies powering the Echo family of devices, Fire TVs, and Fire Tablets. […] The post Amazon Internships + Outreach appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/amazon-internships-outreach",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-25",
-      "title": "AI Makerspace Launch Events Day 2",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "The AI Makerspace keeps people, connection, and original thinking at the heart of AI. Here, Northeastern faculty, staff, and students get to explore AI tools, learn from one another, and turn ideas into something real, with hands-on support at every level. Friday, September 25 AI Prompt Escape Room ",
-      "link": "https://calendar.northeastern.edu/event/ai-makerspace-launch-events-day-2",
-      "time": "TBD",
-      "location": "Snell Library First Floor"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Circle of Life",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "A weekly Talking Circle where students explore questions of meaning, life, identity, and connection. Each week centers on a new topic, creating space for reflection, deep listening, and learning more about ourselves and one another.",
-      "link": "https://calendar.northeastern.edu/event/circle-of-life-6932",
-      "time": "TBD",
-      "location": "Center for Spirituality, Dialogue, and Service"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "MassRobotics RoboBoston Career Fair",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/massrobotics-roboboston-career-fair/",
-      "time": "TBD"
-    },
     {
       "date": "2026-09-26",
       "title": "25th anniversary MIT Great Glass Pumpkin Patch fundraiser",
@@ -163,10 +24,10 @@
     },
     {
       "date": "2026-09-26",
-      "title": "Sailing vs. Hood Trophy",
+      "title": "Sailing vs. Hoyt Trophy",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Medford, MA",
+      "desc": "Time: 10:00 AM Location: Providence, RI",
       "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
       "time": "TBD",
       "location": ""
@@ -190,15 +51,6 @@
       "link": "https://calendar.mit.edu/event/timeplay-chamber-music-for-violin-percussion-and-piano",
       "time": "TBD",
       "location": "Building W18"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "RoboBoston: 9th Annual Robot Block Party !",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/event/roboboston-9th-annual-robot-block-party/",
-      "time": "TBD"
     },
     {
       "date": "2026-09-27",
@@ -531,13 +383,13 @@
     },
     {
       "date": "2026-09-29",
-      "title": "Men's Soccer vs. Harvard",
+      "title": "Galante Engineering Business Certificate | Info Session",
       "source": "Northeastern",
       "tag": "talk",
-      "desc": "Come cheer on the men's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-harvard-3291",
+      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. The post Galante Engineering Business Certificate | Info Session appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/galante-engineering-business-certificate-info-session",
       "time": "TBD",
-      "location": "Parsons Field"
+      "location": ""
     },
     {
       "date": "2026-09-30",
@@ -651,6 +503,16 @@
     },
     {
       "date": "2026-09-30",
+      "title": "Women's Soccer vs. Wellesley College",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 4:00 PM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-09-30",
       "title": "Special Screening and Expert Panel Discussion of 'End of the Cycle'",
       "source": "MIT",
       "tag": "talk",
@@ -671,10 +533,10 @@
     },
     {
       "date": "2026-09-30",
-      "title": "Men's Soccer vs. Gordon College",
+      "title": "Men's Soccer vs. Wheaton College (Mass.)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 7:00 PM Location: Wenham, MA",
+      "desc": "Time: 2:00 PM Location: Norton, MA",
       "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
       "time": "TBD",
       "location": ""
@@ -801,6 +663,76 @@
     },
     {
       "date": "2026-10-01",
+      "title": "Marzena Rostek (UW-Madison)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "TBD",
+      "link": "https://calendar.mit.edu/event/marzena-rostek-uw-madison",
+      "time": "TBD",
+      "location": "Littauer Center of Public Administration"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Merck-MIT Lectures (Thorsten Bach, Technical University of Munich;  Ji Qi, Merck)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Merck-MIT Lectures",
+      "link": "https://calendar.mit.edu/event/merck-mit-lectures-prof-dr-thorsten-bachtechnische-universitaet-muenchen-and-merck-tbd",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Quantifying the Internal Validity of Weighted Estimands",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Tymon Słoczyński (Brandeis University)",
+      "link": "https://calendar.mit.edu/event/copy-of-tba-8541",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "ORC Seminar: Internal Pluralism and the Limits of Pairwise Comparisons",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Bailey Flanigan Assistant Professor MIT Abstract: Across AI alignment and participatory design, pairwise comparisons are a workhorse for learning how people want automated decision rules to behave. We propose a preference model that contains standard pairwise-choice models as a special case, but whi",
+      "link": "https://calendar.mit.edu/event/orc-seminar-internal-pluralism-and-the-limits-of-pairwise-comparisons",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Applied Math Colloquium",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Grigorios Pavliotis (Imperial College) Title: Statistical inverse problems for interacting particle systems and their mean field limit Abstract: We consider the problem of learning interaction kernels from data for stochastic interacting particle systems and their mean-field limit, describe",
+      "link": "https://calendar.mit.edu/event/applied-math-colloquium-1939",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Prehealth Pair & Share #2: Interviewing Prep w/ Alumni",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join MIT Prehealth Advising for an evening of mock interviews with MIT alumni who range from medical students to practicing physicians. This virtual event is designed to help you strengthen your interview skills, gain feedback on your responses, and hear real-world insights from those who’ve navigat",
+      "link": "https://calendar.mit.edu/event/prehealth-pair-share-2-interviewing-prep-w-alumni",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-01",
+      "title": "The Weavers",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Weavers After the play by Gerhardt Hauptmann Directed by Jay Scheib Previews Sept 30. & Oct 1. Premiering as part of MIT Museum’s FutureFest Oct 2. & Oct 3. (all shows 7pm with Saturday 2.30p matinee) \"The Weavers,\" is a new extended reality (XR) action-film-inspired performance based on Gerhart",
+      "link": "https://calendar.mit.edu/event/copy-of-the-weavers",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
+      "date": "2026-10-01",
       "title": "Graduate Fellowship Writing Club",
       "source": "Northeastern",
       "tag": "talk",
@@ -838,6 +770,36 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-marzyeh-ghassemi-mit",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Teaching at teaching-intensive institutions (1-day conference)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Many faculty enjoy rewarding careers at colleges and universities that primarily emphasize teaching, including liberal arts colleges, community colleges, and regional comprehensive universities. This free one-day regional conference being held in-person at Worcester State University brings together ",
+      "link": "https://calendar.mit.edu/event/teaching-at-teaching-intensive-institutions-1-day-conference",
+      "time": "TBD",
+      "location": "Worcester State University"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Statistics and Data Science Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Arthur Gretton (University College London)",
+      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar12",
+      "time": "TBD",
+      "location": "Building E18"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Computational Research in Boston and Beyond Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Richard Huang (MIT) Zoom link: https://mit.zoom.us/j/91933017072 Title: Modeling the Mechanics of DNA Nanostructures in Flow Abstract: Modern DNA synthesis techniques enable the precise design of heterogeneous DNA nanostructures, with proposed applications in drug delivery, vaccine developm",
+      "link": "https://calendar.mit.edu/event/computational-research-in-boston-and-beyond-seminar-8253",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-10-02",
@@ -1201,6 +1163,16 @@
     },
     {
       "date": "2026-10-22",
+      "title": "2026 Fall Digital Scholarship Celebration",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "October 22, 1–3pm Boston (hybrid + in-person), 10–11:15am Oakland (virtual), and 6–7:15pm London (virtual) On October 22, the Centers for Digital Scholarship, the Digital Scholarship Group, and the NULab for Digital Humanities and Computational Social Science will host our annual fall scholarship ce",
+      "link": "https://calendar.northeastern.edu/event/2026-fall-celebration",
+      "time": "TBD",
+      "location": "Snell Library"
+    },
+    {
+      "date": "2026-10-22",
       "title": "Computer Science Colloquium Series - Student Session",
       "source": "Harvard SEAS",
       "tag": "talk",
@@ -1228,6 +1200,16 @@
       "link": "https://events.seas.harvard.edu/event/scalable-robust-and-safe-autonomy-at-zoox",
       "time": "TBD",
       "location": "SEC"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Swim & Dive vs. Rhode Island",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the Swim & Dive team at the Barletta Nataorium!",
+      "link": "https://calendar.northeastern.edu/event/swim-dive-vs-rhode-island",
+      "time": "TBD",
+      "location": "Barletta Nataorium"
     },
     {
       "date": "2026-10-27",
@@ -1412,6 +1394,16 @@
       "location": "Science and Engineering Complex (SEC)"
     },
     {
+      "date": "2026-12-10",
+      "title": "Towards Personalizing Assistive Technology in the Real World",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Patrick Slade - Harvard University Assistive technology offers promise to improve personal mobility for hundreds of millions of people. However, determining how to assist people to accommodate their unique mobility needs during everyday activities is an open challenge. Methods for personalizing assi",
+      "link": "https://events.seas.harvard.edu/event/towards-personalizing-assistive-technology-in-the-real-world",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "TBD",
       "title": "HCI Seminar - Brian A. Smith - Computers as Partners in Human Experience",
       "source": "MIT CSAIL",
@@ -1458,6 +1450,15 @@
     },
     {
       "date": "TBD",
+      "title": "[NLP Seminar] Infinite Test-time Scaling",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Test-time scaling uses extra test-time compute to improve performance,&nbsp;such as letting language models reason longer when solving a problem. In this talk,&nbsp;I want to&nbsp;think about&nbsp;what has fundamentally limited this paradigm from scaling further. Along the way, we'll discuss various",
+      "link": "https://www.csail.mit.edu/event/nlp-seminar-infinite-test-time-scaling",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "CSAIL Forum",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1470,8 +1471,17 @@
       "title": "CSAIL FORUM with Daniel Jackson",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "Title: The Key to Agentic Software DevelopmentAbstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable softwar",
+      "desc": "Zoom",
       "link": "https://www.csail.mit.edu/event/csail-forum-daniel-jackson",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "HCI Seminar - J.D. Zamfirescu-Pereira - Understanding and Overcoming Alignment Challenges in Designing with Generative AI",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract:Generative AI systems enable creation—of text, images, code, and more—through humanlike language interfaces, promising to transform how we design and create. Yet these interfaces often lead users to apply intuitions about understanding and reasoning that then lead them astray. In this talk,",
+      "link": "https://www.csail.mit.edu/event/hci-seminar-jd-zamfirescu-pereira-understanding-and-overcoming-alignment-challenges-designing",
       "time": "TBD"
     },
     {
@@ -1485,7 +1495,7 @@
     },
     {
       "date": "TBD",
-      "title": "RoboBoston: September 26, 2026 – register here",
+      "title": "The 2026 Robot Block Party has been postponed! Register for the event on Saturday, May 1, 2027",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Events help us connect our community of entrepreneurs & startups, enterprise companies, government and academia. MassRobotics hosts a variety of informational, educational and networking events focused on robotics, artificial intelligence, drones, autonomous vehicles and more. We are regularly addin",
@@ -2088,33 +2098,6 @@
     },
     {
       "date": "TBD",
-      "title": "1 event 26",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "RoboBoston is a celebration showcasing universities, startups, companies and student teams with cutting-edge robotics, AI and technology. ​This year’s 9th Annual Robot Block Party, free and open to the public, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-09-26/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 26",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "RoboBoston is a celebration showcasing universities, startups, companies and student teams with cutting-edge robotics, AI and technology. ​This year’s 9th Annual Robot Block Party, free and open to the public, […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-09-26/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "RoboBoston: 9th Annual Robot Block Party !",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "RoboBoston is a celebration showcasing universities, startups, companies and student teams with cutting-edge robotics, AI and technology. ​This year’s 9th Annual Robot Block Party, free and open to the public, […]",
-      "link": "https://www.massrobotics.org/event/roboboston-9th-annual-robot-block-party/",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "1 event 27",
       "source": "MassRobotics",
       "tag": "robotics",
@@ -2250,45 +2233,18 @@
     },
     {
       "date": "TBD",
-      "title": "ClawBio, developing your own genomic agent from scratch",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Goodnotes Cafe Takeover - Boston (BU, Northeastern, Harvard, BC, MIT & Tufts)",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Technical Career Fair - Job Seeker Registration",
-      "source": "Luma",
-      "tag": "networking",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Cafecito & Chisme: The Anniversary Party 🎉",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Code + Counsel's Human-in-the-Loop Ping Pong Meetup",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Code + Counsel Legal AI Community Hackathon: Building Common Ground",
+      "source": "Luma",
+      "tag": "ai",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -2415,6 +2371,42 @@
       "title": "Maum Market Boston",
       "source": "Luma",
       "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Oktoberfest at The Grove",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Mediterranean House Night",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ARC Prize Research Summit 2026",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tough Tech Demo Day",
+      "source": "Luma",
+      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
