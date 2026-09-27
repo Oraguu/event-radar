@@ -1,56 +1,16 @@
 {
-  "scraped_at": "2026-09-26T13:59:42.409076",
-  "event_count": 254,
+  "scraped_at": "2026-09-27T14:55:44.650499",
+  "event_count": 259,
   "events": [
     {
-      "date": "2026-09-26",
-      "title": "25th anniversary MIT Great Glass Pumpkin Patch fundraiser",
+      "date": "2026-09-27",
+      "title": "Men's Water Polo vs. Concordia University Irvine",
       "source": "MIT",
       "tag": "talk",
-      "desc": "The 2026 in-person MIT Great Glass Pumpkin Patch has been postponed due to potentially dangerous weather conditions this coming Saturday. The ONLINE MIT Great Glass Pumpkin Patch will proceed as originally scheduled, Saturday, September 26th from 10AM to 10PM at mitglasslab.org. This event will be u",
-      "link": "https://calendar.mit.edu/event/25th-anniversary-mit-great-glass-pumpkin-patch-fundraiser",
-      "time": "TBD",
-      "location": "Kresge Oval"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Rifle vs. Norwich University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 9:00 AM Location: Northfield, VT",
-      "link": "https://calendar.mit.edu/event/rifle-vs-norwich-university-9844",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Sailing vs. Hoyt Trophy",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:00 AM Location: Providence, RI",
-      "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Men's Water Polo vs. Johns Hopkins University",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 10:30 AM Location: Providence, RI / Brown University",
+      "desc": "Time: 8:45 AM Location: Providence, RI / Brown University",
       "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
       "time": "TBD",
       "location": ""
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Time/Play: Chamber Music for Violin, Percussion, and Piano",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Premieres by award winning composers Theo Chandler & Dan Temkin, along with Lou Harrison’s Varied Trio (1986) Violinist and MIT Associate Professor of Music Natalie Lin Douglas is joined by guest collaborators for a concert featuring premieres by award-winning composers Theo Chandler (\"Time Pieces”)",
-      "link": "https://calendar.mit.edu/event/timeplay-chamber-music-for-violin-percussion-and-piano",
-      "time": "TBD",
-      "location": "Building W18"
     },
     {
       "date": "2026-09-27",
@@ -533,10 +493,10 @@
     },
     {
       "date": "2026-09-30",
-      "title": "Men's Soccer vs. Wheaton College (Mass.)",
+      "title": "Men's Soccer vs. Gordon College",
       "source": "MIT",
       "tag": "talk",
-      "desc": "Time: 2:00 PM Location: Norton, MA",
+      "desc": "Time: 7:00 PM Location: Wenham, MA",
       "link": "https://calendar.mit.edu/event/mens-soccer-vs-emmanuel-college-mass",
       "time": "TBD",
       "location": ""
@@ -803,6 +763,36 @@
     },
     {
       "date": "2026-10-02",
+      "title": "Quick & dirty data management: the 5 things you should absolutely be doing with your data now",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Do you have data? (Who doesn't?!?) Learn about the five basic things you can do now to manage your data for future happiness. These tools and techniques support practical data management and you can start using them immediately. Work with your personal data or research data, but start working now to",
+      "link": "https://calendar.mit.edu/event/quick-dirty-data-management-the-5-things-you-should-absolutely-be-doing-with-your-data-now-2051",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Artist Performance: INVISIBLETOWHOM Arc 2",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Pap Souleye Fall’s performance INVISIBLETOWHOM Arc 2 (2026) emerges from the world of DEAD PIXEL (2020–ongoing), a narrative the artist articulates through installation, performance, drawing, sculpture, video, and comics. Fall will perform as their story’s protagonist DEAD PIXEL, here to destabilize",
+      "link": "https://calendar.mit.edu/event/artist-performance-invisibletowhom-arc-2",
+      "time": "TBD",
+      "location": "ACT Cube inside the Lower Level of the List Center. 20 Ames Street, Cambridge, MA 02139"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "The Weavers",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Weavers After the play by Gerhardt Hauptmann Directed by Jay Scheib Previews Sept 30. & Oct 1. Premiering as part of MIT Museum’s FutureFest Oct 2. & Oct 3. (all shows 7pm with Saturday 2.30p matinee) \"The Weavers,\" is a new extended reality (XR) action-film-inspired performance based on Gerhart",
+      "link": "https://calendar.mit.edu/event/copy-of-the-weavers-7866",
+      "time": "TBD",
+      "location": "Building W97"
+    },
+    {
+      "date": "2026-10-02",
       "title": "COMSOL Multiphysics®, Surrogate Models, and Digital Twins Workshop",
       "source": "Northeastern",
       "tag": "talk",
@@ -840,6 +830,56 @@
       "link": "https://events.seas.harvard.edu/event/harvard-technology-science-data-fair",
       "time": "TBD",
       "location": "Harvard Student Organization Center at Hilles (SOCH)"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Men's Cross Country vs. Running of the Cows (Pre-Nationals Meet)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: Northfield, MN / Bill Huyck Championship Course",
+      "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Women's Cross Country vs. Running of the Cows (Pre-Nationals Meet)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: Northfield, MN / Bill Huyck Championship Course",
+      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Women's Lightweight Crew vs. Quinsigamond Snake Regatta",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: Worcester, MA / Lake Quinsigamond",
+      "link": "https://calendar.mit.edu/event/womens-lightweight-crew-vs-quinsigamond-snake-regatta-9727",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Women's Openweight Crew vs. Quinsigamond Snake Regatta",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: Location: Worcester, MA / Lake Quinsigamond",
+      "link": "https://calendar.mit.edu/event/womens-openweight-crew-vs-quinsigamond-snake-regatta-4654",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "MET Warehouse Public Open House",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "About the event The MIT School of Architecture and Planning has moved to the MET Warehouse. On Saturday, October 3, as part of MIT Future Fest, SA+P will open the MET to the MIT community and general public for the first time. From 10am–4pm, exhibitions, tours, talks, workshops, and hands-on experie",
+      "link": "https://calendar.mit.edu/event/met-warehouse-public-open-house",
+      "time": "TBD",
+      "location": "Building W41 (MET Warehouse)"
     },
     {
       "date": "2026-10-03",
@@ -1210,6 +1250,16 @@
       "link": "https://calendar.northeastern.edu/event/swim-dive-vs-rhode-island",
       "time": "TBD",
       "location": "Barletta Nataorium"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Men's Soccer vs. Hofstra ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-hofstra-6538",
+      "time": "TBD",
+      "location": "Parsons Field"
     },
     {
       "date": "2026-10-27",
@@ -2233,7 +2283,7 @@
     },
     {
       "date": "TBD",
-      "title": "Code + Counsel's Human-in-the-Loop Ping Pong Meetup",
+      "title": "Recursive Self Improvement Hack - Formal Verification in Mathematics",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -2269,6 +2319,15 @@
     },
     {
       "date": "TBD",
+      "title": "An Evening Where Manufacturing, Robotics, and AI Collide",
+      "source": "Luma",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Maps on Tap at Aeronaut Brewing Company",
       "source": "Luma",
       "tag": "talk",
@@ -2290,6 +2349,15 @@
       "title": "Building What’s Next in AI x Healthcare",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building the Future of Deep Tech: A Fireside Chat",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -2389,24 +2457,6 @@
       "title": "Mediterranean House Night",
       "source": "Luma",
       "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "ARC Prize Research Summit 2026",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Tough Tech Demo Day",
-      "source": "Luma",
-      "tag": "startup",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
