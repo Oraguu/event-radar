@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-09-27T14:55:44.650499",
-  "event_count": 259,
+  "scraped_at": "2026-09-28T17:54:55.701201",
+  "event_count": 261,
   "events": [
-    {
-      "date": "2026-09-27",
-      "title": "Men's Water Polo vs. Concordia University Irvine",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 8:45 AM Location: Providence, RI / Brown University",
-      "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-27",
-      "title": "IROS 2026",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "The International Conference on Intelligent Robotics and Systems (IROS) will convene in Pittsburgh from September 27 to October 1, bringing together world-leading researchers, educators, government leaders, startups, industry innovators, practitioners, […]",
-      "link": "https://www.massrobotics.org/event/iros-2026/",
-      "time": "TBD"
-    },
     {
       "date": "2026-09-28",
       "title": "The Aga Khan Program Fall 2026: An Evening With Lecture Series presents Ali Karimi, hosted jointly with the Urbanism Group ",
@@ -883,6 +864,36 @@
     },
     {
       "date": "2026-10-03",
+      "title": "Men's Water Polo vs. LIU",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Brooklyn, NY",
+      "link": "https://calendar.mit.edu/event/mens-water-polo-vs-air-force",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Rifle vs. MIT Open",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Cambridge, MA",
+      "link": "https://calendar.mit.edu/event/rifle-vs-norwich-university-9844",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Sailing vs. BU Invite",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:00 AM Location: Boston, MA",
+      "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
       "title": "Men's Soccer vs. Drexel ",
       "source": "Northeastern",
       "tag": "talk",
@@ -990,6 +1001,16 @@
       "link": "https://calendar.northeastern.edu/event/reckonings-community-network-series-we-are-boston-a-jam-session-for-culture-memory-keepers-576",
       "time": "TBD",
       "location": "Bruce C. Bolling Municipal Building "
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Men's Soccer vs. Harvard",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-harvard-3291",
+      "time": "TBD",
+      "location": "Parsons Field"
     },
     {
       "date": "2026-10-07",
@@ -1250,16 +1271,6 @@
       "link": "https://calendar.northeastern.edu/event/swim-dive-vs-rhode-island",
       "time": "TBD",
       "location": "Barletta Nataorium"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Men's Soccer vs. Hofstra ",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come cheer on the men's soccer team at Parson's Field!",
-      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-hofstra-6538",
-      "time": "TBD",
-      "location": "Parsons Field"
     },
     {
       "date": "2026-10-27",
@@ -1532,6 +1543,15 @@
       "tag": "ai",
       "desc": "Abstract:Generative AI systems enable creation—of text, images, code, and more—through humanlike language interfaces, promising to transform how we design and create. Yet these interfaces often lead users to apply intuitions about understanding and reasoning that then lead them astray. In this talk,",
       "link": "https://www.csail.mit.edu/event/hci-seminar-jd-zamfirescu-pereira-understanding-and-overcoming-alignment-challenges-designing",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Hard pure math problems and hard algorithmic problems",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Refreshments at 4:00 PM",
+      "link": "https://www.csail.mit.edu/event/hard-pure-math-problems-and-hard-algorithmic-problems",
       "time": "TBD"
     },
     {
@@ -2175,7 +2195,7 @@
     },
     {
       "date": "TBD",
-      "title": "2 events 28",
+      "title": "1 event 28",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Early stage robotics startups provide a 3-minute pitch to a panel of judges at the IROS conference 2026 The Robotics Pitchfest is an exciting opportunity for early-stage robotics startups to showcase […]",
@@ -2184,11 +2204,29 @@
     },
     {
       "date": "TBD",
-      "title": "2 events, 28",
+      "title": "1 event, 28",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-28/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events 29",
       "source": "MassRobotics",
       "tag": "robotics",
       "desc": "Early stage robotics startups provide a 3-minute pitch to a panel of judges at the IROS conference 2026 The Robotics Pitchfest is an exciting opportunity for early-stage robotics startups to showcase […]",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-09-28/?shortcode=f0b1cb7d",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-29/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "2 events, 29",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Early stage robotics startups provide a 3-minute pitch to a panel of judges at the IROS conference 2026 The Robotics Pitchfest is an exciting opportunity for early-stage robotics startups to showcase […]",
+      "link": "https://www.massrobotics.org/eventscalendar/2026-09-29/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
@@ -2202,38 +2240,29 @@
     },
     {
       "date": "TBD",
-      "title": "1 event 29",
+      "title": "2 events 30",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-09-29/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event, 29",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://www.massrobotics.org/eventscalendar/2026-09-29/?shortcode=f0b1cb7d",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "1 event 30",
-      "source": "MassRobotics",
-      "tag": "robotics",
-      "desc": "",
+      "desc": "Join Tycho.AI, Foley Hoag and JPM for an evening of candid conversation about building cutting-edge technologies that will make the world a safer place. ​Deep tech is where breakthrough science […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-09-30/?shortcode=f0b1cb7d",
       "time": "TBD"
     },
     {
       "date": "TBD",
-      "title": "1 event, 30",
+      "title": "2 events, 30",
       "source": "MassRobotics",
       "tag": "robotics",
-      "desc": "",
+      "desc": "Join Tycho.AI, Foley Hoag and JPM for an evening of candid conversation about building cutting-edge technologies that will make the world a safer place. ​Deep tech is where breakthrough science […]",
       "link": "https://www.massrobotics.org/eventscalendar/2026-09-30/?shortcode=f0b1cb7d",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Building the Future of Deep Tech: A Fireside Chat",
+      "source": "MassRobotics",
+      "tag": "robotics",
+      "desc": "Join Tycho.AI, Foley Hoag and JPM for an evening of candid conversation about building cutting-edge technologies that will make the world a safer place. ​Deep tech is where breakthrough science […]",
+      "link": "https://www.massrobotics.org/event/building-the-future-of-deep-tech-a-fireside-chat/",
       "time": "TBD"
     },
     {
@@ -2283,36 +2312,18 @@
     },
     {
       "date": "TBD",
-      "title": "Recursive Self Improvement Hack - Formal Verification in Mathematics",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Code + Counsel Legal AI Community Hackathon: Building Common Ground",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Made For Mothers Boston Chapter Meetup: Launch Party",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Show & Tell: Meet the Real Small Business Owners Using AI",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Quantum Café Boston",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -2349,15 +2360,6 @@
       "title": "Building What’s Next in AI x Healthcare",
       "source": "Luma",
       "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Building the Future of Deep Tech: A Fireside Chat",
-      "source": "Luma",
-      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
@@ -2455,6 +2457,24 @@
     {
       "date": "TBD",
       "title": "Mediterranean House Night",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ARC Prize Research Summit 2026",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Hard Tech Summit",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
