@@ -1,157 +1,7 @@
 {
-  "scraped_at": "2026-09-28T17:54:55.701201",
-  "event_count": 261,
+  "scraped_at": "2026-09-29T16:17:07.140341",
+  "event_count": 258,
   "events": [
-    {
-      "date": "2026-09-28",
-      "title": "The Aga Khan Program Fall 2026: An Evening With Lecture Series presents Ali Karimi, hosted jointly with the Urbanism Group ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "“Two Thousand Years of Non-Urban History” Ali Karimi Bio Civil Architecture is a cultural practice preoccupied with the making of buildings and books about them. The work of Civil asks what it means to produce architecture in a decidedly un-civil time, presenting a new civic character for a global c",
-      "link": "https://calendar.mit.edu/event/the-aga-khan-program-fall-2026-an-evening-with-lecture-series-presents-ali-karimi-hosted-jointly-with-the-urbanism-group",
-      "time": "TBD",
-      "location": "Building W41 (MET Warehouse)"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "From Global Climate Vulnerability Trends to Policy Choices",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Climate impacts increasingly interact with geopolitical tensions and financial stress, and decisions made over the next few years will shape whether countries can build resilience in time. A single shock, like an energy price spike or a failed harvest, can cascade within months into strained foreign",
-      "link": "https://calendar.mit.edu/event/from-global-climate-vulnerability-trends-to-policy-choices",
-      "time": "TBD",
-      "location": "Building E40"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Local Food Systems within Just Transition Micro-Clusters with Thomas Froehlich",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join J-WAFS for a seminar with Thomas Froehlich, a research fellow at King’s College London, on September 28, 2026, from noon to 1:30 p.m. ET. As communities grapple with a compounding \"polycrisis\" of cost-of-living pressures, fragile supply chains, and climate imperatives, this talk introduces Just",
-      "link": "https://calendar.mit.edu/event/local-food-systems-within-just-transition-micro-clusters-with-thomas-froehlich",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-28",
-      "title": "DECODING:ENCODING | Amy Dain",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://calendar.mit.edu/event/decodingencoding-amy-dain",
-      "time": "TBD",
-      "location": "Building W41 (MET Warehouse)"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Micro-Internship Q&A Drop-in",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join us at CAPD's office in 7-103 to chat about micro-internships happening over IAP! We're here to answer your questions, help you explore available opportunities, and give your resume or cover letter a quick once-over before you apply. Drop in on 9/28 between 1pm-3pm -we'll see you on a first-come",
-      "link": "https://calendar.mit.edu/event/micro-internship-qa-drop-in",
-      "time": "TBD",
-      "location": "Building 7"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Screening Women Out? Pay Transparency in Job Postings",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Amen Jalal (Harvard)",
-      "link": "https://calendar.mit.edu/event/amen-jalal-harvard",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Richard P. Stanley Seminar in Combinatorics",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Shyamal Patel (Columbia University) Title: Learning Functions of Halfspaces Abstract: Learning halfspaces is one of the most basic and fundamental problems in learning theory. While we have a good understanding of the problem, simple generalizations such as learning an intersection of halfs",
-      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-8851",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Yang Tan Collective Alumni Series: Noga Zaslavsky, New York University",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Date: Monday, September 28, 2026 Time: 3:00 – 4:00 pm Location: Building 46, Seminar Room 3189 Talk Title: Meaning in mind: Lossy compression in children, bilinguals, and LLMs Abstract: How do diverse minds organize meaning in language? One theory proposes that lossy data compression characterizes w",
-      "link": "https://calendar.mit.edu/event/mcgovern-institute-special-seminar-with-noga-zaslavsky",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Crisis relief through the tax system: Effects of corporate loss refunds on firms and workers",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Ian Sapollnik - MIT Department of Economics",
-      "link": "https://calendar.mit.edu/event/crisis-relief-through-the-tax-system-effects-of-corporate-loss-refunds-on-firms-and-workers",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Quality in the Generic Drug Market",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Emily Cuddy (Duke)",
-      "link": "https://calendar.mit.edu/event/tba-3290",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Tariffs and State Capacity: A Specific Story",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Martin Rotemberg, NYU",
-      "link": "https://calendar.mit.edu/event/tariffs-and-state-capacity-a-specific-story",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Starr Forum: Housing the World: Inequality, Informality, and the Future of Cities",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Anacláudia Rossbach, Executive Director, United Nations Human Settlements Programme (UN-Habitat). Anacláudia Rossbach is the Executive Director of UN-Habitat and an economist with over 20 years of experience in housing, informal settlements, and urban policies. She was appointed Executive D",
-      "link": "https://calendar.mit.edu/event/housing-the-world-inequality-informality-and-the-future-of-cities",
-      "time": "TBD",
-      "location": "Building 66"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Global France Seminar presents, Doyle Calhoun “The Suicide Archive: Reading for resistance from the time of slavery to the ‘Arab Spring'”",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Presented by Doyle Calhoun, Assistant Professor of Francophone Postcolonial Studies in the Faculty of Modern & Medieval Languages and Linguistics, University of Cambridge When: Monday, September 28 @ 5:15 PM Where: Building 14, 14E-304 (map)* Abstract: From the time of slavery to the Algerian war fo",
-      "link": "https://calendar.mit.edu/event/global-france-seminar-presents-doyle-calhoun-the-suicide-archive-reading-for-resistance-from-the-time-of-slavery-to-the-arab-spring",
-      "time": "TBD",
-      "location": "Building 14"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Biology Colloquia Series: Courtney Marisa Mazur",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Prof. Courtney Marisa Mazur, PhD, Massachusetts General Hospital presents: Molecular control of dendrite formation and osteocyte differentiation https://connects.catalyst.harvard.edu/Profiles/display/Person/193582",
-      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-courtney-marisa-mazur",
-      "time": "TBD",
-      "location": "134 Mugar"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Global Co-op Information Session (open to all colleges)",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "This is a virtual information session for students across the global network, hosted by the Central Co-op team. Join us for an info session featuring helpful information specific to the global co-op search, what to expect when working abroad, etc. If you think you may be interested in attending, thi",
-      "link": "https://calendar.northeastern.edu/event/global-co-op-information-session-open-to-all-colleges-2844",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-09-29",
       "title": "MIT Women's League Open House 2026",
@@ -161,6 +11,16 @@
       "link": "https://calendar.mit.edu/event/copy-of-mit-womens-league-open-house-1839",
       "time": "TBD",
       "location": "Bush Room"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Civil Space Seminar Series: Optical technologies for astrophysics, Earth and planetary science",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Optical Technologies for Astrophysics, Earth and Planetary Science Coherent light enables length measurements of exquisite sensitivity that lie at the core of fascinating technological advances and engineering applications, as well as observations in fundamental physics, astrophysics, geodesy, and m",
+      "link": "https://calendar.mit.edu/event/civil-space-seminar-series-optical-technologies-for-astrophysics",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-09-29",
@@ -374,6 +234,16 @@
     },
     {
       "date": "2026-09-30",
+      "title": "Logics of Dispossession: Governing by Eviction in Indian Cities",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Please join the Displacement Research and Action Network at MIT and the DUSP International Development Group for a lunch-time panel session with Professor Liza Weinstein on Wednesday, September 30 at 12:30 in the MET Warehouse (W41-2101). Professor Liza Weinstein's (Northeastern University) new book",
+      "link": "https://calendar.mit.edu/event/logics-of-dispossession-governing-by-eviction-in-indian-cities",
+      "time": "TBD",
+      "location": "Building W41 (MET Warehouse)"
+    },
+    {
+      "date": "2026-09-30",
       "title": "BCS STIRR Virtual Workshop: Reproducibility",
       "source": "MIT",
       "tag": "talk",
@@ -574,6 +444,16 @@
     },
     {
       "date": "2026-10-01",
+      "title": "Careers in Sustainability / Sustainability Lunch Series",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join the MIT Sloan Sustainability Initiative and Career Development Office as we share career pathing opportunities in sustainability, climate tech, ESG, and impact-related careers. Hear about hiring trends, tips on how to navigate the job search, resources available to MIT Sloan students, as well a",
+      "link": "https://calendar.mit.edu/event/careers-in-sustainability-sustainability-lunch-series-2809",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-01",
       "title": "Fireside Chat with Eigen AI founder, Ryan Wang",
       "source": "MIT",
       "tag": "ai",
@@ -714,6 +594,16 @@
     },
     {
       "date": "2026-10-02",
+      "title": "Purpose of Life | Timeless Spiritual Wisdom in the Age of AI",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Hi, MIT Vedic Vision Club warmly invites you to a thought-provoking seminar, “ Purpose of Life ” an evening exploring timeless spiritual wisdom for a meaningful future in the age of AI. Join us for an engaging discussion with our esteemed guest, HG Radheshyam Das, a well-known spiritual teacher who ",
+      "link": "https://calendar.mit.edu/event/purpose-of-life-timeless-spiritual-wisdom-in-the-age-of-ai",
+      "time": "TBD",
+      "location": "Building 56"
+    },
+    {
+      "date": "2026-10-02",
       "title": "Teaching at teaching-intensive institutions (1-day conference)",
       "source": "MIT",
       "tag": "talk",
@@ -784,6 +674,16 @@
     },
     {
       "date": "2026-10-02",
+      "title": "Structure and Data - Mechanism Understanding and  Knowledge Discovery in Complex Energy Systems",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Power systems are among the most complex engineered systems ever built. As increasing volumes of measurements become available, data-driven approaches have demonstrated remarkable capabilities in prediction and pattern recognition. Yet for many open problems in power and energy systems, prediction a",
+      "link": "https://events.seas.harvard.edu/event/structure-and-data-mechanism-understanding-and-knowledge-discovery-in-complex-energy-systems",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-02",
       "title": "Itai Cohen: Electronically Integrated Autonomous Microscopic Robots",
       "source": "Harvard SEAS",
       "tag": "robotics",
@@ -811,26 +711,6 @@
       "link": "https://events.seas.harvard.edu/event/harvard-technology-science-data-fair",
       "time": "TBD",
       "location": "Harvard Student Organization Center at Hilles (SOCH)"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Men's Cross Country vs. Running of the Cows (Pre-Nationals Meet)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: Location: Northfield, MN / Bill Huyck Championship Course",
-      "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Women's Cross Country vs. Running of the Cows (Pre-Nationals Meet)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: Location: Northfield, MN / Bill Huyck Championship Course",
-      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
-      "time": "TBD",
-      "location": ""
     },
     {
       "date": "2026-10-03",
@@ -891,6 +771,36 @@
       "link": "https://calendar.mit.edu/event/sailing-vs-harry-anderson-trophy",
       "time": "TBD",
       "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Women's Cross Country vs. Keene State Invitational",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 10:30 AM (White Race) / 11:20 AM (Red Race) Location: Keene, NH / Owl Athletic Complex",
+      "link": "https://calendar.mit.edu/event/womens-cross-country-vs-alumni-meet-6839",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Men's Cross Country vs. Keene State Invitational",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Time: 12:00 PM (Red Race) / 12:45 PM (White Race) Location: Keene, NH / Owl Athletic Complex",
+      "link": "https://calendar.mit.edu/event/mens-cross-country-vs-alumni-meet-5516",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "The Weavers",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "The Weavers After the play by Gerhardt Hauptmann Directed by Jay Scheib Previews Sept 30. & Oct 1. Premiering as part of MIT Museum’s FutureFest Oct 2. & Oct 3. (all shows 7pm with Saturday 2.30p matinee) \"The Weavers,\" is a new extended reality (XR) action-film-inspired performance based on Gerhart",
+      "link": "https://calendar.mit.edu/event/copy-of-the-weavers-6554",
+      "time": "TBD",
+      "location": "Building W97"
     },
     {
       "date": "2026-10-03",
@@ -1043,6 +953,16 @@
       "location": ""
     },
     {
+      "date": "2026-10-07",
+      "title": "Digital Accessibility Luncheon",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Join us for a lunchtime discussion on digital accessibility. Through real-world case studies and practical strategies, you'll learn how to create more digitally accessible content for your courses, meetings, and events. Whether you're just getting started or looking to deepen your knowledge, all stu",
+      "link": "https://events.seas.harvard.edu/event/digital-accessibility-luncheon",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
+    },
+    {
       "date": "2026-10-08",
       "title": "Jeffrey Burds Memorial Speaker Series ",
       "source": "Northeastern",
@@ -1081,6 +1001,16 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-aaron-roth-upenn",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Profs at Play",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Profs at Play is back! This free concert features Music faculty and student musicians performing side-by-side. Doors at 6:30pm. Join us for music, snacks and hanging out! RSVP using the Partiful link. Profs performing: Dave Herlihy, The Wiggly Tendrils (Deirdre Loughridge, Psyche Loui, and others), ",
+      "link": "https://calendar.northeastern.edu/event/profs-at-play-347",
+      "time": "TBD",
+      "location": "Fenway Center"
     },
     {
       "date": "2026-10-09",
@@ -1151,6 +1081,26 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-magnus-egerstedt-unc",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "2026 Dr. Martin Luther King, Jr. Commemorative Lecture at Harvard",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Renowned physician scientist, public health leader, and educator Paula A. Johnson is the 2026 Dr. Martin Luther King, Jr. Commemorative Lecturer. Harvard President Emerita Drew Gilpin Faust will moderate a conversation with the honoree. In her lecture, \"Awakening the Dream Deferred,\" Dr. Johnson wil",
+      "link": "https://events.seas.harvard.edu/event/2026-dr-martin-luther-king-jr-commemorative-lecture-at-harvard",
+      "time": "TBD",
+      "location": "Memorial Church, 1 Harvard Yard, Cambridge, MA"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Applying to STEM PhD Programs 101",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "This Zoom-based workshop, led by Dr. Vinothan N. Manoharan, is designed for students interested in applying to PhD Programs in STEM fields. Over a 60-minute live session, we’ll demystify the application process by walking participants through key components such as, transcripts, research-focused CVs",
+      "link": "https://events.seas.harvard.edu/event/applying-to-stem-phd-programs-101-5303",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-10-16",
@@ -1273,6 +1223,16 @@
       "location": "Barletta Nataorium"
     },
     {
+      "date": "2026-10-24",
+      "title": "Men's Soccer vs. Hofstra ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come cheer on the men's soccer team at Parson's Field!",
+      "link": "https://calendar.northeastern.edu/event/mens-soccer-vs-hofstra-6538",
+      "time": "TBD",
+      "location": "Parsons Field"
+    },
+    {
       "date": "2026-10-27",
       "title": "Tough Tech Summit 2026",
       "source": "The Engine",
@@ -1289,9 +1249,19 @@
       "source": "Harvard SEAS",
       "tag": "startup",
       "desc": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
-      "link": "https://events.seas.harvard.edu/event/venturingharvard-8697",
+      "link": "https://events.seas.harvard.edu/event/venturingharvard-5150",
       "time": "TBD",
       "location": "Gordon Hall"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Fill Your Cup at Happy Harvest",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "The SEAS Social Committee and Office for Belonging, Engagement, and Community welcome staff to stop by our Happy Harvest event to connect with colleagues over snacks and fill a SEAS mug with self-care items. We hope to see you there!",
+      "link": "https://events.seas.harvard.edu/event/fill-your-cup-at-happy-harvest",
+      "time": "TBD",
+      "location": "Science and Engineering Complex (SEC)"
     },
     {
       "date": "2026-10-29",
@@ -1520,11 +1490,11 @@
     },
     {
       "date": "TBD",
-      "title": "CSAIL Forum",
+      "title": "[Scale ML] Alok Puranik: Sequence Weighting at Scale",
       "source": "MIT CSAIL",
       "tag": "ai",
-      "desc": "",
-      "link": "https://www.csail.mit.edu/event/csail-forum-1",
+      "desc": "45-792",
+      "link": "https://www.csail.mit.edu/event/scale-ml-alok-puranik-sequence-weighting-scale",
       "time": "TBD"
     },
     {
@@ -1561,6 +1531,15 @@
       "tag": "ai",
       "desc": "Kiva Seminar Room",
       "link": "https://www.csail.mit.edu/event/sir-michael-brady-applications-image-analysis-ai-understanding-cancer-and-metabolic-syndrome",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "CSAIL Forum",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://www.csail.mit.edu/event/csail-forum-2",
       "time": "TBD"
     },
     {
@@ -2312,42 +2291,6 @@
     },
     {
       "date": "TBD",
-      "title": "Show & Tell: Meet the Real Small Business Owners Using AI",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Quantum Café Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "An Evening Where Manufacturing, Robotics, and AI Collide",
-      "source": "Luma",
-      "tag": "robotics",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Maps on Tap at Aeronaut Brewing Company",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Founders & Funders: BOS VC Reverse Pitch",
       "source": "Luma",
       "tag": "startup",
@@ -2475,6 +2418,33 @@
     {
       "date": "TBD",
       "title": "Boston Hard Tech Summit",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tough Tech Demo Day",
+      "source": "Luma",
+      "tag": "startup",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Boston Climatetech Summit 2026",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "MIT Energy & Climate Night",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
