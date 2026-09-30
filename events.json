@@ -1,197 +1,7 @@
 {
-  "scraped_at": "2026-09-29T16:17:07.140341",
-  "event_count": 258,
+  "scraped_at": "2026-09-30T16:12:14.632914",
+  "event_count": 263,
   "events": [
-    {
-      "date": "2026-09-29",
-      "title": "MIT Women's League Open House 2026",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Our annual Open House returns! Whether you're brand new to MIT, just new to the League or one of our oldest friends, come and join us! This is a chance to connect with colleague, make new friends and discover our Fall programming, interest groups and events.",
-      "link": "https://calendar.mit.edu/event/copy-of-mit-womens-league-open-house-1839",
-      "time": "TBD",
-      "location": "Bush Room"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Civil Space Seminar Series: Optical technologies for astrophysics, Earth and planetary science",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Optical Technologies for Astrophysics, Earth and Planetary Science Coherent light enables length measurements of exquisite sensitivity that lie at the core of fascinating technological advances and engineering applications, as well as observations in fundamental physics, astrophysics, geodesy, and m",
-      "link": "https://calendar.mit.edu/event/civil-space-seminar-series-optical-technologies-for-astrophysics",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-29",
-      "title": "How to read the room (and survive the zombie apocalypse)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Can you trust your read of the room? The zombie apocalypse has reached MIT. Bunkers across campus are full but there are rumblings of one last refuge inside the Media Lab. Now comes the harder part: figuring out what's actually going on around you. Who's in charge? Who can you trust? What feels off?",
-      "link": "https://calendar.mit.edu/event/how-to-survive-the-zombie-apocalypse",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "EmTech Future",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Discover what matters, before it becomes obvious Join us September 29 through October 1 at the MIT Media Lab for EmTech Future 2026, MIT Technology Review’s flagship event at the frontiers of technology. Since 1999, EmTech MIT has gathered leaders, researchers, and builders on the MIT campus to unde",
-      "link": "https://calendar.mit.edu/event/emtech-future-2026",
-      "time": "TBD",
-      "location": "Building E14: Media Lab"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Organizational Economics Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "\"Gender Differences in the Response to Incentives: Evidence from Academia\" | Erina Ytsma (CMU)",
-      "link": "https://calendar.mit.edu/event/ytsma_oesem_f26",
-      "time": "TBD",
-      "location": "Building E62"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "PDE/Analysis Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Elena Kim (Harvard University) Title: Polynomial bounds for eigenfunctions and eigenvalues on random covers of hyperbolic surfaces Abstract: Let 𝑋 be a compact connected orientable hyperbolic surface and let 𝑋𝑛 be a degree 𝑛 random cover. We show that, with high probability, the 𝐿∞ norm of ",
-      "link": "https://calendar.mit.edu/event/pdeanalysis-seminar-562",
-      "time": "TBD",
-      "location": "Building 4"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Biology Colloquium",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Peter Koo, Cold Springs Harbor Host: Yunha Hwang Title: \"Learning the Regulatory Code with AI\" The Biology Colloquium is a weekly seminar held throughout the academic year — featuring distinguished speakers in many areas of the biological sciences from universities and institutions worldwid",
-      "link": "https://calendar.mit.edu/event/copy-of-biology-colloquium-7473",
-      "time": "TBD",
-      "location": "Stata, Kirsch auditorium, 32-123"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "iMMEC Seminar with Jack Chen and Medhat Elmorsy",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speakers: Jack Chen and Medhat Elmorsy Affiliations: Jack Chen, PhD Student, MIT Department of Mechanical Engineering Medhat Elmorsy, Postdoctoral Fellow, MIT Department of Civil and Environmental Engineering Hosts: Andrew Akerson, Professor, MIT Department of Mechanical Engineering Mohammad Charara",
-      "link": "https://calendar.mit.edu/event/immec-seminar",
-      "time": "TBD",
-      "location": "Building 3"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Physical Chemistry Seminar | Professor Tim Berkelbach (Columbia University)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Coupled electronic-vibrational dynamics in molecules and materials Professor Tim Berkelbach Columbia University Abstract: The coupling between electrons and atomic vibrations plays an important role across chemistry and materials science. In this talk, I’ll tell two stories of its implications in ph",
-      "link": "https://calendar.mit.edu/event/physical-chemistry-seminar-professor-tim-berkelbach-columbia-university",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Price Rigidity and Investment Irreversibility in Customer Markets: Evidence from Credit Supply Shocks",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "William Chen (MIT Grad Student)",
-      "link": "https://calendar.mit.edu/event/tba-6401",
-      "time": "TBD",
-      "location": "Building E52"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Number Theory Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Håvard Damm-Johnsen (MIT) Title: Lifting ethereal Bianchi modular forms Abstract: Mod $p$ Hecke eigenforms for congruence subgroups of $\\SL_2(\\Z)$ which do not lift to characteristic $0$ have received much attention, and were named \"ethereal modular forms\" by G. Schaeffer. In this talk, we ",
-      "link": "https://calendar.mit.edu/event/number-theory-seminar-6366",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Level up your behavioral interviewing skills",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Info Session Behavioral interview questions are a key part of hiring across industries, let CAPD help you ready for them! In this session, you’ll learn how to prepare strong examples, structure your responses using proven frameworks like STAR, and avoid common pitfalls. Whether you're gearing up for",
-      "link": "https://calendar.mit.edu/event/level-up-your-behavioral-interviewing-skills-4784",
-      "time": "TBD",
-      "location": "Building 8"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Russian Connection - Fall Meet-n-Greet",
-      "source": "MIT",
-      "tag": "networking",
-      "desc": "This social event is aimed at connecting Russian-speaking people of different ethnicities and backgrounds, welcoming anyone who is interested in Russian culture. It will promote cultural exchange and networking, contributing to MIT's diversity and inclusivity efforts.",
-      "link": "https://calendar.mit.edu/event/russian-connection-fall-meet-n-greet-7394",
-      "time": "TBD",
-      "location": "Building W20: Stratton Student Center"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "NANOscientific Symposium Americas 2026",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Northeastern University will serve as the host site for the NANOscientific Symposium Americas (NSS Americas) 2026, a hybrid event bringing together researchers, instrumentation experts, and industry partners to explore the latest developments in nanoscale discovery. The symposium runs September 29 a",
-      "link": "https://calendar.northeastern.edu/event/nanoscientific-symposium-americas-2026",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Looking to illustrate your data? Join the CommLab Data Visualization Drop-In sessions Tuesdays from 10-11am on Teams to discuss strategies or receive feedback on your data visualization process. The post Crafting Data Visuals to Tell a Scientific Story: CommLab Drop-In Hours appeared first on Northe",
-      "link": "https://calendar.northeastern.edu/event/crafting-data-visuals-to-tell-a-scientific-story-commlab-drop-in-hours-4275",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Start Smart: Foundations of Evidence Synthesis",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "“Start Smart: Foundations of Evidence Synthesis” is a hands-on virtual workshop series on conducting evidence syntheses, such as systematic reviews. As part of the workshop series, participants will select an appropriate methodology […] The post Start Smart: Foundations of Evidence Synthesis appeare",
-      "link": "https://calendar.northeastern.edu/event/start-smart-foundations-of-evidence-synthesis-1214",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-29",
-      "title": "The Evolution of SEIS: From Growth to Impact",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join us for The Evolution of SEIS: From Growth to Impact, a special event celebrating our journey from Multidisciplinary Graduate Engineering (MGEN) to Software Engineering & Information Systems (SEIS)! This […] The post The Evolution of SEIS: From Growth to Impact appeared first on Northeastern Uni",
-      "link": "https://calendar.northeastern.edu/event/the-evolution-of-seis-from-growth-to-impact",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Puppies, Pizza and Politics",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Come relax with some of your favorite Political Science Faculty and their pups!",
-      "link": "https://calendar.northeastern.edu/event/puppies-pizza-and-politics",
-      "time": "TBD",
-      "location": "Renaissance_Park"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Galante Engineering Business Certificate | Info Session",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. The post Galante Engineering Business Certificate | Info Session appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/galante-engineering-business-certificate-info-session",
-      "time": "TBD",
-      "location": ""
-    },
     {
       "date": "2026-09-30",
       "title": "September Coffee Social",
@@ -824,6 +634,16 @@
     },
     {
       "date": "2026-10-04",
+      "title": "Cambridge Science Carnival",
+      "source": "MIT",
+      "tag": "robotics",
+      "desc": "A family-friendly science extravaganza, Carnival is a beloved yearly highlight of the Cambridge STEAM calendar and features over 100 activity booths and demonstrations, with live music and installations, including the ever-popular Robot Petting Zoo! Carnival is a STEAM-themed adventure playground fo",
+      "link": "https://calendar.mit.edu/event/cambridge-science-carnival-3540",
+      "time": "TBD",
+      "location": "Kendall MIT Open Space"
+    },
+    {
+      "date": "2026-10-04",
       "title": "Physics For the People @ Cambridge Science Carnival",
       "source": "Northeastern",
       "tag": "talk",
@@ -841,6 +661,116 @@
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-hofstra-6837",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "MIT Quilt Show",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Join us for a mindful moment of color, comfort, and craft at the MIT Quilt Show, happening from 9 AM - 5 PM on October 5, 6, and 7th in Lobby 13. We'll be showing about 40 quilts made by community members across the Institute--staff, faculty, alumni, students, and family--each as individual as the m",
+      "link": "https://calendar.mit.edu/event/mit-quilt-show",
+      "time": "TBD",
+      "location": "Building 13"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "MISTI GO Fair 2026",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Explore MISTI programs in 40+ countries—and find your path abroad! Ready to take your MIT experience global? Meet MISTI country program managers and students at the MIT Global Opportunities (GO) Fair and discover opportunities to intern, study, teach, and learn around the world. Each year, MISTI con",
+      "link": "https://calendar.mit.edu/event/misti-go-fair-2026",
+      "time": "TBD",
+      "location": "Building W16: Kresge Auditorium"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "DECODING:ENCODING | Camila Maleronka",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/decodingencoding-camila-maleronka",
+      "time": "TBD",
+      "location": "Building W41 (MET Warehouse)"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "When Caring Backfires: Experimental Evidence from Family Caregiving in India",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Jenny Newman-Wang (MIT JMC)",
+      "link": "https://calendar.mit.edu/event/when-altruism-backfires-evidence-from-family-caregiving-in-india",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "GIS Level 1: Introduction to GIS",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. In this introductory workshop, you'll learn about properties of geospatial data, how to work with GIS software, and how to visualize data. You will have th",
+      "link": "https://calendar.mit.edu/event/gis-level-1-introduction-to-gis-4154",
+      "time": "TBD",
+      "location": "Building 7"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Xiaoyu He (Georgia Tech) Title: Off-diagonal hypergraph Ramsey numbers Abstract: Let $r(H,n)$ denote the minimum $N$ such that any $3$-uniform hypergraph on $N$ vertices contains either a copy of $H$ or an independent set of size $n$. A tantalizing conjecture in the area states that $r(H,n)",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-3240",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Worker Training and Firm Screening: Evidence from Hospital Technologies",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Dean Li (MIT Grad Student) Joint with PF/Labor Seminar",
+      "link": "https://calendar.mit.edu/event/tba-9449",
+      "time": "TBD",
+      "location": "Building E51"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Probability Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Sky Cao (UPenn) Title: Construction of the 2D Yang-Mills-Higgs measure Abstract: I discuss the construction of the 2D Yang-Mills-Higgs (YMH) measure via stochastic quantization, or i.e. by Markov Chain Monte Carlo. To do so, we show global well-posedness and uniform-in-time bounds for the a",
+      "link": "https://calendar.mit.edu/event/probability-seminar-Sky-Cao-2026",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Optimal Trade Policy with Wage Rigidity",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Kazuatsu Shimizu (MIT Grad Student) joint with Trade Seminar",
+      "link": "https://calendar.mit.edu/event/tba-9843",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "The Keynesian Case for Trade Protection: A Modern Treatment",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Kazuatsu Shimizu, MIT (joint with Macro workshop)",
+      "link": "https://calendar.mit.edu/event/tba-6972",
+      "time": "TBD",
+      "location": "Building E52"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Crafting an effective cover letter",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Are you looking to create a compelling cover letter that captures the attention of potential employers? Join us for this informative session where you'll learn the essential tools and techniques for writing an effective cover letter. This workshop will cover the key elements that make a cover letter",
+      "link": "https://calendar.mit.edu/event/crafting-an-effective-cover-letter-9432",
+      "time": "TBD",
+      "location": "Building 5"
     },
     {
       "date": "2026-10-05",
@@ -904,6 +834,46 @@
     },
     {
       "date": "2026-10-06",
+      "title": "Start Smart: Foundations of Evidence Synthesis",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "“Start Smart: Foundations of Evidence Synthesis” is a hands-on virtual workshop series on conducting evidence syntheses, such as systematic reviews. As part of the workshop series, participants will select an appropriate methodology […] The post Start Smart: Foundations of Evidence Synthesis appeare",
+      "link": "https://calendar.northeastern.edu/event/start-smart-foundations-of-evidence-synthesis-6661",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-06",
+      "title": "PlusOne FAIR",
+      "source": "Northeastern",
+      "tag": "startup",
+      "desc": "Undergraduates: Explore how a “PlusOne” Accelerated Masters and other graduate opportunities connect to help you thrive. Free pizza, snacks, and drinks! Register Now Location: Snell Engineering, First Floor QUESTIONS? Contact […] The post PlusOne FAIR appeared first on Northeastern University Colleg",
+      "link": "https://calendar.northeastern.edu/event/plusone-fair",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Feminist Crafternoon: WGSS Fall Welcome",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come learn about the WGSS program and connect with feminist faculty and students on campus over crafts, snacks, and drinks. Professor Lauren Savit will lead a group activity in ‘zine-making, and we also invite you to bring your own projects (fiber arts, collage, drawing, whatever!) or use WGSS’s cra",
+      "link": "https://calendar.northeastern.edu/event/feminist-crafternoon-wgss-fall-welcome",
+      "time": "TBD",
+      "location": "Holmes"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Galante Engineering Business Certificate | Info Session",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Learn more about the Galante Engineering Business Program, a graduate certificate that complements engineering degrees with business and leadership skills. The post Galante Engineering Business Certificate | Info Session appeared first on Northeastern University College of Engineering.",
+      "link": "https://calendar.northeastern.edu/event/galante-engineering-business-certificate-info-session-9031",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-06",
       "title": "Reckonings Community Network Series: We Are Boston: A Jam Session for Culture & Memory Keepers",
       "source": "Northeastern",
       "tag": "networking",
@@ -964,6 +934,16 @@
     },
     {
       "date": "2026-10-08",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduate-fellowship-writing-club-2930",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-08",
       "title": "Jeffrey Burds Memorial Speaker Series ",
       "source": "Northeastern",
       "tag": "ai",
@@ -974,6 +954,16 @@
     },
     {
       "date": "2026-10-08",
+      "title": "The Returns of Summer 1941: Perpetrators and Pogroms in Western Ukraine",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Guest lecture by Jared McBride Drawing on newly opened KGB archives and research in the region of western Ukraine, this talk examines why the violence of 1941 remains both a compelling and elusive topic, where research on local participation is headed, and what this history reveals about the broader",
+      "link": "https://calendar.northeastern.edu/event/the-returns-of-summer-1941-perpetrators-and-pogroms-in-western-ukraine",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
+      "date": "2026-10-08",
       "title": "Women's Soccer vs. Elon",
       "source": "Northeastern",
       "tag": "talk",
@@ -981,6 +971,16 @@
       "link": "https://calendar.northeastern.edu/event/womens-soccer-vs-elon-7373",
       "time": "TBD",
       "location": "Parsons Field"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "The Missing Discipline of Production AI",
+      "source": "Harvard SEAS",
+      "tag": "ai",
+      "desc": "Production AI systems need four properties that no benchmark reports: debuggability, control, consistency, and generalization. This talk argues that none of the four can be optimized into existence, and that they must be built in at design time. The argument starts by sorting AI deployments along tw",
+      "link": "https://events.seas.harvard.edu/event/the-missing-discipline-of-production-ai",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-10-08",
@@ -1043,6 +1043,16 @@
       "location": "216 Massachusetts Ave"
     },
     {
+      "date": "2026-10-13",
+      "title": "Humanities Center Faculty Works in Progress: “Moving Past Stoicism: On Reasoning and Emotions” by Jacob Stump. ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Join us on October 6th for our first faculty works-in-progress event for the AY 2025-2026. The event will take place from 12-1pm in Renaissance Park 909 and will feature Jacob Stump, Associate Teaching Professor of Philosophy, and winner of the 2020-2021 CSSH Outstanding Teaching Award. Jacob is tra",
+      "link": "https://calendar.northeastern.edu/event/humanities-center-faculty-works-in-progress-moving-past-stoicism-on-reasoning-and-emotions-by-jacob-stump",
+      "time": "TBD",
+      "location": "Renaissance_Park"
+    },
+    {
       "date": "2026-10-14",
       "title": "The Rise of Uzbekistan and Central Asia: The Great Game 2.0",
       "source": "Northeastern",
@@ -1074,10 +1084,10 @@
     },
     {
       "date": "2026-10-15",
-      "title": "Computer Science Colloquium Series - Magnus Egerstedt (UNC)",
+      "title": "​​​​​​​ From Coordination to Collaboration in Multi-Robot Systems: Lessons from Ecology",
       "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Speaker: Magnus Egerstedt, Harry Watson Distinguished Professor and Executive Vice Chancellor and Provost at the University of North Carolina Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at ",
+      "tag": "robotics",
+      "desc": "Title: From Coordination to Collaboration in Multi-Robot Systems: Lessons from Ecology Speaker: Magnus Egerstedt, Harry Watson Distinguished Professor and Executive Vice Chancellor and Provost at the University of North Carolina Abstract: The standard approach to multi-robot systems is to divide the",
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-magnus-egerstedt-unc",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
@@ -1233,6 +1243,16 @@
       "location": "Parsons Field"
     },
     {
+      "date": "2026-10-26",
+      "title": "Biology Colloquia Series: Li Li",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Prof. Li Li, PhD, Cornell University presents: Carotenoid Metabolism: From Pigment Regulation to Plant Development https://cals.cornell.edu/people/li-li https://blogs.cornell.edu/lilab/people/",
+      "link": "https://calendar.northeastern.edu/event/biology-colloquia-series-li-li",
+      "time": "TBD",
+      "location": "134 Mugar"
+    },
+    {
       "date": "2026-10-27",
       "title": "Tough Tech Summit 2026",
       "source": "The Engine",
@@ -1242,6 +1262,16 @@
       "time": "All Day",
       "pick": true,
       "pickNote": "Deep tech founders and investors. Spun out of MIT"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "PhD Applications: Tip & Strategies (STEM)",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "Learn from current PhD students who successfully navigated the application process. We will discuss components of the application (Statement of Purpose, letters of recommendation, etc.) as well as choosing and evaluating programs, communicating with faculty, gaining research experience, and more. Re",
+      "link": "https://events.seas.harvard.edu/event/phd-applications-tip-strategies-stem",
+      "time": "TBD",
+      "location": "MCS (54 Dunster St, Cambridge)"
     },
     {
       "date": "2026-10-28",
@@ -1272,6 +1302,16 @@
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-david-alvarez-melis-harvard-seas",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Kejie Zhao: Mechanics and Dynamics in Particle Networks ",
+      "source": "Harvard SEAS",
+      "tag": "talk",
+      "desc": "A particle network is an assembly of interacting particles whose connectivity governs collective transport, reaction, and mechanical behavior. Battery electrodes are an example of an electrochemical particle network, operating through the collective yet heterogeneous behavior of large populations of",
+      "link": "https://events.seas.harvard.edu/event/kejie-zhao-mechanics-and-dynamics-in-particle-networks",
+      "time": "TBD",
+      "location": "Maxwell Dworkin"
     },
     {
       "date": "2026-10-30",
@@ -1436,24 +1476,6 @@
     },
     {
       "date": "TBD",
-      "title": "HCI Seminar - Brian A. Smith - Computers as Partners in Human Experience",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Abstract:Much of computing's progress has come from learning how to help with new kinds of problems. Computers can now help us draft essays, navigate unfamiliar places, and stay connected with friends and family. But our deeper goals often require more: becoming confident writers, truly knowing a pl",
-      "link": "https://www.csail.mit.edu/event/hci-seminar-brian-smith-computers-partners-human-experience",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Anticoncentration of Gaussian permanents",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "Refreshments at 4:00 PM",
-      "link": "https://www.csail.mit.edu/event/anticoncentration-gaussian-permanents",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Trexquant Tech Talk: Applications of Deep Learning Methods in Quantitative Trading",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1499,6 +1521,15 @@
     },
     {
       "date": "TBD",
+      "title": "AI by the People, for the People",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "45-102",
+      "link": "https://www.csail.mit.edu/event/ai-people-people",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "CSAIL FORUM with Daniel Jackson",
       "source": "MIT CSAIL",
       "tag": "ai",
@@ -1531,6 +1562,24 @@
       "tag": "ai",
       "desc": "Kiva Seminar Room",
       "link": "https://www.csail.mit.edu/event/sir-michael-brady-applications-image-analysis-ai-understanding-cancer-and-metabolic-syndrome",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "[NLP Seminar] Reasoning over Sets: Toward Consistent LLM Systems",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Modern large language models (LLMs) increasingly operate not on single inputs, but&nbsp;over&nbsp;sets&nbsp;of information—collections of generated statements, retrieved documents, or intermediate&nbsp;reasoning&nbsp;steps. However, existing frameworks largely treat these elements independently, ove",
+      "link": "https://www.csail.mit.edu/event/nlp-seminar-reasoning-over-sets-toward-consistent-llm-systems",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Thesis Defense: Discovering and Removing Latent Failure Modes in Neural Networks",
+      "source": "MIT CSAIL",
+      "tag": "ai",
+      "desc": "Abstract: This thesis explores a particular class of neural network failure modes we call latent failure modes. Such failure modes are characterized by being hard to discover for the first time, but easy to reproduce once discovered. Examples of latent failure modes include adversarial examples for ",
+      "link": "https://www.csail.mit.edu/event/thesis-defense-discovering-and-removing-latent-failure-modes-neural-networks",
       "time": "TBD"
     },
     {
@@ -2291,15 +2340,6 @@
     },
     {
       "date": "TBD",
-      "title": "Founders & Funders: BOS VC Reverse Pitch",
-      "source": "Luma",
-      "tag": "startup",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Building What’s Next in AI x Healthcare",
       "source": "Luma",
       "tag": "ai",
@@ -2418,6 +2458,15 @@
     {
       "date": "TBD",
       "title": "Boston Hard Tech Summit",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tough Tech Summit 2026",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
