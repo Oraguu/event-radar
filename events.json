@@ -1,167 +1,7 @@
 {
-  "scraped_at": "2026-10-01T16:49:24.567758",
-  "event_count": 250,
+  "scraped_at": "2026-10-02T16:02:40.999996",
+  "event_count": 249,
   "events": [
-    {
-      "date": "2026-10-01",
-      "title": "Symplectic Geometry Seminar  ",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Lagrangian Floer Theory and Applications Program, CMSA Thursday, October 01, 2026 4:30 PM - 5:30 PM, Tobias Ekholm (Uppsala University) More information can be found at https://cmsa.fas.harvard.edu/event/lft2026/.",
-      "link": "https://calendar.mit.edu/event/symplectic-seminar-9533",
-      "time": "TBD",
-      "location": "Harvard University"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Study at the University of Cambridge",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "• What is it like to study at the University of Cambridge? • What GPA do you need? • How do you apply? • What programmes are on offer? • Are there scholarships available? Join Nathan Lamb from the University of Cambridge for a session on all things Cambridge admissions. This event is open to MIT und",
-      "link": "https://calendar.mit.edu/event/study-at-the-university-of-cambridge-912",
-      "time": "TBD",
-      "location": "Building 7"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Careers in Sustainability / Sustainability Lunch Series",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join the MIT Sloan Sustainability Initiative and Career Development Office as we share career pathing opportunities in sustainability, climate tech, ESG, and impact-related careers. Hear about hiring trends, tips on how to navigate the job search, resources available to MIT Sloan students, as well a",
-      "link": "https://calendar.mit.edu/event/careers-in-sustainability-sustainability-lunch-series-2809",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Fireside Chat with Eigen AI founder, Ryan Wang",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Ryan Wang, cofounder of Eigen AI, is coming to campus for a fireside chat with E14 Fund managing partners, Calvin and Habib. He finished his PhD in the MIT HAN Lab in 2025, working under Professor Song Han on sparse attention and efficient transformers. That same year, he co-founded Eigen AI to make",
-      "link": "https://calendar.mit.edu/event/fireside-chat-with-ryan-wang",
-      "time": "TBD",
-      "location": "Building 56"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Plugging in the Wind and Sun: Grid Integration with Cost Externalities and Uncertainty",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Ashley Langer (University of Arizona)",
-      "link": "https://calendar.mit.edu/event/ashley-langer-university-of-arizona",
-      "time": "TBD",
-      "location": "Harvard Kennedy School Belfer 400 (Land Hall)"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Colloquium on the Brain & Cognition with Christopher Harvey, PhD, Harvard Medical School",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Colloquium on the Brain & Cognition with Christopher Harvey, Professor of Neurobiology, Harvard Medical School Date: Thursday, October 1, 2026Time: 4:00pmLocation: Singleton Auditorium (46-3002, Third Fl of MIT Building 46)Faculty Host: Linlin FanPlease Note: This event is offered in person only. Ta",
-      "link": "https://calendar.mit.edu/event/colloquium-on-the-brain-cognition-with-christopher-harvey-phd-harvard-university",
-      "time": "TBD",
-      "location": "Building 46"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Marzena Rostek (UW-Madison)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "TBD",
-      "link": "https://calendar.mit.edu/event/marzena-rostek-uw-madison",
-      "time": "TBD",
-      "location": "Littauer Center of Public Administration"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Merck-MIT Lectures (Thorsten Bach, Technical University of Munich;  Ji Qi, Merck)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Merck-MIT Lectures",
-      "link": "https://calendar.mit.edu/event/merck-mit-lectures-prof-dr-thorsten-bachtechnische-universitaet-muenchen-and-merck-tbd",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Quantifying the Internal Validity of Weighted Estimands",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Tymon Słoczyński (Brandeis University)",
-      "link": "https://calendar.mit.edu/event/copy-of-tba-8541",
-      "time": "TBD",
-      "location": "Building E51"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Applied Math Colloquium",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Grigorios Pavliotis (Imperial College) Title: Statistical inverse problems for interacting particle systems and their mean field limit Abstract: We consider the problem of learning interaction kernels from data for stochastic interacting particle systems and their mean-field limit, describe",
-      "link": "https://calendar.mit.edu/event/applied-math-colloquium-1939",
-      "time": "TBD",
-      "location": "Building 2"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Prehealth Pair & Share #2: Interviewing Prep w/ Alumni",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Join MIT Prehealth Advising for an evening of mock interviews with MIT alumni who range from medical students to practicing physicians. This virtual event is designed to help you strengthen your interview skills, gain feedback on your responses, and hear real-world insights from those who’ve navigat",
-      "link": "https://calendar.mit.edu/event/prehealth-pair-share-2-interviewing-prep-w-alumni",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-01",
-      "title": "The Weavers",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The Weavers After the play by Gerhardt Hauptmann Directed by Jay Scheib Previews Sept 30. & Oct 1. Premiering as part of MIT Museum’s FutureFest Oct 2. & Oct 3. (all shows 7pm with Saturday 2.30p matinee) \"The Weavers,\" is a new extended reality (XR) action-film-inspired performance based on Gerhart",
-      "link": "https://calendar.mit.edu/event/copy-of-the-weavers",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Graduate Fellowship Writing Club",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
-      "link": "https://calendar.northeastern.edu/event/graduate-fellowship-writing-club-8504",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Pedagogy-in-Progress: CSSH Faculty Exchanges on GenAI",
-      "source": "Northeastern",
-      "tag": "ai",
-      "desc": "Join colleagues from across the College of Social Sciences and Humanities for our Pedagogy-in-Progress series focused on Generative AI and its implications for teaching, learning, and assessment.",
-      "link": "https://calendar.northeastern.edu/event/pedagogy-in-progress-cssh-faculty-exchanges-on-genai",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Lab-2-Market Office Hours",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Have ideas for use-inspired applications of your research? Wondering what is the first step or how to test your ideas? No translation or venturing experience or knowledge required. Just bring your curiosity and questions for a no-risk discussion with the Grid's Executive Director Paul Hayre, plus re",
-      "link": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-9606",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "The Pulse of Robust Machine Learning in Health",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "Title: The Pulse of Robust Machine Learning in Health Speaker: Marzyeh Ghassemi, Associate Professor at MIT in Electrical Engineering and Computer Science (EECS) and Institute for Medical Engineering & Science (IMES) Abstract: Machine learning in health has made impressive progress in recent years, ",
-      "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-marzyeh-ghassemi-mit",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
     {
       "date": "2026-10-02",
       "title": "Purpose of Life | Timeless Spiritual Wisdom in the Age of AI",
@@ -504,6 +344,16 @@
     },
     {
       "date": "2026-10-05",
+      "title": "Geometry & Topology Seminar ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Jiajun Yan (Rice University) Title: Toward a dynamical interpretation of the McKay correspondence via gauge theory Abstract: In this talk, we will present an exposition of the McKay correspondence, in particular, its various proofs and interpretations using different tools. We will then pro",
+      "link": "https://calendar.mit.edu/event/copy-of-geometry-topology-seminar-6724",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-10-05",
       "title": "Worker Training and Firm Screening: Evidence from Hospital Technologies",
       "source": "MIT",
       "tag": "talk",
@@ -744,6 +594,16 @@
     },
     {
       "date": "2026-10-06",
+      "title": "Misinformation Speaker Series: Using AI to Tailor the News",
+      "source": "Northeastern",
+      "tag": "ai",
+      "desc": "Newsrooms have been exploring ways to incorporate AI, many have experimented with how to integrate it into the reporting process. But what about audience-facing uses? Could AI be used to tailor the news for specific audiences, or to edit reporting to increase its resonance with diverse audiences? Pr",
+      "link": "https://calendar.northeastern.edu/event/misinformation-speaker-series-altering-perceptions-of-misinformation-prevalence",
+      "time": "TBD",
+      "location": "216 Massachusetts Ave"
+    },
+    {
+      "date": "2026-10-06",
       "title": "Start Smart: Foundations of Evidence Synthesis",
       "source": "Northeastern",
       "tag": "talk",
@@ -810,6 +670,146 @@
       "desc": "43rd Motek | 6 to 8 October 2026 | Messe Stuttgart Intelligent solutions diversity in the fields of production and assembly automation, feed technology and material flow, rationalisation through handling technology and industrial handling.",
       "link": "https://www.massrobotics.org/event/motek/",
       "time": "TBD"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Faculty Job Search Series: Interviewing",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "This workshop prepares graduate students and postdocs for the academic interview process. Participants will learn the differences between screening interviews and on-campus interviews (or \"flyouts\"), including what to expect from committee meetings, one-on-one sessions, and even tricky conversations",
+      "link": "https://calendar.mit.edu/event/faculty-job-search-series-interviewing",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Mimicking Nature: Controlling Charge, Heat, and Spin at Interfaces (Joint with MIT.nano)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Abstract: Many interactions and processes in nature operate at low energy and with critical energy balance, enabling repeated cycling and highly efficient transport. Inspired by these processes, we try to understand them, and to replicate them in synthetic systems. The energies involved are well bel",
+      "link": "https://calendar.mit.edu/event/mimicking-nature-controlling-charge-heat-and-spin-at-interfaces-joint-with-mitnano",
+      "time": "TBD",
+      "location": "Building 34"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Technology Priorities for National Security",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Eric Evans will give a presentation at the MIT Security Studies Program's Wednesday Seminar. Summary: The seminar will cover national security technology priorities for improving defense and deterrence capabilities. The priorities will be covered in the context of past capability advances, and speci",
+      "link": "https://calendar.mit.edu/event/technology-priorities-for-national-security",
+      "time": "TBD",
+      "location": "Building E40"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Midday Music with Joseph Ntaimo",
+      "source": "MIT",
+      "tag": "robotics",
+      "desc": "Free and open to all. Enjoy music by Joseph Ntaimo, an MIT graduate student studying mechanical engineering with a focus in musical robotics. Alongside an upbeat DJ set, Ntaimo will play a ferro-instrument (a hyperinstrument that makes ferrofluid respond to music by altering the magnetic field) and ",
+      "link": "https://calendar.mit.edu/event/midday-music-with-joseph-ntaimo",
+      "time": "TBD",
+      "location": "Kendall/MIT Open Space"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Henri SELMER Paris Showcase and Demo",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Come try some amazing Selmer saxophones and clarinets, and learn more about this legendary brand. Hosted by Associate Professor (and Selmer Artist) Miguel Zenón and Selmer Brand Ambassador Guillaume Pauwels",
+      "link": "https://calendar.mit.edu/event/henri-selmer-paris-showcase-and-demo",
+      "time": "TBD",
+      "location": "Building W18"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Seminar with Professor Zetian Mi of the University of Michigan ",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Ferroelectricity has historically been associated primarily with complex oxides, while III-nitride semiconductors are best known for their exceptional chemical stability, large bandgaps, and strong spontaneous and piezoelectric polarization. Recent discoveries have revealed an unexpected connection ",
+      "link": "https://calendar.mit.edu/event/seminar-with-professor-zetian-mi-of-the-university-of-michigan",
+      "time": "TBD",
+      "location": "Building 13"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "“Ion transport in  solid state battery electrolytes”, Dr. Kyra Yap, UC Berkeley",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "PPSM SEMINAR",
+      "link": "https://calendar.mit.edu/event/ion-transport-in-solid-state-battery-electrolytes-dr-kyra-yap-uc-berkeley",
+      "time": "TBD",
+      "location": "Building 56"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Angola Global Classroom Info Session",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Interested in taking an MIT course in Angola this IAP? Apply for the Systems Thinking in Innovation Global Classroom with Prof. Danielle Wood! Learn more here. MIT students of all majors and all levels are welcome to apply - and feel free to share around campus. To hear from Prof. Wood and learn mor",
+      "link": "https://calendar.mit.edu/event/angola-global-classroom-info-session",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Lie Groups Seminar",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Shenghao Li (University of Maryland) Title: Base change fundamental lemma for Bernstein centers of principal series block Abstract: Let G be an unramified group over a p-adic field F, and F_r/F an unramified extension of degree r. Let H(G) (resp. H(G(F_r)) denote the Hecke algebra of G(F) (",
+      "link": "https://calendar.mit.edu/event/lie-groups-seminar-6300",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "MIT-Harvard Seminar: Professor Gary F. Moore (Arizona State University)",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://calendar.mit.edu/event/mit-harvard-seminar-professor-gary-f-moore-arizona-state-university",
+      "time": "TBD",
+      "location": "Harvard - Geo Museum 102"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "SCSB Colloquium Series with Dr. Tom Nowakowski: Building a Brain, One Cell at a Time: Reading the Developmental Instructions Behind Human Neural Diversity",
+      "source": "MIT",
+      "tag": "ai",
+      "desc": "Date: Wednesday, October 7, 2026 Location: 46-3002 (Singleton Auditorium). Please note this talk will not be recorded Time: 4:00pm-5:00pm ET, followed by reception Speaker: Tom Nowakowski, Ph.D. Affiliation: Associate Professor, UCSF Host: Dr. Linlin Fan Talk title: Building a Brain, One Cell at a T",
+      "link": "https://calendar.mit.edu/event/scsb-colloquium-series-with-dr-tom-nowakowski-building-a-brain-one-cell-at-a-time-reading-the-developmental-instructions-behind-human-neural-diversity",
+      "time": "TBD",
+      "location": "Building 46"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Richard P. Stanley Seminar in Combinatorics",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Speaker: Ada Stelzer (University of Michigan) Title: Gröbner crystal structures and equivariant Hilbert series Abstract: When a reductive group $G$ acts on an embedded variety $\\mathfrak{X}$, the coordinate ring $\\mathbb{C}[\\mathfrak{X}]$ is a $G$-representation. The data of this representation may ",
+      "link": "https://calendar.mit.edu/event/richard-p-stanley-seminar-in-combinatorics-6517",
+      "time": "TBD",
+      "location": "Building 2"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Jumping Boats: InterAsian Wealth-Making and Social Protection after Globalization",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Engseng Ho argues that the post-Cold War era of globalization — built on American-guaranteed security and self-regulating free markets — is ending, as the second Trump administration shifts from global protector to predator (Venezuela, Cuba, Iran, Greenland), collapsing the separation of politics fr",
+      "link": "https://calendar.mit.edu/event/jumping-boats-interasian-wealth-making-and-social-protection-after-globalization",
+      "time": "TBD",
+      "location": "Building E40"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "The Application Process to Medical & Health Professions School | Info session for Fall 2028 matriculants",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Are you planning to apply to medical or health professions schools in June 2027 for Fall 2028 admission? Then join MIT's Prehealth Advising for an information session designed to help you navigate the application process and acquire a committee letter. In this session, you'll gain valuable insights ",
+      "link": "https://calendar.mit.edu/event/the-application-process-to-medical-health-professions-school-info-session-for-fall-2028-matriculants",
+      "time": "TBD",
+      "location": ""
     },
     {
       "date": "2026-10-07",
@@ -1041,6 +1041,16 @@
     },
     {
       "date": "2026-10-14",
+      "title": "ChE PhD Dissertation Defense: Nora Khalil",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Name: Nora Khalil Title: Advancing Automated Mechanism Generation for Fluorinated Systems: Improved Fluorocarbon Combustion Prediction and Novel Capabilities for PFAS Degradation Chemistry in RMG Date: 10/14/2026 Time: 10:00:00 AM Committee […] The post ChE PhD Dissertation Defense: Nora Khalil appe",
+      "link": "https://calendar.northeastern.edu/event/che-phd-dissertation-defense-nora-khalil",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-14",
       "title": "The Rise of Uzbekistan and Central Asia: The Great Game 2.0",
       "source": "Northeastern",
       "tag": "talk",
@@ -1205,6 +1215,16 @@
       "link": "https://calendar.northeastern.edu/event/advancing-resilience-multi-disciplinary-perspectives-on-constant-disruption",
       "time": "TBD",
       "location": "Curry Student Center"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Animals + Technology: Designing for Animal Agency, Wellbeing, and Care",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Technology is increasingly becoming part of how we care for, understand, and interact with animals, from sensing and monitoring systems to interactive enrichment designed for animals themselves. This conversation will bring together researchers, designers, and animal-care professionals to discuss pa",
+      "link": "https://calendar.northeastern.edu/event/animals-technology-designing-for-animal-agency-wellbeing-and-care",
+      "time": "TBD",
+      "location": "Center for Design"
     },
     {
       "date": "2026-10-22",
@@ -1534,24 +1554,6 @@
       "link": "https://events.seas.harvard.edu/event/towards-personalizing-assistive-technology-in-the-real-world",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "TBD",
-      "title": "[Scale ML] Alok Puranik: Sequence Weighting at Scale",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "45-792",
-      "link": "https://www.csail.mit.edu/event/scale-ml-alok-puranik-sequence-weighting-scale",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "AI by the People, for the People",
-      "source": "MIT CSAIL",
-      "tag": "ai",
-      "desc": "45-102",
-      "link": "https://www.csail.mit.edu/event/ai-people-people",
-      "time": "TBD"
     },
     {
       "date": "TBD",
@@ -2239,42 +2241,6 @@
     },
     {
       "date": "TBD",
-      "title": "The Data, Tech, and Opportunities Driving a New Era of Women's Health",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "65th Boston Hardware Meetup @ Formlabs",
-      "source": "Luma",
-      "tag": "manufacturing",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Mass AI Coalition: College Night at WHOOP HQ",
-      "source": "Luma",
-      "tag": "ai",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "INTO THE BLUE Reading Party with Emma Brodie",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Builders & Brews Boston",
       "source": "Luma",
       "tag": "talk",
@@ -2311,6 +2277,15 @@
     },
     {
       "date": "TBD",
+      "title": "Matchmaking Party! (Ages 25-35)",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "Mediterranean House Night",
       "source": "Luma",
       "tag": "talk",
@@ -2330,6 +2305,15 @@
     {
       "date": "TBD",
       "title": "ALO BOSTON SEAPORT: ALO RUNNERS CLUB",
+      "source": "Luma",
+      "tag": "talk",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Mommy Mid Day Reset",
       "source": "Luma",
       "tag": "talk",
       "desc": "",
@@ -2374,6 +2358,15 @@
     },
     {
       "date": "TBD",
+      "title": "IIA Physical AI Summit @ MIT",
+      "source": "Luma",
+      "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
       "title": "MIT Energy & Climate Night",
       "source": "Luma",
       "tag": "talk",
@@ -2383,7 +2376,7 @@
     },
     {
       "date": "TBD",
-      "title": "66th Boston Hardware Meetup | Tough Tech Week",
+      "title": "66th Boston Hardware Meetup @ LeafLabs | Tough Tech Week",
       "source": "Luma",
       "tag": "manufacturing",
       "desc": "",
