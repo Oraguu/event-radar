@@ -1,127 +1,7 @@
 {
-  "scraped_at": "2026-10-02T16:02:40.999996",
-  "event_count": 249,
+  "scraped_at": "2026-10-03T14:29:39.587406",
+  "event_count": 244,
   "events": [
-    {
-      "date": "2026-10-02",
-      "title": "Purpose of Life | Timeless Spiritual Wisdom in the Age of AI",
-      "source": "MIT",
-      "tag": "ai",
-      "desc": "Hi, MIT Vedic Vision Club warmly invites you to a thought-provoking seminar, “ Purpose of Life ” an evening exploring timeless spiritual wisdom for a meaningful future in the age of AI. Join us for an engaging discussion with our esteemed guest, HG Radheshyam Das, a well-known spiritual teacher who ",
-      "link": "https://calendar.mit.edu/event/purpose-of-life-timeless-spiritual-wisdom-in-the-age-of-ai",
-      "time": "TBD",
-      "location": "Building 56"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Teaching at teaching-intensive institutions (1-day conference)",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Many faculty enjoy rewarding careers at colleges and universities that primarily emphasize teaching, including liberal arts colleges, community colleges, and regional comprehensive universities. This free one-day regional conference being held in-person at Worcester State University brings together ",
-      "link": "https://calendar.mit.edu/event/teaching-at-teaching-intensive-institutions-1-day-conference",
-      "time": "TBD",
-      "location": "Worcester State University"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Statistics and Data Science Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Arthur Gretton (University College London)",
-      "link": "https://calendar.mit.edu/event/statistics-and-data-science-seminar12",
-      "time": "TBD",
-      "location": "Building E18"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Computational Research in Boston and Beyond Seminar",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Speaker: Richard Huang (MIT) Zoom link: https://mit.zoom.us/j/91933017072 Title: Modeling the Mechanics of DNA Nanostructures in Flow Abstract: Modern DNA synthesis techniques enable the precise design of heterogeneous DNA nanostructures, with proposed applications in drug delivery, vaccine developm",
-      "link": "https://calendar.mit.edu/event/computational-research-in-boston-and-beyond-seminar-8253",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Quick & dirty data management: the 5 things you should absolutely be doing with your data now",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Do you have data? (Who doesn't?!?) Learn about the five basic things you can do now to manage your data for future happiness. These tools and techniques support practical data management and you can start using them immediately. Work with your personal data or research data, but start working now to",
-      "link": "https://calendar.mit.edu/event/quick-dirty-data-management-the-5-things-you-should-absolutely-be-doing-with-your-data-now-2051",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Artist Performance: INVISIBLETOWHOM Arc 2",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Pap Souleye Fall’s performance INVISIBLETOWHOM Arc 2 (2026) emerges from the world of DEAD PIXEL (2020–ongoing), a narrative the artist articulates through installation, performance, drawing, sculpture, video, and comics. Fall will perform as their story’s protagonist DEAD PIXEL, here to destabilize",
-      "link": "https://calendar.mit.edu/event/artist-performance-invisibletowhom-arc-2",
-      "time": "TBD",
-      "location": "ACT Cube inside the Lower Level of the List Center. 20 Ames Street, Cambridge, MA 02139"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "The Weavers",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "The Weavers After the play by Gerhardt Hauptmann Directed by Jay Scheib Previews Sept 30. & Oct 1. Premiering as part of MIT Museum’s FutureFest Oct 2. & Oct 3. (all shows 7pm with Saturday 2.30p matinee) \"The Weavers,\" is a new extended reality (XR) action-film-inspired performance based on Gerhart",
-      "link": "https://calendar.mit.edu/event/copy-of-the-weavers-7866",
-      "time": "TBD",
-      "location": "Building W97"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "COMSOL Multiphysics®, Surrogate Models, and Digital Twins Workshop",
-      "source": "Northeastern",
-      "tag": "talk",
-      "desc": "Join Northeastern's COMSOL Multiphysics® workshop on October 2 to explore surrogate models, digital twins, and hands-on multiphysics simulation workflows. The post COMSOL Multiphysics®, Surrogate Models, and Digital Twins Workshop appeared first on Northeastern University College of Engineering.",
-      "link": "https://calendar.northeastern.edu/event/comsol-multiphysics-surrogate-models-and-digital-twins-workshop",
-      "time": "TBD",
-      "location": ""
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Structure and Data - Mechanism Understanding and  Knowledge Discovery in Complex Energy Systems",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Power systems are among the most complex engineered systems ever built. As increasing volumes of measurements become available, data-driven approaches have demonstrated remarkable capabilities in prediction and pattern recognition. Yet for many open problems in power and energy systems, prediction a",
-      "link": "https://events.seas.harvard.edu/event/structure-and-data-mechanism-understanding-and-knowledge-discovery-in-complex-energy-systems",
-      "time": "TBD",
-      "location": "Science and Engineering Complex (SEC)"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Itai Cohen: Electronically Integrated Autonomous Microscopic Robots",
-      "source": "Harvard SEAS",
-      "tag": "robotics",
-      "desc": "What would we be able to do if we could build electronically integrated machines the at a scale of 100 microns? At this scale, semiconductor devices are small enough that we could put the computational power of the spaceship Voyager onto a machine that could be injected into the body. Such robots co",
-      "link": "https://events.seas.harvard.edu/event/itai-cohen-electronically-integrated-autonomous-microscopic-robots",
-      "time": "TBD",
-      "location": "Maxwell Dworkin"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "The Brown-Black Continuum of Light-Absorbing Carbonaceous Aerosols",
-      "source": "Harvard SEAS",
-      "tag": "talk",
-      "desc": "Rajan Chakrabarty - Washington University Light-absorbing carbonaceous aerosols (LACs)—encompassing both black and brown carbon—significantly influence atmospheric thermodynamics, surface temperatures, and cloud microphysics. The absence of consensus on the properties of LACs across their lifecycle,",
-      "link": "https://events.seas.harvard.edu/event/the-brown-black-continuum-of-light-absorbing-carbonaceous-aerosols",
-      "time": "TBD",
-      "location": "Pierce Hall"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Harvard Technology, Science & Data Fair",
-      "source": "Harvard SEAS",
-      "tag": "ai",
-      "desc": "The Harvard Technology, Science, & Data Fair will bring undergraduates, master’s, PhD students, postdocs, and recent alumni together with employers to discuss opportunities in software engineering, data science, machine learning, artificial intelligence, UX/UI design, physical and life sciences, and",
-      "link": "https://events.seas.harvard.edu/event/harvard-technology-science-data-fair",
-      "time": "TBD",
-      "location": "Harvard Student Organization Center at Hilles (SOCH)"
-    },
     {
       "date": "2026-10-03",
       "title": "Women's Lightweight Crew vs. Quinsigamond Snake Regatta",
@@ -221,16 +101,6 @@
       "link": "https://calendar.mit.edu/event/copy-of-the-weavers-6554",
       "time": "TBD",
       "location": "Building W97"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Women's Soccer vs. United States Coast Guard Academy",
-      "source": "MIT",
-      "tag": "talk",
-      "desc": "Time: 4:30 PM Location: Cambridge, MA",
-      "link": "https://calendar.mit.edu/event/womens-soccer-vs-gordon-college-3384",
-      "time": "TBD",
-      "location": ""
     },
     {
       "date": "2026-10-03",
@@ -434,6 +304,16 @@
     },
     {
       "date": "2026-10-06",
+      "title": "CSAIL FORUM with Daniel Jackson",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Title: The Key to Agentic Software Development Abstract: AI-driven coding agents have opened a new world for building software. But applied in standard ways they are likely to just create a mountain of technical and cognitive debt. How do you take control and produce reliable and maintainable softwa",
+      "link": "https://calendar.mit.edu/event/csail-forum-with-daniel-jackson",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-06",
       "title": "Navigating Networking for Your Career (14-304)",
       "source": "MIT",
       "tag": "networking",
@@ -547,7 +427,7 @@
       "title": "Physical Chemistry Seminar | Professor Tim Lian (University of Pennsylvania)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "",
+      "desc": "Electrode-Induction Effects and Plasmon-Driven mode-selective Adsorbate Excitation Professor Tianquan (Tim) Lian Department of Chemistry, University of Pennsylvania Abstract: Attaching molecular catalysts on (photo-) electrodes offers a promising approach for modular and rational design of hybrid ca",
       "link": "https://calendar.mit.edu/event/physical-chemistry-seminar-professor-tim-lian-university-of-pennsylvania",
       "time": "TBD",
       "location": ""
@@ -766,7 +646,7 @@
       "title": "MIT-Harvard Seminar: Professor Gary F. Moore (Arizona State University)",
       "source": "MIT",
       "tag": "talk",
-      "desc": "",
+      "desc": "MOLECULAR-BASED DESIGNS AND ARCHITECTURES FOR (PHOTO)ELECTROCHEMICAL ENERGY TRANSDUCTION Professor Gary Moore Arizona State University Abstract: The G. F. Moore research group investigates the molecular sciences required to build fundamentally interesting—and use-inspired—chemical constructs. This s",
       "link": "https://calendar.mit.edu/event/mit-harvard-seminar-professor-gary-f-moore-arizona-state-university",
       "time": "TBD",
       "location": "Harvard - Geo Museum 102"
@@ -860,6 +740,56 @@
       "link": "https://events.seas.harvard.edu/event/digital-accessibility-luncheon",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Brazil's Future on the Ballot: Results, Stakes, and What Comes Next",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Brazil's Future on the Ballot: Results, Stakes, and What Comes Next This panel discussion examines the 2026 Brazilian presidential election from multiple critical perspectives—political, economic, policy-focused, and forward-looking—to understand the results and their implications for Brazil's traje",
+      "link": "https://calendar.mit.edu/event/brazils-future-on-the-ballot-results-stakes-and-what-comes-next",
+      "time": "TBD",
+      "location": "Building E40"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "MLK Scholar Presentation \"Capturing the Invisible, Building the Future: Optical Nanotweezers for Nanoplastics, Nanomedicine, and Quantum \" by Visiting Professor Justus C. Ndukaife",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Some of today's most important challenges in health and technology play out at a scale we can barely see. Prof. Justus Ndukaife will show how his lab's optical nanotweezers capture and characterize this invisible world in a label-free manner—from nanoplastics (ARPA-H STOMP program) to drug-delivery ",
+      "link": "https://calendar.mit.edu/event/mlk-scholar-presentation-capturing-the-invisible-building-the-future-optical-nanotweezers-for-nanoplastics-nanomedicine-and-quantum-by-visiting-professor-justus-c-ndukaife",
+      "time": "TBD",
+      "location": "Building 10"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Presentation on Tel-Hai, University of Kiryat Shmona in the Galilee (THU) and newly launched MIT-Israel THU Seed Fund",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "MIT-Israel invites the MIT research community to join the MIT-Kalaniyot lunch for a presentation on: Tel-Hai, University of Kiryat Shmona in the Galilee (THU) and newly launched MIT-Israel THU Seed Fund Open to MIT faculty in all fields with a priority to water and food related projects Thursday, Oc",
+      "link": "https://calendar.mit.edu/event/presentation-on-tel-hai-university-of-kiryat-shmona-in-the-galilee-thu-and-newly-launched-mit-israel-thu-seed-fund",
+      "time": "TBD",
+      "location": "Building 26"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Drop by CAPD: Office hours for first-years & sophomores",
+      "source": "MIT",
+      "tag": "networking",
+      "desc": "Join us for CAPD office hours, designed just for first years and sophomores! Drop by to ask your career questions. Whether you're navigating the fall recruiting season, preparing for upcoming career fairs, exploring career paths, thinking through IAP plans and spring/summer opportunities, or just wa",
+      "link": "https://calendar.mit.edu/event/drop-by-capd-office-hours-for-first-years-sophomores-5103",
+      "time": "TBD",
+      "location": "Building 7"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Pay a Man to Fish: Subsidies, Trade, and Cooperation in the Global Commons",
+      "source": "MIT",
+      "tag": "talk",
+      "desc": "Aaron Berman, MIT (joint with environmental workshop)",
+      "link": "https://calendar.mit.edu/event/tba-6486",
+      "time": "TBD",
+      "location": "Building E51"
     },
     {
       "date": "2026-10-08",
@@ -1109,6 +1039,16 @@
     },
     {
       "date": "2026-10-15",
+      "title": "Graduate Fellowship Writing Club",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "The CommLab invites COE graduate students to join the Graduate Fellowship Writing Club. Learn strategies for finding and applying for fellowships, and to draft fellowship materials in a supportive setting […] The post Graduate Fellowship Writing Club appeared first on Northeastern University College",
+      "link": "https://calendar.northeastern.edu/event/graduate-fellowship-writing-club-649",
+      "time": "TBD",
+      "location": ""
+    },
+    {
+      "date": "2026-10-15",
       "title": "​​​​​​​ From Coordination to Collaboration in Multi-Robot Systems: Lessons from Ecology",
       "source": "Harvard SEAS",
       "tag": "robotics",
@@ -1326,6 +1266,16 @@
     },
     {
       "date": "2026-10-27",
+      "title": "Digital Practice Workshop Series: KnightLab Tools ",
+      "source": "Northeastern",
+      "tag": "talk",
+      "desc": "Come and learn about the potentials of open publishing using Knight Lab tools! This workshop, led by CDS Coordinator Colleen Nugent McLean and Digital Projects Archivist Shireen Zaineb, will cover the benefits of open source digital scholarship tools, and provide detailed instructions on using Timel",
+      "link": "https://calendar.northeastern.edu/event/digital-practice-workshop-series-knightlab-tools",
+      "time": "TBD",
+      "location": "Snell Library, Centers for Digital Scholarship "
+    },
+    {
+      "date": "2026-10-27",
       "title": "Massachusetts Manufacturing Mash-Up",
       "source": "MassRobotics",
       "tag": "manufacturing",
@@ -1467,10 +1417,10 @@
     },
     {
       "date": "2026-11-12",
-      "title": "Computer Science Colloquium Series - Michael Hicks (UPenn)",
+      "title": "Cedar: A Language for Expressive, Fast, Safe, and Analyzable Authorization",
       "source": "Harvard SEAS",
       "tag": "talk",
-      "desc": "Speaker: Michael Hicks, the Cecilia Fitler Moore Professor and Associate Chair in the Department of Computer and Information Science at the University of Pennsylvania and Director of the Schlein Center for Cybersecurity Talk info TBA The Computer Science Colloquium Series will be held weekly on Thur",
+      "desc": "Title: Cedar: A Language for Expressive, Fast, Safe, and Analyzable Authorization Speaker: Michael Hicks, the Cecilia Fitler Moore Professor and Associate Chair in the Department of Computer and Information Science at the University of Pennsylvania and Director of the Schlein Center for Cybersecurit",
       "link": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-michael-hicks-upenn",
       "time": "TBD",
       "location": "Science and Engineering Complex (SEC)"
@@ -1580,6 +1530,15 @@
       "tag": "ai",
       "desc": "Refreshments at 4:00 PM",
       "link": "https://www.csail.mit.edu/event/hard-pure-math-problems-and-hard-algorithmic-problems",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "ML Tea: Reinforcement Learning Pretraining for Dexterous Robots / Incentives Shape How Humans Co-Create with Generative AI",
+      "source": "MIT CSAIL",
+      "tag": "robotics",
+      "desc": "Kiva Room",
+      "link": "https://www.csail.mit.edu/event/ml-tea-reinforcement-learning-pretraining-dexterous-robots-incentives-shape-how-humans-co",
       "time": "TBD"
     },
     {
@@ -2241,24 +2200,6 @@
     },
     {
       "date": "TBD",
-      "title": "Builders & Brews Boston",
-      "source": "Luma",
-      "tag": "talk",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
-      "title": "Cross University Student Innovators Mixer (CUSI)",
-      "source": "Luma",
-      "tag": "networking",
-      "desc": "",
-      "link": "https://lu.ma/boston",
-      "time": "TBD"
-    },
-    {
-      "date": "TBD",
       "title": "Maum Market Boston",
       "source": "Luma",
       "tag": "talk",
@@ -2361,6 +2302,15 @@
       "title": "IIA Physical AI Summit @ MIT",
       "source": "Luma",
       "tag": "ai",
+      "desc": "",
+      "link": "https://lu.ma/boston",
+      "time": "TBD"
+    },
+    {
+      "date": "TBD",
+      "title": "Tough Tech Dual-Use Day 2026: One Year of SHIELD",
+      "source": "Luma",
+      "tag": "talk",
       "desc": "",
       "link": "https://lu.ma/boston",
       "time": "TBD"
